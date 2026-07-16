@@ -1,5 +1,9 @@
 # Inventory tool
 
+{% hint style="warning" %}
+## The Inventory tool has been retired and is only available for legacy users. Please contact your support contact for further information.
+{% endhint %}
+
 ## Introduction
 
 The 'inventory' gives enterprises increased control and flexibility with their product management, if they require it. The feature will mainly be of interest to Hubs and Hub managers.
