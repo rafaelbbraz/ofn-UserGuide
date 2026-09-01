@@ -1,9 +1,5 @@
 # Subscriptions
 
-{% hint style="info" %}
-Subscriptions is in 'beta' mode, meaning it's a new feature that may still have some glitches. Please [contact us](https://www.openfoodnetwork.org/find-your-local-open-food-network/) with any feedback about what works, what needs improving or how it could be better explained.
-{% endhint %}
-
 ## What are subscriptions? <a href="#what-are-subscriptions" id="what-are-subscriptions"></a>
 
 Subscriptions are recurring or standing orders that can be set up for the customers of any Enterprise with a shopfront. Once set up, these orders will be automatically processed at defined intervals (eg. weekly, fortnightly, monthly).
