@@ -1,46 +1,44 @@
-# White Label shopfront
+# Vitrine White Label
 
-The White Label function allows users to customise their shopfront branding to replace the Open Food Network defaults. These changes will apply across shopfront and checkout screens.
+A função White Label permite aos usuários customizar a marca da vitrine, substituindo os padrões da Nossa Feira. Essas alterações se aplicam nas telas de vitrine e checkout.
 
-Access White Label functions through the Enterprise Settings menu in your Dashboard
+Acesse as funções White Label pelo menu Configurações da Empresa no seu Dashboard.
 
 <figure><img src="../../.gitbook/assets/white label 1.jpg" alt=""><figcaption></figcaption></figure>
 
-## **Hide Open Food Network navigation menu**
+## Ocultar menu de navegação da Nossa Feira
 
-Check the ‘Hide OFN navigation’ box to remove the header links to other parts of the Open Food Network site on your shopfront.
+Marque a caixa 'Ocultar navegação OFN' pra remover os links de cabeçalho para outras partes do site da Nossa Feira na sua vitrine.
 
-**OFN Navigation visible:**<br>
+**Navegação OFN visível:**<br>
 
 <figure><img src="../../.gitbook/assets/normal shop front.jpg" alt=""><figcaption></figcaption></figure>
 
-**OFN Navigation hidden:**
+**Navegação OFN oculta:**
 
 <figure><img src="../../.gitbook/assets/navigation hidden.jpg" alt=""><figcaption></figcaption></figure>
 
-## Customise logo in site header
+## Customizar logo no cabeçalho do site
 
-To replace the Open Food Network header logo with your own logo:
+Pra substituir o logo padrão da Nossa Feira pelo seu:
 
-* Enterprise settings -> White label
-* Check 'Hide OFN Navigation'
-* Choose a file to upload and click 'update' at the bottom of the screen.
+* Configurações da Empresa -> White label
+* Marque 'Ocultar navegação OFN'
+* Escolha um arquivo pra fazer upload e clique em 'atualizar' no fim da tela.
 
-The image will be resized to 217 x 44.
+A imagem será redimensionada para 217 x 44 pixels.
 
-<figure><img src="../../.gitbook/assets/white label shop front.jpg" alt=""><figcaption><p>White labelled site header with OFN navigation removed and custom logo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/white label shop front.jpg" alt=""><figcaption><p>Cabeçalho White Label com navegação OFN removida e logo customizado</p></figcaption></figure>
 
-&#x20;
+## Link customizado ao clicar no logo
 
-## Custom link on logo click
-
-* Follow the [steps above](white-label-site.md#customise-logo-in-site-header) to add a bespoke image.
-* When you revisit 'White Label' from your Enterprise settings you will now be able to add a URL to which you wish the bespoke logo to link&#x20;
+* Siga os [passos acima](white-label-site.md#customise-logo-in-site-header) para adicionar uma imagem personalizada.
+* Quando voltar a 'White Label' nas Configurações da Empresa, você poderá adicionar uma URL para a qual quer que o logo personalizado direcione.
 
 <figure><img src="../../.gitbook/assets/logo link.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Note: The field to add the link for the logo to be used in the shop front only becomes available AFTER a logo image has been uploaded.  It is necessary to select 'Update' after adding the image to reveal this option.
+Nota: O campo pra adicionar o link do logo na vitrine só fica disponível DEPOIS que uma imagem de logo é enviada. É necessário clicar em 'Atualizar' após adicionar a imagem pra revelar essa opção.
 {% endhint %}
 
-Click Update to save.
+Clique em Atualizar para salvar.

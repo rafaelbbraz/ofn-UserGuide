@@ -1,26 +1,26 @@
-# Opening more than one order cycle
+# Abrindo mais de um ciclo de pedidos
 
-It is possible to have more than one order cycle open at the same time. This has the effect of creating two (or more) open shopfronts, which the customer can choose between from the one website address (URL). \
-This feature is helpful when you want to have different ‘conditions’ in the two shopfronts such as different products (wholesale or retail), different enterprise fees (such a non-member mark-ups) or different order cycle opening and closing dates (for different deliver runs).
+É possível ter mais de um ciclo de pedidos aberto ao mesmo tempo. Isso tem o efeito de criar duas (ou mais) vitrines abertas, entre as quais o cliente pode escolher a partir do mesmo endereço web (URL).\
+Esse recurso é útil quando você quer ter 'condições' diferentes nas vitrines, como produtos diferentes (atacado ou varejo), taxas da empresa diferentes (como margens de não-membros) ou datas de abertura e fechamento diferentes (para diferentes rotas de entrega).
 
-When the customer first lands on your shopfront page they will be requested to choose an order cycle before products are visible:
+Quando o cliente chega na sua vitrine, será solicitado a escolher um ciclo antes que os produtos fiquem visíveis:
 
 ![](../../../.gitbook/assets/chooseoc.jpg)
 
-When the customer selects an order cycle, the shopfront will load with the specific products, fees and opening and closing dates of that order cycle.
+Quando o cliente seleciona um ciclo, a vitrine carrega com os produtos, taxas e datas específicas desse ciclo.
 
 {% hint style="success" %}
-[Tags](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) can also be used to make order cycles visible or invisible to specific customers. For example, if you tag your wholesale customers as 'pro', then you can make an order cycle with wholesale pricing visible only to 'pro'.&#x20;
+[Tags](../customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) também podem ser usadas para tornar ciclos visíveis ou invisíveis a clientes específicos. Por exemplo, se você marca seus clientes atacadistas como 'pro', pode tornar um ciclo com preços de atacado visível apenas pra 'pro'.
 {% endhint %}
 
-## **Ordering your order cycles**
+## Ordenando seus ciclos de pedidos
 
-You can choose whether you want your order cycles to be listed in the dropdown menu by closing date (closing soonest first) or by opening date (opened earliest first).&#x20;
+Você pode escolher se quer que seus ciclos sejam listados no menu suspenso por data de fechamento (fechando primeiro) ou por data de abertura (aberto mais cedo primeiro).
 
-This is setup in your [enterprise settings](../../enterprise-profile/enterprise-settings.md) -> Shop Preferences -> Sort Order Cycles On Shopfront By
+Isso é configurado nas [configurações da empresa](../../enterprise-profile/enterprise-settings.md) -> Preferências da Loja -> Ordenar Ciclos na Vitrine Por.
 
 ![](<../../../.gitbook/assets/sort oc by date (1).jpg>)
 
-Customers can navigate between order cycles:
+Os clientes podem navegar entre ciclos:
 
 ![](../../../.gitbook/assets/chooseoc2.jpg)

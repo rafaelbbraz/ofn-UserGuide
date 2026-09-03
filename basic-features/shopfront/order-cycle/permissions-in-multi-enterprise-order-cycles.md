@@ -1,102 +1,100 @@
-# Permissions in multi-enterprise order cycles
+# Permissões em ciclos de pedidos multi-empresa
 
-This page explains the varying rights each enterprise has in the context of complex multiple enterprise order cycles.  Be it:
+Esta página explica os direitos que cada empresa tem no contexto de ciclos complexos com múltiplas empresas. Seja:
 
-* the producer ([profile](../../../your-quick-start-on-ofn-given-who-you-are.md#profile) or [shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)) who supplies the order cycle only,
-* a [hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub) which distributes goods only,
-* or a hub which [coordinates](permissions-in-multi-enterprise-order-cycles.md#the-coordinator) the order cycle (and may or may not also supply or distribute goods).
+* o produtor ([perfil](../../../your-quick-start-on-ofn-given-who-you-are.md#profile) ou [loja](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)) que apenas fornece ao ciclo,
+* uma [central](../../../your-quick-start-on-ofn-given-who-you-are.md#hub) que apenas distribui produtos,
+* ou uma central que [coordena](permissions-in-multi-enterprise-order-cycles.md#the-coordinator) o ciclo (e pode ou não também fornecer ou distribuir produtos).
 
-For more details about simple order cycles involving a single producer selling their own stock only ([producer shop](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)), see [here](order-cycles-for-producers.md).
+Para mais detalhes sobre ciclos simples envolvendo um único produtor vendendo seu próprio estoque ([loja de produtor](../../../your-quick-start-on-ofn-given-who-you-are.md#shop)), veja [aqui](order-cycles-for-producers.md).
 
-_**The coordinator has the highest degree of control over an order cycle. Other enterprises can view the order cycles they are involved in, but only edit settings which affect them.**_
+_**O coordenador tem o maior grau de controle sobre um ciclo. Outras empresas podem ver os ciclos em que estão envolvidas mas só editar configurações que as afetam.**_
 
-## The Coordinator
-
-{% hint style="info" %}
-**Full order cycle functionality** can only be obtained if an enterprise is registered as a [Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub).  To change your enterprise type see [here](../../enterprise-profile/package-types.md#changing-your-profile-type).
-{% endhint %}
-
-{% hint style="warning" %}
-Once an order cycle has been created it is not possible to change the coordinator.
-{% endhint %}
-
-The Coordinator of an [Order Cycle](order-cycles-for-hubs.md) can:
-
-* Create the order cycles
-* Set and edit the name of the order cycle as well as the opening and closing dates.
-* Apply enterprise fees to all products (coordinator fee), to products supplied by producers (in the [incoming](permissions-in-multi-enterprise-order-cycles.md#incoming) section), and/or to products distributed by hubs (in the [outgoing](permissions-in-multi-enterprise-order-cycles.md#outgoing) section).
-
-### **Incoming**
-
-* The coordinator can add enterprises as suppliers. However, to do this the supplying enterprise (registered as a [Producer](../../enterprise-profile/package-types.md#for-producers) with OFN) must have granted the coordinating hub [permission to add their products to an order cycle](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md#granting-and-managing-permissions).
-* The coordinator can select all or a subset of products from their suppliers that they wish include in the order cycle.
-*   The coordinator can apply differential [enterprise fees](../enterprise-fees.md) to each supplier. For example, they may wish to charge a supplying butcher a higher rate (to cover the extra cost of refrigerated transport) than a baker.
-
-
-
-### **Outgoing**
-
-The coordinator can choose which enterprises the products listed in an order cycle are distributed through (including themselves).
-
-To do this each potential distributor must be:
-
-1. Registered as a [Hub](../../../your-quick-start-on-ofn-given-who-you-are.md#hub).
-2. Have granted the coordinating hub [permission to add products](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md#granting-and-managing-permissions) to an order cycle.
-3. Have at least one active [shipping](../shipping-methods.md) and [payment](../payment-methods.md) method.&#x20;
+## O coordenador
 
 {% hint style="info" %}
-If a potential distributing enterprise appears in the list of possible options in the outgoing section of the order cycle but can not be selected then it is probable that they haven't set up shipping and/or payment methods yet.
+**Funcionalidade completa de ciclo de pedidos** só pode ser obtida se uma empresa é cadastrada como [Central](../../../your-quick-start-on-ofn-given-who-you-are.md#hub). Pra alterar o tipo da sua empresa, veja [aqui](../../enterprise-profile/package-types.md#changing-your-profile-type).
 {% endhint %}
-
-The coordinator can choose from the complete list of incoming products, which will be displayed on each distributing Hub's shopfront. _**The supplier (producer profile or shop) must have set up an**_ [_**enterprise permission**_](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) _**of 'add to order cycle' between themselves and the specific distributing hub (as well as the coordinator)**_.
-
-The coordinator can apply differential [enterprise fees](../enterprise-fees.md) to each distributing hub if desired. This might be advantageous if one hub is further away from the coordinator than another, and hence would have a higher transport overhead associated with it.
-
-## Supplying (Incoming) Enterprises
-
-The supplier ([producer](../../enterprise-profile/package-types.md#for-producers)) can view all the order cycles they’re involved with by visiting the order cycle summary page (from the top horizontal main menu), even if they haven't created the order cycles themselves. \
-By clicking on the order cycle an incoming producer can see their details only, not the products or details of others involved in the order cycle.  They can edit items relating to themselves: for example they can remove a product which is out of stock from an order cycle.\
-A supplying enterprise can not alter the name nor dates of an order cycle.
-
-In the Reports section (top horizontal main menu) an incoming supplying producer can view the orders they have received for the order cycle
 
 {% hint style="warning" %}
-An incoming supplying enterprise does not automatically see the names of customers who bought their products if they are not also the order cycle coordinator. This setting can be changed by the order cycle coordinator (enterprise that manages the order cycle). If you need to see customer names to facilitate packing and fulfilment of orders, you can contact your order cycle coordinator and ask them to select the Customer Names in Reports checkbox in [Enterprise Settings](../../enterprise-profile/enterprise-settings.md) under Shop Preferences.
+Uma vez criado um ciclo, não é possível alterar o coordenador.
 {% endhint %}
 
-### **Incoming**
+O coordenador de um [Ciclo de Pedidos](order-cycles-for-hubs.md) pode:
 
-* A supplier can view, add and remove _**their**_ products from the 'Incoming Products' section of an order cycle.
-* A supplier can add/remove enterprise fees which are applied to _**their**_ products in the 'Incoming Products' section of the order cycle.  This might be useful for producers who supply several hubs, some of which are much further away from them than others. They may wish to add an extra levy to more distant hubs to cove transport costs.
+* Criar os ciclos.
+* Definir e editar o nome do ciclo, além das datas de abertura e fechamento.
+* Aplicar taxas da empresa a todos os produtos (taxa do coordenador), a produtos fornecidos por produtores (na seção de [entrantes](permissions-in-multi-enterprise-order-cycles.md#incoming)) e/ou a produtos distribuídos por centrais (na seção de [saintes](permissions-in-multi-enterprise-order-cycles.md#outgoing)).
 
-### **Outgoing**
+### **Entrantes**
 
-The degree of influence a supplier has over their products in the 'Outgoing Products' section of an order cycle depends on the specific enterprise permissions they granted the distributing hub and vice versa.
+* O coordenador pode adicionar empresas como fornecedoras. Mas a empresa fornecedora (cadastrada como [Produtor](../../enterprise-profile/package-types.md#for-producers)) precisa ter concedido à central coordenadora [permissão pra adicionar seus produtos a um ciclo](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md#granting-and-managing-permissions).
+* O coordenador pode selecionar todos ou um subconjunto de produtos dos seus fornecedores que quer incluir no ciclo.
+* O coordenador pode aplicar [taxas da empresa](../enterprise-fees.md) diferenciadas a cada fornecedor. Por exemplo, pode cobrar taxa maior de um açougueiro fornecedor (pra cobrir o custo extra de transporte refrigerado) do que de um padeiro.
 
-* If the distributing hub granted the supplying producer (profile, shop or hub) the right to 'add to \[the hub's] order cycle' then the supplier can view, add and remove products from the list in the 'Outgoing Products' section of the order cycle.
-* If the distributing hub did not grant the supplying producer (profile, shop or hub) the right to 'add to \[the hub's] order cycle' then the supplier can view but NOT add and remove products from the list in the 'Outgoing Products' section of the order cycle.
-* A supplier is never able to change the pickup/delivery details, or the enterprise fees applied to the distributor.
+### **Saintes**
 
-## Distributing (Outgoing) Enterprise
+O coordenador pode escolher por quais empresas os produtos listados em um ciclo são distribuídos (incluindo ele mesmo).
 
-A distributor can view Order Cycles they’re involved with in their Order Cycle summary page, even if they did not create them themselves (ie. they are not the order cycle coordinator). \
-By clicking on an order cycle, the outgoing distributing enterprise can see the details of an order cycle which relate to them only.  (For example, if they are not the sole distributor of the order cycle they will not be able to see who the other distributing enterprises are nor the products they will offer on their shop front.)\
-The outgoing distributing hub can view and edit details of their distribution- delivery dates and methods, and enterprise fees for distribution- but no the name nor period of the order cycle itself.
+Para isso, cada distribuidor potencial precisa:
 
-In the 'Reports' menu, a order cycle distributor can view the orders which have been placed (along with customer names) to aid delivery/dispatch of goods.
+1. Estar cadastrado como [Central](../../../your-quick-start-on-ofn-given-who-you-are.md#hub).
+2. Ter concedido à central coordenadora [permissão pra adicionar produtos](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md#granting-and-managing-permissions) a um ciclo.
+3. Ter pelo menos um método ativo de [envio](../shipping-methods.md) e [pagamento](../payment-methods.md).
 
-### **Incoming**
+{% hint style="info" %}
+Se uma empresa distribuidora potencial aparece na lista de opções possíveis na seção de saintes do ciclo mas não pode ser selecionada, provavelmente ela ainda não configurou métodos de envio e/ou pagamento.
+{% endhint %}
 
-A distributor can _**view**_ the incoming products of supplier who have granted them the enterprise permission 'add to order cycle' but they can not edit stock levels/availability nor apply/remove producer specific enterprise fees.
+O coordenador pode escolher da lista completa de produtos entrantes quais serão exibidos na vitrine de cada central distribuidora. _**O fornecedor (perfil de produtor ou loja) precisa ter configurado uma**_ [_**permissão entre empresas**_](../../enterprise-profile/enterprise-to-enterprise-permissions-e2es.md) _**de 'adicionar ao ciclo de pedidos' entre ele e a central distribuidora específica (assim como o coordenador)**_.
+
+O coordenador pode aplicar [taxas da empresa](../enterprise-fees.md) diferenciadas a cada central distribuidora se desejar. Isso pode ser vantajoso se uma central está mais distante do coordenador do que outra, e portanto teria maior custo de transporte associado.
+
+## Empresas fornecedoras (entrantes)
+
+O fornecedor ([produtor](../../enterprise-profile/package-types.md#for-producers)) pode ver todos os ciclos em que está envolvido visitando a página resumo de ciclos (no menu horizontal principal), mesmo que não tenha criado os ciclos.\
+Clicando no ciclo, um produtor entrante pode ver apenas seus detalhes, não os produtos ou detalhes de outros envolvidos. Ele pode editar itens relacionados a si mesmo: por exemplo, pode remover um produto fora de estoque do ciclo.\
+Uma empresa fornecedora não pode alterar o nome nem as datas de um ciclo.
+
+Na seção Relatórios (menu horizontal principal), um produtor fornecedor entrante pode ver os pedidos que recebeu para o ciclo.
 
 {% hint style="warning" %}
-At present, only the coordinator of an order cycle can add extra suppliers (producers) to it.
+Uma empresa fornecedora entrante não vê automaticamente os nomes dos clientes que compraram seus produtos se ela não é também a coordenadora do ciclo. Essa configuração pode ser alterada pelo coordenador. Se você precisa ver nomes de clientes pra facilitar a embalagem e atendimento dos pedidos, contate seu coordenador de ciclo e peça pra marcarem a caixa Nomes de Clientes em Relatórios nas [Configurações da Empresa](../../enterprise-profile/enterprise-settings.md) em Preferências da Loja.
 {% endhint %}
 
-### **Outgoing**
+### **Entrantes**
 
-The degree of influence the distributing hub has over the products in the 'outgoing products' section of an order cycle, depends on the enterprise permissions between them and the supplying producer.
+* Um fornecedor pode ver, adicionar e remover _**seus**_ produtos da seção 'Produtos Entrantes' de um ciclo.
+* Um fornecedor pode adicionar/remover taxas da empresa aplicadas aos _**seus**_ produtos na seção 'Produtos Entrantes'. Útil pra produtores que fornecem várias centrais, algumas mais distantes que outras. Podem querer adicionar uma taxa extra a centrais mais distantes pra cobrir custos de transporte.
 
-* The distributing hub can add/remove products from its outgoing exchange. This only applies to product from producers who been added to the order cycle by the coordinator, and have granted the distributor the enterprise permission 'add to order cycle'.
-* Can change the pickup/delivery details
-* Can add/remove their enterprise fee
+### **Saintes**
+
+O grau de influência que um fornecedor tem sobre seus produtos na seção 'Produtos Saintes' de um ciclo depende das permissões específicas entre empresas concedidas à central distribuidora e vice-versa.
+
+* Se a central distribuidora concedeu ao produtor fornecedor (perfil, loja ou central) o direito de 'adicionar ao \[ciclo da central]', então o fornecedor pode ver, adicionar e remover produtos da lista na seção 'Produtos Saintes' do ciclo.
+* Se a central distribuidora não concedeu essa permissão, então o fornecedor pode ver mas NÃO adicionar e remover produtos.
+* Um fornecedor nunca pode alterar detalhes de coleta/entrega ou taxas da empresa aplicadas ao distribuidor.
+
+## Empresa distribuidora (sainte)
+
+Um distribuidor pode ver ciclos em que está envolvido na sua página resumo de ciclos, mesmo que não os tenha criado (ou seja, não é o coordenador).\
+Clicando em um ciclo, a empresa distribuidora sainte pode ver detalhes do ciclo relacionados apenas a si mesma. (Por exemplo, se ela não é a única distribuidora, não conseguirá ver quem são as outras empresas distribuidoras nem os produtos que oferecerão na vitrine.)\
+A central distribuidora sainte pode ver e editar detalhes da distribuição — datas e métodos de entrega, taxas da empresa pra distribuição — mas não o nome nem o período do ciclo.
+
+No menu 'Relatórios', um distribuidor de ciclo pode ver os pedidos feitos (junto com nomes de clientes) pra auxiliar entrega/expedição.
+
+### **Entrantes**
+
+Um distribuidor pode _**ver**_ os produtos entrantes de fornecedores que lhe concederam permissão 'adicionar ao ciclo', mas não pode editar níveis de estoque/disponibilidade nem aplicar/remover taxas específicas do produtor.
+
+{% hint style="warning" %}
+Atualmente, apenas o coordenador de um ciclo pode adicionar fornecedores (produtores) extras.
+{% endhint %}
+
+### **Saintes**
+
+O grau de influência da central distribuidora sobre os produtos na seção 'produtos saintes' de um ciclo depende das permissões entre empresas entre ela e o produtor fornecedor.
+
+* A central distribuidora pode adicionar/remover produtos da sua troca de saída. Isso só se aplica a produtos de produtores que foram adicionados ao ciclo pelo coordenador e concederam ao distribuidor a permissão 'adicionar ao ciclo'.
+* Pode alterar detalhes de coleta/entrega.
+* Pode adicionar/remover sua taxa da empresa.

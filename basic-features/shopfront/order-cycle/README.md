@@ -1,12 +1,9 @@
-# Order cycles
+# Ciclos de pedidos
 
-Online stores can be opened and closed by creating 'order cycles' on the Open Food Network platform.
+Lojas online podem ser abertas e fechadas criando 'ciclos de pedidos' na Nossa Feira.
 
-The OFN web address for your shop will only display your list of products for purchase when an order cycle is open. 
+O endereço web da sua loja na Nossa Feira só exibirá a lista de produtos para compra quando um ciclo de pedidos estiver aberto.
 
-The format of setting up an [order cycle for a 'hub'](order-cycles-for-hubs.md) \(multi producer shop\) differs slightly from that for [a 'shop'](order-cycles-for-producers.md) \(single producer shop\). 
+O formato pra configurar um [ciclo de pedidos para uma 'central'](order-cycles-for-hubs.md) (loja multi-produtor) difere um pouco de uma [loja](order-cycles-for-producers.md) (loja de único produtor).
 
-It's possible to offer [multiple order cycles](opening-more-than-one-order-cycle.md) simultaneously, for example to allow a purchase for delivery in 1, 2 or 3 weeks.
-
-
-
+É possível oferecer [múltiplos ciclos de pedidos](opening-more-than-one-order-cycle.md) simultaneamente, por exemplo pra permitir compras com entrega em 1, 2 ou 3 semanas.
