@@ -1,25 +1,22 @@
-# Marketing Tips
+# Dicas de marketing
 
-OFN UK have a series of tips and resources on how to set up an effective marketing strategy for your food enterprise.  These resources can also be found on their [Thriving Hubs Facebook](https://www.facebook.com/groups/thrivingfoodhub) group- join the group to access the most up to date information.
+A OFN UK tem uma série de dicas e recursos sobre como montar uma estratégia de marketing eficaz pra sua empresa de alimentos. Esses recursos também podem ser encontrados no grupo do Facebook [Thriving Hubs](https://www.facebook.com/groups/thrivingfoodhub) — entre no grupo pra acessar as informações mais atualizadas.
 
-### Marketing Strategy
+### Estratégia de marketing
 
-These are some helpful videos:
+Alguns vídeos úteis (em inglês):
 
-* Master your messaging[ webinar](https://youtu.be/jUMIIYG2nXY).
-* [Creating Content](https://youtu.be/ofNizm5DjUg) for Marketing Campaigns.
-* [Effective Seasonal Marketing](https://youtu.be/ppRnCOVXO_Q).
+* [Webinar](https://youtu.be/jUMIIYG2nXY) dominando sua mensagem.
+* [Criando conteúdo](https://youtu.be/ofNizm5DjUg) pra campanhas de marketing.
+* [Marketing sazonal eficaz](https://youtu.be/ppRnCOVXO_Q).
 
-{% file src="../.gitbook/assets/master-your-messaging-webinar-slides.pdf" caption="Master your messaging slides" %}
+{% file src="../.gitbook/assets/master-your-messaging-webinar-slides.pdf" caption="Slides — Domine sua mensagem" %}
 
-{% file src="../.gitbook/assets/core-values-exercise.pdf" caption="Core Values Exercise" %}
+{% file src="../.gitbook/assets/core-values-exercise.pdf" caption="Exercício de valores essenciais" %}
 
-### Email Marketing
+### Email marketing
 
 * [Mailchimp Master Class](https://youtu.be/lEc9i0h_8xg)
-* [Beginners Email Marketing](https://youtu.be/BqvQoqUCM14)
+* [Email marketing para iniciantes](https://youtu.be/BqvQoqUCM14)
 
-{% file src="../.gitbook/assets/email-marketing-webinar-july.pdf" caption="Email Marketing" %}
-
-
-
+{% file src="../.gitbook/assets/email-marketing-webinar-july.pdf" caption="Email marketing" %}

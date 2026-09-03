@@ -1,60 +1,59 @@
-# Your farm on Facebook
+# Seu sítio no Facebook
 
-This page explains the process of creating a page for a farm on Facebook. If you already have a page and are looking for tips regarding how to best use Facebook to promote your farm check out our [Facebook Tips](facebook-tips.md) page.
+Esta página explica o processo de criar uma página pra um sítio no Facebook. Se você já tem uma página e busca dicas sobre como usar melhor o Facebook, confira nossa página de [Dicas de Facebook](facebook-tips.md).
 
-To create a page for your farm \(or business\) on Facebook, you’ll first need a personal account on Facebook. If you already have one, login and proceed to the next step. If you don’t, go to [www.facebook.com](http://www.facebook.com/) and create an account. You’ll need to provide a name, an email or phone number and a date of birth. Your farm’s page will be separate to this personal account, you just need this account to administer your farm’s page.
+Pra criar uma página pro seu sítio (ou negócio) no Facebook, você primeiro precisa de uma conta pessoal. Se já tem uma, faça login e vá pro próximo passo. Se não, vá em [www.facebook.com](http://www.facebook.com/) e crie uma conta. Você precisará informar nome, email ou telefone e data de nascimento. A página do seu sítio será separada dessa conta pessoal — você só precisa dela pra administrar a página.
 
-Once you have an account and you are logged in, click on **Home** in the top menu and then click **create page** in the left hand vertical menu.
+Uma vez que você tem uma conta e está logado, clique em **Início** no menu superior e depois em **Criar página** no menu vertical esquerdo.
 
 ![](../.gitbook/assets/create-page.png)
 
-Next, select the **local business or place** option, and fill out your details \(see below\). The ‘business or place name’ field will be the name of your farm’s new Facebook page.
+A seguir, selecione a opção **Negócio local ou lugar** e preencha os detalhes (abaixo). O campo 'Nome do negócio ou lugar' será o nome da nova página do seu sítio.
 
 ![](../.gitbook/assets/local-business-or-placeee.png)
 
-Next you will be prompted to provide details about your farm \(or business\), in four stages. Each stage is illustrated in the images below, using “demo farm” as an example.
+Depois será solicitado a fornecer detalhes sobre seu sítio (ou negócio), em quatro etapas. Cada etapa é ilustrada nas imagens abaixo, usando "sítio demo" como exemplo.
 
-## 1\) About
+## 1) Sobre
 
 ![](../.gitbook/assets/1-about.png)
 
-## 2\) Profile Picture
+## 2) Foto de perfil
 
-Select a profile picture for your farm. This is usually a logo, but you can also just use a photograph. You can change this at any time in the future.
+Selecione uma foto de perfil pro seu sítio. Normalmente é um logo, mas você também pode usar uma fotografia. Você pode alterar isso a qualquer momento.
 
 ![](../.gitbook/assets/2-profile-picture.png)
 
-## 3\) Add to Favourites
+## 3) Adicionar aos favoritos
 
-So that you can easily find your page, you should ‘**add to favourites**‘. A link to your farm’s page will then appear in your menu, when you are logged into your personal account.
+Pra que você possa encontrar sua página facilmente, deve '**adicionar aos favoritos**'. Um link pra página do seu sítio aparecerá no seu menu quando estiver logado na conta pessoal.
 
 ![](../.gitbook/assets/add-to-favourites.png)
 
-## 4\) Preferred Page Audience
+## 4) Público preferencial da página
 
-Here you can tell Facebook about the kinds of people you want visiting your page. This includes their location, age, gender etc and their interests. In the interests section, select any topics that you think correlate well with your farm. When you do this, Facebook will suggest to people who are already interested in local food or organic agriculture for example, that they should visit your page.
+Aqui você diz ao Facebook sobre o tipo de pessoa que quer visitando sua página. Inclui localização, idade, gênero e interesses. Na seção de interesses, selecione tópicos que se correlacionem bem com seu sítio. Ao fazer isso, o Facebook sugerirá sua página pra pessoas já interessadas em alimentos locais ou agricultura orgânica por exemplo.
 
 ![](../.gitbook/assets/4-prefered-page-audiance.png)
 
-**Well done, you’ve created a page for your farm! But, you’re not finished yet! There are extra features on Facebook to take advantage of!**
+**Muito bem, você criou uma página pro seu sítio! Mas ainda não acabou! Há recursos extras do Facebook pra aproveitar!**
 
-## Create a call-to-action button
+## Crie um botão de call-to-action
 
-Click c**reate call to action**, at the top of your page. This button can be used to direct people to your online shop. Select the **shop now** button type, and provide the URL to your shop’s website \(this can be an OFN site, or an external online shop\).
+Clique em **Criar call to action** no topo da página. Esse botão pode ser usado pra direcionar pessoas pra sua loja online. Selecione o tipo **Comprar agora** e forneça a URL da sua loja (pode ser um site da Nossa Feira ou uma loja externa).
 
 ![](../.gitbook/assets/create-a-call-to-action-button.png)
 
-## **Add a cover image**
+## **Adicione uma imagem de capa**
 
-This large picture sits at the top of your farm’s page. A picture says a thousand words, so choose a cover image that’s engaging and tells visitors about your farm at a glance. This image can also be updated as often as you wish.
+Essa imagem grande fica no topo da página do seu sítio. Uma imagem vale mais que mil palavras, então escolha uma capa engajadora que conte aos visitantes sobre seu sítio de relance. Essa imagem também pode ser atualizada com a frequência que desejar.
 
 ![](../.gitbook/assets/add-a-cover.png)
 
-## Add contact details and edit your page
+## Adicione dados de contato e edite sua página
 
-You can edit any of the information you provided during the creation of your page by clicking on **About** and **Page Info**. Here you can also provide contact details and write a longer description of your farm.
+Você pode editar qualquer informação fornecida durante a criação clicando em **Sobre** e **Informações da página**. Aqui também pode fornecer dados de contato e escrever uma descrição mais longa.
 
 ![](../.gitbook/assets/edit-and-contact-details.png)
 
-**Great! Your farm’s page is all set up, and now you’re ready to start using Facebook to connect with customers and others in your industry. To learn about using Facebook, check out our** [**Facebook Tips**](facebook-tips.md) **page.**
-
+**Ótimo! A página do seu sítio está configurada e agora você está pronto pra usar o Facebook pra se conectar com clientes e outros na sua área. Pra aprender a usar Facebook, confira nossa página de** [**Dicas de Facebook**](facebook-tips.md)**.**

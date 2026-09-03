@@ -1,12 +1,7 @@
-# Hub management tips
+# Dicas de gestão de central
 
-The OFN team recognise that there is a huge number of aspects to running a food enterprise, using the OFN platform efficiently being one of them.  Hence, in this section, as well as a series of platform-based [How to's](how-tos/) we aim to build a set of resources \(including around [marketing](marketing-tips.md) and [social media](social-media.md)\) for you to turn to for advice.
+A equipe da Nossa Feira reconhece que há uma enorme quantidade de aspectos pra rodar uma empresa de alimentos — usar a plataforma eficientemente é um deles. Portanto, nesta seção, além de uma série de [Como fazer](how-tos/) baseados na plataforma, buscamos construir um conjunto de recursos (incluindo [marketing](marketing-tips.md) e [redes sociais](social-media.md)) para você consultar.
 
 {% hint style="info" %}
-This section is under development. Please contact your [local OFN support team](../local-ofn-organizations-and-contacts.md) to let them know areas where you would like to have more support.
+Esta seção está em desenvolvimento. Entre em contato com a [equipe de suporte local](../local-ofn-organizations-and-contacts.md) pra informar áreas onde gostaria de ter mais apoio.
 {% endhint %}
-
-
-
-
-
