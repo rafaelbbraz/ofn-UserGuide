@@ -1,3 +1,3 @@
 # API
 
-We are working on making more features available through an API. To find out more, head to the [OFN API Handbook](https://ofn-user-guide.gitbook.io/ofn-api-handbook/).
+Estamos trabalhando pra disponibilizar mais recursos através de uma API. Para saber mais, acesse o [Manual da API da OFN](https://ofn-user-guide.gitbook.io/ofn-api-handbook/).

@@ -1,26 +1,25 @@
 ---
 description: >-
-  In this section we explore all the features offered by the OFN software
-  platform.
+  Nesta seção exploramos todas as funcionalidades oferecidas pela plataforma
+  Nossa Feira.
 ---
 
-# Features
+# Recursos
 
-You can browse these features at any time but for those just starting out we recommend our [quick start guides](../quick-start-guides/).&#x20;
+Você pode navegar pelos recursos a qualquer momento, mas para quem está começando, recomendamos os [guias rápidos de configuração](../quick-start-guides/).
 
 {% hint style="info" %}
-To find the explanation of a specific feature that you need, please use the 'Search' field (top right hand corner).
+Para encontrar a explicação de um recurso específico, use o campo de busca no canto superior direito.
 {% endhint %}
 
-In the rest of the guide the features of OFN are explained chronologically, with the order of sections following the logical order for setting up an enterprise. The guidance within each section is also structured so that guidance for basic usage appears first and more advanced guidance later in the section:
+No restante do guia, os recursos da Nossa Feira são explicados cronologicamente, seguindo a ordem lógica de configuração de uma empresa. A orientação dentro de cada seção também está estruturada com orientações básicas primeiro e mais avançadas depois:
 
-* [registration](register-and-create-your-profile.md)
-* [enterprise profile setup](enterprise-profile/)
-* [products](products-1/)
-* [shopfront](shopfront/)
-* [orders](orders/)
-* [subscriptions](subscriptions/)
-* [reports](reports/)
+* [cadastro](register-and-create-your-profile.md)
+* [configuração do perfil da empresa](enterprise-profile/)
+* [produtos](products-1/)
+* [vitrine](shopfront/)
+* [pedidos](orders/)
+* [assinaturas](subscriptions/)
+* [relatórios](reports/)
 * [dashboard](dashboard.md)
-* [groups](groups/)
-
+* [grupos](groups/)
