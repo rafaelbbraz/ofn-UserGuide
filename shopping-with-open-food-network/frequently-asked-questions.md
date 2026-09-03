@@ -1,141 +1,141 @@
-# Frequently Asked Questions
+# Perguntas frequentes
 
-### **Can I change my order?**
+### **Posso alterar meu pedido?**
 
-The best way to change your order is to get in touch with the shop who you purchased from. You can find their email address and phone number under the ‘[Contacts](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab.
+A melhor forma de alterar seu pedido é entrar em contato com a loja em que você comprou. Você encontra o email e telefone na aba '[Contato](the-people-and-businesses-who-make-grow-your-food.md#contact)'.
 
-If you pay for your shopping by cash on collection or make a bank transfer payment to the business then they may allow you to edit your shopping basket for a limited period yourself via your account. You will need to have an [account with OFN](your-ofn-account.md) to be able to do this.
+Se você paga sua compra em dinheiro na coleta ou faz uma transferência bancária, a loja pode permitir que você edite o carrinho por um período limitado através da sua conta. Você precisará ter uma [conta na Nossa Feira](your-ofn-account.md).
 
-If you visit the ‘Orders’ tab in your account it will appear as:
+Se você visita a aba 'Pedidos' na sua conta, aparecerá assim:
 
 ![](https://lh6.googleusercontent.com/C4BapLoiGgfHJfFOt9vxpulhrPd6CMV3wJFV24H9XSy6qX8dgcF3KtDL-AK8_iwbXkkJ3fHsLGVGh6y1vJPZQ37AsTu9Jp1TRgUTX6DafjE-8EbpF7UsbtRZ-4eEhHpAaxG8kRO2)
 
-Clicking on ‘Edit’ next to the order in question will bring up a summary of the order.  Here you will be able to change the quantity of each item or delete an unwanted product altogether.
+Clicando em 'Editar' ao lado do pedido em questão, abrirá um resumo do pedido. Aqui você pode alterar a quantidade de cada item ou deletar um produto que não quer.
 
 ![](https://lh6.googleusercontent.com/-05u5sfEktbSCwft7Q2v7vY7aTUsvEsXx0l8phBEVpRaL4BCz8voNpMO16BdB9RbhsfNBzFcxkkmHnwVOuVMdvyj39wSgzjR9Bfk3P1cKxIDpMY3-suT5U1Gu2mmFVwGZw82lfT7)
 
 {% hint style="danger" %}
-You will not be able to add extra products to this basket though. &#x20;
+Você não poderá adicionar produtos extras a esse carrinho.
 {% endhint %}
 
-**BUT you can certainly purchase extra items-** how often do we all go to a shop and come away with everything except the item we went in to get?!
+**MAS você certamente pode comprar itens extras** — quantas vezes vamos numa loja e saímos com tudo menos o item que fomos buscar?
 
-Just visit the shop front again and add the vital milk/bread/butter which you forgot to get in your first order and proceed through [checkout as normal](shopping-and-placing-an-order.md).
+Basta visitar a vitrine novamente e adicionar o leite/pão/manteiga vital que esqueceu no primeiro pedido e prosseguir pelo [checkout normalmente](shopping-and-placing-an-order.md).
 
-If your local shop charges a small fixed fee per order for delivery/collection then get in touch with them (email and phone number can be found under ‘[Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)’). They will be able to remove this fee for your top up second order for you, so that you are not paying twice!
+Se sua loja local cobra uma pequena taxa fixa por pedido pra entrega/coleta, entre em contato com ela (email e telefone na aba '[Contato](the-people-and-businesses-who-make-grow-your-food.md#contact)'). Eles poderão remover essa taxa do seu segundo pedido pra você não pagar duas vezes!
 
-### **I can’t collect from location A and time B, is there another place/time where I can pick up my shopping from?**
+### **Não consigo coletar no local A e horário B, tem outro lugar/horário onde posso pegar minha compra?**
 
-If you have a query about collection or delivery services offered by the business you wish to purchase from, the best thing to do is to get in contact with them directly. You can find their contact details (email and phone number) under the ‘[Contacts](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab on the shop front.
+Se você tem uma dúvida sobre serviços de coleta ou entrega oferecidos pelo negócio, o melhor é entrar em contato diretamente. Você encontra os dados (email e telefone) na aba '[Contato](the-people-and-businesses-who-make-grow-your-food.md#contact)' da vitrine.
 
 {% hint style="success" %}
-It is always worth asking!  If there are enough other customers who would like a different delivery or collection time/location it may well be something your local food enterprise will be able to offer.
+Sempre vale perguntar! Se houver clientes suficientes que querem um horário/local de entrega ou coleta diferente, pode muito bem ser algo que sua empresa local pode oferecer.
 {% endhint %}
 
-### **Do you deliver to…?**
+### **Vocês entregam em...?**
 
-If you have a query about collection or delivery services offered by the business you wish to purchase from, the best thing to do is to get in contact with them directly. You can find their contact details (email and phone number) under the ‘[Contacts](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab on the shop front.
+Se você tem uma dúvida sobre coleta ou entrega, o melhor é entrar em contato diretamente. Contatos na aba '[Contato](the-people-and-businesses-who-make-grow-your-food.md#contact)' da vitrine.
 
 {% hint style="success" %}
-It is always worth asking!  If there are enough other customers who would like a different delivery or collection time/location it may well be something your local food enterprise will be able to offer.
+Sempre vale perguntar!
 {% endhint %}
 
-### **Do you stock X?**
+### **Vocês têm X?**
 
-If you have a query about a particular product you would like to buy the best thing to do is to get in contact with your local shop directly. You can find their contact details (email and phone number) under the ‘[Contacts](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab on the shop front.
+Se você tem uma dúvida sobre um produto específico, o melhor é entrar em contato com sua loja local. Contatos na aba '[Contato](the-people-and-businesses-who-make-grow-your-food.md#contact)' da vitrine.
 
 {% hint style="success" %}
-It is always worth asking!  There may well be other customers in your area who are also looking or would like to purchase the same product from the shop. If those who manage the local food enterprise are aware they can investigate finding a local, sustainable, high quality supplier for that item.
+Sempre vale perguntar! Pode haver outros clientes na sua região que também procuram ou gostariam de comprar o mesmo produto.
 {% endhint %}
 
-### I've forgotten my OFN account password.
+### Esqueci minha senha da Nossa Feira.
 
-If you have forgotten your OFN account password choose 'Forgot password?' from the pop out window after you click on 'Login' (top right hand side of the screen).
+Se você esqueceu sua senha, escolha 'Esqueci minha senha?' na janela pop-up depois de clicar em 'Entrar' (topo direito da tela).
 
 ![](../.gitbook/assets/resetpassword.gif)
 
-This will send an email to the address which is linked to your OFN account. If you do not receive an email with a link to reset your password then please try these steps:
+Isso envia um email pro endereço vinculado à sua conta. Se você não recebe um email com link pra redefinir a senha, tente:
 
-* look in your spam or junk folder.
-* add 'openfoodnetwork.org' to your safe or trusted list for your email client.
+* verificar sua pasta de spam ou lixeira.
+* adicionar 'nossafeira.com.br' à sua lista de remetentes seguros/confiáveis no seu cliente de email.
 
-Much of the content on internet is spam.  Email clients employ filters to prevent these unwanted emails from reaching you. On occasion they also block emails you would like to receive, such as those from the Open Food Network.  If the steps above do not work then please contact your [local OFN support team](../local-ofn-organizations-and-contacts.md). They will be able to help you.
+Muito conteúdo na internet é spam. Clientes de email usam filtros pra impedir esses emails indesejados. Às vezes também bloqueiam emails que você quer receber. Se os passos acima não funcionam, [entre em contato](../local-ofn-organizations-and-contacts.md).
 
-### How do I change the password for my OFN account?
+### Como altero a senha da minha conta?
 
-Once you have logged into your OFN account you can update or reset your password at any time by visiting '[Account Settings](your-ofn-account.md#account-settings)'.
+Depois de logado, você pode atualizar ou redefinir sua senha a qualquer momento visitando '[Configurações da Conta](your-ofn-account.md#account-settings)'.
 
-### I didn't receive an account/order confirmation email
+### Não recebi email de confirmação da conta/pedido
 
-Much of the content on internet is spam.  Email clients employ filters to prevent these unwanted emails from reaching you. On occasion they also block emails you would like to receive, such as those from the Open Food Network. &#x20;
+Muito conteúdo na internet é spam. Clientes de email usam filtros pra impedir emails indesejados. Às vezes também bloqueiam os que você quer receber.
 
-If you have just signed up for an [OFN account](your-ofn-account.md#registering-for-an-account) (and are awaiting your account confirmation email) or have just [placed an order](shopping-and-placing-an-order.md#checkout) (and are awaiting your order confirmation email) then check your junk or spam folder to see if the email has been misdirected there.
+Se você acabou de [se cadastrar](your-ofn-account.md#registering-for-an-account) (e está aguardando confirmação da conta) ou acabou de [fazer um pedido](shopping-and-placing-an-order.md#checkout) (e está aguardando o email de confirmação), verifique sua pasta de lixeira/spam.
 
-If you are unable to locate the email then please contact your [local OFN support team](../local-ofn-organizations-and-contacts.md). They will be able to help you.
+Se não conseguir encontrar o email, [entre em contato](../local-ofn-organizations-and-contacts.md).
 
-One way in which to help prevent further emails from being blocked in the future is to add 'openfoodnetwork.org' to your 'safe' or 'trusted' list in your email client.
+Uma forma de ajudar a evitar bloqueios futuros é adicionar 'nossafeira.com.br' à lista 'segura' ou 'confiável' no seu cliente de email.
 
-### **What does ‘Bulk’ mean?**
+### **O que 'Lote' significa?**
 
-Some products may have the label ‘Bulk’ in the top right of the photo. This means that the shop you are shopping with can only supply these products if a minimum threshold across all orders is met. &#x20;
+Alguns produtos podem ter a etiqueta 'Lote' no topo direito da foto. Isso significa que a loja com a qual você está comprando só pode fornecer esses produtos se um limite mínimo entre todos os pedidos for atingido.
 
-You will be asked to enter a minimum and maximum quantity of the product you would like to buy. The ‘minimum’ is the amount you would like in an ideal world. By setting the ‘maximum’ higher than the minimum you are agreeing to purchase slightly more if it means that the shop is able to make up a bulk order and everyone get some of what they want.
+Você será solicitado a informar uma quantidade mínima e máxima do produto. O 'mínimo' é a quantidade que você quer em um mundo ideal. Ao definir o 'máximo' maior que o mínimo, você concorda em comprar um pouco mais se isso significar que a loja consegue completar um pedido em lote e todos recebem algo.
 
 ![](https://lh5.googleusercontent.com/VphJXvuWJHin1XWSDb0D2NZzCGo4E3rvmaL8UQJ_0GO3EpuMcT_IYdXjtoNbNACUjSoJug8hWWQjdt3KonkPjprPb_NLUz0nTBKH-_doEHdxFFkaCxLhsp7e0IcDBel6Xvgtx9nS)
 
-‘Bulk’ buying is common for shop fronts of buying groups. [Contact](the-people-and-businesses-who-make-grow-your-food.md#contact) the business you would like to shop with for more information about how they operate this service and the benefits it can bring you and others in your community.
+Compra em 'Lote' é comum em vitrines de grupos de compras. [Entre em contato](the-people-and-businesses-who-make-grow-your-food.md#contact) com o negócio pra mais informações sobre como opera esse serviço e os benefícios.
 
-### **I would like to order a large number of the same product.**
+### **Gostaria de pedir uma grande quantidade do mesmo produto.**
 
-If you would like to buy a large quantity of one product then pop one in your basket by clicking on the orange ‘Add’ button.  Then click on your basket icon and select ‘[edit basket](shopping-and-placing-an-order.md#shopping-local-made-easy)’.  From here you will be able to type in a number into the quantity field and press ‘Update’.
+Se você quer comprar uma grande quantidade de um produto, coloque um no carrinho clicando no botão laranja 'Adicionar'. Depois clique no ícone do carrinho e selecione '[editar carrinho](shopping-and-placing-an-order.md#shopping-local-made-easy)'. Aqui você pode digitar um número no campo de quantidade e apertar 'Atualizar'.
 
-### **Are all the items I see in stock?**
+### **Todos os itens que vejo estão em estoque?**
 
-Yes.  Only items which are in stock will appear on the shop list.  If you try to add more than the stock level available to your basket you will be prevented from doing so.
+Sim. Apenas itens em estoque aparecem na lista da loja. Se você tentar adicionar mais do que o nível disponível ao carrinho, será impedido.
 
-### **Can I view out of stock items?**
+### **Posso ver itens fora de estoque?**
 
-No.  If you are looking for a product which you purchased last week but can not find it this week then it might be out of stock. Seasonal produce grown locally will only be in stock as nature dictates.  This means the products on offer are likely to change throughout the year.  It is best to contact the business who you are shopping with to find out why an item is not available and when they next expect it to be restocked.
+Não. Se você está procurando um produto que comprou na semana passada mas não encontra nessa semana, pode estar fora de estoque. Produtos sazonais cultivados localmente só ficam disponíveis quando a natureza permite. Isso significa que os produtos oferecidos provavelmente mudam ao longo do ano. O melhor é contatar o negócio pra saber por que um item não está disponível e quando esperam reabastecer.
 
-### **Will my basket be saved if I get called away and can’t complete my shopping in one go?**
+### **Meu carrinho será salvo se eu for chamado e não puder completar minha compra de uma vez?**
 
-If you logged into your [OFN account](your-ofn-account.md) before you started to shop then the items in your basket will remain there, so you can come back to complete your purchase at any point, if you get called away part way through shopping.
+Se você fez login na sua [conta](your-ofn-account.md) antes de começar a comprar, os itens no carrinho ficarão lá, então você pode voltar pra completar a compra a qualquer momento.
 
 {% hint style="warning" %}
-The products in your basket will not be reserved for yourself.  If stock is limited on an item then it is the first customers to check that item out to whom it will be assigned.  \
-You might get to the checkout and find that you are told one of the items you wished to purchase has become out of stock between you adding it to your basket and checking out.
+Os produtos no seu carrinho não ficarão reservados. Se o estoque for limitado em um item, será atribuído aos primeiros clientes que finalizarem a compra desse item.\
+Você pode chegar no checkout e descobrir que um dos itens que queria comprar ficou fora de estoque entre você adicionar ao carrinho e finalizar a compra.
 {% endhint %}
 
-### **I’m having difficulty paying: the ‘Place Order Now’ button is inactive**
+### **Estou com dificuldade pra pagar: o botão 'Finalizar Pedido' está inativo**
 
-If you reach checkout and have completed all the relevant boxes to finalise your order but clicking on the ‘Place Order Now’ button does not bring you to an order confirmation then there are a few things to check:
+Se você chega no checkout e completou todas as caixas relevantes pra finalizar o pedido mas clicar em 'Finalizar Pedido' não te leva à confirmação, algumas coisas pra verificar:
 
-* In order for the OFN shop front on your browser to ‘talk to’ payment provider sites (eg. Paypal, Stripe) and the OFN database, it is necessary to ‘**Accept Cookies**’.  Follow the steps outlined [here](https://www.aboutcookies.org.uk/managing-cookies) to check you have enabled cookies associated with openfoodnetwork. \
-  You can also **try deleting any cookies** you have for our platform, **refreshing your browser** and then **re-accepting** them (the Cookies banner with the green ‘Accept Cookies’ button should appear if you do this).
-* On occasion, very high security settings in your browser can prevent all payments to online e-commerce.  Visit your browser’s settings and reduce the security level by one notch, refresh the page and try to pay again.
+* Pra que a vitrine funcione com sites de gateways de pagamento (Stripe) e o banco da Nossa Feira, é necessário '**Aceitar Cookies**'. Siga os passos [aqui](https://www.aboutcookies.org.uk/managing-cookies) pra confirmar que habilitou cookies associados à Nossa Feira.\
+  Você também pode **tentar deletar quaisquer cookies** que tem pra nossa plataforma, **atualizar o navegador** e depois **re-aceitar** (o banner de Cookies com o botão verde 'Aceitar Cookies' deve aparecer se fizer isso).
+* Ocasionalmente, configurações de segurança muito altas no seu navegador podem impedir todos os pagamentos ao e-commerce online. Visite as configurações do seu navegador e reduza o nível de segurança um pouco, atualize a página e tente pagar novamente.
 
-If neither of these steps work then contact the [OFN support team](../local-ofn-organizations-and-contacts.md) in your country.&#x20;
+Se nenhum desses passos funciona, contate a [equipe de suporte](../local-ofn-organizations-and-contacts.md).
 
 {% hint style="info" %}
-We will endeavour to help you make your order as quickly as possible. We know how important a source of sustainably produced, local, fresh food is for your physical health and mental well being.
+Faremos o possível pra ajudar você a fazer seu pedido o mais rápido possível. Sabemos como uma fonte de alimentos frescos, locais e produzidos de forma sustentável é importante pra saúde física e bem-estar mental.
 {% endhint %}
 
-### **It says ‘Only approved customers can access this shop’.  What does that mean?**
+### **Diz 'Apenas clientes aprovados podem acessar essa loja'. O que significa?**
 
-You might be recommended to visit a local shop on the OFN platform by a friend, but when you land on the page you see this notice:
+Você pode ser recomendado por um amigo a visitar uma loja local na Nossa Feira, mas ao chegar na página vê este aviso:
 
 ![](https://lh5.googleusercontent.com/VvN5hrJJy4Xry5t5eixMmRepORycF_qmyl3I5vBZaUJ6nlTgxGYeAfy6QlfaMGgubknZXQsHWJl_dkl8Jb-_bPnSXeuUHxQIUeODQgyZTRrGLzshaAqwYj1m5fP3Y3MiSIfQ6WW9)
 
-Some shops opt to operate a ‘members only’ policy. For example a local buying group or collection of friends and neighbours may club together to purchase items in bulk at a discount from wholesalers.  Often these shops are more than willing to accept new members. They may ask for a small fee to cover admin costs of their business or ask if you are willing to help with deliveries/collections.
+Algumas lojas optam por operar uma política 'só pra membros'. Por exemplo, um grupo de compras local ou coleção de amigos e vizinhos podem se juntar pra comprar itens em lote com desconto de atacadistas. Frequentemente essas lojas topam receber novos membros. Podem cobrar uma pequena taxa pra cobrir custos administrativos ou perguntar se você topa ajudar com entregas/coletas.
 
-Get [in touch](the-people-and-businesses-who-make-grow-your-food.md#contact) with those who manage the business by email or phone (found under the ‘Contact’ tab) to find out how you can become a member.
+[Entre em contato](the-people-and-businesses-who-make-grow-your-food.md#contact) com quem gerencia o negócio por email ou telefone (na aba 'Contato') pra descobrir como se tornar um membro.
 
-### **It says ‘Orders are closed’.  What does that mean?**
+### **Diz 'Pedidos estão fechados'. O que significa?**
 
-The beauty of buying from local small producers is that you know the food you order will be made/harvested/packaged specially for you by a real person who lives not too far away.&#x20;
+A beleza de comprar de pequenos produtores locais é que você sabe que a comida pedida será feita/colhida/embalada especialmente pra você por uma pessoa real que mora não muito longe.
 
-In order for your local bakers, farmers, butchers, florists… etc to prepare orders often a shop will close a day or two before collection. &#x20;
+Pra que seus padeiros, agricultores, açougueiros, floristas... locais preparem os pedidos, frequentemente uma loja fecha um ou dois dias antes da coleta.
 
-You can contact the shop (details found under the ‘[Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab) to find when they will be open again.<br>
+Você pode contatar a loja (dados na aba '[Contato](the-people-and-businesses-who-make-grow-your-food.md#contact)') pra saber quando estará aberta novamente.<br>
 
 ![](https://lh4.googleusercontent.com/ZXkmTxxlLj6WoPIKI4PJniPY0NvrkUWJ4hehjPP5YnBswtsD9wZr5KG2CZbkpczSrlqhZvIUs-5gl2xmAYip74_ire8ROpcyKDGd_bHm7K1xQtU3xYimer0EM_bdcmROq6balzFF)

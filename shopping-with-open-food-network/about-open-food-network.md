@@ -1,15 +1,15 @@
-# About Open Food Network
+# Sobre a Nossa Feira
 
-The vision of Open Food Network is:
+A visão da Nossa Feira (parte da Open Food Network) é:
 
-> **A world where fair and open food supply networks connect people and regenerate the earth.**
+> **Um mundo onde redes justas e abertas de abastecimento de alimentos conectam pessoas e regeneram a terra.**
 
-The Open Food Network aims to enable people (everyone!) to be able to source their food fairly and directly from local farmers, growers and producers. &#x20;
+A Nossa Feira busca permitir que as pessoas (todo mundo!) possam obter comida de forma justa e direta de agricultores, produtores e pequenas indústrias locais.
 
-Shopping on the platform **empowers you as a customer**: it is easy to see where your food comes from, the story behind where or how it was grown or made, and the amount a producer will directly receive from your purchase. &#x20;
+Comprar na plataforma **empodera você como cliente**: é fácil ver de onde vem sua comida, a história de onde ou como foi cultivada ou feita, e quanto o produtor receberá diretamente da sua compra.
 
-Short local supply chains build communities. You can purchase milk from the local dairy, bread from the baker on your highstreet, vegetables from a local allotment etc all in one go and at your convenience.  Knowing that a real person, who runs a small business near you (who you may even bump into on the street from time to time) benefits directly from your weekly shop strengthens your local economy and builds food sovereignty.
+Cadeias curtas locais constroem comunidades. Você pode comprar leite do laticínio local, pão do padeiro do bairro, verduras de uma horta local, tudo de uma vez e na sua conveniência. Saber que uma pessoa real, que administra um pequeno negócio perto de você (que você pode até encontrar na rua de vez em quando), se beneficia diretamente da sua compra semanal fortalece a economia local e constrói soberania alimentar.
 
 {% embed url="https://youtu.be/eA3IcMUnU14" %}
 
-The Open Food Network is a global software platform. The code base is open source, which means it is owned by everyone. No one person has the authority to remove access to or ask for payment for use of the code.  The Open Food Network platform is only a host for the local food enterprises who are registered on it.  When you purchase on the platform it is an interaction between yourself (as a customer) and a local food enterprise. The Open Food Network is a not for profit organisation.<br>
+A Nossa Feira é uma instância da Open Food Network — uma plataforma global de software. A base de código é open source, o que significa que é de todos. Nenhuma pessoa tem autoridade pra remover o acesso ou pedir pagamento pelo uso do código. A plataforma é apenas um host para as empresas locais de alimentos cadastradas nela. Quando você compra na plataforma, é uma interação entre você (como cliente) e uma empresa local de alimentos. A Nossa Feira é uma iniciativa sem fins lucrativos.<br>

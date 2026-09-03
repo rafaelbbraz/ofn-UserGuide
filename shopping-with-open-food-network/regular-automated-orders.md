@@ -1,122 +1,122 @@
-# Subscription Orders
+# Pedidos de assinatura
 
-## **What are ‘Subscriptions’?**
+## **O que são 'Assinaturas'?**
 
-‘Subscriptions’ are a service offered by some shops on the OFN platform.  As a customer, if you have a ‘subscription’ from a shop then you will have an order placed on your behalf at a regular interval. &#x20;
+'Assinaturas' são um serviço oferecido por algumas lojas na Nossa Feira. Como cliente, se você tem uma 'assinatura' de uma loja, terá um pedido feito em seu nome em intervalos regulares.
 
-If you buy the same items from your local OFN shop every week, fortnight or month it is worth asking them if you can have a subscription order. It may save you time and subscriptions can offer security to the local food economy if producers know they can expect a minimum income each month.
+Se você compra os mesmos itens da sua loja local toda semana, quinzena ou mês, vale a pena perguntar se pode ter um pedido de assinatura. Pode economizar seu tempo e assinaturas podem oferecer segurança à economia alimentar local se os produtores sabem que podem esperar uma renda mínima por mês.
 
-## **How do I set one up?**
+## **Como configurar uma?**
 
-To set up a subscription you will need to get in touch with the shop you normally purchase from. Their contact details are found under the ‘[Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)’ tab.
-
-{% hint style="info" %}
-Not all shops offer subscriptions and for those who do, the range of products available on subscription may be more limited than their entire range. But it is always worth asking, if this is something you would like!
-{% endhint %}
-
-If a shop is able to organise a subscription for you, they will need to know the following information:
-
-* The email address associated with your OFN account.
-* The items you would like to purchase on a regular basis.
-* Your preferred collection/delivery time/day for your regular order.
-* Your preferred method of payment for your regular order.
-* The frequency which you would like the order (weekly, fortnightly, monthly…)
-* Start and end date (if you are giving a subscription as a gift you may like it to run for a limited time rather than indefinitely).
+Pra configurar uma assinatura você precisa entrar em contato com a loja em que normalmente compra. Os dados de contato ficam na aba '[Contato](the-people-and-businesses-who-make-grow-your-food.md#contact)'.
 
 {% hint style="info" %}
-You will need to register for an [OFN account](your-ofn-account.md) and have an active email address in order for the business to set your subscription up.
+Nem todas as lojas oferecem assinaturas, e nas que oferecem, a variedade de produtos disponíveis em assinatura pode ser mais limitada do que a linha inteira. Mas sempre vale perguntar se é algo que você gostaria!
 {% endhint %}
 
-## **Paying for a Subscription by card**
+Se uma loja pode organizar uma assinatura pra você, ela precisará das seguintes informações:
 
-If you would like to pay for your subscription order by card then it is necessary to add and save a card to your [OFN account](your-ofn-account.md#credit-cards) and tick the box to ‘Allow Charges?’ to the shop you would like the subscription with:
+* Email associado à sua conta na Nossa Feira.
+* Os itens que você quer comprar regularmente.
+* Horário/dia de coleta/entrega preferido do seu pedido regular.
+* Método de pagamento preferido do seu pedido regular.
+* A frequência que você quer o pedido (semanal, quinzenal, mensal...)
+* Data de início e fim (se você está dando uma assinatura como presente, pode querer que rode por tempo limitado em vez de indefinidamente).
+
+{% hint style="info" %}
+Você precisará se cadastrar com uma [conta na Nossa Feira](your-ofn-account.md) e ter um email ativo pra que a loja configure sua assinatura.
+{% endhint %}
+
+## **Pagando uma assinatura por cartão**
+
+Se você quer pagar seu pedido de assinatura por cartão, é necessário adicionar e salvar um cartão na sua [conta](your-ofn-account.md#credit-cards) e marcar a caixa 'Permitir Cobranças?' pra loja em que quer a assinatura:
 
 ![](../.gitbook/assets/authorisecard.jpg)
 
 {% hint style="warning" %}
-If you have **more than one card saved** in your account then it is the one with the ‘**default**’ box checked which will be debited when payment for your subscription order is requested.
+Se você tem **mais de um cartão salvo** na sua conta, o que tiver a caixa '**padrão**' marcada será debitado quando o pagamento pra sua assinatura for solicitado.
 {% endhint %}
 
 {% hint style="warning" %}
-If you **change your default card** then it will be necessary to re-check the 'Allow Charges to Default Card' box under' Authorised Shops to for payments for any subscriptions you have with those shops to be processed.
+Se você **altera seu cartão padrão**, será necessário re-marcar a caixa 'Permitir Cobranças no Cartão Padrão' em 'Lojas Autorizadas' pra que os pagamentos das assinaturas com essas lojas sejam processados.
 {% endhint %}
 
-## **What to expect**
+## **O que esperar**
 
-Every time an order is automatically generated for you, an email will be sent to inform you of its contents.  If one of the items in your subscription is not in stock that week/month (perhaps the baker is ill and is unable to bake bread) then the quantity in your email confirmation will read ‘0’.
+Cada vez que um pedido é gerado automaticamente pra você, um email será enviado informando o conteúdo. Se um dos itens da sua assinatura não está em estoque naquela semana/mês (talvez o padeiro está doente e não pode fazer pão), a quantidade no email de confirmação virá com '0'.
 
-The email will also inform you of the current price of each item.  Over time prices may fluctuate. The cost of your subscription will reflect the current cost and not the cost when the subscription was first created.
+O email também informará o preço atual de cada item. Ao longo do tempo, os preços podem flutuar. O custo da sua assinatura refletirá o custo atual e não o custo de quando a assinatura foi criada.
 
 ![](https://lh3.googleusercontent.com/3VwcWoSeYJegbFp-87a1578lu2oKbmy2hxeWw1FryuDmAU2lCDeaOxo5I2Z7Qymk691VCfcgBqWG0-dpFxIObWGsbscBUXL6SaoCX9yVypGJZiVuQe7p67sLBXKxD8-E5HS-ZELJ)
 
-### Changing your subscription order
+### Alterando seu pedido de assinatura
 
-Some shops may allow customers to remove items from their orders or cancel them altogether, within a limited time frame.  In which case you will be sent two emails. The first will notify you that your automated order has been placed and give you a link to follow if you wish to change your order:
+Algumas lojas podem permitir que os clientes removam itens dos pedidos ou cancelem completamente, dentro de um prazo limitado. Nesse caso, você receberá dois emails. O primeiro notificará que seu pedido automático foi feito e te dará um link pra seguir se quiser alterar:
 
 ![](https://lh3.googleusercontent.com/M1rkMedLCXm6w6ZRMQrT_7nz9R9u6nsMBfVAj2CWAAd3D5JiSDz9_0TwFE7gco0saGtWbibcjrdqRabfNpEQcQ9InI0-AbqOfbcsk2HOkmHES-e9eBAq0cPJZB-uCZm7IJS7mEh8)
 
 {% hint style="warning" %}
-Adding to your basket by following this link will generate a second order and you will be directed to the checkout to pay for your additional items separately from those in your subscription.
+Adicionar ao carrinho seguindo esse link gerará um segundo pedido e você será direcionado ao checkout pra pagar pelos itens adicionais separadamente daqueles da sua assinatura.
 {% endhint %}
 
-When orders close for that week/fortnight/month, you will be sent a second email confirming your final order contents and informing you that payment has been taken (if you are paying for your subscription by card- payment will not be automatically taken if you pay for your subscription by cash or bank transfer).
+Quando os pedidos fecham naquela semana/quinzena/mês, você receberá um segundo email confirmando o conteúdo final do pedido e informando que o pagamento foi coletado (se você paga a assinatura por cartão — o pagamento não é coletado automaticamente se você paga por dinheiro ou transferência).
 
 ![](https://lh3.googleusercontent.com/ow7-Yw4Wh8kxOHnVqHIPhaKsK7vywZqUx00kcWb9IcYgnIRbkVJpATfOM-fA3Y9Mj6NOSgQtFchPotByuOgmn6zvVz3IUBM1-UAhFSc0lTqozpA-9NHuGe2y6yRZkzbFPNyM5GT6)
 
-## **Common questions**
+## **Perguntas comuns**
 
-### **I pay by card for my subscription. When will the payment be taken?**
+### **Pago com cartão a minha assinatura. Quando o pagamento será coletado?**
 
-The shop you purchase from on the OFN platform opens and closes periodically in what we call ‘order cycles’.  You will be sent an email to say your subscription order has been placed when the order cycle corresponding to your subscription opens (ie weekly, fortnightly, monthly).  Payment will be taken when the order cycle closes.
+A loja da qual você compra na Nossa Feira abre e fecha periodicamente no que chamamos de 'ciclos de pedidos'. Você receberá um email dizendo que seu pedido de assinatura foi feito quando o ciclo correspondente à sua assinatura abre (semanal, quinzenal, mensal). O pagamento será coletado quando o ciclo fecha.
 
-### I have received an email stating that the payment for my subscription order failed. What should I do?
+### Recebi um email dizendo que o pagamento da minha assinatura falhou. O que faço?
 
-From time to time, if you pay for your subscription by card, you may receive the following email. Don't worry!&#x20;
+De tempos em tempos, se você paga a assinatura por cartão, pode receber o email abaixo. Não se preocupe!
 
 ![](../.gitbook/assets/cardemail.jpg)
 
-#### What to do next:
+#### O que fazer:
 
-* Get [in touch](the-people-and-businesses-who-make-grow-your-food.md#contact) with the business with whom you have a subscription and they will be able to let you know how to pay for this particular week's/month's order.&#x20;
-* Before your next order, [log into your OFN account](your-ofn-account.md#whats-in-your-account) and visit the 'Credit Cards' tab.  In the UK you can follow this link: [https://openfoodnetwork.org.uk/account#/cards](https://openfoodnetwork.org.uk/account#/cards)
-* Check that the 'Allow Charges to Default Card' box is checked next to the business with whom you have a subscription.
+* [Entre em contato](the-people-and-businesses-who-make-grow-your-food.md#contact) com o negócio no qual tem a assinatura e eles poderão te informar como pagar pelo pedido daquela semana/mês.
+* Antes do próximo pedido, [faça login na sua conta](your-ofn-account.md#whats-in-your-account) e visite a aba 'Cartões de Crédito'. Na Nossa Feira você pode seguir este link: `https://nossafeira.com.br/account#/cards`
+* Confirme que a caixa 'Permitir Cobranças no Cartão Padrão' está marcada ao lado do negócio no qual tem uma assinatura.
 
 ![](../.gitbook/assets/authorisecard.jpg)
 
 {% hint style="info" %}
-You will be asked to periodically re-visit this page and re-check this box.  This is an extra security measure brought in by European banks called Strong Card Authentication (SCA). You can read more [here](https://en.wikipedia.org/wiki/Strong_customer_authentication).
+Você será solicitado a periodicamente revisitar essa página e re-marcar essa caixa. É uma medida de segurança extra trazida pelos bancos europeus chamada Autenticação Forte de Cartão (SCA). Leia mais [aqui](https://en.wikipedia.org/wiki/Strong_customer_authentication).
 {% endhint %}
 
-* Check that your card registered as 'Default' is in date.  Add a new card if necessary.
+* Confirme que seu cartão registrado como 'Padrão' está dentro da validade. Adicione um novo cartão se necessário.
 
 ![](../.gitbook/assets/newcard.gif)
 
-### **Can I top up my order by adding extra products?**
+### **Posso adicionar produtos extras ao pedido?**
 
-You can certainly purchase more items each week from your local food enterprise.  These extra items will be added to a new order, however, which you will need to pay for via the [regular checkout system](shopping-and-placing-an-order.md#checkout).&#x20;
+Você certamente pode comprar mais itens toda semana da sua empresa local de alimentos. Esses itens extras serão adicionados a um novo pedido, no entanto, que você precisará pagar pelo [sistema regular de checkout](shopping-and-placing-an-order.md#checkout).
 
-If your local shop charges a small fixed fee per order for delivery/collection then get in touch with them (email and phone number can be found under ‘[Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)’). They will be able to remove this fee for your top up second order for you, so that you are not paying twice!
+Se sua loja local cobra uma pequena taxa fixa por pedido pra entrega/coleta, entre em contato com ela (email e telefone na aba '[Contato](the-people-and-businesses-who-make-grow-your-food.md#contact)'). Eles poderão remover essa taxa do seu segundo pedido pra que você não pague duas vezes!
 
-### **This week I don’t need to have X. Can this be removed for just one week?**
+### **Esta semana não preciso de X. Pode ser removido só por uma semana?**
 
-Yes, this is certainly possible. The best way to do this is to [contact](the-people-and-businesses-who-make-grow-your-food.md#contact) the shop who you are purchasing with and they can adjust your subscription order accordingly.
+Sim, é possível. A melhor forma é [contatar](the-people-and-businesses-who-make-grow-your-food.md#contact) a loja com a qual você tem a assinatura e eles podem ajustar o pedido.
 
-### **I would like to add/remove X from my regular order**
+### **Gostaria de adicionar/remover X do meu pedido regular**
 
-This is certainly possible. Just drop the shop where you have the subscription with an [email or phone call](the-people-and-businesses-who-make-grow-your-food.md#contact) and they can arrange the rest.
+É possível. Basta enviar um [email ou ligação](the-people-and-businesses-who-make-grow-your-food.md#contact) pra loja onde tem a assinatura e eles podem arranjar o resto.
 
-### **I would like to change my regular order to weekly rather than fortnightly.**
+### **Gostaria de mudar meu pedido regular pra semanal em vez de quinzenal.**
 
-This is certainly possible. Just drop the shop where you have the subscription with an [email or phone call ](the-people-and-businesses-who-make-grow-your-food.md#contact)and they can arrange the rest.
+É possível. Basta enviar um [email ou ligação](the-people-and-businesses-who-make-grow-your-food.md#contact) pra loja onde tem a assinatura.
 
-### **I’m going on holiday and don’t want my subscription for the next two weeks.**
+### **Vou de férias e não quero minha assinatura pelas próximas duas semanas.**
 
-This is certainly possible. Just drop the shop where you have the subscription with an [email or phone call](the-people-and-businesses-who-make-grow-your-food.md#contact) and they can arrange the rest.
+É possível. Basta enviar um [email ou ligação](the-people-and-businesses-who-make-grow-your-food.md#contact) pra loja onde tem a assinatura.
 
-### **There is a zero next to one of the products in my subscription. What does this mean?**
+### **Há um zero ao lado de um dos produtos da minha assinatura. O que isso significa?**
 
-The beauty of locally grown and made produce is that it is seasonal.  If an item in your regular order is out of stock (for instance lettuce in the winter or bread if the baker is ill that week and can’t bake) then your [order confirmation email ](regular-automated-orders.md#what-to-expect)will have a zero in the quantity column next to it.  The balance of your order will be adjusted accordingly.
+A beleza de produtos cultivados e feitos localmente é que são sazonais. Se um item do seu pedido regular está fora de estoque (por exemplo alface no inverno ou pão se o padeiro está doente e não pode assar naquela semana), seu [email de confirmação de pedido](regular-automated-orders.md#what-to-expect) terá um zero na coluna de quantidade ao lado. O saldo do pedido será ajustado.
 
-### **Will the cost of my subscription remain the same forever?**
+### **O custo da minha assinatura permanecerá o mesmo pra sempre?**
 
-No. The cost of your subscription will fluctuate based on the current price of the items within it.  This is to ensure small producers always receive a fair price for their products.  <br>
+Não. O custo da sua assinatura flutuará com base no preço atual dos itens. Isso garante que os pequenos produtores sempre recebam um preço justo pelos produtos.<br>

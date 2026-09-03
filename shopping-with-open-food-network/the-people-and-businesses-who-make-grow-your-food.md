@@ -1,39 +1,38 @@
-# The people & businesses who make/grow your food!
+# Quem produz sua comida!
 
-When you land on the home page of the shop you would like to buy from, you will see a number of tabs across the top of the page: \(to find a local shop read more [here](how-to-find-an-online-food-shop-near-you.md)\)
+Quando você chega na página inicial da loja em que quer comprar, verá várias abas no topo da página: (pra encontrar uma loja local, leia mais [aqui](how-to-find-an-online-food-shop-near-you.md))
 
-* [Notices](the-people-and-businesses-who-make-grow-your-food.md#notices-not-visible-on-all-shop-fronts)
-* [Shop](shopping-and-placing-an-order.md)
-* [About](the-people-and-businesses-who-make-grow-your-food.md#about)
-* [Producers](the-people-and-businesses-who-make-grow-your-food.md#producers)
-* [Contact](the-people-and-businesses-who-make-grow-your-food.md#contact)
-* [Groups](the-people-and-businesses-who-make-grow-your-food.md#groups-not-visible-on-all-shop-fronts)
+* [Avisos](the-people-and-businesses-who-make-grow-your-food.md#notices-not-visible-on-all-shop-fronts)
+* [Loja](shopping-and-placing-an-order.md)
+* [Sobre](the-people-and-businesses-who-make-grow-your-food.md#about)
+* [Produtores](the-people-and-businesses-who-make-grow-your-food.md#producers)
+* [Contato](the-people-and-businesses-who-make-grow-your-food.md#contact)
+* [Grupos](the-people-and-businesses-who-make-grow-your-food.md#groups-not-visible-on-all-shop-fronts)
 
-Under each tab is more information about the food business you are purchasing from: the story of the people behind your local produce, how to connect to them on social media, their contact details and more...
+Em cada aba há mais informações sobre o negócio de alimentos com o qual você está comprando: a história das pessoas por trás dos produtos locais, como se conectar nas redes sociais, os dados de contato e mais...
 
 ![](https://lh3.googleusercontent.com/FO_Mz9fdEd6U7pEYqO5wLAym-C8scKdbQvCdiq2E8Jbzh406GrorXXV7BGY1j9U_REVQyR2fiDr207PljroSbJ0NT_JjAJhLrjydcKo_f5P3vQfvuD36X7c5thKy9gqENe2E0nMy)
 
-**To buy items go directly to ‘**[**Shop**](shopping-and-placing-an-order.md)**’!**
+**Pra comprar itens, vá direto em '**[**Loja**](shopping-and-placing-an-order.md)**'!**
 
-### **Notices \(not visible on all shop fronts\)**
+### **Avisos (não visíveis em todas as vitrines)**
 
-This section will inform you about how the shop operates.  For example, you may find information about the different delivery/collection times the business offers, what their seasonal promotions are, conditions for collection \(eg. bring a bag with you\) and/or any other services they offer.
+Esta seção informa como a loja opera. Por exemplo, você pode encontrar informações sobre os diferentes horários de entrega/coleta oferecidos, promoções sazonais, condições pra coleta (ex: traga uma sacola) e/ou qualquer outro serviço oferecido.
 
-### **About**
+### **Sobre**
 
-This section is all about the food business who runs the shop front you are looking at.  The business may make or produce some or all the food that they offer for sale, or they may source from local suppliers. Learn more about how the business operates, how they choose their suppliers or make the food they sell or their vision for the local community.
+Esta seção é sobre o negócio de alimentos que administra a vitrine que você está olhando. O negócio pode produzir alguns ou todos os alimentos que oferece à venda, ou pode se abastecer de fornecedores locais. Saiba mais sobre como o negócio opera, como escolhe seus fornecedores ou faz os alimentos que vende, ou sua visão pra comunidade local.
 
-### **Producers**
+### **Produtores**
 
-Here you will find a list of all the businesses and individuals who supply the shop you are looking at.  By clicking on each name will bring up a pop up window where you can read more about the producer. This is a great place to find out more information about who and where your food comes from.  You can also see which other local shops on the platform stock that producer’s items.
+Aqui você encontra uma lista de todos os negócios e indivíduos que fornecem à loja que você está olhando. Clicando em cada nome, abre uma janela pop-up onde você pode ler mais sobre o produtor. Um ótimo lugar pra descobrir de onde vem sua comida. Você também pode ver quais outras lojas locais na plataforma comercializam itens desse produtor.
 
-### **Contact**
+### **Contato**
 
-Do you want to get in touch with the shop?  Perhaps you would like to find out more information about one of their items, or you ordered something for collection this week and now you are unable to make the collection time and date….
+Quer entrar em contato com a loja? Talvez queira saber mais sobre um item, ou pediu algo pra coleta nessa semana e agora não consegue ir na data/hora combinada...
 
-Whatever the reason, this is the best place to look. You will find a contact phone and email address for the shop along with links to their social media accounts and any external website they may host.
+Qualquer que seja a razão, este é o melhor lugar pra procurar. Você encontrará telefone e email de contato da loja, além de links pras redes sociais e qualquer site externo.
 
-### **Groups \(not visible on all shop fronts\)**
+### **Grupos (não visível em todas as vitrines)**
 
-Some food businesses on our platform team together to be part of a group.  Businesses within the same group often have shared beliefs, suppliers in common or are geographically close by.  
-
+Alguns negócios de alimentos na nossa plataforma se juntam pra fazer parte de um grupo. Negócios do mesmo grupo frequentemente têm crenças compartilhadas, fornecedores em comum ou estão geograficamente próximos.
