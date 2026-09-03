@@ -1,97 +1,97 @@
-# Shipping Methods
+# Métodos de envio
 
 {% hint style="warning" %}
-&#x20;You **must** create at least one shipping method before you can open your shop.
+Você **precisa** criar pelo menos um método de envio antes de abrir sua loja.
 {% endhint %}
 
-## Setting up a shipping method
+## Configurando um método de envio
 
-* Go to the Shipping Methods page by clicking on **Enterprises** in the main horizontal menu, and then click **Settings** next to your enterprise. The **Shipping Methods** page is found in the menu on the left hand side.
-* Click **Create new shipping method +** . You will be directed to a page like this:
+* Vá na página de Métodos de Envio clicando em **Empresas** no menu horizontal principal e depois em **Configurações** ao lado da sua empresa. A página **Métodos de Envio** fica no menu à esquerda.
+* Clique em **Criar novo método de envio +**. Você será direcionado a uma página como esta:
 
 ![](<../../.gitbook/assets/new shipping method.jpg>)
 
-* Check the box next to your enterprise on the right hand side of the page under 'Hubs'. This indicates that the shipping method you are about to create will apply to that enterprise.  You can select multiple enterprises, if desired.
-* **Name**: Choose a name for the method. This name will be displayed to the customer during their purchase process and on order confirmation emails. Example:
+* Marque a caixa ao lado da sua empresa no lado direito da página em 'Centrais'. Isso indica que o método de envio que você está prestes a criar se aplica a essa empresa. Você pode selecionar várias empresas, se desejar.
+* **Nome:** Escolha um nome para o método. Esse nome será exibido pro cliente durante o processo de compra e nos emails de confirmação. Exemplo:
 
 ![](<../../.gitbook/assets/shipping checkout multi.jpg>)
 
-* **Description:** Add additional details, such as the precise address of the collection point. These details will be visible to customers in grey next to the name (see screenshot above) and in their order confirmation email.
-* **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
+* **Descrição:** Adicione detalhes adicionais, como o endereço preciso do ponto de coleta. Esses detalhes ficam visíveis pro cliente em cinza ao lado do nome (veja captura acima) e no email de confirmação.
+* **Exibição:** Escolha entre 'Apenas back office' ou 'Checkout e back office'.
 
 {% hint style="info" %}
-If you want to inactivate a shipping method for a while but might want to offer it again in the future (perhaps a summer only collection point that you don't want to be available to customers in the winter) then change it to 'Back Office Only'.
+Se você quer inativar um método de envio por um tempo mas pode querer oferecê-lo no futuro (talvez um ponto de coleta só de verão que você não quer disponível pros clientes no inverno), mude pra 'Apenas back office'.
 {% endhint %}
 
-* **Category:** Is this method a delivery or pick-up?
-* **Tags:** enter labels here if you wish to differentiate between customers. Tags could be useful if you want to offer free shipping to a sub set of customers or only offer delivery to those who have a registered address which is close by.  Read more [here](customer-management-and-conditional-displays-prices/).
-* **Calculator:** Select the way that shipping fees will be added to this shipping method.  Note that a shipping fee may be zero. See below for more details.
-* **Tax Category:** This enables you to set the tax associated with your shipping method/collection fee independently to that assigned to tax-eligible products owned by your enterprise.  The options are: none, full rate, zero rated, reduced rate or shipping.
-* **Categories:** Transport conditions (refrigeration, frozen, default) associated with this shipping method.
+* **Categoria:** Esse método é entrega ou retirada?
+* **Tags:** Informe etiquetas aqui se você quer diferenciar entre clientes. Tags podem ser úteis se você quer oferecer frete grátis pra um subconjunto de clientes ou apenas oferecer entrega pra quem tem endereço próximo. Leia mais [aqui](customer-management-and-conditional-displays-prices/).
+* **Calculadora:** Selecione como as taxas de frete serão adicionadas a esse método. Note que uma taxa de envio pode ser zero. Veja abaixo pra mais detalhes.
+* **Categoria fiscal:** Permite definir o imposto associado ao método de envio/taxa de coleta independentemente do imposto atribuído aos produtos elegíveis a imposto da sua empresa. Opções: nenhum, alíquota cheia, isento, alíquota reduzida ou frete.
+* **Categorias:** Condições de transporte (refrigerado, congelado, padrão) associadas a esse método.
 
 {% hint style="danger" %}
-Under 'Categories' tick all boxes which apply to your food enterprise ie. if you sell products listed with a shipping category of 'frozen' then in order for the customer to be able to successfully checkout their shopping, the 'frozen' category will need to be checked in their desired shipping method.
+Em 'Categorias', marque todas as caixas aplicáveis à sua empresa — ou seja, se você vende produtos listados com categoria de frete 'congelado', então para o cliente conseguir finalizar a compra, a categoria 'congelado' precisa estar marcada no método de envio desejado.
 {% endhint %}
 
-* **Zones:** Select the appropriate zone (this is to enable correct tax calculations).
+* **Zonas:** Selecione a zona apropriada (isso permite cálculos fiscais corretos).
 
-By clicking **Create,** the shipping method will be created, and you will then be provided with new fields, to add details of the shipping method charges. The fields presented will depend upon which shipping fee calculator you have selected.&#x20;
+Clicando em **Criar**, o método de envio será criado e novos campos aparecerão pra você adicionar detalhes das taxas. Os campos apresentados dependem da calculadora selecionada.
 
 {% hint style="info" %}
-If you change the calculator type for a shipping method, you must **save first** before you can edit the calculator settings.
+Se você alterar o tipo de calculadora, precisa **salvar primeiro** antes de editar as configurações da calculadora.
 {% endhint %}
 
-## Fee Calculators
+## Calculadoras de taxa
 
 ![](<../../.gitbook/assets/shipping fee calc.jpg>)
 
-**Flat Percent** – This fee is charged as a percentage of the total amount spent in the order.
+**Porcentagem fixa** – Taxa cobrada como porcentagem do valor total gasto no pedido.
 
 {% hint style="danger" %}
-All **percentage fees** are calculated on a percentage of **product costs** only.&#x20;
+Todas as **taxas percentuais** são calculadas sobre o custo dos **produtos** apenas.
 {% endhint %}
 
 {% hint style="warning" %}
-If your business adds a flat percent [Enterprise Fee](enterprise-fees.md) to all products then in order to make the 'Flat Percent' **Amount** your desired percentage of a customer's basket is
+Se seu negócio adiciona uma [Taxa da Empresa](enterprise-fees.md) percentual fixa a todos os produtos, para que a 'Porcentagem fixa' **Valor** seja a porcentagem desejada sobre o carrinho do cliente:
 
-&#x20;$$= (100 + Enterprise Fee)*Desired Percent/100$$&#x20;
+&#x20;$$= (100 + Taxa da Empresa) * Porcentagem desejada / 100$$&#x20;
 
-eg. for a business with an enterprise fee of 20% who would like to charge a fee of 5% of a customer's total basket for shipping, the amount to enter in the flat percent of this shipping method is:
+Ex: para um negócio com Taxa da Empresa de 20% que quer cobrar 5% do carrinho total do cliente pro frete, o valor a informar na porcentagem fixa desse método de envio é:
 
 $$= (100 + 20) *5/100 = 6$$&#x20;
 {% endhint %}
 
-**Weight (per kg)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items (e.g. A product listed as ‘1 bunch of parsley’ will not contribute to the overall fee a customer is charged for shipping)
+**Peso (por kg)** – Taxa aplicada aos produtos por kg. A taxa é aplicada _apenas a produtos precificados por kg_, não a produtos listados como itens (ex: um produto listado como '1 maço de salsa' não contribuirá pro cálculo geral da taxa de envio cobrada do cliente).
 
-**Flat Rate (per order)** – This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Taxa fixa (por pedido)** – Taxa aplicada como padrão a todos os pedidos, independente do tamanho.
 
-**Flat Rate (per item)** – This fee is a constant fee, applied to products listed as ‘items’. (It is not applied to products sold by weight or volume. Hence there will be no associated shipping cost charged to a customer who, for example, buys rice by kg).
+**Taxa fixa (por item)** – Taxa constante, aplicada a produtos listados como 'itens'. (Não é aplicada a produtos vendidos por peso ou volume. Portanto, não haverá custo de envio associado a um cliente que compra arroz por kg, por exemplo).
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of shipping can be reduced or zero when the threshold number of items has been reached.&#x20;
+**Taxa flexível** – Calculadora especialmente útil se você quer incentivar pedidos grandes: o custo do frete pode ser reduzido ou zero quando um número limite de itens é atingido.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* 'Custo do primeiro item': Taxa cobrada pelo primeiro item do pedido.
+* 'Custo do item adicional': Taxa cobrada por itens além do primeiro.
+* 'Máximo de itens': Número máximo de itens sobre os quais a taxa será aplicada. Itens comprados além dessa quantidade não terão a taxa.
 
 ![](<../../.gitbook/assets/fee- flexible rate.jpg>)
 
-> For example: If the shipping fee for the 'First item cost' is £2, 'Additional Item Cost' = £1 and 'Max items' = 3. \
-> A customer who purchases 5 items, will be charged £4 shipping (£2 for the first item, £1 for items two and three, and £0 for items four and five).
+> Por exemplo: Se a taxa de envio é R$ 10 pro 'primeiro item', 'Custo do item adicional' = R$ 5 e 'Máximo de itens' = 3.\
+> Um cliente que compra 5 itens será cobrado R$ 20 de frete (R$ 10 pelo primeiro item, R$ 5 pelos itens dois e três, e R$ 0 pelos itens quatro e cinco).
 
-**Price Sack** – This is a flexible shipping fee method charged by _total monetary sale_, rather than number of items purchased (Flexible Rate above)
+**Faixa de preço** – Método flexível de taxa de envio cobrada pelo _valor total da venda_, em vez do número de itens comprados (Taxa flexível acima).
 
-* ‘Minimum Amount’: Monetary value of the threshold between Normal shipping fee and Discounted shipping fee.&#x20;
-* 'Normal Amount': Shipping fee applied to sales below the threshold stated in 'Minimum Amount'.
-* ‘Discount Amount’: Shipping fee applied to sales above the threshold stated in 'Minimum Amount'.
+* 'Valor mínimo': Valor monetário do limite entre taxa de envio Normal e taxa com Desconto.
+* 'Valor normal': Taxa de envio aplicada a vendas abaixo do limite em 'Valor mínimo'.
+* 'Valor com desconto': Taxa de envio aplicada a vendas acima do limite em 'Valor mínimo'.
 
 {% hint style="danger" %}
-The **Minimum Amount** is the _**total cost of the products**_ in a customer's basket and does not include any [enterprise fees](enterprise-fees.md).
+O **Valor mínimo** é o _**custo total dos produtos**_ no carrinho e não inclui nenhuma [taxa da empresa](enterprise-fees.md).
 {% endhint %}
 
 {% hint style="warning" %}
-For example, if a business adds an Enterprise Fee of 20% to all products and they wish to set the threshold between free delivery (Discount Amount = 0) and, say, £5 delivery (= Normal Amount) to be a basket of £30 then the Minimum amount is
+Por exemplo, se um negócio adiciona uma Taxa da Empresa de 20% a todos os produtos e quer definir o limite entre frete grátis (Valor com desconto = 0) e, digamos, R$ 25 de frete (= Valor normal) como um carrinho de R$ 150, então o Valor mínimo é:
 
-$$= £30 * 100 /(100+20) = £25$$&#x20;
+$$= 150 * 100 /(100+20) = 125$$&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/fees price sack (1).jpg>)

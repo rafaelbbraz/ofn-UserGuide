@@ -1,246 +1,216 @@
-# Payment Methods
+# Métodos de pagamento
 
 {% hint style="danger" %}
-You **must** create at least one payment method before you can open your shop.
+Você **precisa** criar pelo menos um método de pagamento antes de abrir sua loja.
 {% endhint %}
 
-## Setting up a Payment Method
+## Configurando um método de pagamento
 
-* Go to the Payment Methods page by clicking on **Enterprises** on the main horizontal menu, and then click **Settings** next to your enterprise. The **Payment Methods** page is found in the menu on the left hand side.
-* Click **Create new payment method +** . You will be directed to a page like this:
+* Vá na página de Métodos de Pagamento clicando em **Empresas** no menu horizontal principal e depois em **Configurações** ao lado da sua empresa. A página **Métodos de Pagamento** fica no menu à esquerda.
+* Clique em **Criar novo método de pagamento +**. Você será direcionado a uma página como esta:
 
 ![](<../../.gitbook/assets/payment method.jpg>)
 
-* Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
-* **Name:** Choose a name for this payment method. (eg 'Pay with credit card using Paypal'). This name is displayed at checkout and on customers' order confirmation emails.
+* Marque sua empresa na caixa à direita da página em Centrais. Isso indica a qual empresa o método de pagamento se aplica. Você pode selecionar mais de uma.
+* **Nome:** Escolha um nome pro método. (Ex: 'Pagar com cartão de crédito', 'Pix', 'Transferência bancária'). Esse nome é exibido no checkout e nos emails de confirmação do cliente.
 
 ![](<../../.gitbook/assets/payment checkout2.jpg>)
 
-* **Description:** provide further details about the payment method. For example, for a bank transfer, you would enter the bank account details in this box into which you would like a customer to make the BACS payment. This description is displayed at checkout and in order confirmation emails.
-* **Display:** Opt for either 'Back Office Only' or 'Both Checkout and Back Office'
+* **Descrição:** Forneça mais detalhes sobre o método. Por exemplo, para transferência bancária, você informaria os dados da conta bancária nessa caixa. Para Pix, a chave. Essa descrição é exibida no checkout e nos emails.
+* **Exibição:** Escolha entre 'Apenas back office' ou 'Checkout e back office'.
 
 {% hint style="info" %}
-If you want to inactivate a payment method for a while but might want to offer it again in the future (perhaps due to a COVID outbreak you temporarily need to stop offering cash on collection) then change it to 'Back Office Only'.
+Se você quer inativar um método por um tempo mas pode oferecê-lo no futuro (por exemplo, temporariamente parar de oferecer dinheiro na coleta), mude pra 'Apenas back office'.
 {% endhint %}
 
 {% hint style="warning" %}
-Changing all your enterprise's payment methods to 'Back Office Only' will result in a [Display Only Shopfront](display-only-order-cycles.md) for active order cycles.
+Alterar todos os métodos de pagamento pra 'Apenas back office' vai resultar em uma [Vitrine de Exibição](display-only-order-cycles.md) para ciclos ativos.
 {% endhint %}
 
-* **Active:** Select whether this payment method is currently visible and available, or not.
-* **Tags:** Use tag rules if you want to make certain payment methods available/unavailable for specific customers (for example you may wish to allow only wholesale customers to pay by BACS but 'force' domestic customers to pay by Credit Card or PayPal.). For more information read [here](customer-management-and-conditional-displays-prices/).
-* **Payment providers**: Select the option which is relevant to the payment method you are creating. There are three options:
-  * PayPal Express&#x20;
-  * Stripe SCA
-  * Cash / EFT / etc. (Cash, cheque or bank transfer. These payments do not go through an online payment portal and do not involve automatic validation)&#x20;
+* **Ativo:** Selecione se esse método está atualmente visível e disponível ou não.
+* **Tags:** Use regras de tags se quer disponibilizar/indisponibilizar certos métodos para clientes específicos (por exemplo, permitir apenas clientes atacadistas pagarem por transferência bancária). Mais informações [aqui](customer-management-and-conditional-displays-prices/).
+* **Provedores de pagamento:** Selecione a opção relevante ao método que está criando. Opções comuns:
+  * Stripe (cartão de crédito)
+  * PayPal Express
+  * Dinheiro / Pix / Transferência (pagamentos que não passam por gateway online e não têm validação automática)
 
 ![](<../../.gitbook/assets/payment provider.jpg>)
 
 {% hint style="warning" %}
-Remember!  If your enterprise has '_**Customers can change or cancel orders while an order cycle is open'**_ enabled (found in Enterprises -> Settings -> [Shop Preferences](../enterprise-profile/enterprise-settings.md#shop-preferences)) then the only recommended payment provider which is compatible with this feature is 'Cash, EFTs, ...)
+Lembre! Se sua empresa tem '_**Clientes podem alterar ou cancelar pedidos enquanto o ciclo está aberto**_' habilitado (em Empresas -> Configurações -> [Preferências da Loja](../enterprise-profile/enterprise-settings.md#shop-preferences)), o único provedor recomendado compatível com esse recurso é 'Dinheiro / Pix / Transferência...'
 {% endhint %}
 
-* **Calculator:** Select how you would like any charges associated with the payment method to apply to an order. Note that payment method fees can be set to zero. See below for more information about [Payment Method Fees](payment-methods.md#fee-calculators).&#x20;
+* **Calculadora:** Selecione como aplicar cobranças associadas ao método a um pedido. Note que taxas de método de pagamento podem ser zero. Veja abaixo mais informações sobre [Taxas do Método de Pagamento](payment-methods.md#fee-calculators).
 
-By clicking Create, the payment method will be created and you will have new fields to define payment method fees. These fields visible depend on which 'Calculator' you selected.&#x20;
+Clicando em Criar, o método será criado e você terá novos campos pra definir as taxas. Os campos visíveis dependem da 'Calculadora' selecionada.
 
 {% hint style="info" %}
-If you change the Payment Method fee 'Calculator' field you must first save your changes (Update) for the new associated fields to become visible.
+Se você alterar a 'Calculadora' de Taxa do Método de Pagamento, precisa primeiro salvar (Atualizar) para os novos campos ficarem visíveis.
 {% endhint %}
 
-## Integrated Payment Providers
-
-For Paypal, MasterCard, Stripe and Pin Payments (Australia only) additional instructions are below.
+## Provedores de pagamento integrados
 
 {% tabs %}
-{% tab title="Paypal" %}
-To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com). Once you have that, you can set up ‘API access’ within PayPal, which will enable OFN to connect customers directly with your PayPal account.
-
-1. Login to your PayPal Account
-2. Under your account name on the top right there is a drop down menu with 'Account Settings'
-
-![](../../.gitbook/assets/paypalmay1.jpg)
-
-3\. Select 'Update' from API Access
-
-![](../../.gitbook/assets/paypalmay2.jpg)
-
-4\. Select 'Manage API credentials' from the custom checkout experience option.
-
-![](../../.gitbook/assets/paypalmay3.jpg)
-
-From here you will be able to access your API username, password and signature.
-
-![](../../.gitbook/assets/paypalmay4.jpg)
-
-**In OFN,** make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
-
-**Server:** Change the ‘server’ field to ‘live’ – this is case sensitive.
-
-**Login:**&#x54;ype the API Username.
-
-**Password:**&#x54;ype the API Password.
-
-**Signature:**&#x54;ype the API Signature in this field.
-
-![](../../.gitbook/assets/paypal.jpg)
-
-**Solution:** Solution determines whether or not a user needs a PayPal account to check out.
-
-Type “Mark” if you do want users to have a paypal account, or “Sole” if they can checkout without a Paypal account (with credit card) - this field is case sensitive.
-
-**Landing Page:** You can select which page to show customers once they’re redirected to PayPal.
-
-Type “Login” to direct customer to the login form for PayPal (if you selected “Mark” above) or “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account (if you selected “Sole” above) - n.b. this field is case sensitive.
-{% endtab %}
-
-{% tab title="MIGS" %}
-&#x20;MasterCard Internet Gateway Service (MIGS)
-
-Set up of this service needs to be done through your bank. So far it has been tested with Bendigo Bank.
-{% endtab %}
-
 {% tab title="Stripe" %}
-[Stripe](https://stripe.com/au) is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain OFN instances. Contact your [local OFN team](https://openfoodnetwork.org/ofn-local/) to see whether it’s available on your OFN.
+[Stripe](https://stripe.com/br) é uma plataforma de pagamento online. Permite aceitar pagamentos com cartão de crédito dos seus clientes. É uma plataforma global disponível em várias instâncias da Nossa Feira. Contate a equipe local pra verificar disponibilidade.
 
-#### Why use Stripe?
+#### Por que usar Stripe?
 
-Stripe is simple to setup for shop owners and is reasonably priced. The fees charged by Stripe vary in each country; [Australia](https://stripe.com/au/pricing), [Canada](https://stripe.com/ca/pricing), [France](https://stripe.com/fr/pricing), [UK](https://stripe.com/gb/pricing), [USA](https://stripe.com/us/pricing).
+Stripe é simples de configurar para donos de loja e tem preço razoável. As taxas variam por país — verifique [pricing](https://stripe.com/br/pricing) para Brasil.
 
-Stripe is also easy for customers to use. Unlike Paypal, when the customer checks out, they don’t need to login with Paypal to place their order, rather they just need to enter their card details and then complete their order.
+Stripe também é fácil para os clientes. Diferente do PayPal, no checkout o cliente não precisa fazer login — só informa os dados do cartão e completa o pedido.
 
-Stripe is the recommended payment method for shops who wish to use [**subscriptions** ](../subscriptions/)on OFN, as Stripe allows customers to give permission to a shop to automatically bill their credit card for subscription orders. This isn’t offered by Paypal, Pin or MIGS payment platforms.
+Stripe é o método recomendado para lojas que querem usar [**assinaturas**](../subscriptions/) na Nossa Feira, pois permite que clientes autorizem cobrança automática do cartão para pedidos de assinatura. Isso não é oferecido por PayPal ou outros.
 
 #### Setup
 
-**Connect with Stripe**
+**Conectar com Stripe**
 
-Before you can setup a payment method that uses Stripe, you’ll need to Connect with Stripe. To do this, click on the ‘Connect with Stripe’ button.
+Antes de configurar um método usando Stripe, você precisa se Conectar. Clique no botão 'Conectar com Stripe'.
 
 ![](../../.gitbook/assets/connect-with-stripe.png)
 
-You’ll be taken to a form to fill in your details. If you already have an account with Stripe, you can login, if not, fill in the form to create a Stripe account.
+Você será levado a um formulário. Se já tem conta Stripe, faça login. Se não, preencha para criar uma conta.
 
-The information you’ll be asked for includes: country, a description of your business, your Business address and ABN, your personal details and your bank account (where received payments will be deposited).
+Informações pedidas incluem: país, descrição do seu negócio, endereço comercial e CNPJ, seus dados pessoais e conta bancária (onde os pagamentos serão depositados).
 
-**Create a New Payment Method**
+**Criar um novo método de pagamento**
 
-Once you’ve connected with Stripe, you can then create a payment method which will work with your connected account.
+Uma vez conectado, você pode criar um método que funcione com sua conta conectada.
 
-Treat the **Name**, **Description**, **Active** and **Tags** fields as you would with any payment method.
+Trate os campos **Nome**, **Descrição**, **Ativo** e **Tags** como faria com qualquer método.
 
-**Provider:** Select Stripe.
+**Provedor:** Selecione Stripe.
 
-Once you select Stripe, ‘Provider Settings’ will be shown.
+Uma vez selecionado, aparecerão 'Configurações do Provedor'.
 
-**Stripe Account Owner:**
+**Proprietário da conta Stripe:**
 
-Select the enterprise that has a Stripe account connected.
+Selecione a empresa que tem uma conta Stripe conectada.
 
-If you select an enterprise that is not Connected to Stripe (see above) , you will get the error shown below. Either click ‘Connect One’ or return to your Payment Methods tab to Connect with Stripe. See instructions above.
+Se você selecionar uma empresa que não está conectada ao Stripe (veja acima), receberá o erro mostrado abaixo. Clique em 'Conectar uma' ou volte à aba de Métodos de Pagamento pra se conectar.
 
 ![](../../.gitbook/assets/stripe-connect.png)
 
-#### Stripe Payments for Customers
+#### Pagamentos Stripe para clientes
 
-When customers checkout in a shop and pay with a Stripe payment method, they’ll have the options of selecting a tickbox allowing their credit card details to be stored against their account (if they are logged in).
+Quando os clientes finalizam a compra em uma loja com Stripe, terão a opção de marcar uma caixa permitindo que os dados do cartão sejam armazenados na conta deles (se estiverem logados).
 
-Customer can also save a credit card in their Account, or delete saved ones.
+Clientes também podem salvar um cartão na Conta ou deletar salvos.
 
 ![](../../.gitbook/assets/add-card.png)
 
-When the customer next shops with an OFN shop offering Stripe as a payment method, they’ll be able to select from their saved credit cards.
+Na próxima compra em uma loja com Stripe, o cliente pode selecionar entre os cartões salvos.
 
-**Viewing and redeeming your payments via Stripe**
+**Visualizando e recebendo seus pagamentos via Stripe**
 
-When a customer pays for their order with Stripe, the funds (minus Stripe's fees) will go to your stripe account. Depending on your setting in Stripe the funds will be automatically transferred to your chosen bank account periodically.
+Quando um cliente paga com Stripe, os fundos (menos as taxas do Stripe) vão para sua conta Stripe. Dependendo da configuração no Stripe, os fundos serão automaticamente transferidos periodicamente pra sua conta bancária escolhida.
 
-**Taking further payment**
+**Recebendo pagamento adicional**
 
-If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
+Se você precisa cobrar valor adicional do cliente por saldo devedor, pode criar uma fatura no Stripe. O cliente receberá um email pedindo pra pagar com cartão. Isso não será comunicado à Nossa Feira, então você precisará marcar o pagamento manualmente.
 
 ![](<../../.gitbook/assets/image (31).png>)
 {% endtab %}
 
-{% tab title="Pin Payments" %}
-For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an OFN member ([https://pinpayments.com/partners/openfoodnetwork/signup](https://pinpayments.com/partners/openfoodnetwork/signup))
+{% tab title="PayPal" %}
+Pra configurar um método PayPal, você precisa de uma conta PayPal comercial. Você pode criar uma [aqui](https://www.paypal.com). Uma vez que tem, pode configurar 'acesso à API' no PayPal, que permite a Nossa Feira conectar os clientes diretamente à sua conta PayPal.
 
-**API Key:**&#x45;nter your “Live Secret API Key’ here – you can find this in your PinPayments account (see below). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in OFN.
+1. Faça login na sua conta PayPal.
+2. No seu nome no canto superior direito há um menu com 'Configurações da Conta'.
 
-![](../../.gitbook/assets/api-keys.png)
+![](../../.gitbook/assets/paypalmay1.jpg)
 
-![](../../.gitbook/assets/api-2.png)
+3. Selecione 'Atualizar' em Acesso à API.
 
-**Server:**&#x54;ype ‘live’ – this is case sensitive.
+![](../../.gitbook/assets/paypalmay2.jpg)
+
+4. Selecione 'Gerenciar credenciais da API'.
+
+![](../../.gitbook/assets/paypalmay3.jpg)
+
+Daqui você acessará seu usuário API, senha e assinatura.
+
+![](../../.gitbook/assets/paypalmay4.jpg)
+
+**Na Nossa Feira,** garanta que está logado como usuário da empresa. Vá em uma Empresa e crie um Método de Pagamento. Selecione PayPal e preencha os detalhes.
+
+**Server:** Mude o campo 'server' pra 'live' — sensível a maiúsculas.
+
+**Login:** Informe o usuário da API.
+
+**Password:** Informe a senha da API.
+
+**Signature:** Informe a assinatura da API.
+
+![](../../.gitbook/assets/paypal.jpg)
+
+**Solution:** Solution determina se o usuário precisa de conta PayPal para finalizar. Digite "Mark" se quiser que os usuários tenham conta PayPal, ou "Sole" se puderem finalizar sem (com cartão).
+
+**Landing Page:** Você pode selecionar qual página mostrar aos clientes uma vez redirecionados ao PayPal. Digite "Login" pra direcionar ao formulário de login PayPal, ou "Billing" pra mostrar formulário onde podem informar cartão.
 {% endtab %}
 {% endtabs %}
 
-## Payment Method Fees
+## Taxas do método de pagamento
 
 ![](<../../.gitbook/assets/fee calculator.jpg>)
 
-You can attach a fee to payment methods. Most commonly this is used to pass on a payment portal's fees to the customer.  For example, you may wish to charge the customer for the convenience of paying by PayPal to cover the fee charged by PayPal.
+Você pode anexar uma taxa aos métodos de pagamento. Mais comumente isso é usado para repassar as taxas do gateway de pagamento ao cliente. Por exemplo, você pode querer cobrar do cliente a conveniência de pagar por cartão pra cobrir a taxa do Stripe.
 
 {% hint style="danger" %}
-Payment Method Fees DO NOT include tax (VAT)
+Taxas do método de pagamento NÃO incluem imposto.
 {% endhint %}
 
-### Fee Calculators
+### Calculadoras de taxa
 
-**Flat Percent:** This fee is charged as a percentage of the total amount charged in the order.
+**Porcentagem fixa:** Taxa cobrada como porcentagem do valor total do pedido.
 
 {% hint style="danger" %}
-All **percentage fees** are calculated on a percentage of **product costs** only.&#x20;
+Todas as **taxas percentuais** são calculadas sobre o custo dos **produtos** apenas.
 {% endhint %}
 
 {% hint style="warning" %}
-If your business adds a flat percent [Enterprise Fee](enterprise-fees.md) to all products then in order to make the 'Flat Percent' **Amount** your desired percentage of a customer's basket is
+Se seu negócio adiciona uma [Taxa da Empresa](enterprise-fees.md) percentual fixa a todos os produtos, para que a 'Porcentagem fixa' **Valor** seja a porcentagem desejada:
 
-&#x20;$$= (100 + Enterprise Fee)*Desired Percent/100$$&#x20;
+&#x20;$$= (100 + Taxa da Empresa) * Porcentagem desejada / 100$$&#x20;
 
-eg. for a business with an enterprise fee of 20% who would like to charge a fee of 5% of a customer's total basket for payment, the amount to enter in the flat percent of this payment method is:
+Ex: para um negócio com Taxa da Empresa de 20% que quer cobrar 5% do carrinho total, o valor a informar é:
 
 $$= (100 + 20) *5/100 = 6$$&#x20;
 {% endhint %}
 
-**Flat Rate (per order):** This fee is applied as standard fee to all orders, regardless of the size of the order.
+**Taxa fixa (por pedido):** Taxa aplicada como padrão a todos os pedidos, independente do tamanho.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the cost of payment can be reduced or zero when the threshold number of items has been reached.&#x20;
+**Taxa flexível** – Calculadora especialmente útil se você quer incentivar pedidos grandes: o custo do pagamento pode ser reduzido ou zero quando o número limite de itens é atingido.
 
-* ‘First Item Cost’: The fee charged for the first item in the order.
-* ‘Additional Item Cost’: The fee charged for items beyond the first item.
-* ‘Max Items’: The maximum number of items on which the fee will be applied. Items purchased beyond this amount will be not be charged the fee.
+* 'Custo do primeiro item': Taxa cobrada pelo primeiro item do pedido.
+* 'Custo do item adicional': Taxa cobrada por itens além do primeiro.
+* 'Máximo de itens': Número máximo de itens sobre os quais a taxa se aplica. Itens além dessa quantidade não terão a taxa.
 
 ![](<../../.gitbook/assets/fee- flexible rate.jpg>)
 
-> For Example: if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' is £0.10 and 'Max Items' is 3 then a customer who purchases 5 items will be charged £0.40 in payment fees (£0.20 for the first item, £0.10 for items two and three, and £0.00 for items four and five).
+> Por exemplo: se o 'Custo do primeiro item' é R$ 1,00, 'Custo do item adicional' é R$ 0,50 e 'Máximo de itens' é 3, um cliente que compra 5 itens será cobrado R$ 2,00 em taxas (R$ 1 pelo primeiro, R$ 0,50 pelos itens dois e três, R$ 0 pelos itens quatro e cinco).
 
-**Flat Rate (per item):** This fee is a constant fee, applied to products listed as ‘items’. (It is not applied to products sold by weight or volume. Hence there will be no associated payment method fee charged to a customer who, for example, buys rice by kg.)
+**Taxa fixa (por item):** Taxa constante aplicada a produtos listados como 'itens'. (Não é aplicada a produtos vendidos por peso ou volume.)
 
-**Price Sack:** This is a flexible shipping fee method that allows you to reward shoppers who spend over a ‘minimal amount’ by applying a discount. If the shopper spends less than the ‘minimal amount’ you can set what shipping fee they pay.&#x20;
+**Faixa de preço:** Método flexível que permite recompensar compradores que gastam acima de um 'valor mínimo' aplicando um desconto.
 
-* Minimal Amount: If the order total is below this amount, no discount is applied. If the order is above this amount, the discount will be applied at checkout.
-* ‘Normal Amount’: This will be the shipping fee applied to sales below the ‘Minimal Amount’.
-* ‘Discount Amount’: This will be the shipping fee applied to sales above the ‘Minimal Amount’.
+* Valor mínimo: Se o total do pedido é abaixo desse valor, nenhum desconto é aplicado. Se está acima, o desconto é aplicado no checkout.
+* 'Valor normal': Taxa aplicada a vendas abaixo do 'Valor mínimo'.
+* 'Valor com desconto': Taxa aplicada a vendas acima do 'Valor mínimo'.
 
 {% hint style="danger" %}
-The **Minimum Amount** is the _**total cost of the products**_ in a customer's basket and does not include any [enterprise fees](enterprise-fees.md).
+O **Valor mínimo** é o _**custo total dos produtos**_ no carrinho e não inclui nenhuma [taxa da empresa](enterprise-fees.md).
 {% endhint %}
 
 ![](<../../.gitbook/assets/fees price sack (1).jpg>)
 
-{% hint style="warning" %}
-For example, if a business adds an Enterprise Fee of 20% to all products and they wish to set the threshold between no fee for payment (Discount Amount = 0) and, say, a £0.50 fee (= Normal Amount) to be a basket of £30 then the Minimum amount is
-
-$$= £30 * 100 /(100+20) = £25$$&#x20;
-{% endhint %}
-
 {% hint style="info" %}
-Payment portals often charge businesses a fixed amount per transaction plus a small % of the total cost.  Thus fees encountered by a Hub or Shop for customers who purchase the same total amount in multiple small sales will be higher than if the customer did all their shopping at once.&#x20;
+Gateways de pagamento frequentemente cobram um valor fixo por transação mais uma pequena % do total. Assim, taxas encontradas por uma central ou loja para clientes que compram o mesmo total em várias vendas pequenas serão maiores do que se o cliente fizesse toda a compra de uma vez.
 
-The Flexible Rate and Price Sack calculators, applied to payment method fees, may prove useful to counter balance this.
+As calculadoras Taxa flexível e Faixa de preço, aplicadas às taxas do método de pagamento, podem ser úteis pra contrabalancear isso.
 {% endhint %}
 
-## Refunds
+## Reembolsos
 
-Issuing and managing refunds depends on how a customer originally paid for  their order.  More details are found[ here.](../orders/refunds-and-adjusting-payments.md)
+Emitir e gerenciar reembolsos depende de como o cliente originalmente pagou o pedido. Mais detalhes [aqui](../orders/refunds-and-adjusting-payments.md).
