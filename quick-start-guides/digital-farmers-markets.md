@@ -1,24 +1,23 @@
 ---
-description: How to set up a Farmer's Market online
+description: Como montar uma Feira Digital
 ---
 
-# Digital Farmer's Markets
+# Feiras Digitais
 
-Farmers’ Markets have the option to setup as a [group](../basic-features/groups/) of individually managed [shops](../your-quick-start-on-ofn-given-who-you-are.md#shop) (Option 1) or as a centrally managed [hub](../your-quick-start-on-ofn-given-who-you-are.md#hub) (Option 2).
+Feiras (equivalente aos Farmer's Markets) podem ser configuradas como um [grupo](../basic-features/groups/) de [lojas](../your-quick-start-on-ofn-given-who-you-are.md#shop) gerenciadas individualmente (Opção 1) ou como uma [central](../your-quick-start-on-ofn-given-who-you-are.md#hub) gerenciada centralmente (Opção 2).
 
 ![](../.gitbook/assets/ofncan-digital-farmers-market-options-graphic.png)
 
-### Option 1: Multi-vendor Market
+### Opção 1: Feira multi-vendedor
 
-* Contact each vendor at your Farmer's Market and ask them to set up a shop for their produce.  You may wish to give them a link to [this quick start guide](producer-shop-quick-setup-guide.md).
-* Contact your [local OFN support team](../local-ofn-organizations-and-contacts.md) and ask for them to set up a [group](../basic-features/groups/) for your farmer's market. &#x20;
+* Entre em contato com cada vendedor da sua feira e peça pra ele configurar uma loja pra seus produtos. Você pode mandar pra ele o link deste [guia rápido](producer-shop-quick-setup-guide.md).
+* Entre em contato com a [equipe de suporte local da Nossa Feira](../local-ofn-organizations-and-contacts.md) e peça pra criarem um [grupo](../basic-features/groups/) pra sua feira.
 
 {% hint style="success" %}
-Once your Farmer's Market Group has been created you will be able to [manage its content](../basic-features/groups/group-page.md)
+Assim que o grupo da sua feira for criado, você poderá [gerenciar o conteúdo dele](../basic-features/groups/group-page.md).
 {% endhint %}
 
-### Option 2: Hub
+### Opção 2: Central (Hub)
 
-* As overall manager of your Farmer's market, follow [this quick start guide to setting up a Hub](multi-producers-shop-hub-quick-setup-guide.md) on the OFN platform.
-* Individual suppliers to your market should follow [this guide to setting up as Profiles](profile-only-quick-setup-guide.md) on the OFN platform.
-
+* Como gerente geral da sua feira, siga [este guia rápido pra configurar uma Central](multi-producers-shop-hub-quick-setup-guide.md) na Nossa Feira.
+* Os fornecedores individuais da sua feira devem seguir [este guia pra configurar Perfis](profile-only-quick-setup-guide.md) na Nossa Feira.

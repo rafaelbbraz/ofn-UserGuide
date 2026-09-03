@@ -1,17 +1,17 @@
 ---
-description: Simple steps to start your OFN journey
+description: Passos simples para começar sua jornada na Nossa Feira
 ---
 
-# Quick Start Guides
+# Guias rápidos de configuração
 
-Getting started on the Open Food Network can be as easy as 5 steps!
+Começar na Nossa Feira pode ser fácil como 5 passos!
 
-Follow the quick start guide for your enterprise:
+Escolha o guia rápido para o seu tipo de empresa:
 
-* [Hub](multi-producers-shop-hub-quick-setup-guide.md)
-* [Shop](producer-shop-quick-setup-guide.md)
-* [Profile](profile-only-quick-setup-guide.md)
+* [Central (Hub)](multi-producers-shop-hub-quick-setup-guide.md)
+* [Loja](producer-shop-quick-setup-guide.md)
+* [Perfil](profile-only-quick-setup-guide.md)
 
-Not sure which enterprise you are?  Have a look at this [page](../your-quick-start-on-ofn-given-who-you-are.md).
+Não tem certeza qual tipo de empresa você é? Dá uma olhada [nesta página](../your-quick-start-on-ofn-given-who-you-are.md).
 
-For advice on setting up a Digital Farmer's Market read [here](digital-farmers-markets.md).
+Para orientações sobre montar uma Feira Digital, leia [aqui](digital-farmers-markets.md).
