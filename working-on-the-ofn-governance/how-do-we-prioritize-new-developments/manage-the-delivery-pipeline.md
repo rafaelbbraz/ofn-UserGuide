@@ -1,16 +1,16 @@
-# Curate the delivery pipeline
+# Curar o pipeline de entrega
 
-So we will have in permanence lots of different issues competing to enter the delivery pipeline:
+Então teremos permanentemente muitas issues diferentes competindo pra entrar no pipeline de entrega:
 
-* features answering prioritized unmet needs
+* recursos respondendo a necessidades priorizadas não atendidas
 * bugs
-* tech debt issues and automated testing issues
-* sys admin tasks
+* issues de dívida técnica e issues de testes automatizados
+* tarefas de sysadmin
 
-In order to feed the delivery pipe to ensure the sustainability and maintainability of our product, we need to make sure that tech debt is taken into account, that painful bugs get solved and that prioritized unmet needs get met.
+Pra alimentar o pipeline de entrega garantindo a sustentabilidade e manutenibilidade do nosso produto, precisamos garantir que a dívida técnica seja levada em conta, que bugs dolorosos sejam resolvidos e que necessidades priorizadas não atendidas sejam atendidas.
 
-* What tech debt/sys admin task do we need to fix in priority?
-* Among the features selected to satisfy the unmet needs, which ones can we reasonably incept and implement in the month to come?
-* What bugs do we put in the pipeline?
+* Qual dívida técnica/tarefa de sysadmin precisamos corrigir em prioridade?
+* Entre os recursos selecionados pra satisfazer as necessidades não atendidas, quais podemos razoavelmente conceber e implementar no mês vindouro?
+* Que bugs colocamos no pipeline?
 
-Delivery circle is in charge of keeping the pipe balanced.
+O círculo de entrega está encarregado de manter o pipeline balanceado.

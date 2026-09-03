@@ -1,17 +1,17 @@
-# Report and curate bugs
+# Reportar e curar bugs
 
-There is no software without bugs. We just need a process to report and fix bugs efficiently. Not all bugs are equivalent, some really prevent the use of the platform and should be addressed as soon as possible. Others are small bugs that are not really annoying, we can live with them, users may not even have noticed them.
+Não há software sem bugs. Só precisamos de um processo pra reportar e corrigir bugs eficientemente. Nem todos os bugs são equivalentes — alguns realmente impedem o uso da plataforma e devem ser endereçados o mais rápido possível. Outros são pequenos bugs que não são realmente irritantes, podemos viver com eles, os usuários podem nem tê-los notado.
 
-### **1- What is a bug?**
+### **1 – O que é um bug?**
 
-We regularly have people opening issues on Github saying they are bug, but in fact they talk about a new feature not yet implemented. Bugs are only gaps between how a feature is supposed to work ALREADY, and how it works ACTUALLY.
+Regularmente temos pessoas abrindo issues no GitHub dizendo que são bugs, mas na verdade falam sobre um recurso novo ainda não implementado. Bugs são apenas lacunas entre como um recurso deveria funcionar JÁ e como funciona DE FATO.
 
-### **2- What to do if you identify a bug?**
+### **2 – O que fazer se você identificar um bug?**
 
-Open an issue on Github. When you create an issue, you will see a default template guiding you to report that bug. We have worked on a [five level priority list](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Bug-severity), please always affect a priority level to a bug, that will help us curate them!
+Abra uma issue no GitHub. Ao criar uma issue, você verá um template padrão guiando você a reportar aquele bug. Trabalhamos em uma [lista de prioridade de cinco níveis](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Bug-severity) — por favor sempre atribua um nível de prioridade a um bug, isso nos ajudará a curá-los!
 
-### **3- How do we curate bugs?**
+### **3 – Como curamos bugs?**
 
-The train drivers of the OFN will treat the new bugs the following way:\
-a- For s1 or s2 bugs (most severe bugs), as soon as the bug is reported, they will add a message on the #bugs channel on Slack to make sure the first developer available work on it as soon as possible and will put the issue at the top of the dev-ready column.\
-b- For s3 and lower, each core instance get to choose their most pressing bugs at a regular pace. Train drivers are responsible for making sure bugs are selected and tackle regularly
+Os train drivers da OFN tratarão os novos bugs da seguinte forma:\
+a – Para bugs s1 ou s2 (bugs mais severos), assim que o bug é reportado, adicionarão uma mensagem no canal #bugs no Slack pra garantir que o primeiro desenvolvedor disponível trabalhe nele o mais rápido possível e colocarão a issue no topo da coluna dev-ready.\
+b – Para s3 e menores, cada instância central pode escolher seus bugs mais urgentes em ritmo regular. Train drivers são responsáveis por garantir que bugs sejam selecionados e enfrentados regularmente.

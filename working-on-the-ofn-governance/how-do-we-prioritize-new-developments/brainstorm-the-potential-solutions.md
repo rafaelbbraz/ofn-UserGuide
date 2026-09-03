@@ -1,28 +1,28 @@
-# Brainstorm solutions and choose one
+# Brainstorming de soluções e escolha de uma
 
-When we have some space in the delivery pipe and decide to feed it with a new feature that we have collectively agreed to prioritize, we need to start brainstorming about the potential solutions that could enable us to satisfy the top prioritized needs.
+Quando temos espaço no pipeline de entrega e decidimos alimentá-lo com um novo recurso que coletivamente concordamos em priorizar, precisamos começar a fazer brainstorming sobre as soluções potenciais que poderiam nos permitir satisfazer as necessidades top priorizadas.
 
-Probably, this will have started already while specifying the need, as people will start with solutions instead of needs. ;-) But we need to do some proper brainstorming to open our mind and not get stuck with the first solution that came to our mind. And make sure what is going to enter the delivery pipe is specified clearly.
+Provavelmente isso já terá começado enquanto especificamos a necessidade, já que as pessoas começam com soluções em vez de necessidades. ;-) Mas precisamos fazer um brainstorming adequado pra abrir nossa mente e não ficarmos presos com a primeira solução que veio à mente. E garantir que o que vai entrar no pipeline de entrega esteja claramente especificado.
 
-**Every need will be assigned to a "product owner", and when a feature candidate has been selected, this feature candidate will be assigned to a "product owner" AND a "tech owner"**. They are responsible to organize the solution discovery and inception process, that will go through the steps explained below.
+**Toda necessidade será atribuída a um "product owner", e quando um candidato a recurso tiver sido selecionado, esse candidato a recurso será atribuído a um "product owner" E a um "tech owner"**. Eles são responsáveis por organizar o processo de descoberta e concepção da solução, que passará pelos passos explicados abaixo.
 
-This inception process is organized along the [inception pipe](https://github.com/openfoodfoundation/inception-pipe/issues), which a feature candidate enters after being selected among the list of _Feature Requests_ on the wishlist board. (Prioritised feature requests are transferred to this pipe because issues which are submitted to the wishlist board in the firste step often have very different scopes; some of them will qualify as Papercuts and don´t need to follow the same thorough inception process or will be rejected).
+Este processo de concepção é organizado ao longo do [pipeline de concepção](https://github.com/openfoodfoundation/inception-pipe/issues), no qual um candidato a recurso entra após ser selecionado da lista de _Solicitações de Recursos_ no quadro wishlist. (Solicitações priorizadas são transferidas pra este pipeline porque issues submetidas ao quadro wishlist no primeiro passo frequentemente têm escopos muito diferentes; algumas se qualificarão como Papercuts e não precisam seguir o mesmo processo minucioso de concepção ou serão rejeitadas.)
 
-### 1- Brainstorm potential solutions to meet the need
+### 1 – Brainstorming de soluções potenciais pra atender a necessidade
 
-That means listing all the possible solutions to answer the need. Those potential solutions are called **"feature candidates"**. This is mostly a "product owner" job, but tech can also help in identifying feature candidates to meet the need.
+Isso significa listar todas as soluções possíveis pra responder à necessidade. Essas soluções potenciais são chamadas de **"candidatos a recursos"**. É principalmente um trabalho de "product owner", mas o tech também pode ajudar a identificar candidatos a recursos pra atender a necessidade.
 
-### 2- Choose our preferred solution
+### 2 – Escolher nossa solução preferida
 
-For each potential solution, we evaluate the easiness level and value level, and map the feature candidates in a **value/ease matrix.** Having a tech perspective is important here as product people won't know how hard it is to implement feature candidate A or B. So the product owners needs to make sure they include the tech owner (or other devs) in that work.
+Para cada solução potencial, avaliamos o nível de facilidade e nível de valor e mapeamos os candidatos a recursos em uma **matriz valor/facilidade**. Ter uma perspectiva técnica é importante aqui já que pessoas de produto não saberão o quão difícil é implementar o candidato A ou B. Então os product owners precisam garantir que incluem o tech owner (ou outros devs) nesse trabalho.
 
-This will help us choose the feature candidate that enables us to get enough value to meet the need, and that will request the least effort for that. Basically we aim to choose a feature candidate that adds the most value regarding the need (or enough value for the need to be met) at the lowest cost possible.
+Isso ajudará a escolher o candidato a recurso que nos permite obter valor suficiente pra atender a necessidade e que exigirá o menor esforço pra isso. Basicamente buscamos escolher um candidato a recurso que adiciona o máximo de valor em relação à necessidade (ou valor suficiente pra atender a necessidade) ao menor custo possível.
 
-When the feature candidate has been fully incepted (i.e. all specifications are clear and well described, designs are ready, tech and product approval are confirmed), the product owner transfers the feature to the delivery pipe (and creates smaller stories if the original issue is more the size of an epic). When the delivery circle decides the feature is ready to be added to the pipe, they will transfer the issue it to the "dev ready" column, at the right level of priority.
+Quando o candidato a recurso foi totalmente concebido (ou seja, todas as especificações estão claras e bem descritas, designs estão prontos, aprovação de tech e produto são confirmadas), o product owner transfere o recurso pro pipeline de entrega (e cria histórias menores se a issue original tem mais o tamanho de um épico). Quando o círculo de entrega decide que o recurso está pronto pra ser adicionado ao pipeline, transferirão a issue pra coluna "dev ready", no nível certo de prioridade.
 
-This epic needs to encompass:
+Esse épico precisa englobar:
 
-* reminder of the overaching unmet need (can add link to the need description and solution discovery session)
-* why this feature would help us meet the need
-* metrics that will enable us to check if it does
-* who are the product and tech owners
+* lembrete da necessidade não atendida abrangente (pode adicionar link à descrição da necessidade e sessão de descoberta de solução)
+* por que esse recurso nos ajudaria a atender a necessidade
+* métricas que nos permitirão verificar se atende
+* quem são os product e tech owners

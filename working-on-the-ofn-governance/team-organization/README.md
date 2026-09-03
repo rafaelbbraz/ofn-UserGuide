@@ -1,13 +1,13 @@
-# Team organization
+# Organização da equipe
 
-The OFN global team is composed of:
+A equipe global OFN é composta por:
 
-* **developers and user experience designers**, who have more a technical background. They manage the OFN code base and administrate the servers for local instances.
-* **product owners, testers, and project coordinators** who have more a customer, product strategy and project management view.
-* **content producers** working more on communication and sector development side.
+* **desenvolvedores e designers de experiência do usuário**, que têm mais um background técnico. Gerenciam a base de código OFN e administram os servidores pras instâncias locais.
+* **product owners, testadores e coordenadores de projeto** que têm mais uma visão de cliente, estratégia de produto e gerenciamento de projeto.
+* **produtores de conteúdo** trabalhando mais no lado de comunicação e desenvolvimento setorial.
 
-Among those contributors, some are occasional contributors, and other work on a daily basis on the OFN project and are called "**the core certified team**".
+Entre esses contribuidores, alguns são contribuidores ocasionais e outros trabalham diariamente no projeto OFN e são chamados de "**equipe central certificada**".
 
-The processes below explain how new contributors join and exit the core team, and how much they are paid.
+Os processos abaixo explicam como novos contribuidores entram e saem da equipe central e quanto são pagos.
 
-For developers, this process has been specified with some technical commitments [on this wiki page](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Pipeline-development-process).
+Pra desenvolvedores, esse processo foi especificado com alguns compromissos técnicos [nesta página wiki](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Pipeline-development-process).

@@ -1,3 +1,3 @@
-# Governance and organizational processes
+# Governança e processos organizacionais
 
-But horizontal model can be chaotic if not very well organized, and facilitated, so that's why we need processes.
+Mas o modelo horizontal pode ser caótico se não for muito bem organizado e facilitado — é por isso que precisamos de processos.

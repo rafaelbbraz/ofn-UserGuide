@@ -1,45 +1,45 @@
-# Onboarding process
+# Processo de onboarding
 
-OFN is a community with contributors in different countries, who work as peers, without any hierarchical relationship. By default, the organization is "liquid", people can join and start contributing, some contribute a little bit for a very short time, some really commit and Open Food Network becomes their main daily occupation and livelihood.
+A OFN é uma comunidade com contribuidores em diferentes países que trabalham como pares, sem qualquer relação hierárquica. Por padrão, a organização é "líquida" — as pessoas podem entrar e começar a contribuir, algumas contribuem um pouco por um tempo muito curto, algumas realmente se comprometem e a Open Food Network se torna sua principal ocupação diária e meio de vida.
 
-Contributors create value for the OFN commons, whether it be by contributing with pieces of code, with communication initiative, or with fund raising. The logic we aim to achieve is to be able as a community to credit the contributors for the value they bring to the community. But before creating value, a new contributor most of the time needs support. The supporters create value for the community by helping out newcomers of course, and we are all happy to invest in the development of the community.
+Contribuidores criam valor pros commons OFN, seja contribuindo com pedaços de código, iniciativas de comunicação ou captação de recursos. A lógica que buscamos alcançar é ser capazes como comunidade de creditar os contribuidores pelo valor que trazem à comunidade. Mas antes de criar valor, um novo contribuidor na maior parte das vezes precisa de apoio. Os apoiadores criam valor pra comunidade ajudando os recém-chegados claro, e estamos todos felizes em investir no desenvolvimento da comunidade.
 
-But as a relatively small group of people with limited capacity (24 hours per day, and other things to do in life :-), we need to be careful how much time we spend with people who are not able, after a certain period of time, to efficiently create value for the project. And we certainly can't afford to spend limited financial resources on those people.
+Mas como grupo relativamente pequeno de pessoas com capacidade limitada (24 horas por dia e outras coisas pra fazer na vida :-), precisamos ter cuidado com quanto tempo gastamos com pessoas que não conseguem, após certo período, criar valor eficientemente pro projeto. E certamente não podemos gastar recursos financeiros limitados com essas pessoas.
 
-So we have an on-boarding process for new contributors that enables every new potential contributor to explore the 'fit' and reach to a point where you can really create value. If you are interested in paid work with the Open Food Network there is a clear pathway to follow to become a "certified contributor" and start charging the community for your time ([under certain conditions defined here](global-rates-table.md)). Feel free to give us any feedback.
+Então temos um processo de onboarding pra novos contribuidores que permite a cada novo potencial contribuidor explorar o 'fit' e chegar a um ponto onde realmente possa criar valor. Se você está interessado em trabalho pago com a Open Food Network, há um caminho claro pra se tornar um "contribuidor certificado" e começar a cobrar da comunidade pelo seu tempo ([sob certas condições definidas aqui](global-rates-table.md)). Fique à vontade pra nos dar qualquer feedback.
 
-## 1- New contributors
+## 1 – Novos contribuidores
 
-When a new contributor is interested by the project, **the first step is to start contributing on a volunteer basis**. The purpose of this is:
+Quando um novo contribuidor se interessa pelo projeto, **o primeiro passo é começar a contribuir voluntariamente**. O propósito disso é:
 
-* to enable the contributor to understand from inside what it is to work in OFN and see if that’s what they want
-* to enable them to get to a point where they can start to create real value for the project (which would justify being paid if they desire and if we can afford it)
-* to enable the rest of the team to gauge if skills fit to what the project needs, in term both of technical (coding abilities for instance) and social (communication abilities) skills.
+* permitir ao contribuidor entender por dentro o que é trabalhar na OFN e ver se é isso que eles querem
+* permitir que eles cheguem a um ponto onde possam começar a criar valor real pro projeto (o que justificaria ser pago se desejarem e se pudermos)
+* permitir que o resto da equipe avalie se as habilidades encaixam com o que o projeto precisa, tanto técnica (habilidades de código, por exemplo) quanto social (habilidades de comunicação).
 
-So **any new developer for instance needs to start picking some issues and committing some first PRs**. For non-dev you can[ join our Slack](https://openfoodnetwork.slack.com) and we'll be happy to discuss with you what you could do to help out depending on your skills and what you would like to do.
+Então **qualquer novo desenvolvedor, por exemplo, precisa começar pegando algumas issues e commitando primeiros PRs**. Pra não-devs, você pode [entrar no nosso Slack](https://openfoodnetwork.slack.com) e ficaremos felizes em discutir o que você pode fazer pra ajudar.
 
-## 2- Certified regular contributors
+## 2 – Contribuidores regulares certificados
 
-After that, a contributor who wants to be paid in order to be able to really invest time on the project can request to be certified. When they are, they will be able to invoice contributions ([under conditions defined here](global-rates-table.md)).\
-To be certified, the contributor must meet four conditions:
+Após isso, um contribuidor que quer ser pago pra realmente investir tempo no projeto pode solicitar ser certificado. Quando são, poderão faturar contribuições ([sob condições definidas aqui](global-rates-table.md)).\
+Pra ser certificado, o contribuidor precisa atender quatro condições:
 
-* **Have the technical skills required for the tasks he aims to do** In order to make sure that they deliver real value for the time paid for. The other certified contributors working on the same field can gauge that based on the first contributions of the certification applicant. If they think some important tech skills are missing, they can orient the contributor to some Github issues, or tasks, where they will be able to learn the missing crucial skills. We also highly encourage developers to do code review on PR they didn't commit themselves.
-* **Have the communication skills required** In order to make sure that no paid time is spent in inefficiencies due to lack of communication, and ensure a global consistency of the team and processes. That means he has to be part of the Slack conversations in the appropriate channels (#dev for instance for developers), reply to questions on Github in a reasonable set of time, give feedbacks and review to other contributors, ask questions as soon as something is not clear to get a consent from other contributors on how to solve an issue, participate to speccing sessions, etc.
-* **Have a functional understanding of the platform, knowing the main use cases** In order to make sure no time is lost due to lack of understanding and best approach is adopted.
-* **Dedicate at least one full day per week on the project** In order to make sure that the certified contributors are committed and engaged, and that if they take an issue/task they are going to deliver quickly and don’t block the processes. It doesn’t have to be every week the same day, and can be like 2 half days for instance.
+* **Ter as habilidades técnicas requeridas pras tarefas que pretende fazer.** Pra garantir que entreguem valor real pelo tempo pago. Os outros contribuidores certificados trabalhando no mesmo campo podem avaliar isso baseado nas primeiras contribuições do candidato. Se acharem que faltam habilidades técnicas importantes, podem orientar o contribuidor pra algumas issues do GitHub, ou tarefas, onde poderão aprender as habilidades cruciais que faltam. Também encorajamos fortemente desenvolvedores a fazer revisão de código em PRs que não commitaram.
+* **Ter as habilidades de comunicação requeridas.** Pra garantir que nenhum tempo pago seja gasto em ineficiências devido à falta de comunicação. Significa que precisa fazer parte das conversas no Slack nos canais apropriados (#dev por exemplo pra desenvolvedores), responder a perguntas no GitHub em tempo razoável, dar feedback e revisão a outros contribuidores, fazer perguntas assim que algo não está claro pra obter consentimento de outros contribuidores sobre como resolver uma issue, participar de sessões de especificação etc.
+* **Ter compreensão funcional da plataforma, conhecendo os principais casos de uso.** Pra garantir que nenhum tempo seja perdido devido à falta de compreensão e a melhor abordagem seja adotada.
+* **Dedicar pelo menos um dia inteiro por semana ao projeto.** Pra garantir que os contribuidores certificados estejam comprometidos e engajados, e que se pegam uma issue/tarefa vão entregar rapidamente e não bloquear os processos. Não precisa ser toda semana no mesmo dia, e pode ser tipo 2 meio-dias por exemplo.
 
-## 3- Certified occasional contributors
+## 3 – Contribuidores ocasionais certificados
 
-For now, the project really needs committed and engaged contributors, but on some issues occasional contributions can also help to make things move faster. So in case this is needed, contributors who have **both the tech and communication skills** but can’t commit to a regular contribution basis can request to be certified as occasional contributors and be paid for their contributions. In that case, **they will be offered by the global product team to take some specific issues** and will be paid for those contributions. Any other contribution they make on their own initiative will be considered as volunteer contributions.
+Por ora, o projeto realmente precisa de contribuidores comprometidos e engajados, mas em algumas issues contribuições ocasionais também podem ajudar a fazer as coisas avançarem mais rápido. Então caso isso seja necessário, contribuidores que têm **as habilidades técnicas e de comunicação** mas não podem se comprometer com base de contribuição regular podem solicitar ser certificados como contribuidores ocasionais e ser pagos pelas contribuições. Nesse caso, **serão oferecidos pela equipe global de produto pra pegar algumas issues específicas** e serão pagos por essas contribuições. Qualquer outra contribuição que fizerem por iniciativa própria será considerada voluntária.
 
-## 4- Process to request to be certified
+## 4 – Processo pra solicitar ser certificado
 
-When you think you are meeting the requirements to be certified, you just have to **send a message to either @myriam or @kirsten (or other OFN facilitator) on Slack or via email and tell that would like to be certified and how much time you want to dedicate per week and be paid for, and at which rate** ([see table here](global-rates-table.md)).
+Quando você acha que atende aos requisitos pra ser certificado, basta **enviar uma mensagem pra @myriam ou @kirsten (ou outro facilitador OFN) no Slack ou via email dizendo que gostaria de ser certificado, quanto tempo quer dedicar por semana e ser pago por, e a que taxa** ([veja tabela aqui](global-rates-table.md)).
 
-They will then ask certified contributors who have worked with you if they think you have the profile that the community need. Also we will **need to check our global budget** if we have the money to pay for the time you expect to dedicate to the project (you can also ask that before starting your on-boarding process if that's something you want to know before starting to contribute to the project...)
+Eles então perguntarão a contribuidores certificados que trabalharam com você se acham que você tem o perfil que a comunidade precisa. Também **precisaremos checar nosso orçamento global** se temos dinheiro pra pagar pelo tempo que você espera dedicar ao projeto (você também pode perguntar isso antes de iniciar seu onboarding se é algo que quer saber antes de começar a contribuir com o projeto...)
 
-If all is green, you will join the certified contributors crew :-)
+Se tudo estiver verde, você entrará na turma de contribuidores certificados :-)
 
-## 5- Taking Responsibility for Your Own Reasonable Livelihood
+## 5 – Assumir responsabilidade pelo seu próprio sustento razoável
 
-We know you can get paid more somewhere else - we all could. We don't have the money to pay all the contributors that are making this OFN project happen. So we really ask yourself to think about what you need to be able to contribute as much as you would like to contribute. When those who can afford to be paid less choose to do so, we can support more awesome people to have a 'reasonable livelihood' working with us. On the contrary we also have contributors who don't ask to be paid although they need it, and put themselves sometimes in difficult situation or just stop working in OFN, which is a pity if they were really creating value! So just be conscious, mindful, but also realistic about your own situation.
+Sabemos que você pode ser pago mais em outro lugar — todos poderíamos. Não temos dinheiro pra pagar todos os contribuidores que estão fazendo esse projeto OFN acontecer. Então realmente pedimos que você pense sobre o que precisa pra ser capaz de contribuir o quanto gostaria. Quando os que podem se dar ao luxo de ser pagos menos escolhem fazê-lo, podemos apoiar mais pessoas incríveis a terem um 'sustento razoável' trabalhando conosco. Ao contrário, também temos contribuidores que não pedem pra serem pagos mesmo precisando e se colocam às vezes em situação difícil ou simplesmente param de trabalhar na OFN — o que é uma pena se estavam realmente criando valor! Então seja consciente, atento, mas também realista sobre sua própria situação.

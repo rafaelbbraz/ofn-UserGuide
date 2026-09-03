@@ -1,29 +1,29 @@
-# Incept the solution and implement it
+# Conceber a solução e implementá-la
 
-Once a feature answering an unmet need has entered the inception pipe, the product and tech owners can then organize the inception and implementation of that feature.
+Uma vez que um recurso respondendo a uma necessidade não atendida entrou no pipeline de concepção, os product e tech owners podem então organizar a concepção e implementação desse recurso.
 
-### 1- Incept the selected solution
+### 1 – Conceber a solução selecionada
 
-When we have chosen the feature we want to implement, we need to **incept** it: understand with devs the technical constraints, draw the user flow and mockups (how we want this new feature to look like), break the job to be done into small stories and order them into a "**story map**", plan how we are going to release the new feature, how we communicate about it with users.
+Quando escolhemos o recurso que queremos implementar, precisamos **concebê-lo**: entender com devs as restrições técnicas, desenhar o fluxo do usuário e mockups (como queremos que esse novo recurso pareça), quebrar o trabalho a ser feito em histórias pequenas e ordená-las em um "**story map**", planejar como vamos lançar o novo recurso, como comunicamos sobre ele com os usuários.
 
-Also the team should come up with a release plan:
+Também a equipe deve elaborar um plano de lançamento:
 
-* Do we do a full launch, or a soft launch only informing some beta testers, before then doing a full launch?
-* What communication strategy do we plan when we release? Some articles on the topic? A note in our newsletters? A news on our websites? Which campaign? etc.
-* When and who will update the user guides? How do we inform the support team about the new feature and train them?
-* Plan the implementation tasks, so if soft launch, how do we recruit beta testers, set them up, collect their feedback, etc.
+* Fazemos um lançamento completo ou um soft launch apenas informando alguns beta testers, antes de fazer um lançamento completo?
+* Qual estratégia de comunicação planejamos quando lançamos? Alguns artigos sobre o tópico? Uma nota nas nossas newsletters? Uma notícia nos nossos sites? Qual campanha? etc.
+* Quando e quem atualizará os guias do usuário? Como informamos a equipe de suporte sobre o novo recurso e os treinamos?
+* Planejar as tarefas de implementação — se soft launch, como recrutamos beta testers, os configuramos, coletamos feedback etc.
 
-The product owner of the feature is in charge of communicating all that work **by specifying the epic in the product feature backlog**, with for instance:
+O product owner do recurso está encarregado de comunicar todo esse trabalho **especificando o épico no backlog de recursos de produto**, com por exemplo:
 
-* link to the mockups and user flow
-* image of the story map
-* key points of the release plan
-* key points of the implementation plan (support, communication, etc.)
+* link para os mockups e fluxo do usuário
+* imagem do story map
+* pontos-chave do plano de lançamento
+* pontos-chave do plano de implementação (suporte, comunicação etc.)
 
-### 2- Implement the solution
+### 2 – Implementar a solução
 
-The product owner might want at that stage to **open a dedicated project board** to be able to follow the implementation process of that specific feature.
+O product owner pode querer nesse estágio **abrir um quadro de projeto dedicado** pra poder seguir o processo de implementação desse recurso específico.
 
-The product owner will feed the delivery pipeline with new issues picking them from the story maps, in order to make sure the features are released as quickly and efficiently as possible.
+O product owner alimentará o pipeline de entrega com novas issues pegando-as dos story maps, pra garantir que os recursos sejam lançados o mais rápido e eficientemente possível.
 
 ###

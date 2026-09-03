@@ -1,52 +1,52 @@
-# Exit process
+# Processo de saída
 
-It’s important for team cohesion and the effective running of the software project that paid contributors meet the requirements they originally pledged to fulfil \[add link when ready].
+É importante pra coesão da equipe e o funcionamento efetivo do projeto de software que contribuidores pagos atendam aos requisitos que originalmente se comprometeram a cumprir.
 
-We understand that sometimes life throws things at you that can impact on your contribution, and as a team we will support you through such times. However, if contributors consistently fail to meet the requirements of the paid role then a process will be undertaken to either help them improve, or to exit them from the team.
+Entendemos que às vezes a vida joga coisas em você que podem impactar sua contribuição, e como equipe apoiaremos você nesses momentos. No entanto, se contribuidores consistentemente falharem em atender aos requisitos do papel pago, um processo será iniciado pra ajudá-los a melhorar ou pra removê-los da equipe.
 
-In this process, as in everything else, the Core Team will always work in a caring, empathetic way. However, we also have to recognise that sometimes, due to many different reasons, individuals don’t fit into the Core Team and there has to be a clear and effective way of dealing with this scenario when it does arise.
+Neste processo, como em tudo mais, a Equipe Central sempre trabalhará de forma cuidadosa e empática. Mas também temos que reconhecer que às vezes, por muitas razões diferentes, indivíduos não se encaixam na Equipe Central e precisa haver uma forma clara e eficaz de lidar com esse cenário quando surgir.
 
-## Common reasons a contributor loses their certification
+## Razões comuns pra um contribuidor perder a certificação
 
-The following circumstances have led to contributors being removed from the Core Team. It’s worth noting that it is usually a combination of these that has triggered the removal process in the past.
+As seguintes circunstâncias levaram a contribuidores serem removidos da Equipe Central. Vale notar que geralmente é uma combinação delas que disparou o processo de remoção no passado.
 
-### Lack of communication
+### Falta de comunicação
 
-This is the problem with the greatest impact on the team and also on the project. When a contributor does not proactively communicate with the rest of the team then we see the following problems:
+Este é o problema com o maior impacto na equipe e no projeto. Quando um contribuidor não se comunica proativamente com o resto da equipe, vemos os seguintes problemas:
 
-* In the case where a contributor doesn’t communicate working less hours than expected (or disappearing for chunks of time), timelines are impacted. We can’t plan and track progress on features being developed, or amount of work being done.
-* Technical decisions are made in isolation, without consensus from the team, and rework is often required which costs the project.
-* The team can’t work together effectively, there are “lone wolves” rather than a strong pack working collectively.
-* It’s worth noting that this is a problem with occasional contributors as well. Which makes it even more important for the core team to demonstrate the communication behaviours expected as part of the OFN team.
+* No caso em que um contribuidor não comunica que está trabalhando menos horas que o esperado (ou desaparecendo por períodos), os prazos são impactados. Não conseguimos planejar e acompanhar o progresso em recursos sendo desenvolvidos ou quantidade de trabalho sendo feita.
+* Decisões técnicas são tomadas em isolamento, sem consenso da equipe, e retrabalho é frequentemente necessário — o que custa ao projeto.
+* A equipe não consegue trabalhar junta efetivamente, há "lobos solitários" em vez de uma matilha forte trabalhando coletivamente.
+* Vale notar que isso é um problema com contribuidores ocasionais também. O que torna ainda mais importante pra equipe central demonstrar os comportamentos de comunicação esperados como parte da equipe OFN.
 
-### Lack of time dedicated to the project
+### Falta de tempo dedicado ao projeto
 
-The project requires contributors to fulfil the hours they have committed to, in order to deliver features and improvements and better meet the needs of users. When a contributor consistently works much less than they have committed then the delivery pipe isn’t as wide as it should be, deliverables are delivered later, and planned spend for the month is not met.
+O projeto requer que contribuidores cumpram as horas que se comprometeram, pra entregar recursos e melhorias e atender melhor às necessidades dos usuários. Quando um contribuidor consistentemente trabalha muito menos do que se comprometeu, o pipeline de entrega não é tão amplo quanto deveria, entregas são feitas depois e o gasto planejado pro mês não é atingido.
 
-### Lack of technical skills
+### Falta de habilidades técnicas
 
-Very occasionally we find that the certification process has not been adequate enough to determine a contributor’s skills in their particular domain, and the contributor lacks the ability to create value for the project. This takes into account the fact that we have contribution levels, where people join the team as beginners through to seniors. However, if improvement is not evident as time goes on then the project unfortunately can’t afford to continue supporting their growth.
+Muito ocasionalmente descobrimos que o processo de certificação não foi adequado o suficiente pra determinar as habilidades de um contribuidor em seu domínio particular, e o contribuidor carece da capacidade de criar valor pro projeto. Isso leva em conta o fato de que temos níveis de contribuição, onde as pessoas entram na equipe como iniciantes até seniores. No entanto, se a melhora não é evidente com o passar do tempo, o projeto infelizmente não pode continuar apoiando o crescimento deles.
 
-## Contributor change or exit process
+## Processo de mudança ou saída de contribuidor
 
-### Identifying there is a problem
+### Identificando que há um problema
 
-As the team works together on the project, problems with a contributor’s commitment generally become obvious quite quickly. It is the responsibility of the senior Core Team members to talk to this contributor, to try and understand what is causing the problems and whether assistance can be provided to help them step back up into the role.
+Conforme a equipe trabalha junta no projeto, problemas com o compromisso de um contribuidor geralmente se tornam óbvios rapidamente. É responsabilidade dos membros seniores da Equipe Central falar com esse contribuidor, tentar entender o que está causando os problemas e se pode ser fornecida assistência pra ajudá-los a voltar ao papel.
 
-At this point in time the contributor has a choice to work with the team and improve their contribution. Hopefully this process removes the problem and the contributor begins to fulfill the role.
+Neste ponto, o contribuidor tem uma escolha de trabalhar com a equipe e melhorar sua contribuição. Esperamos que este processo remova o problema e o contribuidor comece a cumprir o papel.
 
-### Stepping back from Core Team to go back to certified occasional contributor
+### Recuar da Equipe Central pra voltar a contribuidor ocasional certificado
 
-When life does throw something at a contributor that impacts on their ability to dedicate enough time to the project, then they can voluntarily step back to be an occasional contributor. They are still certified, and paid for their contribution, however they are limited to working on smaller things that don’t require a timely or quick turnaround and are assigned by members of the Core Team.
+Quando a vida joga algo em um contribuidor que impacta sua capacidade de dedicar tempo suficiente ao projeto, ele pode voluntariamente recuar pra ser contribuidor ocasional. Ainda são certificados e pagos por suas contribuições, mas são limitados a trabalhar em coisas menores que não requerem prazo apertado ou entrega rápida e são atribuídas por membros da Equipe Central.
 
-If their circumstances change again and they can recommit to more time on the project then they can request to rejoin the team as a regular contributor and be included if/when budget is available for them.
+Se as circunstâncias mudarem novamente e puderem se recomprometer a mais tempo no projeto, podem solicitar retornar à equipe como contribuidor regular e serem incluídos se/quando o orçamento estiver disponível.
 
-### Exiting a contributor
+### Sair de um contribuidor
 
-If the contributor does not improve sufficiently after the problem has been identified, then this triggers the exit process.
+Se o contribuidor não melhora suficientemente após o problema ser identificado, isso dispara o processo de saída.
 
-The contributor can choose to leave the team, if they don’t believe they can fulfil the requirements of the role moving forward.
+O contribuidor pode escolher deixar a equipe, se não acreditar que pode cumprir os requisitos do papel daqui pra frente.
 
-Otherwise, the Core Team will determine based on the problems being experienced whether the contributor will change status to be a certified occasional contributor, or will lose their certification completely and no longer be paid by the project. This decision will be based on lazy consent within the Core Team.
+Caso contrário, a Equipe Central determinará baseado nos problemas experimentados se o contribuidor mudará de status pra contribuidor ocasional certificado, ou perderá a certificação completamente e não será mais pago pelo projeto. Essa decisão será baseada em consentimento tácito dentro da Equipe Central.
 
-If exited, a senior member of the Core Team will notify the contributor of the decision that has been made, and their removal from the team. The contributor will be required to submit their final invoice for the work done to that point, after which they will no longer be a paid OFN contributor.
+Se sair, um membro sênior da Equipe Central notificará o contribuidor da decisão tomada e sua remoção da equipe. O contribuidor será obrigado a enviar sua fatura final pelo trabalho feito até aquele ponto, após o qual não será mais um contribuidor OFN pago.

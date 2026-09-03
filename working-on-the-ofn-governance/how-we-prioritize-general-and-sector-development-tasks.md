@@ -1,21 +1,21 @@
-# How we prioritize general & sector development tasks
+# Como priorizamos tarefas gerais e de desenvolvimento setorial
 
-The OFN requires a lot of day to day operations to make the project work, like facilitation, documentation, onboarding actions, communication, networking, etc.
+A OFN requer muitas operações diárias pra fazer o projeto funcionar, como facilitação, documentação, ações de onboarding, comunicação, networking etc.
 
-Also, as explained before, we build not only technical open source resources (the OFN software) but also sector development resources. To do that we also have a team starting to getting better organized to collaborate, prioritize, document and share sector development resources.
+Além disso, como explicado antes, construímos não só recursos técnicos open source (o software OFN) mas também recursos de desenvolvimento setorial. Pra fazer isso, também temos uma equipe começando a se organizar melhor pra colaborar, priorizar, documentar e compartilhar recursos de desenvolvimento setorial.
 
-These tasks require other skills than the dev skills required to develop a software of course :-) But we all work together as the tools and knowledge are closely linked: when talking to users who think they need a tool to improve their efficiency, we sometime realize that their main issue might be somewhere else. So both work hand in hand.
+Essas tarefas requerem outras habilidades que não as de dev necessárias pra desenvolver um software, claro :-) Mas todos trabalhamos juntos, pois as ferramentas e conhecimento estão intimamente ligados: ao conversar com usuários que pensam que precisam de uma ferramenta pra melhorar a eficiência, às vezes percebemos que o principal problema deles pode estar em outro lugar. Então ambos trabalham juntos.
 
-The "all-the-things"' team is now structuring their work around a shared task pipe. A bit like the platform team use Github to list tasks, prioritize them, assign them and deliver. For that here we use the Airtable tool, which is a mix of a spreadsheet and Kanban view, with the ability to setup custom views. Here is [a read only acces of our "all-the-things" pipe on Airtable ](https://airtable.com/invite/l?inviteId=invZwOQIL261V8IAC\&inviteToken=e366698a2dca4f324688d85b908e3ae18a3251276b3efd5132ec1e7465311300).
+A equipe "all-the-things" agora está estruturando seu trabalho ao redor de um pipeline de tarefas compartilhado. Um pouco como a equipe da plataforma usa GitHub pra listar tarefas, priorizá-las, atribuí-las e entregar. Pra isso aqui usamos a ferramenta Airtable, que é uma mistura de planilha e visão Kanban, com a capacidade de configurar visões customizadas. Aqui está [um acesso somente-leitura do nosso pipeline "all-the-things" no Airtable](https://airtable.com/invite/l?inviteId=invZwOQIL261V8IAC\&inviteToken=e366698a2dca4f324688d85b908e3ae18a3251276b3efd5132ec1e7465311300).
 
-And here are screenshots of how it looks like:
+E aqui capturas de tela de como parece:
 
 ![](<../.gitbook/assets/Capture du 2019-05-28 19-00-57.png>)
 
 ![](<../.gitbook/assets/Capture du 2019-05-28 19-02-42.png>)
 
-### Priorization and review process
+### Processo de priorização e revisão
 
-We plan to held a monthly session, as we have monthly delivery pipe session for the platform team, to go through the tasks, see if the things planned have been done, if not why, how to unlock, and decide to reprioritize if that's needed.
+Planejamos realizar uma sessão mensal, como temos sessões mensais de pipeline de entrega pra equipe da plataforma, pra passar pelas tarefas, ver se as coisas planejadas foram feitas, se não por quê, como desbloquear e decidir repriorizar se necessário.
 
-We are also going to organize coworking sessions on specific tasks whenever needed.
+Também vamos organizar sessões de coworking em tarefas específicas quando necessário.

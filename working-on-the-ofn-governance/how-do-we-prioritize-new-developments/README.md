@@ -1,8 +1,8 @@
-# Software improvement process
+# Processo de melhoria do software
 
-There are four type of improvement that we need to deal with in parallel:
+Há quatro tipos de melhoria que precisamos lidar em paralelo:
 
-* fix the **bugs**
-* develop **new features to satisfy needs** **that are not yet satisfied**
-* follow the **upgrades of the "modules" we have built our software on** (called "dependencies"). If we don't do it, we accumulate what we call a "**tech debt**", that we will anyway need to deal with sometime. If we don't do it regularly, then we have do pay the interests of not having done it.
-* improve the **administration system setup** to make upgrades and maintenance of the local platforms easier.
+* corrigir os **bugs**
+* desenvolver **novos recursos pra satisfazer necessidades ainda não satisfeitas**
+* seguir as **atualizações dos "módulos" sobre os quais construímos nosso software** (chamados "dependências"). Se não fizermos, acumulamos o que chamamos de "**dívida técnica**", que precisaremos lidar em algum momento de qualquer forma. Se não fizermos regularmente, teremos que pagar os juros de não ter feito.
+* melhorar a **configuração do sistema de administração** pra tornar upgrades e manutenção das plataformas locais mais fáceis.

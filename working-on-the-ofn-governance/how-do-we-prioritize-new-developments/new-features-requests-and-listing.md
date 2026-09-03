@@ -1,40 +1,40 @@
-# Report, understand and prioritize unmet needs
+# Reportar, entender e priorizar necessidades não atendidas
 
-How do we process unmet needs (problems) **reported by users that are not yet satisfied by the platform?**
+Como processamos necessidades não atendidas (problemas) **reportadas por usuários que ainda não são satisfeitas pela plataforma?**
 
-### **1- Needs collection and understanding**
+### **1 – Coleta e compreensão de necessidades**
 
-When a need that is currently not satisfied by the software is reported by a user, the user can submit a new item in our [wishlist repository](https://github.com/openfoodfoundation/wishlist). When clicking on "New Issue" a template is provided to guide on how to report the need.
+Quando uma necessidade que atualmente não é satisfeita pelo software é reportada por um usuário, o usuário pode submeter um novo item no nosso [repositório de wishlist](https://github.com/openfoodfoundation/wishlist). Ao clicar em "New Issue", um template é fornecido pra guiar como reportar a necessidade.
 
-Most of the time, the reporter of the need will not have all info when they start the discussion about their request. When discussions move on, the curators of the discussion will update the main post to always keep the specification of the need up-to-date. Some solution candidates might come up and one option might be quickly chosen in the discussion.
+Na maior parte das vezes, quem reporta a necessidade não terá todas as informações quando começa a discussão sobre a solicitação. Conforme as discussões avançam, os curadores da discussão atualizarão o post principal pra sempre manter a especificação da necessidade atualizada. Alguns candidatos a solução podem surgir e uma opção pode ser rapidamente escolhida na discussão.
 
-**WARNINGS:** Users often tend to express their needs as solutions or features ("I would like a new button here that will let me do this thing...") and won't explain clearly the need behind it ("I'm having trouble finding this thing and it's one of the most frequent things I do"). It is the responsibility of the local instance product owner to understand the underlying need, and express that need in a structured way, before starting to brainstorm on potential solutions.
+**AVISOS:** Usuários frequentemente tendem a expressar suas necessidades como soluções ou recursos ("Eu gostaria de um novo botão aqui que me permita fazer essa coisa...") e não explicam claramente a necessidade por trás ("Estou tendo dificuldade em encontrar essa coisa e é uma das coisas mais frequentes que faço"). É responsabilidade do product owner da instância local entender a necessidade subjacente e expressar essa necessidade de forma estruturada, antes de começar a fazer brainstorming em soluções potenciais.
 
-### **2- Needs priorization**
+### **2 – Priorização de necessidades**
 
-Many OFN users in different countries have different needs. So how to decide which need we address first?
+Muitos usuários da OFN em diferentes países têm diferentes necessidades. Então como decidir qual necessidade endereçamos primeiro?
 
-Each instance will have their way to discuss with their users and decide together with them what are the top priorities for their instance. We have experimented voting on features but this process did not really lead to spot the features that we really needed to do first.\
-**We are currently reviewing this system.**
+Cada instância terá sua forma de discutir com os usuários e decidir junto com eles quais são as prioridades top pra sua instância. Experimentamos votação em recursos mas esse processo não realmente levou a identificar os recursos que realmente precisávamos fazer primeiro.\
+**Estamos atualmente revisando esse sistema.**
 
-The current prioritized pipe can then be seen in Github but also in our community forum. Once a week the delivery circle will issue notes in the community forum that keep everyone updated of where things are.
+O pipeline atual priorizado pode então ser visto no GitHub mas também no nosso fórum da comunidade. Uma vez por semana, o círculo de entrega emitirá notas no fórum da comunidade que mantêm todos atualizados de onde as coisas estão.
 
-### 3- About "emergency needs"
+### 3 – Sobre "necessidades emergenciais"
 
-Some users sometimes express their need as an "emergency need". We invite instance managers to question why it is an emergency. **In OFN we consider as emergencies only bug severity 1 and 2 that really prevent users to use the platform**. If you consider an unsatisfied need (i.e. a feature request) an emergency, you can create a topic on our community forum to discuss it.
+Alguns usuários às vezes expressam suas necessidades como "necessidades emergenciais". Convidamos gerentes de instância a questionar por que é uma emergência. **Na OFN consideramos emergências apenas bugs de severidade 1 e 2 que realmente impedem os usuários de usarem a plataforma**. Se você considera uma necessidade não satisfeita (ou seja, uma solicitação de recurso) uma emergência, pode criar um tópico no nosso fórum da comunidade pra discutir.
 
-### 4. - Papercuts
+### 4 – Papercuts
 
-A Papercut is a tiny issue - usually UI or UX - that is never a high priority but causes lots of pain to users. It might be a small bug or a missing bit of UI. It might be issues we tend to always hear about from users but do not have direct implications on the actual functionality and thus never make it into the priority list. It might be things that we look at and think “Ergh is this still not fixed?” or “%^&\* that is SO ANNOYING”. We might have been looking at it for years.
+Um Papercut é uma issue minúscula — geralmente UI ou UX — que nunca é alta prioridade mas causa muita dor aos usuários. Pode ser um pequeno bug ou uma parte faltante da UI. Podem ser issues que tendemos a sempre ouvir dos usuários mas não têm implicações diretas na funcionalidade real e portanto nunca entram na lista de prioridades. Podem ser coisas que olhamos e pensamos "Puxa, isso ainda não foi corrigido?" ou "%^&\* isso é TÃO IRRITANTE". Podemos estar olhando pra isso há anos.
 
-We want to fix some of these so that we start bringing real joy to our users. Fixing Papercuts is designed to bring sparkles in a world that often has few.
+Queremos corrigir algumas dessas pra começar a trazer alegria real aos nossos usuários. Corrigir Papercuts é desenhado pra trazer faíscas em um mundo que frequentemente tem poucas.
 
-A successful Papercut (that can be considered for development) is an issue where:
+Um Papercut bem-sucedido (que pode ser considerado pra desenvolvimento) é uma issue onde:
 
-* The dev work required will take less than 1/2 day to complete
-* The solution is obvious and widely supported - if there is uncertainty, outstanding differing opinions, or takes more than 5 mins discussion to agree on what is being done, it will be _rejected_ as a papercut
-* The issue is clearly specified
+* O trabalho de dev requerido levará menos de meio dia pra completar
+* A solução é óbvia e amplamente apoiada — se há incerteza, opiniões divergentes ou leva mais de 5 minutos de discussão pra concordar no que está sendo feito, será _rejeitada_ como papercut
+* A issue está claramente especificada
 
-The papercut team meets every first Wednesday of the month, in order to review the _candidates_ column of the wishlist repo and assess what can be considered as a papercut.\
+A equipe de papercut se reúne toda primeira quarta do mês, pra revisar a coluna _candidatos_ do repositório wishlist e avaliar o que pode ser considerado um papercut.\
 \
-Confirmed papercuts are labeled as such in the wishlist repository and are available to core instances for selection at a regular pace (as soon as all papercuts are delivered, someone from the papercut team launches a new round of papercut selection).
+Papercuts confirmados são etiquetados como tal no repositório wishlist e ficam disponíveis pras instâncias centrais pra seleção em ritmo regular (assim que todos os papercuts são entregues, alguém da equipe de papercut lança uma nova rodada de seleção).

@@ -1,24 +1,24 @@
-# Legal model
+# Modelo legal
 
-## Three layers of commons
+## Três camadas de commons
 
-There is no global entity on a legal dimension. An entity is always based in a given country, and the law of that country applies. Also, the Open Food Network has really three "layers":
+Não há entidade global na dimensão legal. Uma entidade sempre é baseada em um país e a lei desse país se aplica. Além disso, a Open Food Network tem realmente três "camadas":
 
-* **the global commons layer**: OFN software and shared knowledge
-* **the territorial/regional/country layer**: [OFN UK](https://openfoodnetwork.org.uk/), [OFN Australia](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/) , [OFN Canada](https://openfoodnetwork.ca/), etc. are local commons managed as platform cooperatives by multiple stakeholders. Those organisations are _users and coproducers of the global commons_.
-* **the local layer**: local food hubs, that most of the time are also super local commons. They are **users and coproducers of the local commons** OFN UK, OFN Australia, Open Food France, etc.
+* **camada de commons global**: software OFN e conhecimento compartilhado.
+* **camada territorial/regional/país**: [OFN UK](https://openfoodnetwork.org.uk/), [OFN Austrália](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/), [OFN Canadá](https://openfoodnetwork.ca/), Nossa Feira etc. são commons locais gerenciados como cooperativas de plataforma por múltiplos stakeholders. Essas organizações são _usuárias e coprodutoras do commons global_.
+* **camada local**: centrais de alimentos locais, que na maior parte das vezes também são super-commons locais. São **usuárias e coprodutoras dos commons locais** OFN UK, OFN Austrália, Open Food France etc.
 
 ![](<../.gitbook/assets/Capture du 2019-05-25 22-17-05.png>)
 
-## A network of local entities
+## Uma rede de entidades locais
 
-So legally speaking, the Open Food Network is **a network of local entities who are together committed and engaged with one another to codevelop and maintain global commons**, and to start with, the OFN software they all use. The contractual document here is our "[community pledge](https://community.openfoodnetwork.org/t/ofn-community-pledge-v1-0-1-june-2017/948)". Every entity who wants to be part of the Open Food Network community has to sign that pledge publicly. It means we all share the responsability for that global commons, so we all have to work on making it thrive, economically viable, make sure it really serve the food system we want to serve, etc.
+Então legalmente falando, a Open Food Network é **uma rede de entidades locais que são juntas comprometidas e engajadas umas com as outras pra codesenvolverem e manterem commons globais**, começando com o software OFN que todas usam. O documento contratual aqui é nosso "[compromisso da comunidade](https://community.openfoodnetwork.org/t/ofn-community-pledge-v1-0-1-june-2017/948)". Cada entidade que quer fazer parte da comunidade OFN precisa assinar esse compromisso publicamente. Significa que todos compartilhamos responsabilidade por esse commons global, então todos temos que trabalhar em fazê-lo prosperar, ser economicamente viável, garantir que realmente sirva ao sistema alimentar que queremos servir etc.
 
 ![](<../.gitbook/assets/Capture du 2018-08-08 16-38-34.png>)
 
-## A "brand licence" based on local entity governance model
+## Uma "licença de marca" baseada no modelo de governança da entidade local
 
-**Every local entity choose the legal structure that best feet their need**, following the subsidiarity principle. BUT in order to claim themselves as "member of the Open Food Network", they have to follow the rules explained in the community pledge, i.e.:
+**Cada entidade local escolhe a estrutura legal que melhor atende sua necessidade**, seguindo o princípio da subsidiariedade. MAS pra se declararem como "membro da Open Food Network", precisam seguir as regras explicadas no compromisso da comunidade, ou seja:
 
-* **They need to be democratically run**. As there will only be one OFN affiliate in a given territory/region/county, so it needs to be open so that if other people or stakeholders are interested, they can join and codevelop with them.
-* **They need to be not-for-profit**. It doesn't mean they shouldn't earn mony, it means profit shouldn't be there objective, just a mean to achieve some other social change objective.
+* **Precisam ser administradas democraticamente**. Como haverá apenas um afiliado OFN em um dado território/região, precisa ser aberto pra que se outras pessoas ou stakeholders estiverem interessados, possam se juntar e codesenvolver.
+* **Precisam ser sem fins lucrativos**. Não significa que não devem ganhar dinheiro — significa que o lucro não deve ser o objetivo, apenas um meio pra alcançar algum outro objetivo de mudança social.
