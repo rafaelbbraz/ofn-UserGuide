@@ -1,30 +1,29 @@
-# Setup Manuals
+# Manuais de configuração
 
-The Open Food Network works as both a directory of local food enterprises and an ecommerce software that you can use to sell online.
+A Nossa Feira funciona tanto como diretório de empresas locais de alimentos quanto como software de e-commerce que você pode usar pra vender online.
 
-The OFN is flexible and can be used by different people in different ways.
+A Nossa Feira é flexível e pode ser usada por diferentes pessoas de diferentes formas.
 
-We have put together unique setup manuals which provide specific setup guidance depending on who you are and how you want to use the Open Food Network. Have a look at our setup manuals to find the one that's right for you.
+Reunimos manuais únicos de configuração que fornecem orientação específica dependendo de quem você é e como quer usar a Nossa Feira. Dê uma olhada nos manuais pra encontrar o certo pra você.
 
-## Find the setup manual that's right for you
+## Encontre o manual de configuração certo pra você
 
-Are you a producer \(someone who grows, raises, bakes or brews\)?
+Você é um produtor (alguém que cultiva, cria, assa ou fabrica)?
 
-* **Producer \(Profile Only\)**
-* **Producer \(Shop\)**
+* **Produtor (apenas perfil)**
+* **Produtor (loja)**
 
-Or are you a hub \(someone who trades in fair food, or supports fair food, but doesn't create food themselves\)?
+Ou é uma central (alguém que negocia alimentos justos, ou apoia alimentos justos, mas não produz)?
 
-* **Hub \(Profile\)**
-* **Hub \(Shop\)**
+* **Central (perfil)**
+* **Central (loja)**
 
-Are you a farmer's market?
+Você é uma feira?
 
-* **Farmer's Market \(Group page\)**
-* **Farmer's Market \(Shops\)**
+* **Feira (página de grupo)**
+* **Feira (lojas)**
 
-Are you looking to setup one of these particular multi-party cooperative models?
+Você está buscando configurar um desses modelos cooperativos multi-parte específicos?
 
-* **Multi-Producer Shop**
-* **Multi-Producer Pre-Orders**
-
+* **Loja Multi-Produtor**
+* **Pedidos Antecipados Multi-Produtor**

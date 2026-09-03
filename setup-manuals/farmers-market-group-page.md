@@ -1,52 +1,51 @@
-# Farmer's Market \(Group Page\)
+# Feira (Página de Grupo)
 
-## What is a farmers market group page?
+## O que é uma página de grupo de feira?
 
-* It's a mini-directory of a market's stallholders
-* It has an interactive map and listing of all stallholders, with a unique profile for each
-* It allows each stallholder to setup and maintain their profile, reducing the need for central administration
+* É um mini-diretório dos feirantes de uma feira.
+* Tem um mapa interativo e listagem de todos os feirantes, com um perfil único pra cada um.
+* Permite que cada feirante configure e mantenha seu perfil, reduzindo a necessidade de administração central.
 
-## What does it do?
+## O que faz?
 
- **A place to tell stories**    
-A directory lets you share profiles of your members with your community. This includes their story, their location and contact details. It's an interactive place for customers to learn more about the producers who participate at their market, and where their food comes from. The directory can be embedded in your own website.
+**Um lugar pra contar histórias**\
+Um diretório permite compartilhar perfis dos seus membros com sua comunidade. Isso inclui a história, localização e dados de contato. É um lugar interativo pra clientes aprenderem mais sobre os produtores que participam da feira e de onde vem sua comida. O diretório pode ser incorporado no seu próprio site.
 
-## Steps for setting up a Farmer's Market Group Page
+## Passos para configurar uma Página de Grupo de Feira
 
-Setting up a Farmer's Market Group Page on the OFN is a two part process:  
-1. Create a group page- this acts as a directory of all producers who participate in the market\(s\).  
-2. Add your stallholder’s profiles to the group page- You may need to create profiles for stallholders, or they can do this themselves.
+Configurar uma Página de Grupo de Feira na Nossa Feira é um processo em duas partes:\
+1. Criar uma página de grupo — atua como diretório de todos os produtores que participam da(s) feira(s).\
+2. Adicionar os perfis dos feirantes à página de grupo — você pode precisar criar perfis para os feirantes, ou eles mesmos podem fazer.
 
-## Step 1:  Create a group page
+## Passo 1: Criar uma página de grupo
 
-If you manage or are involved in a farmers market and would like to create an OFN group page for it, the first thing to do is to contact us and we’ll setup the page for you. Your market group page will be a personalised directory of enterprises who participate in your markets. For an example checkout the [Melbourne Farmer’s Markets](https://openfoodnetwork.org.au/groups/melbourne-farmers-markets#/map) group page below.
+Se você gerencia ou está envolvido em uma feira e gostaria de criar uma página de grupo na Nossa Feira pra ela, o primeiro passo é entrar em contato conosco e configuraremos a página. Sua página de grupo da feira será um diretório personalizado das empresas que participam das suas feiras. Para um exemplo, confira a página de grupo das [Feiras de Melbourne](https://openfoodnetwork.org.au/groups/melbourne-farmers-markets#/map) abaixo.
 
 ![](../.gitbook/assets/mfm-directory.png)
 
-Once we’ve created a group page for you, you can customise it with your own content, including an about us blurb, logo and photos. For more details about managing content on your group page [click here](../advanced-features/groups/group-page.md).
+Uma vez que criamos uma página de grupo pra você, pode customizá-la com seu próprio conteúdo, incluindo texto 'sobre nós', logo e fotos. Para mais detalhes sobre gerenciar conteúdo na sua página de grupo [clique aqui](../advanced-features/groups/group-page.md).
 
-## Step 2: Add your stallholder’s profiles to the group page
+## Passo 2: Adicionar os perfis dos feirantes à página de grupo
 
-Once your group page is setup the next step is to add profiles of your member enterprises to the group, this includes the market\(s\) itself and your stallholders. You can create a profile for your market\(s\) by following steps 1-4 in the [hub shop setup manual](hub-shop.md) and then adding the profiles to the group. You can also add any stallholder profiles that are already on the OFN, just search for these in the group admin page. There are two options for setting up profiles for your members who don’t already have a profiles on the OFN.
+Uma vez que sua página está configurada, o próximo passo é adicionar perfis das suas empresas membros ao grupo — isso inclui a(s) própria(s) feira(s) e os feirantes. Você pode criar um perfil pra sua(s) feira(s) seguindo os passos 1-4 do [manual de configuração de loja de central](hub-shop.md) e depois adicionar os perfis ao grupo. Você também pode adicionar quaisquer perfis de feirantes que já estão na Nossa Feira — basta buscar na página admin do grupo. Há duas opções pra configurar perfis para seus membros que ainda não têm.
 
-### Option 1 – Create profiles for your members:
+### Opção 1 – Criar perfis para seus membros:
 
-The farmers’ market manager may choose to set up profiles for their stallholders on their behalf. This option is appealing as you’ll get your members setup quickly and have something to show them to help them visualise the new directory.
+O gerente da feira pode escolher criar perfis para os feirantes em nome deles. Essa opção é atrativa porque você conseguirá configurar seus membros rapidamente e ter algo pra mostrar a eles pra visualizar o novo diretório.
 
-Here is the [link](../basic-features/create-or-connect-with-your-supplying-producers.md) to the relevant section of the hub user manual which describes how to create multiple profiles for producers.
+Aqui está o [link](../basic-features/create-or-connect-with-your-supplying-producers.md) pra seção relevante do manual de central que descreve como criar múltiplos perfis para produtores.
 
-If you chose this option, it’s a good idea to set these profiles to ‘invisible’ until you’re ready to launch the new group page. When markets launch they’ll often send out an email to members. Part of this process is to give members the options of taking ownership of their profiles, so that they can keep them up to date. This email is a good chance to explain the intention of the group and to invite participation.
+Se você escolhe essa opção, é boa ideia configurar esses perfis como 'invisíveis' até estar pronto pra lançar a nova página de grupo. Quando as feiras lançam, frequentemente enviam um email aos membros. Parte desse processo é dar aos membros a opção de assumir a propriedade dos perfis para mantê-los atualizados. Esse email é uma boa chance pra explicar a intenção do grupo e convidar à participação.
 
-To transfer ownership of a profile to the stallholder, edit that profile and type the stallholder’s email in the ‘notification’ field, within the ‘Users’ tab. This will trigger an email to that address, and when confirmed, that user will become the ‘manager’ of that profile, will full ability to login and modify it. More details about transferring ownership can be found [here](../advanced-features/your-profile/transfer-ownership.md).
+Pra transferir a propriedade de um perfil ao feirante, edite esse perfil e digite o email do feirante no campo 'notificação', na aba 'Usuários'. Isso dispara um email pra esse endereço, e quando confirmado, esse usuário se torna o 'gerente' do perfil, com capacidade total de fazer login e modificá-lo. Mais detalhes sobre transferir propriedade [aqui](../advanced-features/your-profile/transfer-ownership.md).
 
-### Option 2 – Invite your members to create their own profiles:
+### Opção 2 – Convidar seus membros a criar seus próprios perfis:
 
-Alternatively, you can ask your stallholders to each setup their own profile. They can do this by following the steps in the [producer profile setup manual](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/producer-profile.md). When their profile is setup, they’ll need to let you know so you can add them to your group page, via the group page admin.
+Alternativamente, você pode pedir aos feirantes que cada um configure o próprio perfil. Podem fazer isso seguindo os passos no [manual de configuração de perfil de produtor](https://github.com/ofn-user-guide/ofn-user-guide-master/tree/d5a1113e673b0e22198ca207b1db61339799868a/producer-profile.md). Quando o perfil estiver configurado, precisarão te avisar pra você adicioná-los à página de grupo pela admin do grupo.
 
-_Note: Asking members to place their preferences into a google form is a good way to efficiently capture their responses \(e.g. if they want to take ownership of a profile, or if they want to be added to your group\)._
+_Nota: Pedir aos membros que coloquem preferências num formulário do Google é uma forma eficiente de capturar respostas (ex: se querem assumir a propriedade de um perfil, ou se querem ser adicionados ao seu grupo)._
 
-## Advanced features that may be helpful to a Farmer's Market with a Group Page.
+## Recursos avançados úteis pra uma Feira com Página de Grupo
 
-**Embed your group page in your own website**  
-Instruction are available for [how to embed your group page into your website](../advanced-features/groups/embed-a-group-page.md).
-
+**Incorporar sua página de grupo no seu próprio site**\
+Instruções disponíveis pra [como incorporar sua página de grupo no seu site](../advanced-features/groups/embed-a-group-page.md).

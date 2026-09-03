@@ -1,41 +1,40 @@
-# Farmer's Market \(Shops\)
+# Feira (Lojas)
 
-## What is a Farmer's Market Shop?
+## O que é uma Loja de Feira?
 
-Farmers markets have huge opportunity to not only act as a space for physical sales, but also as a node, or an aggregation point to reach customers who are ordering online. This can help boost producer sales, and give them access to markets beyond the market.
+Feiras têm uma grande oportunidade de agir não só como espaço pra vendas físicas, mas também como um nó ou ponto de agregação pra alcançar clientes que pedem online. Isso pode ajudar a impulsionar as vendas dos produtores e dar acesso a mercados além da feira.
 
-## How does it work?
+## Como funciona?
 
-Some of the ways farmer's markets can reach beyond the physical market space:
+Algumas formas de as feiras alcançarem além do espaço físico:
 
-* Stallholders can offer online pre-ordering/pre-sales for products, for collection at the market
-* Stallholders can use their trip into town/the city as an opportunity to distribute online orders to customers.
-* Stallholders may wish to collaborate and open an collective shop, and use the market as an aggregation point for packing orders. They may also collaborate on delivery.
-* The market may wish to coordinate an online shop, stocking products from all the stallholders, for customers who do not attend the market - for example hospitality, institutional or other customer who prefer home delivery.
+* Feirantes podem oferecer pré-pedidos/pré-vendas online pra coleta na feira.
+* Feirantes podem usar a viagem à cidade como oportunidade pra distribuir pedidos online aos clientes.
+* Feirantes podem querer colaborar e abrir uma loja coletiva, usando a feira como ponto de agregação pra empacotar pedidos. Também podem colaborar na entrega.
+* A feira pode querer coordenar uma loja online, comercializando produtos de todos os feirantes, para clientes que não vão à feira — por exemplo, hospitalidade, institucional ou outros clientes que preferem entrega em casa.
 
-### Stallholder run independent online shops
+### Feirantes rodam lojas online independentes
 
-Individual stallholders can open an online shopfront to receive orders. They may use their shop to take pre-sales which customers collect from the market. Another option is to take pre-sales for delivery to customers after the market -to capitalise on the trip into the city.
+Feirantes individuais podem abrir uma vitrine online pra receber pedidos. Podem usar a loja pra pré-vendas que os clientes coletam na feira. Outra opção é fazer pré-vendas pra entrega aos clientes depois da feira — pra capitalizar a viagem à cidade.
 
-Stallholders wishing to setup a shop like this should refer to the [Producer Shop setup manual](producer-shop.md#producer-shop).
+Feirantes querendo configurar uma loja assim devem consultar o [manual de Loja de Produtor](producer-shop.md#producer-shop).
 
-### Stallholders run collective online shops
+### Feirantes rodam lojas online coletivas
 
-A group of stallholders can open a shopfront which stocks products from multiple producers. Here customers can place orders for items across multiple stallholders rather than needing to place orders with each stallholder separately. The participating stallholders will devise a means of coordinating the packing and delivery of these orders. It might be that each stallholder bags and labels their component of the orders, ready to pack into boxes on market day. Or perhaps they will alternate in the task of walking between stallholders at the end of the market at picking up the required items. Orders may be delivered by the stallholders after the market, back in their home locale, or around the market to cafes or retail customers. Or alternatively, a storage and collection agreement may be made with a nearby cafe or shop.
+Um grupo de feirantes pode abrir uma vitrine que comercializa produtos de vários produtores. Aqui os clientes podem fazer pedidos com itens de vários feirantes, sem precisar fazer pedidos com cada um separadamente. Os feirantes participantes vão inventar um jeito de coordenar a embalagem e entrega desses pedidos. Pode ser que cada feirante embale e etiquete seu componente dos pedidos, pronto pra empacotar em caixas no dia da feira. Ou talvez se revezem na tarefa de caminhar entre os feirantes no fim da feira coletando os itens necessários. Pedidos podem ser entregues pelos feirantes depois da feira, de volta ao local deles, ou ao redor da feira para cafés ou clientes varejistas. Alternativamente, um acordo de armazenamento e coleta pode ser feito com um café ou loja próximos.
 
-Stallholders wishing to setup a shop like this should refer to the [Multi-Producer Pre-Orders manual](multi-producer-pre-orders.md).
+Feirantes querendo configurar uma loja assim devem consultar o [manual de Pedidos Antecipados Multi-Produtor](multi-producer-pre-orders.md).
 
-### Market run collective online shop
+### Feira roda loja online coletiva
 
-The OFN’s high degree of flexibility makes it possible for Farmer's Markets to easily setup and pilot a great variety of collaborative sales arrangements. One possible configuration is covered below, however if you have questions regarding any other models don’t hesitate to get in touch.
+O alto grau de flexibilidade da Nossa Feira torna possível para as Feiras configurar e testar facilmente uma grande variedade de arranjos colaborativos de venda. Uma possível configuração é coberta abaixo — se você tiver dúvidas sobre outros modelos, não hesite em entrar em contato.
 
-A representative of the farmers’ market can take responsibility for coordinating an online shop, which stocks items from multiple stallholders. Each week they’ll be tasked with checking availability of stock, opening the shop, packing the orders on market day and arranging delivery. This model is great for customers who cannot attend the market, such as local workplaces, cafes and restaurants. This model can benefit from some market facilities such as a cool room or delivery van. The coordinator will also take responsibility for managing payments from customers and for paying the stallholders their share. Enterprise fees can be used to allocate a certain mark-up to the coordinator for their services.
+Um representante da feira pode assumir a responsabilidade de coordenar uma loja online que comercializa itens de vários feirantes. Cada semana ele terá a tarefa de verificar a disponibilidade de estoque, abrir a loja, empacotar os pedidos no dia da feira e organizar a entrega. Esse modelo é ótimo pra clientes que não podem ir à feira, como locais de trabalho, cafés e restaurantes. Pode se beneficiar de algumas facilidades da feira como câmara fria ou van de entrega. O coordenador também assumirá a responsabilidade de gerenciar pagamentos dos clientes e pagar a parte dos feirantes. Taxas da empresa podem ser usadas pra alocar uma margem ao coordenador pelos serviços.
 
-To setup this model, refer to the [Hub Shop Setup Manual](hub-shop.md), or get in touch with us for help.
+Pra configurar esse modelo, consulte o [Manual de Configuração de Loja de Central](hub-shop.md), ou entre em contato conosco pra ajuda.
 
-### Advanced features that may be helpful to farmer's markets with shops
+### Recursos avançados úteis pra feiras com lojas
 
-[Private shopfronts](../advanced-features/shop-setup/private-shopfront.md). If you're trading to hospitality customers you may wish to have a private shop, only visible to your known customers. This prevents retail customers from seeing wholesale pricing.
+[Vitrines privadas](../advanced-features/shop-setup/private-shopfront.md). Se você está negociando com clientes de hospitalidade, pode querer ter uma loja privada, visível apenas aos clientes conhecidos. Isso impede clientes de varejo de verem preços de atacado.
 
-Have you thought about setting up a [Farmer's Market group page](farmers-market-group-page.md)?
-
+Você já pensou em configurar uma [página de grupo de Feira](farmers-market-group-page.md)?

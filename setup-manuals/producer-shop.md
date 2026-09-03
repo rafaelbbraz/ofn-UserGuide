@@ -1,52 +1,51 @@
-# Producer \(Shop\)
+# Produtor (loja)
 
-## What is a producer shop?
+## O que é uma loja de produtor?
 
-* A producer shop lets you sell your produce through your own online shop
-* When you have a shop, you also have a profile, which gives you a place to tell your story.
-* You'll be visible on the OFN map and the producer directory.
+* Uma loja de produtor permite vender seus produtos pela sua própria loja online.
+* Quando você tem uma loja, também tem um perfil, o que te dá um lugar pra contar sua história.
+* Você fica visível no mapa da Nossa Feira e no diretório de produtores.
 
 ![](../.gitbook/assets/producer-shop.png)
 
-## What does it do?
+## O que faz?
 
-**Sell your food your way**  
-A producer shop includes all the functions you need to sell your produce direct to customers online. You can add your products to your shop, and sell them how you like. You can chose the ordering routine. You choose how the food is distributed. You choose how customer pay.
+**Venda sua comida do seu jeito**\
+Uma loja de produtor inclui todas as funções que você precisa pra vender seus produtos direto aos clientes online. Você pode adicionar produtos e vendê-los como quiser. Escolhe a rotina de pedidos. Escolhe como o alimento é distribuído. Escolhe como o cliente paga.
 
-**Streamline your admin tasks**  
-As well as a customer friendly checkout experience, your shop has all the behind the scenes administration tools to save you time, such as tracking orders, payments and inventory.
+**Simplifique suas tarefas administrativas**\
+Além de uma experiência de checkout amigável, sua loja tem todas as ferramentas administrativas de bastidor pra economizar seu tempo, como acompanhamento de pedidos, pagamentos e estoque.
 
-**Collaborate with others**  
-The OFN is a network, so you are able to connect with other shops. This way you can stock your products in your own independent store, as well as supplying other shops on OFN.
+**Colabore com outros**\
+A Nossa Feira é uma rede, então você pode se conectar com outras lojas. Assim você pode ter seus produtos na sua própria loja independente e também fornecer a outras lojas na Nossa Feira.
 
-**Makes you visible**  
-The first step to creating your online shop is to create your profile. When you have a profile on the Open Food Network, you become visible in your local food movement. You become contactable to customers who want to access your products. And you become reachable to other enterprises who may want to collaborate or distribute with you.
+**Te torna visível**\
+O primeiro passo pra criar sua loja online é criar seu perfil. Quando você tem um perfil na Nossa Feira, fica visível no movimento local de alimentos. Fica contatável para clientes e alcançável por outras empresas.
 
-## Steps for setting up a Producer Shop
+## Passos para configurar uma Loja de Produtor
 
-1\) [Register your profile](../basic-features/register-and-create-your-profile.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Cadastre seu perfil](../basic-features/register-and-create-your-profile.md) na Nossa Feira. Essa ferramenta pedirá informações básicas sobre sua empresa. Você será solicitado a confirmar seu email.
 
-2\) Select the 'producer shop'[ package type](../basic-features/package-types.md).
+2\) Selecione o [tipo de pacote](../basic-features/package-types.md) 'loja de produtor'.
 
-3\) If you want to edit your profile, or add further detail you can modify your [Enterprise Settings](../basic-features/enterprise-settings.md). Here you can also set your properties, chose whether your shop is open to the public or private and write a shopfront message.
+3\) Se você quer editar seu perfil ou adicionar mais detalhes, pode modificar as [Configurações da Empresa](../basic-features/enterprise-settings.md). Aqui você também define suas propriedades, escolhe se sua loja é aberta ao público ou privada e escreve uma mensagem de vitrine.
 
-4\) Define and setup your [shipping methods](../basic-features/shipping-methods.md).
+4\) Defina e configure seus [métodos de envio](../basic-features/shipping-methods.md).
 
-5\) Define and setup your [payment methods](../basic-features/payment-methods.md).
+5\) Defina e configure seus [métodos de pagamento](../basic-features/payment-methods.md).
 
-6\) Add your [product range](../basic-features/products.md).
+6\) Adicione sua [linha de produtos](../basic-features/products.md).
 
-#### **Open your shop!**
+#### **Abra sua loja!**
 
-7\) [Open your shop by opening an order cycle](../advanced-features/order-cycles/). When you create an Order Cycle you set the time when you want your shop to open as well as when it will close. This process will then repeat itself. We call this an order cycle. Each time an order cycle is created, you can select which products to stock in the store.
+7\) [Abra sua loja abrindo um ciclo de pedidos](../advanced-features/order-cycles/). Ao criar um Ciclo de Pedidos você define quando sua loja abre e fecha. Esse processo se repete. Cada vez que um ciclo é criado, você seleciona quais produtos ficarão na loja.
 
-#### **Great! You're open and ready to sell!**
+#### **Ótimo! Você está aberto e pronto pra vender!**
 
-You can now [view your orders](../advanced-features/orders/), get detailed [reports](../basic-features/reports.md) and explore the [advanced features](../advanced-features/) to tailor your shop to your needs.
+Você pode agora [ver seus pedidos](../advanced-features/orders/), obter [relatórios](../basic-features/reports.md) detalhados e explorar os [recursos avançados](../advanced-features/) pra adaptar sua loja às suas necessidades.
 
-## Advanced features that are helpful for producers with shops.
+## Recursos avançados úteis pra produtores com lojas
 
-* [Embedding your shop](../advanced-features/shop-setup/embedded-shopfront.md) into your own website.
-* [Pricing irregular items](../advanced-features/products/pricing-irregular-items-kg.md) E.g. Indivisible meat items sold by kg, with an unknown final weight
-* [Opening more than one order cycle](../advanced-features/order-cycles/opening-more-than-one-order-cycle.md) to cater to multiple pick up days, or different customer segments
-
+* [Incorporar sua loja](../advanced-features/shop-setup/embedded-shopfront.md) no seu próprio site.
+* [Precificar itens irregulares](../advanced-features/products/pricing-irregular-items-kg.md). Ex: carnes indivisíveis vendidas por kg com peso final desconhecido.
+* [Abrir mais de um ciclo de pedidos](../advanced-features/order-cycles/opening-more-than-one-order-cycle.md) pra atender múltiplos dias de coleta ou diferentes segmentos de clientes.

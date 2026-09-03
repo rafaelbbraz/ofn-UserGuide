@@ -1,125 +1,124 @@
-# Multi-Producer Pre-orders
+# Pedidos Antecipados Multi-Produtor
 
-## What is the Multi-Producer Pre-Orders model?
+## O que é o modelo de Pedidos Antecipados Multi-Produtor?
 
-Multi-producer pre-orders is a particular model of selling food direct from farmer to consumer. This model involves a collective of producers who are working together to run an online shop which they take pre-orders through. By working together customers can access a greater variety of food in the one place, making it convenient. The producers will also work together to bring the food to customers at the same time, making pick-up convenient to the customer as well.
+Pedidos antecipados multi-produtor é um modelo particular de vender alimentos direto do agricultor ao consumidor. Envolve um coletivo de produtores trabalhando juntos pra rodar uma loja online pela qual recebem pré-pedidos. Trabalhando juntos, os clientes acessam uma maior variedade de alimentos em um só lugar, tornando conveniente. Os produtores também trabalham juntos pra trazer os alimentos aos clientes ao mesmo tempo, tornando a coleta conveniente também.
 
-## What does it do?
+## O que faz?
 
-**A single shop, with food from many producers**    
-You can stock food from lots of producers in the one place, giving customers convenience and variety.
+**Uma única loja com alimentos de muitos produtores**\
+Você pode comercializar alimentos de muitos produtores em um só lugar, dando conveniência e variedade aos clientes.
 
-**Minimal central administration**    
-Producers who are participating in the shop can take on some of the admin tasks of the shop, including updating their product availability and prices. This reduces the tasks for the central administrator. Alternatively, suppliers can be hands off, and a coordinator can take on these tasks.
+**Administração central mínima**\
+Produtores participando podem assumir algumas tarefas administrativas da loja, incluindo atualizar disponibilidade e preços. Isso reduz as tarefas do administrador central. Alternativamente, os fornecedores podem não se envolver, e um coordenador pode assumir essas tarefas.
 
-**Easily communicate with producres**    
-Use our reports to let each producer know what's been ordered from them, and to calculate their sales total.
+**Comunicação fácil com produtores**\
+Use nossos relatórios pra informar cada produtor sobre o que foi pedido deles e calcular seu total de vendas.
 
-### An example of this model in action
+### Um exemplo desse modelo em ação
 
-The [Prom Coast Food Collective](https://www.promcoastfoodcollective.com.au/), in Victoria Australia is a group of farmers who are using a this model to collectively market their produce. So how does their model work?
+O [Prom Coast Food Collective](https://www.promcoastfoodcollective.com.au/), em Victoria (Austrália), é um grupo de agricultores usando esse modelo pra comercializar coletivamente seus produtos. Como funciona?
 
-Each month the Collective opens their online shop on the OFN which stocks produce from over 20 producers, encompassing an impressive range of produce, from dairy, to household cleaning products, meat and vegetables. Customers have 2 weeks to browse the shop and place their order, which they won’t collect until the collection date. The collective takes payment via bank transfer. They could also have used an automated tool like Paypal, however these carry fees.
+A cada mês, o Coletivo abre a loja online na Nossa Feira, que comercializa produtos de mais de 20 produtores, incluindo uma impressionante variedade — laticínios, produtos de limpeza doméstica, carnes e verduras. Os clientes têm 2 semanas pra navegar na loja e fazer o pedido, que só coletarão na data de coleta. O coletivo aceita pagamento por transferência bancária. Poderiam usar também uma ferramenta automatizada como Stripe, mas essa tem taxas.
 
-At the close of the ordering period, the shop closes and the group’s coordinator begins the task of administering the orders and payments. This involves downloading a report from OFN listing all orders placed. The coordinator will check that bank transfers have been received from customers for each order placed. Once this has been confirmed, they will send each producer a list of the items that have been ordered from them, as well as transfer them the total value of sales they made. In the Prom Coast’s case, they have a $5 fee attached to each order, which covers some collective costs, such as this administration time.
+No fechamento do período de pedidos, a loja fecha e o coordenador do grupo começa a administrar os pedidos e pagamentos. Isso envolve baixar um relatório da Nossa Feira listando todos os pedidos feitos. O coordenador confere se as transferências bancárias foram recebidas dos clientes para cada pedido. Uma vez confirmado, envia a cada produtor uma lista dos itens pedidos, além de transferir o total de vendas realizadas. No caso do Prom Coast, há uma taxa de A\$5 por pedido, cobrindo alguns custos coletivos como esse tempo administrativo.
 
-Once producers receive their order totals list from the coordinator, they start to prepare the produce for each customer. This may involve processing meat, harvesting vegetables, or bagging and labelling preserves. On a Sunday morning, one week after the shop closed and stopped accepting orders, all of the producers and customers converge at one of the farms. Customers will walk from producer to producer and collect the items they had pre-ordered. Producers will have the goods ready for each customer. Because orders are pre-paid, no money needs to changes hands on the day. Note, that alcohol sales cannot be pre-paid due to liquor licensing, so must be purchased on the day.
+Uma vez que os produtores recebem a lista de totais do coordenador, começam a preparar os produtos para cada cliente. Isso pode envolver processar carne, colher verduras ou embalar e etiquetar conservas. Num domingo de manhã, uma semana após a loja fechar e parar de aceitar pedidos, todos os produtores e clientes convergem para uma das fazendas. Os clientes caminham de produtor a produtor e coletam os itens que pré-pediram. Os produtores têm os produtos prontos para cada cliente. Como os pedidos são pré-pagos, nenhum dinheiro precisa trocar de mãos no dia. Nota: vendas de álcool não podem ser pré-pagas devido à licença de bebidas alcoólicas, então precisam ser compradas no dia.
 
 ![](../.gitbook/assets/prommm.png)
 
-After the collection day, the cycle repeats again. The first step for producers is to login to their OFN profiles and to update the availability and pricing of their products for the next month’s orders. Once they’ve had time to do this, the coordinator can open the shop and start receiving orders again.
+Após o dia de coleta, o ciclo se repete. O primeiro passo para os produtores é fazer login nos seus perfis e atualizar a disponibilidade e preços dos produtos para os pedidos do próximo mês. Uma vez que tiveram tempo pra isso, o coordenador pode abrir a loja e começar a receber pedidos novamente.
 
-## Steps for setting up a Multi-Producer Pre-Orders
+## Passos para configurar Pedidos Antecipados Multi-Produtor
 
-Setting up this model requires firstly setting up a Hub Shop for the collective shopfront. Secondly, profiles need to be created for all participating producers. These steps, as well as configuration options are described below.
+Configurar esse modelo requer primeiro configurar uma Loja de Central para a vitrine coletiva. Segundo, perfis precisam ser criados para todos os produtores participantes. Esses passos, além das opções de configuração, são descritos abaixo.
 
-Setup of the collective shop is the same as setting up a hub shop.
+A configuração da loja coletiva é a mesma que configurar uma loja de central.
 
-1\) [Register a profile](../basic-features/register-and-create-your-profile.md) for your collective shop on Open Food Network \(e.g. Green Valley Farmers Shop\). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
+1\) [Cadastre um perfil](../basic-features/register-and-create-your-profile.md) para sua loja coletiva na Nossa Feira (ex: Loja dos Agricultores do Vale Verde). Essa ferramenta pedirá informações básicas. Você será solicitado a confirmar o email.
 
-2\) Select the 'hub shop' [package type](../basic-features/package-types.md).
+2\) Selecione o [tipo de pacote](../basic-features/package-types.md) 'loja de central'.
 
-3\) If you want to edit your profile, or add further detail you can modify your [Enterprise Settings](../basic-features/enterprise-settings.md). Here you can also chose whether your shop is open to the public or private, and write a shopfront message.
+3\) Se você quer editar seu perfil ou adicionar mais detalhes, pode modificar as [Configurações da Empresa](../basic-features/enterprise-settings.md). Aqui você também escolhe se sua loja é aberta ao público ou privada e escreve uma mensagem de vitrine.
 
-4\) Define and setup your [shipping methods](../basic-features/shipping-methods.md).
+4\) Defina e configure seus [métodos de envio](../basic-features/shipping-methods.md).
 
-5\) Define and setup your [payment methods](../basic-features/payment-methods.md).
+5\) Defina e configure seus [métodos de pagamento](../basic-features/payment-methods.md).
 
-6\) Define any [enterprise fees ](../basic-features/enterprise-fees.md)you want to apply in your shop. For example if you have a central coordinator, you may wish to take a small fee to cover their time.
+6\) Defina quaisquer [taxas da empresa](../basic-features/enterprise-fees.md) que quer aplicar na sua loja. Por exemplo, se você tem um coordenador central, pode querer uma pequena taxa pra cobrir o tempo dele.
 
-**7\) Producer profiles and products.**   
-Before you can add in the shop's products, each participating producer needs to have a profile which the products can be tied to. There are different ways to setup the producer profiles, depending on how much control the central coordinator wants to maintain, and how much time they have to setup the profiles.
+**7\) Perfis e produtos dos produtores**\
+Antes de adicionar os produtos da loja, cada produtor participante precisa ter um perfil ao qual os produtos possam ser vinculados. Há diferentes formas de configurar os perfis de produtor, dependendo de quanto controle o coordenador central quer manter e quanto tempo tem pra configurar os perfis.
 
-**a\) High coordinator involvement option**    
-If you have a central coordinator taking the role of setting up the shop, they can [create profiles on behalf of the producers](../basic-features/create-or-connect-with-your-supplying-producers.md). This is more time consuming for the coordinator, but it gives them control in making sure the profiles are setup correctly and in a visually appealing way. Before doing this the coordinator should let producers know, and get their profile information from them. This option may also be necessary for producers who are not tech savvy and would struggle to be involved otherwise.
+**a) Opção de alta involvência do coordenador**\
+Se você tem um coordenador central assumindo o papel de configurar a loja, ele pode [criar perfis em nome dos produtores](../basic-features/create-or-connect-with-your-supplying-producers.md). Consome mais tempo do coordenador mas dá controle pra garantir que os perfis sejam configurados corretamente e de forma visualmente atraente. Antes de fazer isso, o coordenador deve avisar os produtores e obter as informações dos perfis. Essa opção também pode ser necessária pra produtores que não têm tanta familiaridade com tecnologia e teriam dificuldade em se envolver de outra forma.
 
-If your producers already have profiles, you need to [connect with them](../basic-features/create-or-connect-with-your-supplying-producers.md). The producer can grant different levels of permission to the shop, you should let them know if you want access to stock their products in your shop, or if you also want to be able to edit their profile, and their products, or add their products to inventory.
+Se seus produtores já têm perfis, você precisa [se conectar com eles](../basic-features/create-or-connect-with-your-supplying-producers.md). O produtor pode conceder diferentes níveis de permissão à loja — você deve avisar se quer acesso pra comercializar os produtos na sua loja, ou se também quer poder editar o perfil, os produtos ou adicionar produtos ao estoque.
 
-When the central coordinator creates profiles for producers they can also add in their product range on their behalf. They will first need to get product lists from each producer, with the required fields \(name, price, category, properties etc\). See [instructions for setting up products](../basic-features/products.md). If you've connected to an existing profile, you should also have permission to edit their products.
+Quando o coordenador central cria perfis pros produtores, também pode adicionar a linha de produtos em nome deles. Precisará primeiro obter listas de produtos de cada produtor, com os campos requeridos (nome, preço, categoria, propriedades etc.). Veja [instruções pra configurar produtos](../basic-features/products.md). Se você se conectou com um perfil existente, também deve ter permissão pra editar os produtos.
 
-**b\) Low coordinator involvement option**  
-If you want your producers to take responsibility for creating their profiles, you can instruct them to create their own profile and add in their products. They can follow the [Producer \(Profile Only\) manual,](producer-profile-only.md) completing all 5 steps.
+**b) Opção de baixa involvência do coordenador**\
+Se você quer que seus produtores assumam a responsabilidade de criar os perfis, pode instruí-los a criarem o próprio perfil e adicionarem os produtos. Podem seguir o [manual de Produtor (apenas perfil)](producer-profile-only.md), completando os 5 passos.
 
-If you're connected with existing producer profiles. Remind these producers to update their products.
+Se você está conectado com perfis de produtor existentes, lembre esses produtores de atualizar seus produtos.
 
-Once the producers have setup their profiles, you'll need to [connect with them](../basic-features/create-or-connect-with-your-supplying-producers.md).
+Uma vez que os produtores configuraram os perfis, você precisará [se conectar com eles](../basic-features/create-or-connect-with-your-supplying-producers.md).
 
-9\) [Open your shop by opening an order cycle](../basic-features/order-cycles-for-hubs.md). Once your supplying producer profiles are setup, with their product ranges and once the shipping and payment methods are setup you can open your shopfront by creating an order cycle.
+9\) [Abra sua loja abrindo um ciclo de pedidos](../basic-features/order-cycles-for-hubs.md). Uma vez que os perfis dos produtores fornecedores estão configurados, com suas linhas de produtos, e os métodos de envio e pagamento estão prontos, você pode abrir sua vitrine criando um ciclo de pedidos.
 
-10\) View and edit [orders](../advanced-features/orders/).
+10\) Ver e editar [pedidos](../advanced-features/orders/).
 
-11\) View [reports](../basic-features/reports.md). This page offers a broad description of OFN's reports.
+11\) Ver [relatórios](../basic-features/reports.md).
 
-**Which reports are useful to multifarm shops?**    
-Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
+**Quais relatórios são úteis para lojas multi-fazenda?**\
+Geralmente, no fechamento de um ciclo de pedidos, o coordenador central precisa ser responsável por informar cada produtor sobre quanto estoque foi pedido dele e por qual cliente. Então cada produtor pode empacotar o estoque pronto pra entrega.
 
-The order cycle customer total report lists each customer's order, with each item they ordered. The report should be filtered by producer and downloaded as a CSV. This will tell the producer which items were ordered by which customer.
+O relatório de totais por cliente lista o pedido de cada cliente, com cada item. Deve ser filtrado por produtor e baixado como CSV. Isso informa ao produtor quais itens foram pedidos por qual cliente.
 
-This report can also be used to calculate the total value of goods ordered from that supplier. If your shop takes payment at checkout \(with Paypal or Stripe\), then the central coordinator can use this report to calculate how much money needs to be paid to each supplier.
+Esse relatório também pode ser usado pra calcular o valor total dos produtos pedidos daquele fornecedor. Se sua loja aceita pagamento no checkout (com PayPal ou Stripe), o coordenador central pode usar esse relatório pra calcular quanto dinheiro precisa ser pago a cada fornecedor.
 
-## What are the ongoing processes to run this kind of model?
+## Quais são os processos contínuos pra rodar esse tipo de modelo?
 
-### Updating products each cycle
+### Atualizando produtos a cada ciclo
 
-Before each order cycle, the product availability and prices for each producer need to be updated. If the coordinator owns the producer profiles, they’ll need to contact each producer, get a list of any changes to product prices and availability, and update this in the OFN. If the coordinator has taken the ‘low involvement’ route, producers will need to take responsibility for updating their product information themselves.
+Antes de cada ciclo, a disponibilidade e preços dos produtos de cada produtor precisam ser atualizados. Se o coordenador é dono dos perfis dos produtores, precisará contatar cada produtor, obter uma lista de mudanças e atualizar na Nossa Feira. Se o coordenador seguiu a rota 'baixa involvência', os produtores precisarão assumir a responsabilidade de atualizar suas próprias informações.
 
-Below are instructions for how producers can update products before an order cycle:
+Abaixo, instruções pra produtores atualizarem produtos antes de um ciclo:
 
-Each cycle there are 3 things to update before the shop opens:
+Cada ciclo há 3 coisas pra atualizar antes da loja abrir:
 
-1\) Mark any products that are unavailable with a zero in the ‘on hand’ field.
+1\) Marque quaisquer produtos indisponíveis com zero no campo 'em mãos'.
 
-2\) For products that will be available in the coming week, do one of the following:
+2\) Para produtos que estarão disponíveis na semana seguinte, faça uma das seguintes:
 
-i\) Either enter the amount that you have available in the ‘on hand’ field next to the product.
+i\) Informe a quantidade disponível no campo 'em mãos' ao lado do produto.
 
-ii\) or, if you have an inexhaustible amount of a product available, select the ‘on demand’ tick box that corresponds with that product.
+ii\) ou, se você tem uma quantidade inesgotável de um produto disponível, selecione a caixa 'sob demanda' correspondente.
 
-3\) Update the prices
+3\) Atualize os preços.
 
-See here for details about updating [products](../basic-features/products.md).
+Veja aqui detalhes sobre atualizar [produtos](../basic-features/products.md).
 
-Once all producer have done this, the coordinator creates an OC and selects all products for all producers. This will put all available products into the shop at the correct prices, with the correct stock levels.
+Uma vez que todos os produtores fizeram isso, o coordenador cria um ciclo e seleciona todos os produtos pra todos os produtores. Isso coloca todos os produtos disponíveis na loja aos preços e níveis de estoque corretos.
 
-### Creating an Order Cycle
+### Criando um ciclo de pedidos
 
-It’s the coordinator’s role to make sure the order cycle is setup correctly. This involves setting the opening and closing dates, and selecting which producers are involved for that order cycle.
+É papel do coordenador garantir que o ciclo seja configurado corretamente. Isso envolve definir as datas de abertura e fechamento e selecionar quais produtores estão envolvidos naquele ciclo.
 
-A way to streamline this process is to duplicate the previous Order Cycle and then just make smaller amendments.
+Uma forma de simplificar esse processo é duplicar o ciclo anterior e fazer apenas pequenos ajustes.
 
-### Refunds
+### Reembolsos
 
-The collective should define the refund policy. To reduce administration time, the hub may chose not to allow refunds. Or if they do allow refunds, you need to clarify which party is responsible for this. E.g. before the collective has paid producer’s for their orders, it would be the collective’s responsibility to administer refunds. Refunds requested after funds have been transferred to producers, or after the collection date, should go through producers for example.
+O coletivo deve definir a política de reembolso. Pra reduzir tempo administrativo, a central pode escolher não permitir reembolsos. Ou se permitir, precisa clarificar qual parte é responsável. Ex: antes que o coletivo tenha pago os produtores pelos pedidos deles, seria responsabilidade do coletivo administrar reembolsos. Reembolsos solicitados depois que os fundos foram transferidos aos produtores, ou após a data de coleta, deveriam passar pelos produtores por exemplo.
 
-## Advanced Features
+## Recursos avançados
 
-Once you have completed your basic setup, check out the advanced features below which are particularly relevant to Multi-Farm shops:
+Uma vez que você completou a configuração básica, confira os recursos avançados abaixo particularmente relevantes pra lojas multi-fazenda:
 
-* [Enterprise Fees](../basic-features/enterprise-fees.md) - Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
-* Multiple managers – A Multi-farm shop might wish to have multiple managers who are able to login and edit the shop. This can be done by adding managers to the central producer’s profile. See 'users' in the [Enterprise Settings](../basic-features/enterprise-settings.md).
-* [Pricing irregular, indivisible meat items](../advanced-features/products/pricing-irregular-items-kg.md)- This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
-* Apply [tags](../advanced-features/shop-setup/tags-and-tag-rules.md) to your customers and customise their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
-* [Make your shopfront private](../advanced-features/shop-setup/private-shopfront.md)- If you prefer to check the suitability of customers \(e.g. within delivery boundaries, or signed up members\) before they can order through your shop, you can make your shopfront limited to approved customers only.
-* [Charge different prices to different customers](../advanced-features/shop-setup/customer-specific-pricing.md) - There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
-* [Place orders manually](../advanced-features/orders/create-orders-manually.md) - for customers who prefer to submit orders by text or over the phone.
-
+* [Taxas da Empresa](../basic-features/enterprise-fees.md) — Lojas Multi-Fazenda podem querer usar essa ferramenta pra alocar taxas e cobranças a partes que fornecem um serviço (como embalagem ou entrega) do qual as outras partes se beneficiam.
+* Múltiplos gerentes – Uma loja multi-fazenda pode querer múltiplos gerentes que podem fazer login e editar a loja. Isso pode ser feito adicionando gerentes ao perfil do produtor central. Veja 'usuários' nas [Configurações da Empresa](../basic-features/enterprise-settings.md).
+* [Precificando itens de carne irregulares e indivisíveis](../advanced-features/products/pricing-irregular-items-kg.md) — Estratégias pra precificar itens como frangos ou abóboras cobrados por kg mas com peso irregular.
+* Aplicar [tags](../advanced-features/shop-setup/tags-and-tag-rules.md) aos seus clientes e customizar a experiência de compra com regras. Torna possível restringir certos produtos e métodos de envio ou pagamento a clientes específicos.
+* [Tornar sua vitrine privada](../advanced-features/shop-setup/private-shopfront.md) — Se prefere verificar a adequação dos clientes antes que possam pedir na sua loja.
+* [Cobrar preços diferentes de clientes diferentes](../advanced-features/shop-setup/customer-specific-pricing.md).
+* [Fazer pedidos manualmente](../advanced-features/orders/create-orders-manually.md) — pra clientes que preferem enviar pedidos por texto ou telefone.

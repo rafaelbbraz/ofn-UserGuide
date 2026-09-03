@@ -1,47 +1,46 @@
-# Producer \(Profile Only\)
+# Produtor (apenas perfil)
 
-## What is a producer profile?
+## O que é um perfil de produtor?
 
-* A profile gives you a place to tell your story.
-* You'll be visible on the OFN map.
-* You'll be visible in the producer directory.
-* You can add in your products and be stocked others' shops on OFN.
-* If you ever want to run your own shop, you can add the shopfront functionality to your profile.
+* Um perfil te dá um lugar pra contar sua história.
+* Você fica visível no mapa da Nossa Feira.
+* Você fica visível no diretório de produtores.
+* Você pode cadastrar seus produtos e ser comercializado por outras lojas na Nossa Feira.
+* Se algum dia quiser ter sua própria loja, pode adicionar a funcionalidade de vitrine ao seu perfil.
 
 ![](../.gitbook/assets/profile-example.png)
 
-## What does it do?
+## O que faz?
 
-**Makes you visible**  
-When you have a profile on the Open Food Network, you become visible in your local food movement. You become contactable to customers who want to access your products. And you become reachable to other enterprises who may want to collaborate or distribute with you.
+**Te torna visível**\
+Quando você tem um perfil na Nossa Feira, fica visível no movimento local de alimentos. Fica contatável para clientes que querem acessar seus produtos. E fica alcançável por outras empresas que podem querer colaborar ou distribuir com você.
 
-**Lets you supply other shops**  
-If you want to supply a shop on the Open Food Network, you can create your profile, and then upload your product range. The shop you supply can then see your products and add them to their OFN online shopfront.
+**Permite que você forneça a outras lojas**\
+Se você quer fornecer a uma loja na Nossa Feira, pode criar seu perfil e depois enviar sua linha de produtos. A loja que você fornece pode então ver seus produtos e adicioná-los à vitrine online dela.
 
-## Steps for setting up a Producer Profile
+## Passos para configurar um Perfil de Produtor
 
-1\) [Register your profile](../basic-features/register-and-create-your-profile.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Cadastre seu perfil](../basic-features/register-and-create-your-profile.md) na Nossa Feira. Essa ferramenta de configuração pedirá informações básicas sobre sua empresa pra criar o perfil. Você será solicitado a confirmar seu email.
 
-2\) Select the 'producer profile' [package type](../basic-features/package-types.md).
+2\) Selecione o [tipo de pacote](../basic-features/package-types.md) 'perfil de produtor'.
 
-**Your basic profile is now complete!**
+**Seu perfil básico está completo!**
 
-**If you want to edit your profile, or add further detail you can.**
+**Se você quer editar seu perfil ou adicionar mais detalhes, pode.**
 
-3\) Modify your profile in your [Enterprise Settings](../basic-features/enterprise-settings.md). It's a good idea to add your Properties here e.g. free range, organic.
+3\) Modifique seu perfil nas [Configurações da Empresa](../basic-features/enterprise-settings.md). Boa ideia adicionar suas Propriedades aqui, ex: criação livre, orgânico.
 
-You will now have a space to tell the story of your enterprise and to help drive connections to your social and online presence.
+Agora você terá um espaço pra contar a história da sua empresa e ajudar a direcionar conexões pra sua presença online e nas redes sociais.
 
-**If you want to supply a shop on OFN with your produce:**
+**Se você quer fornecer a uma loja da Nossa Feira com seus produtos:**
 
-4\) Add your[ product range](../basic-features/products.md).
+4\) Adicione sua [linha de produtos](../basic-features/products.md).
 
-5\) Grant the shop you want to supply with [permission to stock your products](../advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md).
+5\) Conceda à loja que você quer fornecer [permissão pra comercializar seus produtos](../advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md).
 
-## Advanced features that are helpful for producers with profiles.
+## Recursos avançados úteis pra produtores com perfis
 
-* Making your profile [searchable by product category](../advanced-features/your-profile/making-a-producer-profile-searchable-by-product-category.md)
+* Tornar seu perfil [pesquisável por categoria de produto](../advanced-features/your-profile/making-a-producer-profile-searchable-by-product-category.md)
 
-**Want to setup an online shop?**    
- Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [Producer Shop setup manual](producer-shop.md#producer-shop). You've already completed step 1 when you created your profile, so start at step 2 and change your package.
-
+**Quer configurar uma loja online?**\
+Agora que você tem um perfil na Nossa Feira, com apenas mais alguns passos você pode abrir uma loja online. Veja o [manual de configuração de Loja de Produtor](producer-shop.md#producer-shop). Você já completou o passo 1 ao criar seu perfil, então comece pelo passo 2 e altere seu pacote.

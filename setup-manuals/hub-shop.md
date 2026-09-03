@@ -1,71 +1,70 @@
-# Hub \(Shop\)
+# Central (loja)
 
-## What is a hub shop?
+## O que é uma loja de central?
 
-Hub shops can take many different forms, but at their essence, they are an online shop which stocks products from multiple source-identified supplying producers. With a hub shop customers can see profiles of the producers who grew/raised/baked their food.
+Lojas de central podem assumir muitas formas diferentes, mas na essência são uma loja online que comercializa produtos de vários produtores fornecedores identificados. Com uma loja de central, os clientes veem os perfis dos produtores que cultivaram/criaram/assaram sua comida.
 
-Some examples of food hubs include wholesale and retail food hubs and dry goods buying clubs.
+Alguns exemplos de centrais de alimentos incluem centrais atacadistas e varejistas e clubes de compras de secos.
 
 ![](../.gitbook/assets/hub-shop.png)
 
-## What does it do?
+## O que faz?
 
-**A shopping experience customers will enjoy**  
-With a hub shop customers can see profiles of the producers who grew/raised/baked their food, giving them a virtual farmer's market experience.
+**Uma experiência de compra que os clientes vão gostar**\
+Com uma loja de central, os clientes veem os perfis dos produtores que cultivaram/criaram/assaram sua comida, dando uma experiência virtual de feira.
 
-**Streamline your admin tasks**  
-Unlike taking orders with emails, texts or phone messages, taking orders online is simple and time saving. Use OFN's reports to understand your stock levels, your sales, your orders and your packing sheets, all at a glance.
+**Simplifique suas tarefas administrativas**\
+Diferente de receber pedidos por emails, textos ou mensagens de telefone, receber online é simples e economiza tempo. Use os relatórios da Nossa Feira pra entender seus níveis de estoque, vendas, pedidos e folhas de embalagem, tudo de relance.
 
-**Take orders periodically**  
-You can choose when your shop opens and closes, and run your shop in cycles.
+**Receba pedidos periodicamente**\
+Você pode escolher quando sua loja abre e fecha, e operar a loja em ciclos.
 
-**Involve your suppliers**  
-Your suppliers can login directly to OFN to update their product availability and prices, minimising some administration tasks for you.
+**Envolva seus fornecedores**\
+Seus fornecedores podem fazer login diretamente na Nossa Feira pra atualizar disponibilidade e preços, minimizando algumas tarefas administrativas pra você.
 
-**Be flexible**  
-Our software is designed to be flexible and to accommodate business models of all different shapes and forms. You can use our flexibility to experiment with new ways of doing things. If you want to experiment supplying to hospitality customers, you can setup 'hospitality only' shops. Want to experiment with a new delivery location, add a drop-off point. Want to experiment with adding a second delivery date, you can do that.
+**Seja flexível**\
+Nosso software é desenhado pra ser flexível e acomodar modelos de negócio de diferentes formatos. Você pode usar nossa flexibilidade pra experimentar novas formas de fazer as coisas. Se quer experimentar fornecer a clientes do setor de gastronomia, pode configurar lojas 'só pra gastronomia'. Quer experimentar um novo local de entrega, adicione um ponto de coleta. Quer experimentar uma segunda data de entrega, pode fazer isso.
 
-## Steps for setting up a Hub Shop
+## Passos para configurar uma Loja de Central
 
-1\) [Register your profile](../basic-features/register-and-create-your-profile.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Cadastre seu perfil](../basic-features/register-and-create-your-profile.md) na Nossa Feira. Essa ferramenta pedirá informações básicas.
 
-2\) Select the 'hub shop' [package type](../basic-features/package-types.md).
+2\) Selecione o [tipo de pacote](../basic-features/package-types.md) 'loja de central'.
 
-3\) If you want to edit your profile, or add further detail you can modify your [Enterprise Settings](../basic-features/enterprise-settings.md). Here you can also chose whether your shop is open to the public or private and write a shopfront message.
+3\) Se você quer editar seu perfil ou adicionar mais detalhes, pode modificar as [Configurações da Empresa](../basic-features/enterprise-settings.md). Aqui você também escolhe se sua loja é aberta ao público ou privada e escreve uma mensagem de vitrine.
 
-4\) Define and setup your [shipping methods](../basic-features/shipping-methods.md).
+4\) Defina e configure seus [métodos de envio](../basic-features/shipping-methods.md).
 
-5\) Define and setup your [payment methods](../basic-features/payment-methods.md).
+5\) Defina e configure seus [métodos de pagamento](../basic-features/payment-methods.md).
 
-6\) Define any [enterprise fees](../basic-features/enterprise-fees.md) you want to apply in your shop.
+6\) Defina quaisquer [taxas da empresa](../basic-features/enterprise-fees.md) que quer aplicar na sua loja.
 
-7\) [Create profiles for, or connect with your supplying producers](../basic-features/create-or-connect-with-your-supplying-producers.md). You need to do this before you can add your product range.
+7\) [Crie perfis para, ou conecte-se com seus produtores fornecedores](../basic-features/create-or-connect-with-your-supplying-producers.md). Você precisa fazer isso antes de adicionar sua linha de produtos.
 
-8\) Manage your products
+8\) Gerencie seus produtos
 
-The following instructions for managing products are broken down according to what you setup in step 7 above, either you a\) created a profile for your supplying producer; or b\) connected with a pre-existing supplying producer profile.
+As instruções seguintes pra gerenciar produtos são divididas de acordo com o que você configurou no passo 7 acima — você a) criou um perfil pro seu produtor fornecedor; ou b) se conectou com um perfil de produtor pré-existente.
 
-**8a\) I created a profile for my supplying producer**  
-If in the previous step you created a profile for your supplier \(because they were not on the OFN\), you’ll need to also [add their products](../basic-features/products.md) to that profile, before you can stock them in your store.
+**8a) Criei um perfil pro meu produtor fornecedor**\
+Se no passo anterior você criou um perfil pro seu fornecedor (porque ele não estava na Nossa Feira), precisará também [adicionar os produtos dele](../basic-features/products.md) a esse perfil antes de comercializá-los na sua loja.
 
-**8b\) I connected with a pre-existing supplying producer profile.**  
-If your supplying producer already had a profile, you may or may not need to add their product range. If that producer has already added their products, you don’t need to add them again, instead you just need to get their permission to stock their products in your shop \(see previous step 7\). They’ll then be visible to your when you go to stock your shop \(in order cycles\).
+**8b) Me conectei com um perfil de produtor fornecedor pré-existente**\
+Se seu produtor fornecedor já tinha perfil, você pode ou não precisar adicionar a linha de produtos. Se esse produtor já adicionou os produtos, você não precisa adicionar de novo — só precisa da permissão pra comercializá-los na sua loja (passo 7). Eles ficarão visíveis quando você for abastecer a loja (em ciclos de pedidos).
 
-If your supplying producer has a profile, but hasn’t added their product range, you’ll need to first get their permission to manage their products and stock them in your shop. Then, you can [add their products](../basic-features/products.md).
+Se seu produtor fornecedor tem perfil mas não adicionou a linha, você precisará primeiro da permissão pra gerenciar os produtos e comercializá-los. Depois pode [adicionar os produtos](../basic-features/products.md).
 
-**Once you've setup your shipping and payment methods, and added your products, you can open your shopfront**    
-8\) Open your shop by opening an [order cycle](../basic-features/order-cycles-for-hubs.md).
+**Uma vez que você configurou seus métodos de envio e pagamento e adicionou os produtos, pode abrir sua vitrine**\
+8\) Abra sua loja abrindo um [ciclo de pedidos](../basic-features/order-cycles-for-hubs.md).
 
-**Once you've received orders in your shop, you can see orders and use the reports.**    
-  
-9\) View and edit [orders](../advanced-features/orders/).
+**Uma vez que você recebeu pedidos na sua loja, pode ver os pedidos e usar os relatórios.**
 
-10\) [View reports](../basic-features/reports.md). You may use the reports to generate packing sheets, invoices and or mailing lists.
+9\) Ver e editar [pedidos](../advanced-features/orders/).
 
-## Advanced features that are helpful for hubs with shops.
+10\) [Ver relatórios](../basic-features/reports.md). Você pode usar os relatórios pra gerar folhas de embalagem, notas fiscais e/ou listas de emails.
 
-* [Embedding your shop](../advanced-features/shop-setup/embedded-shopfront.md) into your own website.
-* [Pricing irregular items](../advanced-features/products/pricing-irregular-items-kg.md) such as meat
-* [Opening more than one order cycle](../advanced-features/order-cycles/opening-more-than-one-order-cycle.md).
-* [Group Buy](../advanced-features/products/group-buy-for-bulk-ordering.md) is a tool to help buying groups make bulk purchase decisions
+## Recursos avançados úteis pra centrais com lojas
 
+* [Incorporar sua loja](../advanced-features/shop-setup/embedded-shopfront.md) no seu próprio site.
+* [Precificar itens irregulares](../advanced-features/products/pricing-irregular-items-kg.md) como carnes.
+* [Abrir mais de um ciclo de pedidos](../advanced-features/order-cycles/opening-more-than-one-order-cycle.md).
+* [Compra em Grupo](../advanced-features/products/group-buy-for-bulk-ordering.md) é uma ferramenta pra ajudar grupos de compras a tomarem decisões de compra em lote.

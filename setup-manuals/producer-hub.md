@@ -1,42 +1,41 @@
-# Producer \(Hub\)
+# Produtor (Central)
 
-## What is a Producer Hub?
+## O que é uma Central Produtora?
 
-A Producer Hub shop is a shop which is run by a producer and stocks produce from other producers. We class this model as both a 'producer' \(because they raise. grow, bake etc\) and as a 'hub' \(because they are stocking items sourced from other producers, so play an aggregation role\).
+Uma loja de Central Produtora é uma loja administrada por um produtor que também comercializa produtos de outros produtores. Classificamos esse modelo como 'produtor' (porque cria, cultiva, assa etc.) e 'central' (porque comercializa itens de outros produtores, exercendo papel de agregação).
 
-## What does it do?
+## O que faz?
 
-**Offer more variety to your customers by stocking produce from others**  
-Producers selling direct can delight their customers by supplying a diversity of produce from other producers. Not only does this give customers access to a broader range of goodies, it can also grow your business. By collaborating with other producers you can also share the load of marketing, admin and distribution.
+**Ofereça mais variedade aos seus clientes comercializando produtos de outros**\
+Produtores vendendo direto podem encantar os clientes fornecendo diversidade de produtos de outros produtores. Isso não só dá aos clientes acesso a uma variedade maior, como também pode fazer seu negócio crescer. Colaborando com outros produtores você também pode dividir a carga de marketing, administração e distribuição.
 
-**Collaborate with ease**  
-OFN is designed to make it easy to network with others. Each producer can login and update their stock availability and prices as well as view orders and reports. And just because you are collaborating with others doesn't mean you can't also run your own individual shop.
+**Colabore com facilidade**\
+A Nossa Feira é desenhada pra facilitar a conexão em rede. Cada produtor pode fazer login e atualizar disponibilidade e preços, além de ver pedidos e relatórios. E só porque você está colaborando com outros não significa que não possa também rodar sua própria loja individual.
 
-## Steps for setting up
+## Passos para configurar
 
-**Background**  
-Producer Hub shops will usually be administered by a central producer who may have operated their own individual Producer Shop on the OFN previously, and then decided to expand their offering by linking up with other producers. They can do this by creation producer profiles for the additional producers and then adding their products into their shopfront. The level of involvement that the other supplying producers have can vary from simply supplying produce, to taking a more active role in administering the shopfront by maintaining their products and profile in OFN.
+**Contexto**\
+Lojas de Central Produtora são normalmente administradas por um produtor central que pode ter operado sua própria Loja de Produtor individual na Nossa Feira anteriormente, e então decidiu expandir a oferta se conectando com outros produtores. Ele pode fazer isso criando perfis de produtor para os adicionais e depois adicionando os produtos deles à vitrine. O nível de envolvimento dos produtores fornecedores pode variar de simplesmente fornecer produtos a assumir um papel mais ativo administrando a vitrine mantendo produtos e perfil.
 
-The central managing producer of a Producer Hub shop can setup the shop according to the [producer shop setup manual](producer-shop.md#producer-shop). At step 2, choose the third option, ‘Hub Shop’. This shop will be the Multi-Farm Shopfront. After the coordinating producer has worked through the set-up manual for just their profile and products, they can create profiles for their additional suppliers, and to add their products into the system.
+O produtor central gerenciando uma loja de Central Produtora pode configurar a loja de acordo com o [manual de Loja de Produtor](producer-shop.md#producer-shop). No passo 2, escolha a terceira opção, 'Loja da Central'. Essa loja será a Vitrine Multi-Fazenda. Depois que o produtor coordenador trabalhou pelo manual apenas com seu perfil e produtos, pode criar perfis para os fornecedores adicionais e adicionar os produtos deles ao sistema.
 
-Before creating the additional profiles, you’ll need to email us to request permission to create more than one profile \(this is a spam prevention measure\). The coordinating producer may setup the profile and products for everyone, or the other producers may wish to do this themselves. The two options are described below
+Antes de criar perfis adicionais, você precisará nos enviar um email pedindo permissão pra criar mais de um perfil (prevenção de spam). O produtor coordenador pode configurar o perfil e produtos pra todos, ou os outros produtores podem querer fazer isso eles mesmos. As duas opções são descritas abaixo.
 
-**Coordinating producer sets up profiles and products for supplying producers**    
-  
-1\) After the coordinating producer has setup their own shopfront, it is then simple to create a profile for another producer, add their products and then start selling these items in their online shop. Instructions for setting up profiles for others is covered [here](../basic-features/create-or-connect-with-your-supplying-producers.md).
+**Produtor coordenador configura perfis e produtos pros produtores fornecedores**
 
-2\) Note also that the order cycle interface will be different when you stock items from others. The 'hub' version of the order cycle interface is explained [here](../basic-features/order-cycles-for-hubs.md).
+1\) Depois que o produtor coordenador configurou sua própria vitrine, é simples criar um perfil pra outro produtor, adicionar seus produtos e começar a vendê-los na loja online. Instruções para configurar perfis pra outros estão [aqui](../basic-features/create-or-connect-with-your-supplying-producers.md).
 
-**Supplying producers set up their profiles and add in their product range**    
-  
-Supplying producers can create a producer profile, according to the [producer profile setup manual](producer-profile-only.md). At step 2 they should select to have a ‘producer profile’. They won’t need their own shopfront as they’ll be selling through the coordinating producer’s shopfront. Next they should follow steps 3-5. Finally they should grant the coordinating supplier permission to stock their products, instructions for doing this can be found [here](../advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md).
+2\) Note que a interface do ciclo de pedidos será diferente quando você comercializa itens de outros. A versão 'central' da interface de ciclo é explicada [aqui](../basic-features/order-cycles-for-hubs.md).
 
-## Advanced features that are helpful for Multi-Producer shops.
+**Produtores fornecedores configuram seus perfis e adicionam sua linha de produtos**
 
-* [Enterprise Fees](../basic-features/enterprise-fees.md). Multi-Farm Shops may wish to use this tool to allocate fees and charges to parties who provide a service \(such as packing or delivery\) that the other parties benefit from.
-* [Pricing irregular, indivisible meat items](../advanced-features/products/pricing-irregular-items-kg.md). This page offers some strategies for pricing items like chickens or pumpkins, which are charged by the kg but which have an irregular weight.
-* [Apply tags](../advanced-features/shop-setup/tags-and-tag-rules.md) to your customers and customise their shopping experience with tag rules. This can make it possible to restrict certain products and certain shipping or payment methods to particular customers, which becomes especially helpful if you have retail and wholesale customers.
-* [Make your shopfront private](../advanced-features/shop-setup/private-shopfront.md). If you prefer to check the suitability of customers before they can order through your shop, you can make your shopfront require login.
-* [Charge different prices to different customers](../advanced-features/shop-setup/customer-specific-pricing.md). There are a number of ways to configure a shop so that you charge different prices to different customers, such as your rural customers and your metropolitan customers.
-* [Place orders manually](../advanced-features/orders/create-orders-manually.md) for customers who prefer to submit orders by text or over the phone.
+Produtores fornecedores podem criar um perfil de produtor de acordo com o [manual de perfil de produtor](producer-profile-only.md). No passo 2 devem selecionar 'perfil de produtor'. Eles não precisarão da própria vitrine já que estarão vendendo pela vitrine do produtor coordenador. Depois devem seguir os passos 3-5. Finalmente devem conceder ao coordenador permissão pra comercializar os produtos deles — instruções [aqui](../advanced-features/collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md).
 
+## Recursos avançados úteis pra Lojas Multi-Produtor
+
+* [Taxas da Empresa](../basic-features/enterprise-fees.md). Lojas Multi-Fazenda podem querer usar essa ferramenta pra alocar taxas e cobranças a partes que fornecem um serviço (como embalagem ou entrega) do qual as outras partes se beneficiam.
+* [Precificando itens de carne irregulares e indivisíveis](../advanced-features/products/pricing-irregular-items-kg.md). Esta página oferece estratégias pra precificar itens como frangos ou abóboras, que são cobrados por kg mas têm peso irregular.
+* [Aplicar tags](../advanced-features/shop-setup/tags-and-tag-rules.md) aos seus clientes e customizar a experiência de compra com regras de tag. Permite restringir certos produtos e métodos de envio ou pagamento a clientes específicos, útil se você tem clientes atacado e varejo.
+* [Torne sua vitrine privada](../advanced-features/shop-setup/private-shopfront.md). Se você prefere verificar a adequação dos clientes antes que possam pedir na sua loja, pode exigir login.
+* [Cobrar preços diferentes de clientes diferentes](../advanced-features/shop-setup/customer-specific-pricing.md). Há várias formas de configurar uma loja pra cobrar preços diferentes.
+* [Fazer pedidos manualmente](../advanced-features/orders/create-orders-manually.md) pra clientes que preferem enviar pedidos por texto ou telefone.

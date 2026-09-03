@@ -1,36 +1,35 @@
-# Hub \(Profile Only\)
+# Central (apenas perfil)
 
-## What is a hub profile?
+## O que é um perfil de central?
 
-* It's a place to tell your story to people who are interested in local food enterprises and organisations.
-* You'll be visible on the OFN map.
-* If you ever want to take sales online, you can add the shopfront functionality to your profile.
+* É um lugar pra contar sua história pra pessoas interessadas em empresas e organizações locais de alimentos.
+* Você fica visível no mapa da Nossa Feira.
+* Se algum dia quiser levar as vendas pra online, pode adicionar a funcionalidade de vitrine ao seu perfil.
 
 ![](../.gitbook/assets/hub-profile.png)
 
-## What does it do?
+## O que faz?
 
-**Makes you visible**  
-When you have a profile on the Open Food Network, you become visible in your local food movement. You become contactable to customers who want to shop with you. You also become reachable to other enterprises who may want to supply to you, collaborate or distribute with you.
+**Te torna visível**\
+Quando você tem um perfil na Nossa Feira, fica visível no movimento local de alimentos. Fica contatável para clientes que querem comprar com você. Também fica alcançável por outras empresas que podem querer te fornecer, colaborar ou distribuir com você.
 
-## Steps for setting up a Producer Profile
+## Passos para configurar um Perfil de Central
 
-1\) [Register your profile](../basic-features/register-and-create-your-profile.md) on Open Food Network. This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm your email address.
+1\) [Cadastre seu perfil](../basic-features/register-and-create-your-profile.md) na Nossa Feira. Essa ferramenta pedirá informações básicas sobre sua empresa. Você será solicitado a confirmar seu email.
 
-2\) Select the 'hub profile' [package type](../basic-features/package-types.md).
+2\) Selecione o [tipo de pacote](../basic-features/package-types.md) 'perfil de central'.
 
-### **Your basic profile is now complete!**
+### **Seu perfil básico está completo!**
 
-**If you want to edit your profile, or add further detail you can**
+**Se você quer editar seu perfil ou adicionar mais detalhes, pode**
 
-3\) modify your [enterprise settings](../basic-features/enterprise-settings.md).
+3\) Modifique suas [configurações da empresa](../basic-features/enterprise-settings.md).
 
-### Well done, you're set up!
+### Muito bem, você está configurado!
 
-You will now have a space to tell the story of your enterprise and to help drive connections to your social and online presence.
+Agora você terá um espaço pra contar a história da sua empresa e ajudar a direcionar conexões pra sua presença online e nas redes sociais.
 
-## Advanced features that are helpful for hubs with profiles.
+## Recursos avançados úteis pra centrais com perfis
 
-**Want to setup an online shop?**    
- Now that you have a profile on the OFN, with just a few more setup steps, you can open an online shop. See the [hub shop setup manual](hub-shop.md). You have already completed step 1 if you registered and created your profile, so start at step 2.
-
+**Quer configurar uma loja online?**\
+Agora que você tem um perfil na Nossa Feira, com apenas mais alguns passos você pode abrir uma loja online. Veja o [manual de configuração de loja de central](hub-shop.md). Você já completou o passo 1 se se cadastrou e criou seu perfil, então comece pelo passo 2.
