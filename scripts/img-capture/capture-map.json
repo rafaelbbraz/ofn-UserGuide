@@ -1,0 +1,36 @@
+{
+  "_schema": {
+    "description": "Mapa filename → especificação de captura. Preencher entradas para as 387 imagens do IMAGE_TRANSLATION_TRACKER.md.",
+    "fields": {
+      "section": "seção do guia (basic-features, hub-management-tips, etc.)",
+      "url": "path relativo (ex: /admin/products) ou URL completa",
+      "action": "full | viewport | selector",
+      "selector": "CSS selector se action=selector",
+      "auth": "false para páginas públicas; default true (logado)",
+      "wait": "ms extras antes do print (para animações)",
+      "viewport": "{width, height} para prints mobile/custom",
+      "waitUntil": "load | domcontentloaded | networkidle (default)"
+    }
+  },
+  "_seeds": {
+    "description": "Batch 1 de exemplo — páginas admin básicas sem dependência de dados especiais",
+    "entries": [
+      "dashboard-home",
+      "admin-products-index",
+      "admin-order-cycles-index"
+    ]
+  },
+  "dash1.jpg": {
+    "section": "basic-features",
+    "url": "/admin",
+    "action": "viewport",
+    "auth": true
+  },
+  "screen-shot-2019-12-04-at-2.17.42-pm.png": {
+    "section": "basic-features",
+    "url": "/admin",
+    "action": "viewport",
+    "auth": true,
+    "_note": "Menu horizontal azul mostrando Reports"
+  }
+}
