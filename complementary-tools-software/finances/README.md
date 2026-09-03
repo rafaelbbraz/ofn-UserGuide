@@ -1,12 +1,9 @@
-# Accounting and Invoicing Packages
+# Pacotes de contabilidade e faturamento
 
 {% hint style="info" %}
-This section is under development. If there are specific accounting software platforms or tools which you would like to use to help the smooth operation of your OFN enterprise please get in touch with your [local support](../../local-ofn-organizations-and-contacts.md) team.
+Esta seção está em desenvolvimento. Se há plataformas de software de contabilidade ou ferramentas específicas que você gostaria de usar pra ajudar a operação da sua empresa na Nossa Feira, entre em contato com a [equipe de suporte local](../../local-ofn-organizations-and-contacts.md).
 {% endhint %}
 
-Step-by-step instructions for downloading OFN sale data and importing into **Xero** can be found [here](../../basic-features/reports/#xero-invoices).
+Instruções passo a passo pra baixar dados de venda da Nossa Feira e importar no **Xero** podem ser encontradas [aqui](../../basic-features/reports/#xero-invoices).
 
-The option for Hubs to reimburse their supplying producers for goods supplied by **ABA files** is available for Australian OFN users only. [Read on for details on how to implement this](paying-suppliers.md).
-
-
-
+A opção pra centrais reembolsarem seus produtores fornecedores por produtos fornecidos via **arquivos ABA** está disponível apenas pra usuários da OFN Austrália. [Continue lendo pra detalhes de como implementar](paying-suppliers.md).

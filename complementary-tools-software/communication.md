@@ -1,41 +1,41 @@
-# Newsletters & Promotional Emails
+# Newsletters e emails promocionais
 
-A good way of keeping in touch with customers and potential customers is to set up a mailing list and periodically send out newsletters or information about product updates by email. For example, you may wish to send:
+Uma boa forma de manter contato com clientes e clientes potenciais é montar uma lista de emails e periodicamente enviar newsletters ou informações sobre atualizações de produtos por email. Por exemplo, você pode querer enviar:
 
-* a monthly newsletter on the progress of your enterprise, new products, news from producers, etc.
-* an email notification each time a new sales cycle is launched.
+* uma newsletter mensal sobre o progresso da sua empresa, novos produtos, notícias dos produtores etc.
+* uma notificação por email cada vez que um novo ciclo de vendas é lançado.
 
-One of the most common tools online today is [Mailchimp](https://mailchimp.com/), so here are some tips and tricks for using Mailchimp to send your newsletters.
+Uma das ferramentas mais comuns online hoje é o [Mailchimp](https://mailchimp.com/), então aqui vão algumas dicas de uso do Mailchimp pra enviar newsletters.
 
 {% hint style="danger" %}
-Be sure to follow local legal guidelines when storing and processing customer contact information.  For EU regulations see [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
+Garanta seguir as diretrizes legais locais ao armazenar e processar informações de contato dos clientes. No Brasil, siga a LGPD.
 {% endhint %}
 
-## Integrating MailChimp with OFN
+## Integrando Mailchimp com a Nossa Feira
 
-It is possible to "connect" your Open Food Network and MailChimp accounts.  In doing so every new customer who places an order in your shop will automatically have their contact address added to your enterprise's MailChimp contact list.&#x20;
+É possível "conectar" suas contas Nossa Feira e Mailchimp. Ao fazer isso, cada novo cliente que faz um pedido na sua loja automaticamente terá o endereço de contato adicionado à lista de contatos da sua empresa no Mailchimp.
 
-If you would like us to help you facilitate this automatic link between your OFN and MailChimp accounts please contact your local support team.
+Se você quer que ajudemos a facilitar esse link automático entre sua conta Nossa Feira e Mailchimp, entre em contato com a equipe de suporte local.
 
-## Sending a weekly email to customers via MailChimp
+## Enviar email semanal aos clientes via Mailchimp
 
 {% hint style="info" %}
-A regular email to customers to remind them your next order cycle has just open (or is about to close) can be an effective reminder for them to place an order!
+Um email regular aos clientes pra lembrá-los que o próximo ciclo acabou de abrir (ou está prestes a fechar) pode ser um lembrete eficaz pra que façam pedido!
 {% endhint %}
 
-This is a slight hack of the [standard MailChimp advice](https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/) for sending automated, regular emails.
+Este é um pequeno truque em relação ao [conselho padrão do Mailchimp](https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/) pra enviar emails automatizados regulares.
 
-* Once you have logged into your MailChimp account, select **Campaigns** and then **Create a Campaign**. Opt for the subcategory '**Email**'
-* Click **Automated** and then **Share Blog Updates**.
+* Uma vez logado no Mailchimp, selecione **Campaigns** e depois **Create a Campaign**. Escolha a subcategoria '**Email**'.
+* Clique em **Automated** e depois em **Share Blog Updates**.
 
 ![](../.gitbook/assets/mailchimp1.png)
 
-* You will be directed to add RSS feed and timing for your email updates to customers.  Select one of the following feeds:\
+* Você será direcionado a adicionar RSS feed e horário pras atualizações por email pros clientes. Selecione um dos seguintes feeds:\
   [https://www.lemonde.fr/rss/une.xml](https://www.lemonde.fr/rss/une.xml) [http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml](http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) [https://www.theatlantic.com/feed/all/](https://www.theatlantic.com/feed/all/) [https://www.politico.com/rss/politicopicks.xml](https://www.politico.com/rss/politicopicks.xml)\
-  The exact URL entered doesn't matter- the fact that these RSS feeds post every day means that you can use it to trigger a regular email to your customers.
+  A URL exata informada não importa — o fato de esses RSS feeds postarem todo dia significa que você pode usar pra disparar um email regular aos clientes.
 
 ![](<../.gitbook/assets/mailchimp2 (1).png>)
 
-* Then choose when you want the email to be sent.  If your order cycle opens every Monday at noon you may enter to use these days and times.  Select **Next** to move on.
-* Choose whether you would like the email to go to your entire audience (all of your mailing list) or just a segment of it (specific customers who you may have sub-grouped).
-* From this point onwards, add details as you would normally in a MailChimp email or campaign.
+* Depois escolha quando quer que o email seja enviado. Se seu ciclo abre toda segunda ao meio-dia, pode informar esses dias e horários. Selecione **Next** pra avançar.
+* Escolha se quer que o email vá pra toda a audiência (toda sua lista) ou só um segmento (clientes específicos que você pode ter subagrupado).
+* A partir deste ponto, adicione detalhes como normalmente em um email ou campanha do Mailchimp.

@@ -1,6 +1,5 @@
-# Complementary software and tools
+# Ferramentas e software complementares
 
-As a food enterprise operating on the Open Food Network platform, you may wish to also use external software for specific, additional functionalities.  For example, for increased flexibility over invoicing, more in depth accounting, marketing or even analysing your OFN sales.
+Como empresa de alimentos operando na Nossa Feira, você pode querer também usar software externo pra funcionalidades específicas adicionais. Por exemplo, mais flexibilidade em emissão de notas, contabilidade mais profunda, marketing ou até analisar suas vendas.
 
-Some users have already found ingenious ways to use the platform's data with other software, some interesting uses of which we will describe to you. We are also gradually developing integration possibilities, so do not hesitate to contact us if you have a specific need so that we can study it!
-
+Alguns usuários já encontraram formas engenhosas de usar os dados da plataforma com outros softwares — alguns usos interessantes serão descritos aqui. Também estamos gradualmente desenvolvendo possibilidades de integração — não hesite em contatar-nos se tem uma necessidade específica pra podermos estudar!
