@@ -1,5 +1,5 @@
-# Order Cycles
+# Ciclos de Pedidos
 
-* Opening more than one order cycle at the same time. [Read more](opening-more-than-one-order-cycle.md)
-* Create a display only order cycle so visitors can see what’s in your shop even when your order cycle is closed. [Read more](display-only-order-cycles.md)
+* Abrindo mais de um ciclo de pedidos ao mesmo tempo. [Leia mais](opening-more-than-one-order-cycle.md)
+* Crie um ciclo de pedidos somente para exibição, para que os visitantes possam ver o que tem na sua loja mesmo quando o ciclo estiver fechado. [Leia mais](display-only-order-cycles.md)
 

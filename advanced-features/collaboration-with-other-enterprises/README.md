@@ -1,5 +1,5 @@
-# Collaboration with other enterprises
+# Colaboração com outras empresas
 
-* Understand how Enterprise to Enterprise permissions \(E2Es\) are used to enable different forms of collaboration between enterprises and how they might apply to you. [Read more](enterprise-to-enterprise-permissions-e2es.md)
-* Learn how E2E permission impact each party in multi-enterprise order cycles. [Read more](permissions-in-multi-enterprise-order-cycles.md)
+* Entenda como as permissões de Empresa para Empresa \(E2Es\) são usadas pra habilitar diferentes formas de colaboração entre empresas e como podem se aplicar a você. [Leia mais](enterprise-to-enterprise-permissions-e2es.md)
+* Aprenda como a permissão E2E impacta cada parte em ciclos de pedidos multi-empresa. [Leia mais](permissions-in-multi-enterprise-order-cycles.md)
 
