@@ -1,128 +1,128 @@
-# Inventory tool
+# Ferramenta de estoque próprio
 
 {% hint style="warning" %}
-## The Inventory tool has been retired and is only available for legacy users. Please contact your support contact for further information.
+## A ferramenta de Estoque Próprio foi descontinuada e está disponível apenas para usuários legados. Entre em contato com o suporte para mais informações.
 {% endhint %}
 
-## Introduction
+## Introdução
 
-The 'inventory' gives enterprises increased control and flexibility with their product management, if they require it. The feature will mainly be of interest to Hubs and Hub managers.
+O 'estoque próprio' dá às empresas maior controle e flexibilidade no gerenciamento de produtos, se necessário. O recurso será principalmente do interesse de centrais e gerentes de central.
 
-By using the Inventory, Hub A can modify the price and stock levels of the items it has permission to retail.  The feature can also allow Hub A to make only a sub-selection of goods from its supplying producers available for sale on its shop front if they don't wish to distribute entire product ranges.  All this can be done without modifying the master copy of the products. Hence if both Hubs A and B stock the same products, then by using the inventory tool Hub A can alter price and other fundamental information about the items it sells, without impacting on Hub B.
+Usando o Estoque Próprio, a Central A pode modificar preço e níveis de estoque dos itens que tem permissão pra comercializar. O recurso também permite à Central A tornar disponível na vitrine apenas um subconjunto de produtos dos fornecedores, se não quiser distribuir todas as linhas. Tudo isso pode ser feito sem modificar a cópia mestra dos produtos. Então se ambas as Centrais A e B comercializam os mesmos produtos, usando essa ferramenta a Central A pode alterar preço e outras informações fundamentais dos itens que vende sem impactar a Central B.
 
-## Profile settings for the Inventory
+## Configurações de perfil para o Estoque Próprio
 
-To access the Inventory, go to Enterprises (on the main horizontal menu) and then 'Settings'. From the menu bar on the left hand side, select 'Inventory Settings'
+Para acessar o Estoque Próprio, vá em Empresas (no menu horizontal principal) e depois 'Configurações'. Na barra de menu à esquerda, selecione 'Configurações de Estoque'.
 
 ![](<../../.gitbook/assets/inventory enterprise settings.jpg>)
 
-You have two options:&#x20;
+Você tem duas opções:
 
-* **New products can be put into my shopfront (recommended):** Your supplier's products can be added to your online shop-front _without you having to add them in your shop/hub inventory beforehand_. When you create an order cycle, _all_ products from the selected producers will be available for you to add to the 'incoming' portion of it (the order cycle). \
-  This is the default option and is recommended for hubs who do not wish to modify price or stock levels of the items they retail
+* **Novos produtos podem ser colocados na minha vitrine (recomendado):** Os produtos do seu fornecedor podem ser adicionados à sua loja online _sem você precisar adicioná-los ao seu estoque próprio primeiro_. Quando você cria um ciclo de pedidos, _todos_ os produtos dos produtores selecionados estarão disponíveis pra adicionar à porção 'entrante' do ciclo.\
+  Essa é a opção padrão e recomendada para centrais que não querem modificar preço ou níveis de estoque dos itens comercializados.
 
 {% hint style="warning" %}
-BE CAREFUL- if you keep your inventory settings in this default 'off' mode but at the same time upload products to your hub inventory and modify their prices or stock levels, then the modified information will be displayed on your shop front, not that in the master copy.
+CUIDADO — se você mantiver as configurações de estoque no modo padrão 'desligado' mas ao mesmo tempo fizer upload de produtos ao seu estoque próprio e modificar os preços ou níveis, a informação modificada aparecerá na sua vitrine, e não a da cópia mestra.
 {% endhint %}
 
-* **New products must be added to my inventory before they can be added to my shopfront:** When you create an order cycle, only those products which you previously added to the hub inventory will be visible for selection in the 'incoming' portion of the order cycle.
+* **Novos produtos precisam ser adicionados ao meu estoque antes de aparecerem na vitrine:** Quando você cria um ciclo de pedidos, apenas produtos previamente adicionados ao estoque próprio estarão visíveis pra seleção na porção 'entrante'.
 
-## Visiting your Shop/Hub Inventory&#x20;
+## Visitando seu Estoque Próprio de Loja/Central
 
-Click the Products menu on the top of your the admin dashboard, and then click Inventory on the sub menu. If you manage multiple enterprises, you will be asked to select one because each inventory is managed independently.
+Clique no menu Produtos no topo do dashboard admin, e depois em Estoque Próprio no submenu. Se você gerencia várias empresas, será solicitado a selecionar uma, pois cada estoque é gerenciado independentemente.
 
 ![](<../../.gitbook/assets/inventory 1.jpg>)
 
-If new products have been added by your suppliers between each visit to your shop/hub inventory then you will see the following message:
+Se novos produtos foram adicionados pelos seus fornecedores entre visitas ao estoque, você verá a mensagem:
 
 ![](<../../.gitbook/assets/inventory products to review.jpg>)
 
-Until you have added these products to the inventory they will remain in the '**New Products**' category and invisible for selection when creating an order cycle. By clicking on '**Review Now**' you will be redirected to the list of new products.&#x20;
+Até você adicionar esses produtos ao estoque, eles ficarão na categoria '**Novos Produtos**' e invisíveis para seleção ao criar um ciclo. Clicando em '**Revisar Agora**' você será redirecionado para a lista de novos produtos.
 
-## Reviewing New Products
+## Revisando novos produtos
 
-New products can be either **Added** to your inventory list or **Hidden**. If there is a product in the list for which you would like to override details, or apply a recurring stock level to, you’ll need to **add** it to your inventory list. If there is a product which you never want to sell in your shop, or at least don’t want to stock in the near future, you can choose to **hide** it (see **Hidden Products** section below).
+Novos produtos podem ser **Adicionados** ao seu estoque ou **Ocultados**. Se há um produto na lista para o qual você quer sobrescrever detalhes, ou aplicar um nível de estoque recorrente, você precisa **adicioná-lo** ao seu estoque. Se há um produto que você nunca quer vender na sua loja, ou pelo menos não em breve, você pode escolher **ocultá-lo** (veja seção **Produtos Ocultos** abaixo).
 
 ![](<../../.gitbook/assets/switching invent.jpg>)
 
 {% hint style="info" %}
-Remember, if your **Inventory Settings** are set so that ‘new products must be added to my inventory before they can be put in my shopfront’, any products you leave in the New Product list will effectively be hidden. If your Inventory setting is ‘new products can be put in my shopfront’ then products in your New Products list will still show in your order cycle.
+Lembre: se suas **Configurações de Estoque** estão como 'novos produtos precisam ser adicionados ao meu estoque antes de aparecerem na vitrine', quaisquer produtos deixados na lista de Novos Produtos ficarão efetivamente ocultos. Se a configuração é 'novos produtos podem ser colocados na vitrine', os produtos da lista continuarão aparecendo no ciclo.
 {% endhint %}
 
-## Managing Your Inventory Products
+## Gerenciando seus produtos no Estoque Próprio
 
-Your inventory products list is where you can override product details, set up stock level resetting, and hide products.&#x20;
+Sua lista de produtos no estoque é onde você pode sobrescrever detalhes do produto, configurar reset de estoque e ocultar produtos.
 
-Via the columns button on the right of the table, you can choose which settings you would like to see and modify.
+Pelo botão de colunas à direita da tabela, você pode escolher quais configurações quer ver e modificar.
 
 ![](<../../.gitbook/assets/invent columns.jpg>)
 
-### Modify SKU, prices and stock levels for products in your shopfront
+### Modificar SKU, preços e níveis de estoque para produtos na vitrine
 
-Any changes you make here will be visible on your shop and will hence override details set by the supplier. You can modify the following fields:&#x20;
+Qualquer alteração aqui será visível na sua loja e sobrescreverá os detalhes definidos pelo fornecedor. Você pode modificar os campos:
 
-* **SKU** – if you wish to use an alternative SKU (reference number) for a product, you can over-ride the producer’s SKU here by typing in an alternative.
-* **Price** – You can set a different price to show in your shop. Keep in mind the units of the product will remain the same. Hence if the product is priced per kg then you can only modify its cost per kg and not change it to a fixed cost per item.
-* **In Stock** – If your stock of this product differs from the available stock offered by the producers, you can indicate your stock. Your products will no longer be visible in the shop once the inventory stock level reaches zero.
+* **SKU** – se você quer usar um SKU alternativo (número de referência) para um produto, pode sobrescrever o SKU do produtor aqui digitando uma alternativa.
+* **Preço** – Você pode definir um preço diferente para exibir na sua loja. Note que a unidade do produto continua a mesma. Então se o produto é precificado por kg, você só pode modificar seu custo por kg, não mudar pra custo fixo por item.
+* **Em estoque** – Se seu estoque desse produto difere do estoque disponível oferecido pelos produtores, você pode indicar seu estoque. Seus produtos não serão mais visíveis na loja quando o nível do estoque atingir zero.
 
 {% hint style="info" %}
-This might be handy if you receive a bulk purchase of say 50 items per month and need to keep track of their sales before the next delivery.&#x20;
+Útil se você recebe uma compra em lote de, digamos, 50 itens por mês, e precisa acompanhar as vendas antes da próxima entrega.
 {% endhint %}
 
-* **Unlimited?** – You can select whether to 'use producer stock settings' (in which case the number in the 'in stock' column will remain grey and producer stock levels are inherited), to have unlimited stock by selecting 'yes' (where the item will never run out and will always be available, if added to an active order cycle) or to define your own stock levels by selecting 'no' (in which case the number in the 'in stock' column will be on a white background).
+* **Ilimitado?** – Você pode selecionar entre 'usar configurações de estoque do produtor' (nesse caso o número na coluna 'em estoque' fica cinza e os níveis de estoque do produtor são herdados), ter estoque ilimitado selecionando 'sim' (onde o item nunca acaba e sempre está disponível, se adicionado a um ciclo ativo), ou definir seus próprios níveis selecionando 'não' (nesse caso o número na coluna 'em estoque' fica em fundo branco).
 
 ![](<../../.gitbook/assets/invent unlimited.jpg>)
 
-Refresh yourself about 'in stock' and 'unlimited' [here](products.md#adding-products).
+Relembre 'em estoque' e 'ilimitado' [aqui](products.md#adding-products).
 
 {% hint style="warning" %}
-It is not possible to alter product name, properties, description or image in the inventory.
+Não é possível alterar nome do produto, propriedades, descrição ou imagem no estoque próprio.
 {% endhint %}
 
-### Enable Stock Reset?
+### Habilitar reset de estoque?
 
-The **enable stock level reset** column allows you to reset the 'In Stock' amount to a default value, for example at the start of each new order cycle. The **default amount** is the number entered in this column next to the check box. The checkbox allows you to select only those items that you want to reset at any give time.&#x20;
+A coluna **habilitar reset de estoque** permite resetar a quantidade 'Em estoque' para um valor padrão, por exemplo no início de cada novo ciclo. O **valor padrão** é o número informado nessa coluna ao lado da caixa. A caixa permite selecionar apenas os itens que você quer resetar em cada momento.
 
-To reset the default stock for these products, click 'Actions' at the top left of the inventory table and then 'Reset stock levels to defaults'. Only products for which the enable stock reset box has been checked will be affected by this action.&#x20;
+Para resetar o estoque padrão desses produtos, clique em 'Ações' no canto superior esquerdo da tabela de estoque e depois em 'Resetar níveis de estoque para os padrões'. Apenas produtos com a caixa de reset marcada serão afetados por essa ação.
 
 ![](<../../.gitbook/assets/invent reset stock.jpg>)
 
-> In this example the default stock level of Granny Smith apples is 50. There are currently 30 left in stock. If the user, at the beginning of an order cycle wishes to reset to 50 then they must click on 'Reset stock levels to defaults' under 'Actions'
+> Neste exemplo, o nível padrão de estoque das maçãs Fuji é 50. Atualmente há 30 restantes. Se o usuário, no início de um ciclo, quer resetar para 50, precisa clicar em 'Resetar níveis de estoque para os padrões' em 'Ações'.
 
 {% hint style="info" %}
-This is a useful feature for hubs who may receive deliveries of specific products once a month or on a regular schedule.&#x20;
+Recurso útil para centrais que recebem entregas de produtos específicos uma vez por mês ou em cronograma regular.
 {% endhint %}
 
-### Inherit?
+### Herdar?
 
-If you have not changed any of the values in the Inventory table for a product, the check box "inherit?" will be, by default, checked. This means that the information entered by the producer and visible in grey will be displayed on your shopfront.
+Se você não alterou nenhum dos valores na tabela de Estoque para um produto, a caixa "herdar?" ficará marcada por padrão. Isso significa que a informação informada pelo produtor e visível em cinza será exibida na sua vitrine.
 
 ![](<../../.gitbook/assets/invent inherit.jpg>)
 
-By modifying one or more of the fields, this check box will be automatically de-selected. To reset values (price, stock, SKU etc) to the producer's master copy values, you can re-select this box at any time.
+Ao modificar um ou mais campos, essa caixa será automaticamente desmarcada. Para resetar valores (preço, estoque, SKU etc.) para os valores da cópia mestra do produtor, você pode re-marcar essa caixa a qualquer momento.
 
-### Hide
+### Ocultar
 
-As in the **New Products** list, you can also **hide** products from your **Inventory List**. Clicking on the hide button will move the product to your **Hidden Products** list. If you have your inventory profile set up as '**New products must be added to my inventory before they can be added to my shopfront'** (see [here](inventory-tool.md#profile-settings-for-the-inventory)) then the product you just hid will no longer be available for selection in your hub's order cycle and thus will not be visible on your shopfront.
+Como na lista de **Novos Produtos**, você também pode **ocultar** produtos da sua **Lista de Estoque**. Clicando em ocultar, o produto vai para a lista de **Produtos Ocultos**. Se seu perfil de estoque está como '**Novos produtos precisam ser adicionados ao meu estoque antes de aparecerem na vitrine'** (veja [aqui](inventory-tool.md#profile-settings-for-the-inventory)), o produto que você acabou de ocultar não estará mais disponível para seleção no ciclo da central e portanto não será visível na vitrine.
 
 <figure><img src="../../.gitbook/assets/invent hide product.jpg" alt=""><figcaption></figcaption></figure>
 
-## Hidden Products
+## Produtos ocultos
 
-When viewing your list of hidden products you can choose to make them visible once more by clicking the '**Add**' button to the right of the item.
+Ao ver sua lista de produtos ocultos, você pode escolher torná-los visíveis novamente clicando no botão '**Adicionar**' à direita do item.
 
 ![](<../../.gitbook/assets/invent hidden products.jpg>)
 
-## Inventory and Order Cycles
+## Estoque próprio e ciclos de pedidos
 
-When setting up order cycles you can on a case by case basis choose between selecting from all available products or only those which are in your shop/hub inventory.&#x20;
+Ao configurar ciclos de pedidos, você pode escolher, caso a caso, entre selecionar de todos os produtos disponíveis ou apenas dos que estão no estoque próprio da loja/central.
 
-This is controlled by visiting 'Advanced Settings' (top right of order cycle page):
+Isso é controlado em 'Configurações Avançadas' (canto superior direito da página do ciclo):
 
 ![](<../../.gitbook/assets/invent order cycle.jpg>)
 
-This option has the same effect as changing our enterprise [profile settings for your inventory](inventory-tool.md#profile-settings-for-the-inventory), but unlike the latter it applies only to the order cycle in question.
+Essa opção tem o mesmo efeito que alterar as [configurações de perfil do estoque](inventory-tool.md#profile-settings-for-the-inventory), mas diferente destas, se aplica apenas ao ciclo em questão.
 
 {% hint style="danger" %}
-After making any changes always remember to click 'Update' or 'Save' before moving on!
+Após fazer qualquer alteração, sempre lembre de clicar em 'Atualizar' ou 'Salvar' antes de continuar!
 {% endhint %}

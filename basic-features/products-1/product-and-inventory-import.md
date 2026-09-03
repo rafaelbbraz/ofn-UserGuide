@@ -1,178 +1,178 @@
 ---
 description: >-
-  This page explains how both producers can import product details, and
-  distributors can set up their hub inventory, in bulk.
+  Esta página explica como produtores podem importar detalhes de produtos e
+  distribuidores podem configurar seu estoque próprio em lote.
 ---
 
-# Product and Inventory import
+# Importação de produtos e estoque
 
-The product and inventory import tool lets you upload a .csv file to add and update your stock. This can be much quicker and efficient than adding or updating products one by one. For producers who already update a catalogue of their products in an Excel spreadsheet regularly, this can save a lot of time!
+A ferramenta de importação de produtos e estoque permite enviar um arquivo .csv para adicionar e atualizar seus produtos. Isso pode ser bem mais rápido e eficiente do que adicionar ou atualizar produtos um por um. Para produtores que já atualizam um catálogo dos seus produtos em uma planilha Excel regularmente, isso pode economizar muito tempo!
 
-The product and inventory import tool can be found by clicking **Products** in the horizontal blue menu, and **product import** in the green menu.
+A ferramenta pode ser encontrada clicando em **Produtos** no menu horizontal azul e em **Importar produtos** no menu verde.
 
-There's four main ways you can use the tool:
+Existem quatro formas principais de usar a ferramenta:
 
-1. Import new [products](./)
-2. Update existing product details
-3. Import products to a new shop/hub [inventory](inventory-tool.md)&#x20;
-4. Update products in a shop/hub inventory
+1. Importar novos [produtos](./)
+2. Atualizar detalhes de produtos existentes
+3. Importar produtos para um novo [estoque próprio](inventory-tool.md) de loja/central
+4. Atualizar produtos em um estoque próprio existente
 
-In all cases the process involves downloading a CSV template, filling in the fields and then uploading your CSV file back into OFN.
+Em todos os casos, o processo envolve baixar um template CSV, preencher os campos e depois fazer upload do CSV de volta na plataforma.
 
 {% hint style="warning" %}
-**Important note on CSV files**: Microsoft Excel does not open .csv files directly.\
-If you can, we suggest you download the free Libre Office suite [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)\
-With Libre Office Calc, you will be able to open and edit CSV very easily and save them in the right encoding format UTF-8.\
-If you can't use Libre Office, then in order to open a CSV file in Microsoft Excel, you need to follow the following steps: [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
+**Nota importante sobre arquivos CSV:** Microsoft Excel não abre .csv diretamente da forma correta.\
+Se puder, sugerimos baixar o pacote gratuito Libre Office: [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)\
+Com o Libre Office Calc, você conseguirá abrir e editar CSV facilmente e salvar no formato de encoding correto UTF-8.\
+Se não puder usar Libre Office, veja como abrir CSV no Excel corretamente: [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
 {% endhint %}
 
 {% hint style="danger" %}
-Not all fields can be captured and uploaded/updated using this tool. Currently [Images](products.md), [Properties](product-properties.md) and [Group Buy ](group-buy-for-bulk-ordering.md)Settings must be uploaded manually for each product.
+Nem todos os campos podem ser capturados e enviados/atualizados usando essa ferramenta. Atualmente [Imagens](products.md), [Propriedades](product-properties.md) e Configurações de [Compra em Grupo](group-buy-for-bulk-ordering.md) precisam ser enviadas manualmente para cada produto.
 
-We hope to include these in future developments.
+Esperamos incluir isso em desenvolvimentos futuros.
 {% endhint %}
 
-## Import New Products
+## Importar novos produtos
 
-Use these instructions if you want to add new products to a producer's profile.
+Use estas instruções se quer adicionar novos produtos a um perfil de produtor.
 
 {% hint style="success" %}
-You can simultaneously upload new products and update existing products with a single CSV upload. The instructions in this guide are separated for clarity but you can combine new products and updates in the same spreadsheet.
+Você pode simultaneamente enviar novos produtos e atualizar produtos existentes em um único upload de CSV. As instruções estão separadas por clareza mas você pode combinar novos produtos e atualizações na mesma planilha.
 {% endhint %}
 
-### Prepare the CSV file for import
+### Preparar o arquivo CSV
 
-Firstly, download the **Product List Template CSV** file from the [**Product Import**](https://openfoodnetwork.org.uk/admin/product\_import) page and open it with Libre Office, Excel or equivalent.
+Primeiro, baixe o arquivo **Template CSV de Lista de Produtos** na página [**Importar Produtos**](https://nossafeira.com.br/admin/product\_import) e abra com Libre Office, Excel ou equivalente.
 
-You'll see that the template gives all the column headings required to successfully import a product. Each row is for a new product or variant. Below is a description of how to fill in each column.
+Você verá que o template dá todos os cabeçalhos de coluna necessários pra importar um produto com sucesso. Cada linha é para um novo produto ou variante. Abaixo, descrição de como preencher cada coluna.
 
 {% hint style="danger" %}
-**N.B.** All fields are case sensitive e.g. you must use mL and Dairy, not ml or dairy.
+**Atenção:** Todos os campos são sensíveis a maiúsculas/minúsculas. Ex: use `mL` e `Laticínio`, não `ml` ou `laticínio`.
 {% endhint %}
 
-<table><thead><tr><th width="195">Column Title</th><th width="110">Required?</th><th width="259">Description</th><th>Example</th></tr></thead><tbody><tr><td>producer</td><td>Y</td><td>The name of the producer profile that this product will be assigned to</td><td>Four Mile Farm</td></tr><tr><td>sku</td><td>N</td><td>The SKU code for this product</td><td>AD001265</td></tr><tr><td>name</td><td>Y</td><td>The name of the product</td><td>Yoghurt</td></tr><tr><td>display_name</td><td>N</td><td>You can use this field to give unique names to different  variants. If you're not creating a variant, leave this field blank.</td><td>Raspberry Yoghurt</td></tr><tr><td>category</td><td>Y</td><td>The product category of the item. Categories are listed on the <a href="https://openfoodnetwork.org.uk/admin/product_import">Product Import</a> page</td><td>Dairy</td></tr><tr><td>description</td><td>N</td><td>An optional description of the product</td><td>This Yoghurt is made from local raspberries</td></tr><tr><td>units</td><td>Y</td><td>The weight, volume or quantity value</td><td>500</td></tr><tr><td>unit_type</td><td>Maybe</td><td>The unit the product is sold in (g, kg, T, mL, L). If sold as an item, (e.g. bunch) leave this blank</td><td>g</td></tr><tr><td>variant_unit_name</td><td>Maybe</td><td>If the product is sold as an item (e.g loaf, bunch, pumpkin) write the item type here</td><td>Bunch</td></tr><tr><td>price</td><td>Y</td><td>The price of the product. If the item carries tax, this must be the tax inclusive price.</td><td>3.70</td></tr><tr><td>on_hand <br>(stock count)</td><td>Maybe</td><td>If you have limited stock for the product, type the stock level here. If you have unlimited stock available, leave this blank</td><td>40</td></tr><tr><td>available_on</td><td>N</td><td>Leave this blank</td><td></td></tr><tr><td>on_demand (unlimited stock)</td><td>Y</td><td>If you have unlimited stock available for this product, type 1. If you enter a number in on_hand <em>and</em> 1 in unlimited, the product will be marked as unlimited.</td><td>1</td></tr><tr><td>shipping_category</td><td>Y</td><td>The shipping category of the product. Categories are listed on the <a href="https://openfoodnetwork.org.uk/admin/product_import">Product Import</a> page</td><td></td></tr><tr><td>tax_category</td><td>N</td><td>The tax category of the product. Categories are listed on the <a href="https://openfoodnetwork.org.uk/admin/product_import">Product Import</a> page</td><td>Full Rate</td></tr></tbody></table>
+<table><thead><tr><th width="195">Título da coluna</th><th width="110">Obrigatório?</th><th width="259">Descrição</th><th>Exemplo</th></tr></thead><tbody><tr><td>producer</td><td>Sim</td><td>O nome do perfil de produtor ao qual esse produto será atribuído</td><td>Sítio Quatro Milhas</td></tr><tr><td>sku</td><td>Não</td><td>O código SKU do produto</td><td>AD001265</td></tr><tr><td>name</td><td>Sim</td><td>Nome do produto</td><td>Iogurte</td></tr><tr><td>display_name</td><td>Não</td><td>Você pode usar este campo pra dar nomes únicos a diferentes variantes. Se não está criando variante, deixe em branco.</td><td>Iogurte de framboesa</td></tr><tr><td>category</td><td>Sim</td><td>Categoria do produto. Categorias estão listadas na página <a href="https://nossafeira.com.br/admin/product_import">Importar Produtos</a></td><td>Laticínio</td></tr><tr><td>description</td><td>Não</td><td>Descrição opcional do produto</td><td>Iogurte feito com framboesas locais</td></tr><tr><td>units</td><td>Sim</td><td>Valor de peso, volume ou quantidade</td><td>500</td></tr><tr><td>unit_type</td><td>Talvez</td><td>Unidade em que o produto é vendido (g, kg, T, mL, L). Se vendido como item (ex: maço), deixe em branco</td><td>g</td></tr><tr><td>variant_unit_name</td><td>Talvez</td><td>Se o produto é vendido como item (ex: pão, maço, abóbora), informe o tipo de item aqui</td><td>Maço</td></tr><tr><td>price</td><td>Sim</td><td>Preço do produto. Se o item tem imposto, deve ser o preço com imposto incluso.</td><td>18.50</td></tr><tr><td>on_hand<br>(estoque)</td><td>Talvez</td><td>Se você tem estoque limitado do produto, informe o nível aqui. Se ilimitado, deixe em branco</td><td>40</td></tr><tr><td>available_on</td><td>Não</td><td>Deixe em branco</td><td></td></tr><tr><td>on_demand (estoque ilimitado)</td><td>Sim</td><td>Se você tem estoque ilimitado, informe 1. Se informar número em on_hand <em>e</em> 1 em ilimitado, o produto será marcado como ilimitado.</td><td>1</td></tr><tr><td>shipping_category</td><td>Sim</td><td>Categoria de frete do produto. Categorias listadas na página <a href="https://nossafeira.com.br/admin/product_import">Importar Produtos</a></td><td></td></tr><tr><td>tax_category</td><td>Não</td><td>Categoria fiscal do produto. Categorias listadas na página <a href="https://nossafeira.com.br/admin/product_import">Importar Produtos</a></td><td>Alíquota cheia</td></tr></tbody></table>
 
-#### Import Product Variants
+#### Importar variantes de produto
 
-In the import process, variants are distinguished by the units (such as raspberries sold in 200g and 500g packs) or display\_name fields (such as apples sold in multiple varieties). As long as the product name is the same, the rows will be imported as variants. For products sold as items, the unit\_type must be the same across variants (e.g. rolls below).&#x20;
+No processo de importação, variantes são distinguidas pelas unidades (como framboesas vendidas em pacotes de 200g e 500g) ou pelo campo display\_name (como maçãs vendidas em várias variedades). Enquanto o nome do produto for o mesmo, as linhas serão importadas como variantes. Para produtos vendidos como itens, o unit\_type precisa ser o mesmo em todas as variantes (ex: pães abaixo).
 
 | name            | display\_name    | price | units | unit\_type |
 | --------------- | ---------------- | ----- | ----- | ---------- |
-| Raspberries     |                  | 3.60  | 200   | g          |
-| Raspberries     |                  | 4.80  | 300   | g          |
-| Apples          | Golden Delicious | 3.60  | 500   | g          |
-| Apples          | Pink Lady        | 4.80  | 500   | g          |
-| Wholemeal rolls |                  | 0.40  | 2     | rolls      |
-| Wholemeal rolls |                  | 1.00  | 5     | rolls      |
+| Framboesas      |                  | 12,00 | 200   | g          |
+| Framboesas      |                  | 18,00 | 300   | g          |
+| Maçãs           | Fuji             | 12,00 | 500   | g          |
+| Maçãs           | Gala             | 15,00 | 500   | g          |
+| Pão integral    |                  | 4,00  | 2     | pães       |
+| Pão integral    |                  | 9,00  | 5     | pães       |
 
-The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field and/or the units becomes the secondary heading.
+A imagem abaixo mostra como esses produtos serão exibidos na loja. Note que o campo 'name' vira o título principal e o campo 'display\_name' e/ou as unidades viram o subtítulo.
 
 ![](<../../.gitbook/assets/samedisplayname (1).jpg>)
 
 ![](../../.gitbook/assets/differentdisplaynames.jpg)
 
-#### Unit type examples
+#### Exemplos de tipos de unidade
 
-Below are some examples to show how products with different units (g, ml, kg and items) should be uploaded.
+Abaixo, exemplos de como produtos com diferentes unidades (g, mL, kg e itens) devem ser enviados.
 
-<table data-header-hidden><thead><tr><th width="121">producer</th><th>name</th><th width="105">category</th><th width="73">price</th><th width="75">units</th><th width="110" align="center">unit_type</th><th align="center">variant_unit_name</th></tr></thead><tbody><tr><td>producer</td><td><strong>name</strong></td><td><strong>category</strong></td><td><strong>price</strong></td><td><strong>units</strong></td><td align="center"><strong>unit_type</strong></td><td align="center"><strong>variant_unit_name</strong></td></tr><tr><td>Sue's Salads</td><td>Salad Bag</td><td>Vegetables</td><td>3.50</td><td>500</td><td align="center">g</td><td align="center"></td></tr><tr><td>Henry Orchards</td><td>Fruit Juice</td><td>Drinks</td><td>3.50</td><td>300</td><td align="center">ml</td><td align="center"></td></tr><tr><td>Fernwell Produce</td><td>Potatoes</td><td>Vegetables</td><td>9.50</td><td>5</td><td align="center">kg</td><td align="center"></td></tr><tr><td>Tom's Bakery</td><td>Wholemeal Bread</td><td>Baked goods</td><td>3.00</td><td>1</td><td align="center"></td><td align="center">loaf</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="121">producer</th><th>name</th><th width="105">category</th><th width="73">price</th><th width="75">units</th><th width="110" align="center">unit_type</th><th align="center">variant_unit_name</th></tr></thead><tbody><tr><td>producer</td><td><strong>name</strong></td><td><strong>category</strong></td><td><strong>price</strong></td><td><strong>units</strong></td><td align="center"><strong>unit_type</strong></td><td align="center"><strong>variant_unit_name</strong></td></tr><tr><td>Saladas da Sue</td><td>Salada em saco</td><td>Verduras</td><td>15,00</td><td>500</td><td align="center">g</td><td align="center"></td></tr><tr><td>Pomar do Henrique</td><td>Suco de fruta</td><td>Bebidas</td><td>12,00</td><td>300</td><td align="center">mL</td><td align="center"></td></tr><tr><td>Sítio Fernwell</td><td>Batatas</td><td>Verduras</td><td>30,00</td><td>5</td><td align="center">kg</td><td align="center"></td></tr><tr><td>Padaria do Tom</td><td>Pão integral</td><td>Panificados</td><td>10,00</td><td>1</td><td align="center"></td><td align="center">unidade</td></tr></tbody></table>
 
-### Import the CSV
+### Importar o CSV
 
-Once you have filled out the **Product List Template CSV** you are ready to upload it into OFN.
+Uma vez preenchido o **Template CSV de Lista de Produtos**, você pode fazer upload:
 
-1. Go to **Products** >  **Product Import.**
-2. Select import type:  **Product List**
-3.  **Select a spreadsheet to upload:** select the CSV file you've updated with your product info.
+1. Vá em **Produtos** > **Importar Produtos**.
+2. Selecione tipo de importação: **Lista de Produtos**.
+3. **Selecione uma planilha pra fazer upload:** escolha o CSV atualizado com as informações dos produtos.
 
-    Because you are uploading new products, you can leave the '_Set stock to zero for all exiting products not present in the file_' checkbox unchecked (see next section for an explanation of this feature).
-4. Click **Upload**.
+    Como você está enviando novos produtos, pode deixar a caixa '_Definir estoque como zero para todos os produtos existentes não presentes no arquivo_' desmarcada (próxima seção explica esse recurso).
+4. Clique em **Enviar**.
 
-You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**.
-
-{% hint style="success" %}
-It's good practice to check that the products uploaded/updated as you intended.
-{% endhint %}
-
-You can then upload another spreadsheet or go to the products page to view your new products.
-
-## Update Existing Product Details
-
-The instructions below relate to updating the details of an existing product. This tool is intended as a quick way to update product prices and stock levels.
-
-{% hint style="info" %}
-You can simultaneously upload new products and update existing products with a single CSV upload. The instructions in this guide are separated for clarity but you can combine new products and updates in the same spreadsheet.
-{% endhint %}
-
-### Prepare the CSV file for import
-
-The process for updating product details is similar to [uploading new products](product-and-inventory-import.md#import-new-products). The first step is to download the **Product List Template** and fill in the product names and the supplier names. If you have this spreadsheet on hand from a previous upload even better.
-
-The system requires seven fields to correctly identify the product you want to update. There are four fields which can be updated and four fields which cannot using this tool.
-
-| Required fields (you can't update)   | Fields you can update | Fields that won't update and aren't required |
-| ------------------------------------ | --------------------- | -------------------------------------------- |
-| \*producer                           | sku                   | ^variant\_unit\_name                         |
-| \*name                               | price                 | ^tax\_category                               |
-| ^category                            | in\_stock             | ^shipping\_category                          |
-| \*units                              | unlimited             | ^description                                 |
-| ^unit\_type (if applicable)          |                       |                                              |
-| ^variant\_unit\_name (if applicable) |                       |                                              |
-| \*display\_name                      |                       |                                              |
-
-_^ if you try to update these fields you'll see an error message_
-
-_\*If you try to update these fields you'll actually create new products or variants, rather than update an existing product._
-
-Once complete, the .csv can be [imported](product-and-inventory-import.md#import-the-csv) in the same manner as for new products.
-
-{% hint style="info" %}
-**Set stock to zero for all exiting products not present in the file:**\
-If you select this tickbox the system will set the 'In Stock' value to zero for _all products already in your product list that are not in the product import file._\
-If a product was 'Unlimited', removing it from the import will mark the item as 0 in stock.
-{% endhint %}
-
-## Import New Inventory or update your inventory
-
-Use these instructions if you want to add or update new products to your [inventory](inventory-tool.md).
-
-### Prepare the CSV file for import
-
-Firstly, download the **Inventory Template CSV** file from the **Product Import** page.
-
-You'll see that the template gives all the column headings required to successfully import a product. Each row is for a new product or variant. Below is a description of how to fill in each column.
-
-{% hint style="info" %}
-**N.B.** that all fields are case sensitive e.g. you must use mL not ml , or Dairy not dairy.
-{% endhint %}
-
-| Column Title           | Required? | Description                                                                                                                                                                                                                                              | Example                              |
-| ---------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| producer               | Y         | This is the name of the producer profile that this inventory item will be assigned to                                                                                                                                                                    | Four Mile Farm                       |
-| distributor            | Y         | This is the name of the hub profile the inventory item will be assigned to                                                                                                                                                                               | Demo Hub                             |
-| name                   | Y         | This is the name of the product                                                                                                                                                                                                                          | Yoghurt                              |
-| display name           | N         | This field applies if you are creating variants (see instructions below). If you're not creating a variant leave this field blank.                                                                                                                       | Rasberry Yoghurt                     |
-| variant\_unit\_name    | Y         | If the product is sold as an item (e.g loaf, bunch, pumpkin) write the item type here                                                                                                                                                                    | Bunch                                |
-| units                  | Y         | The weight, volume or quantity value                                                                                                                                                                                                                     | 500                                  |
-| unit\_type             | Y         | What unit is it sold in (g, kg, T, mL, L)? If sold as an item (e.g. bunch) leave blank                                                                                                                                                                   | g                                    |
-| price                  | Y         | The price of the product. If the item carries tax, this must be the tax inclusive price.                                                                                                                                                                 | 3.70                                 |
-| On\_Hand  (in\_stock)  | Y         | Please check the rules for unlimited below                                                                                                                                                                                                               | leave blank as unlimited is set to 1 |
-| On\_demand (unlimited) | Y         | If blank - Read as "Use producer stock settings", so "in\_stock" should be blank.   If you set it to "1" - Read as unlimited of "Yes", so "in\_stock" should be blank.     If you set it to "0" - Read as unlimited of "No", so "in\_stock" is required. | 1                                    |
-| sku                    | N         | The SKU code for this product                                                                                                                                                                                                                            | AD001265                             |
-
-### Import the CSV <a href="#import-the-csv" id="import-the-csv"></a>
-
-Once you have filled out the **Inventory Template CSV** you are ready to upload it into OFN.
-
-1. Go to **Products** >  **Product Import.**
-2. **Select import type:** Select Inventories
-3. **Select a spreadsheet to upload**
-4. Click **Upload**.
-
-You'll be shown a summary of your upload, including any errors. You'll also be told how many products you are creating and how many you are updating. If you're happy with the upload results, click **save**.
+Você verá um resumo do upload, incluindo qualquer erro. Também será informado de quantos produtos você está criando e quantos está atualizando. Se o resultado estiver ok, clique em **salvar**.
 
 {% hint style="success" %}
-It's good practice to check that the products uploaded/updated as you intended.
+É boa prática verificar se os produtos foram enviados/atualizados como você pretendia.
 {% endhint %}
 
-**N.B.** All fields are case sensitive so you must use the exact category and unit\_type names, e.g. 'mL' and 'Dairy' instead of 'ml' or 'dairy'.
+Você pode então enviar outra planilha ou ir à página de produtos pra ver os novos.
+
+## Atualizar detalhes de produtos existentes
+
+Instruções para atualizar detalhes de um produto existente. Essa ferramenta é ideal como forma rápida de atualizar preços e níveis de estoque.
+
+{% hint style="info" %}
+Você pode simultaneamente enviar novos produtos e atualizar existentes em um único CSV.
+{% endhint %}
+
+### Preparar o CSV
+
+Processo similar ao de [envio de novos produtos](product-and-inventory-import.md#import-new-products). Baixe o **Template de Lista de Produtos** e preencha nomes de produtos e fornecedores. Se você tem essa planilha de um upload anterior, ainda melhor.
+
+O sistema precisa de sete campos pra identificar corretamente o produto que você quer atualizar. Há quatro campos que podem ser atualizados e quatro que não podem por essa ferramenta.
+
+| Campos obrigatórios (que você não pode atualizar) | Campos que você pode atualizar | Campos que não atualizam e não são obrigatórios |
+| ------------------------------------------------- | ------------------------------ | ------------------------------------------------ |
+| \*producer                                        | sku                            | ^variant\_unit\_name                             |
+| \*name                                            | price                          | ^tax\_category                                   |
+| ^category                                         | in\_stock                      | ^shipping\_category                              |
+| \*units                                           | unlimited                      | ^description                                     |
+| ^unit\_type (se aplicável)                        |                                |                                                  |
+| ^variant\_unit\_name (se aplicável)               |                                |                                                  |
+| \*display\_name                                   |                                |                                                  |
+
+_^ se você tentar atualizar esses campos, verá uma mensagem de erro._
+
+_\*Se você tentar atualizar esses campos, na verdade vai criar novos produtos ou variantes, e não atualizar um existente._
+
+Depois de preenchido, o .csv pode ser [importado](product-and-inventory-import.md#import-the-csv) da mesma forma que produtos novos.
+
+{% hint style="info" %}
+**Definir estoque como zero para produtos existentes não presentes no arquivo:**\
+Se você marcar essa caixa, o sistema definirá o valor 'Em estoque' como zero para _todos os produtos já na sua lista que não estão no arquivo de importação_.\
+Se um produto estava 'Ilimitado', removê-lo do arquivo marcará como 0 em estoque.
+{% endhint %}
+
+## Importar novo estoque próprio ou atualizar seu estoque
+
+Use estas instruções se quer adicionar ou atualizar produtos no seu [estoque próprio](inventory-tool.md).
+
+### Preparar o CSV
+
+Baixe o arquivo **Template CSV de Estoque** na página **Importar Produtos**.
+
+Você verá que o template dá todos os cabeçalhos necessários. Cada linha é para um novo produto ou variante. Abaixo, descrição de cada coluna.
+
+{% hint style="info" %}
+**Atenção:** Campos são sensíveis a maiúsculas/minúsculas. Ex: use `mL` não `ml`, ou `Laticínio` não `laticínio`.
+{% endhint %}
+
+| Título da coluna       | Obrigatório? | Descrição                                                                                                                                                                                                                          | Exemplo                              |
+| ---------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| producer               | Sim          | Nome do perfil de produtor ao qual esse item de estoque será atribuído                                                                                                                                                             | Sítio Quatro Milhas                  |
+| distributor            | Sim          | Nome do perfil da central ao qual o item de estoque será atribuído                                                                                                                                                                 | Central Demo                         |
+| name                   | Sim          | Nome do produto                                                                                                                                                                                                                    | Iogurte                              |
+| display name           | Não          | Aplica se você está criando variantes (veja instruções abaixo). Se não é variante, deixe em branco.                                                                                                                                | Iogurte de framboesa                 |
+| variant\_unit\_name    | Sim          | Se o produto é vendido como item (ex: pão, maço, abóbora), informe o tipo de item aqui                                                                                                                                             | Maço                                 |
+| units                  | Sim          | Valor de peso, volume ou quantidade                                                                                                                                                                                                | 500                                  |
+| unit\_type             | Sim          | Unidade em que é vendido (g, kg, T, mL, L). Se vendido como item (ex: maço), deixe em branco                                                                                                                                       | g                                    |
+| price                  | Sim          | Preço do produto. Se tem imposto, deve ser preço com imposto incluso.                                                                                                                                                              | 18,50                                |
+| On\_Hand (in\_stock)   | Sim          | Verifique as regras de ilimitado abaixo                                                                                                                                                                                            | deixar em branco se ilimitado = 1    |
+| On\_demand (ilimitado) | Sim          | Se em branco - "Use configurações de estoque do produtor", então "in\_stock" deve estar em branco. Se "1" - "Sim, ilimitado", então "in\_stock" em branco. Se "0" - "Não ilimitado", então "in\_stock" obrigatório. | 1                                    |
+| sku                    | Não          | Código SKU do produto                                                                                                                                                                                                              | AD001265                             |
+
+### Importar o CSV <a href="#import-the-csv" id="import-the-csv"></a>
+
+Uma vez preenchido o **Template CSV de Estoque**, você pode fazer upload:
+
+1. Vá em **Produtos** > **Importar Produtos**.
+2. **Selecione tipo de importação:** Estoque
+3. **Selecione uma planilha pra fazer upload**
+4. Clique em **Enviar**.
+
+Você verá um resumo do upload, incluindo qualquer erro. Também será informado quantos produtos você está criando e atualizando. Se o resultado estiver ok, clique em **salvar**.
+
+{% hint style="success" %}
+É boa prática verificar se os produtos foram enviados/atualizados como você pretendia.
+{% endhint %}
+
+**Atenção:** Todos os campos são sensíveis a maiúsculas/minúsculas — use os nomes exatos de categoria e unit\_type, ex: 'mL' e 'Laticínio' em vez de 'ml' ou 'laticínio'.
