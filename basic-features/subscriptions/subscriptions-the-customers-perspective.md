@@ -1,49 +1,49 @@
-# Subscriptions - the customer's perspective
+# Assinaturas — perspectiva do cliente
 
-This page details what a customer with a subscription can expect. It also highlights some things that shops offering subscriptions should be aware of.
+Esta página detalha o que um cliente com assinatura pode esperar. Também destaca algumas coisas que lojas oferecendo assinaturas devem estar atentas.
 
-## Signing up to OFN
+## Cadastro na Nossa Feira
 
-Customers must have an account with OFN before you can process subscription orders for them.
+Os clientes precisam ter uma conta na Nossa Feira antes que você possa processar pedidos de assinatura pra eles.
 
-To create an account, direct the customer to the local Open Food Network home page and 'Login' at the top right hand corner.  They'll be guided through registering with OFN. _**Customers must have an active email address to register**_.
+Pra criar uma conta, direcione o cliente à página inicial da Nossa Feira e clique em 'Entrar' no canto superior direito. Ele será guiado pelo cadastro. _**Os clientes precisam ter um email ativo pra se cadastrar**_.
 
-After signing up they'll be sent a confirmation email. Once they click on the link in this email their account will be confirmed and they will be able to login.&#x20;
+Após o cadastro, receberá um email de confirmação. Uma vez que clicar no link do email, a conta será confirmada e ele poderá fazer login.
 
 {% hint style="info" %}
-Due to over zealous email filters (designed to ward off spam) sometimes customers won't receive their confirmation email from us (or it will be directed to their junk folder).  If this occurs ask them to add open food network to their 'safe' list in their email account settings.
+Devido a filtros de email muito rígidos (que combatem spam), às vezes os clientes não recebem o email de confirmação (ou vai pra pasta de spam). Se isso acontecer, peça pra adicionar a Nossa Feira à lista 'segura' nas configurações do email.
 {% endhint %}
 
-## Saving credit cards and authorising charges
+## Salvando cartões e autorizando cobranças
 
-Customer who want to pay for their subscription orders via automated charges onto their credit/debit card (Stripe) need to a) save their preferred card in their OFN account and b) grant the shop permission to charge that card.&#x20;
+Clientes que querem pagar seus pedidos de assinatura por cobrança automática no cartão (Stripe) precisam: a) salvar o cartão preferido na conta da Nossa Feira e b) conceder à loja permissão pra cobrar esse cartão.
 
-### Saving credit card details in the customer account
+### Salvando dados de cartão na conta do cliente
 
-The Customer's Account page can be accessed after logging into OFN by the top right hand 'Profile' button:
+A página da Conta do Cliente pode ser acessada após login na Nossa Feira pelo botão 'Perfil' no canto superior direito:
 
 ![](../../.gitbook/assets/subcard1.jpg)
 
-Your customer can save one or more cards in their account, in the **credit cards** tab.
+Seu cliente pode salvar um ou mais cartões na conta, na aba **cartões de crédito**.
 
 ![](../../.gitbook/assets/subcard2.jpg)
 
-If a customer registers more than one debit/credit card, then the card which is denoted as 'default' will be the one which is charged automatically by Stripe (if they have a subscription with Stripe as the chosen payment method).&#x20;
+Se um cliente registra mais de um cartão, o que estiver marcado como 'padrão' será cobrado automaticamente pelo Stripe (se ele tem uma assinatura com Stripe como método escolhido).
 
 {% hint style="danger" %}
-If none of their cards are selected as 'default' their credit card payments won't be processed.
+Se nenhum dos cartões está selecionado como 'padrão', os pagamentos por cartão não serão processados.
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (26).png>)
 
-If your customer saves credit cards in their account, they'll also be able to quickly select these when they shop in your shop at checkout.
+Se seu cliente salva cartões na conta, também poderá selecioná-los rapidamente na hora do checkout.
 
 ![](<../../.gitbook/assets/image (4).png>)
 
-### **Authorising a shop to charge their default card**
+### **Autorizar uma loja a cobrar o cartão padrão**
 
-**You should add your customers to your** [**Customer List**](../shopfront/customer-management-and-conditional-displays-prices/customers.md) **before you ask them to save their credit card details and authorise your shop to bill their card. The customer will not see your enterprise under the 'Authorised Shops' list on the right if you have not done so.**
+**Você deve adicionar seus clientes à sua** [**Lista de Clientes**](../shopfront/customer-management-and-conditional-displays-prices/customers.md) **antes de pedir pra eles salvarem os dados do cartão e autorizarem a loja a cobrar. O cliente não verá sua empresa na lista 'Lojas Autorizadas' à direita se você não fizer isso antes.**
 
-For the Stripe payment method to work for a subscription the customer has with your enterprise they must check the 'Allow Charges' box:
+Pra que o método Stripe funcione em uma assinatura que o cliente tem na sua empresa, ele precisa marcar a caixa 'Permitir Cobranças':
 
 ![](../../.gitbook/assets/subcard2.jpg)

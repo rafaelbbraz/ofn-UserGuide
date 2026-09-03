@@ -1,34 +1,31 @@
-# Subscriptions - FAQs
+# Assinaturas — Perguntas frequentes
 
-### **If I remove an Order Cycle from a schedule when it already has open subscription orders attached to it, what will happen to those orders? Will those subscriptions get deleted?**
+### **Se eu remover um Ciclo de Pedidos de um cronograma quando ele já tem pedidos de assinatura abertos, o que acontece com esses pedidos? As assinaturas serão deletadas?**
 
-Those orders will remain open. At the close of the order cycle the subscription orders will be processed like normal subscription orders. If you wanted to cancel all subscription orders that were attached to that order cycle you would need to [delete each subscription order individually](subscriptions-creating-and-managing-orders.md#edit-a-customers-subscription).
+Esses pedidos permanecerão abertos. No fechamento do ciclo, os pedidos de assinatura serão processados como pedidos normais de assinatura. Se você quiser cancelar todos os pedidos de assinatura que estavam ligados a esse ciclo, precisará [deletar cada pedido de assinatura individualmente](subscriptions-creating-and-managing-orders.md#edit-a-customers-subscription).
 
-### **If I add a new subscription in the middle of an open order cycle, will there be a subscription generated for that customer?**
+### **Se eu adicionar uma nova assinatura no meio de um ciclo aberto, será gerada uma assinatura pra esse cliente?**
 
-Yes, if you create a subscription while there is an open order cycle in that schedule, an order will be generated for that customer. If you don't want the subscription to apply to the current open order cycle you'll need to set the start date of the subscription to be after the close of that order cycle.
+Sim, se você criar uma assinatura enquanto há um ciclo aberto no cronograma, um pedido será gerado pra esse cliente. Se você não quer que a assinatura se aplique ao ciclo aberto atual, precisa definir a data de início da assinatura pra depois do fechamento desse ciclo.
 
-### **What if part of the stock is available but not all? Which customers get the limited stock?**
+### **E se parte do estoque estiver disponível mas não todo? Quais clientes recebem o estoque limitado?**
 
-In the case that a product’s In Stock? value is not adequate to meet all subscription orders, the limited stock won’t be allocated evenly across customers, instead it will fulfill customers orders with available stock until it runs out. Some customers will receive their full order, others will receive none.
+No caso de o valor 'Em estoque?' de um produto não ser suficiente pra atender todos os pedidos de assinatura, o estoque limitado não será alocado uniformemente entre clientes — em vez disso, atenderá os pedidos dos clientes com estoque disponível até acabar. Alguns clientes receberão o pedido completo, outros não receberão nada.
 
-### **What if I change the subscription while it’s ‘open’?**
+### **E se eu alterar a assinatura enquanto está 'aberta'?**
 
-It is not possible to _**add items**_ to the core subscription order while an order cycle part of the subscription's schedule is open.  Any additional products will need to be added when order cycles are closed \(ie. for weekly subscriptions assigned to the schedule 'Weekly', in the period of time between order cycle A closing and order cycle B opening, where both A and B belong to the schedule 'Weekly'\).
+Não é possível _**adicionar itens**_ ao pedido base da assinatura enquanto um ciclo do cronograma da assinatura está aberto. Quaisquer produtos adicionais precisarão ser adicionados quando os ciclos estiverem fechados (ou seja, para assinaturas semanais atribuídas ao cronograma 'Semanal', no período entre o fechamento do ciclo A e a abertura do ciclo B, onde ambos A e B pertencem ao 'Semanal').
 
-If you edit a customer's core subscription to _**remove products**_ while an order cycle is open then this change will impact the order placed in the current order cycle. 
+Se você editar a assinatura base do cliente pra _**remover produtos**_ enquanto um ciclo está aberto, essa alteração impactará o pedido feito no ciclo atual.
 
-### **What if there’s limited stock, but then a customer cancels their order, will this stock get automatically allocated to other subscribers who wanted that product but couldn’t have it due to insufficient stock?**
+### **E se há estoque limitado mas depois um cliente cancela o pedido — esse estoque será automaticamente alocado a outros assinantes que queriam esse produto mas não puderam ter?**
 
-No, if a customer cancels their subscription order or removes a product from it, that stock will be returned to the products's In Stock? value. It won't automatically be allocated to other customers, but you could now add this stock to another customer's order manually by [editing their order](../orders/view-orders.md#editing-an-order).
+Não, se um cliente cancela o pedido de assinatura ou remove um produto, esse estoque voltará ao valor 'Em estoque?' do produto. Não será automaticamente alocado a outros clientes, mas você poderia agora adicionar esse estoque ao pedido de outro cliente manualmente [editando o pedido](../orders/view-orders.md#editing-an-order).
 
-### **Can I or the customer edit an order which has been placed by subscription system?**
+### **Eu ou o cliente podemos editar um pedido feito pelo sistema de assinatura?**
 
-This depends on whether you would like to add or remove products:
+Depende se você quer adicionar ou remover produtos:
 
-* As enterprise manager you will be able to **remove products** \(or cancel an order\) which has been placed by the subscription system via the OFN admin panel in the [normal way](../orders/view-orders.md#editing-an-order).
-* As enterprise manager, if you **add products** to an order placed by the subscription system via the [OFN admin panel](../orders/view-orders.md#editing-an-order) then this will [invoke a second payment](../orders/refunds-and-adjusting-payments.md#collecting-additional-payments) which will not be automatically processed at the end of the order cycle.
-* If you enable customers to be able to [edit or cancel orders](../enterprise-profile/enterprise-settings.md#shop-preferences) while the order cycle is open then they will be able to remove items from their subscription order.  To add items they will need to generate a second order and visit the checkout as normal.
-
-
-
+* Como gerente da empresa você poderá **remover produtos** (ou cancelar um pedido) que foi feito pelo sistema de assinatura via painel admin da Nossa Feira [normalmente](../orders/view-orders.md#editing-an-order).
+* Como gerente da empresa, se você **adicionar produtos** a um pedido feito pelo sistema de assinatura via [painel admin](../orders/view-orders.md#editing-an-order), isso [gerará um segundo pagamento](../orders/refunds-and-adjusting-payments.md#collecting-additional-payments) que não será processado automaticamente no fim do ciclo.
+* Se você habilitar os clientes a [editar ou cancelar pedidos](../enterprise-profile/enterprise-settings.md#shop-preferences) enquanto o ciclo está aberto, eles poderão remover itens do pedido de assinatura. Pra adicionar itens, precisarão gerar um segundo pedido e passar pelo checkout normalmente.

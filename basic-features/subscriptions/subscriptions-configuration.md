@@ -1,159 +1,156 @@
-# Configuration
+# Configuração
 
-## Activate subscriptions
+## Ativar assinaturas
 
-To activate the subscription functionality for your enterprise, go to Enterprises-> Settings-> [shop preferences](../enterprise-profile/enterprise-settings.md#shop-preferences).
+Pra ativar a funcionalidade de assinaturas na sua empresa, vá em Empresas -> Configurações -> [preferências da loja](../enterprise-profile/enterprise-settings.md#shop-preferences).
 
-At the bottom of the page change the Subscriptions setting to 'enabled'.
+No rodapé da página, altere a configuração Assinaturas pra 'habilitado'.
 
 ![](<../../.gitbook/assets/shop pref.jpg>)
 
-**Guest orders**: For enterprises with subscriptions enabled, we recommend that you change this setting to 'require login to order'. This ensures that customers see any active subscription orders once logged in, minimising the risk of them placing a duplicate order by mistake.
+**Pedidos de visitante:** Para empresas com assinaturas habilitadas, recomendamos alterar essa configuração pra 'exigir login pra pedir'. Isso garante que os clientes vejam quaisquer pedidos de assinatura ativos após login, minimizando o risco de fazerem um pedido duplicado por engano.
 
-**Change orders**: For enterprises with subscriptions, the options for this setting affect the subscribed customer in the following ways:
+**Alterar pedidos:** Para empresas com assinaturas, as opções desta configuração afetam o cliente de assinatura das seguintes formas:
 
-* _Placed orders cannot be changed/cancelled:_ The customer will need to _contact_ _you_ to modify their current subscription order (e.g. alter quantities of products or cancel that week's order) as they are prevented from editing orders themselves.&#x20;
-* _Customers can change/cancel orders while order cycle is open:_ The customer can adjust product quantities and/or cancel that week's order _by themselves,_ without contacting you.
+* _Pedidos feitos não podem ser alterados/cancelados:_ O cliente precisará _contatar você_ pra modificar o pedido atual da assinatura (ex: alterar quantidades ou cancelar o pedido daquela semana), pois está impedido de editar por conta.
+* _Clientes podem alterar/cancelar pedidos enquanto o ciclo está aberto:_ O cliente pode ajustar quantidades e/ou cancelar o pedido da semana _por conta_, sem contatar você.
 
-Note that this setting applies to all your orders, so see further information on the 'change orders' setting [here](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/enterprise-settings#shop-preferences). Generally, we recommend using 'placed orders cannot be changed/cancelled'.
-
-
+Note que essa configuração se aplica a todos os seus pedidos. Geralmente, recomendamos 'pedidos feitos não podem ser alterados/cancelados'.
 
 {% hint style="info" %}
-N.B. new items cannot be added to subscription orders during an open order cycle either by you or the customer. In all cases, if a customer with a subscription order wishes to purchase a product which is not part of their regular order they will have to make a second basket containing the extra items and checkout as normal.
+Atenção: novos itens não podem ser adicionados a pedidos de assinatura durante um ciclo aberto, seja por você ou pelo cliente. Se um cliente com assinatura quer comprar um produto que não faz parte do pedido regular, ele terá que criar um segundo carrinho com os itens extras e finalizar normalmente.
 {% endhint %}
 
-## Shipping and Payment methods for Subscriptions
+## Métodos de envio e pagamento para assinaturas
 
-When creating the customer's subscription, you'll need to select which shipping method they'll use and which payment method they'll be billed with. The options you choose when setting up the subscription will then apply to all following subscription orders placed on behalf of the customer.
+Ao criar a assinatura do cliente, você precisa selecionar qual método de envio ele usará e qual método de pagamento será cobrado. As opções escolhidas na configuração da assinatura se aplicarão a todos os pedidos subsequentes feitos em nome do cliente.
 
-### **Shipping methods**
+### **Métodos de envio**
 
-You can apply any [shipping/delivery method](../shopfront/shipping-methods.md) to a subscription.&#x20;
+Você pode aplicar qualquer [método de envio/entrega](../shopfront/shipping-methods.md) a uma assinatura.
 
-### **Payment methods**
+### **Métodos de pagamento**
 
-You can only assign two types of [payment methods](../shopfront/payment-methods.md) to subscriptions.
+Você só pode atribuir dois tipos de [métodos de pagamento](../shopfront/payment-methods.md) a assinaturas.
 
-1. **Manual payment methods:** Cash, cheque, bank transfer (i.e. any method which does not involve automatic validation online through the OFN platform).
-2. **Stripe:** Stripe is a payment gateway that accepts payment from debit and credit cards. Details on how to configure Stripe payments for your enterprise can be found [here](../shopfront/payment-methods.md#integrated-payment-providers).&#x20;
+1. **Métodos manuais:** Dinheiro, boleto, transferência bancária (qualquer método que não envolve validação automática online pela plataforma).
+2. **Stripe:** Gateway de pagamento que aceita débito e cartão de crédito. Detalhes sobre como configurar Stripe [aqui](../shopfront/payment-methods.md#integrated-payment-providers).
 
 {% hint style="info" %}
-With each order automatically placed by a subscription, the customer's bank card will be debited for the order (on closure of the associated order cycle). The amount debited will reflect any modifications made by you or them to the order. Customers will not be charged if they cancel their subscription order.
+A cada pedido feito automaticamente por uma assinatura, o cartão do cliente será debitado pelo pedido (no fechamento do ciclo associado). O valor debitado refletirá quaisquer modificações feitas por você ou pelo cliente. Os clientes não serão cobrados se cancelarem o pedido da assinatura.
 {% endhint %}
 
 {% hint style="warning" %}
-For the customer to be debited correctly, it is necessary for them to have an account on the Open Food Network platform.  To their OFN account they must have registered a default credit card and given their authorisation for your enterprise to debit from that card.  More information can be found [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges). &#x20;
+Pra o cliente ser debitado corretamente, é necessário que ele tenha uma conta na Nossa Feira. Na conta, ele precisa ter registrado um cartão padrão e autorizado sua empresa a debitar dele. Mais informações [aqui](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).
 {% endhint %}
 
 {% hint style="success" %}
-If you use Stripe as the payment method for subscriptions it is helpful to the customer if you add a clear, detailed explanation of how the payment will be processed, should they choose this option.\
+Se você usa Stripe como método de pagamento pra assinaturas, é útil pro cliente que você adicione uma explicação clara e detalhada de como o pagamento será processado.\
 \
-For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers (see example below), so it's good to make it detailed so the customer knows what to expect.
+Por exemplo, em vez de chamar o [método de pagamento](../shopfront/payment-methods.md) de 'Cartão de crédito', você poderia chamar de 'cobrança automática de cartão pra assinaturas'. Uma descrição possível: 'Seu cartão padrão salvo na sua conta Nossa Feira será cobrado quando o pedido da assinatura for confirmado às quartas à noite'. Esse nome e descrição aparecerão no email de confirmação aos clientes de assinatura, então é bom deixar detalhado pra que o cliente saiba o que esperar.
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (15).png>)
 
-## Gather information from your customers
+## Colete informações dos clientes
 
-To setup a subscription for a customer you'll need to get some information from them, as detailed below:
+Pra configurar uma assinatura, você precisa obter algumas informações do cliente:
 
-**Name**, **phone number** and **email address:** Remember that any customer wishing to have an automated regular order (subscription) with your enterprise MUST have a registered and confirmed user account on the OFN platform.  Customers with subscriptions must be on your enterprise [Customer List](../shopfront/customer-management-and-conditional-displays-prices/customers.md). See [below](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for more details.
+**Nome**, **telefone** e **email:** Lembre que qualquer cliente que quer um pedido automático regular (assinatura) na sua empresa PRECISA ter uma conta cadastrada e confirmada na Nossa Feira. Clientes com assinatura precisam estar na sua [Lista de Clientes](../shopfront/customer-management-and-conditional-displays-prices/customers.md).
 
-**Billing and shipping address**
+**Endereço de cobrança e entrega**
 
-**Products:** Which items do they want to include in their subscription?
+**Produtos:** Quais itens quer incluir na assinatura?
 
-**Shipping/Delivery method**: You need to assign a shipping/delivery/collection method to their subscription order.  How would they prefer to receive the goods?
+**Método de envio/entrega:** Você precisa atribuir um método de envio/entrega/coleta ao pedido de assinatura. Como o cliente prefere receber os produtos?
 
-**Payment method**: Customers can select from your manual payment methods (e.g. cash, bank transfer), or paying with their credit card through your shop's Stripe account. If the customer wishes to pay for their subscription orders by Stripe then they will need to add a default payment card and give authorisation. See [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for more details.
+**Método de pagamento:** Os clientes podem escolher entre seus métodos manuais (dinheiro, transferência) ou pagar por cartão via Stripe da sua loja. Se o cliente quer pagar as assinaturas por Stripe, precisa adicionar um cartão padrão e dar autorização. Veja [aqui](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) pra mais detalhes.
 
-**Start and End Dates for their subscription orders:** Remember, for a subscription order to be created for a given order cycle it must have a start date either before or after the order cycle opening date, and the subscription end date must be after the order cycle close date.
+**Datas de início e fim das assinaturas:** Lembre, pra uma assinatura ser criada pra um determinado ciclo, ela precisa ter data de início antes ou após a data de abertura do ciclo, e a data de fim precisa ser após a data de fechamento do ciclo.
 
-## Add your subscribers to your customer list
+## Adicione seus assinantes à lista de clientes
 
-Before you can setup a subscription order for a customer they need to be added to your [Customers list](../shopfront/customer-management-and-conditional-displays-prices/customers.md).&#x20;
+Antes de configurar um pedido de assinatura, o cliente precisa ser adicionado à sua [Lista de Clientes](../shopfront/customer-management-and-conditional-displays-prices/customers.md).
 
-**After you've added your customers to your customer list email them** and [ask them to sign up for an account on OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn).  If you plan to bill customers using Stripe, you need to also request that they follow the additional steps outlined [here](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) for adding a default credit/debit card to their OFN user account and giving your enterprise authorisation to take payments.
+**Depois de adicionar seus clientes à lista, envie um email** e [peça pra se cadastrarem na Nossa Feira](subscriptions-the-customers-perspective.md#signing-up-to-ofn). Se você planeja cobrar via Stripe, precisa também pedir que sigam os passos adicionais [aqui](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) pra adicionar um cartão padrão na conta e dar autorização à sua empresa pra fazer cobranças.
 
 {% hint style="info" %}
-You can add customers to your Customer list before or after they've signed up for an account with OFN. However, before a subscription order can be successfully setup the customer must have confirmed the email address to which their OFN account is registered.
+Você pode adicionar clientes à sua lista antes ou depois deles se cadastrarem. Mas antes que um pedido de assinatura seja configurado com sucesso, o cliente precisa ter confirmado o email da conta.
 {% endhint %}
 
 {% hint style="warning" %}
-If you wish to debit a customer for their subscription order by Stripe then they must be added to your [Customer list](../shopfront/customer-management-and-conditional-displays-prices/customers.md) BEFORE they can [authorise your enterprise to take payments ](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges)from their credit/debit card.\
-Hence we recommend the following procedure:
+Se você quer debitar o cliente por Stripe pra sua assinatura, ele precisa ser adicionado à sua [lista de clientes](../shopfront/customer-management-and-conditional-displays-prices/customers.md) ANTES de poder [autorizar sua empresa a fazer cobranças](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) no cartão.\
+Recomendamos o procedimento:
 
-1. Contact the customer and obtain all the info you require (see [above](subscriptions-configuration.md#gather-information-from-your-customers))
-2. Add them to your [customer list](../shopfront/customer-management-and-conditional-displays-prices/customers.md).
-3. Email the customer, asking them to [register with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn) for an account and [add their credit/debit card details](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) to that account.
-4. [Create the subscription](subscriptions-creating-and-managing-orders.md).
+1. Contate o cliente e obtenha todas as informações que precisa (veja [acima](subscriptions-configuration.md#gather-information-from-your-customers)).
+2. Adicione-o à sua [lista de clientes](../shopfront/customer-management-and-conditional-displays-prices/customers.md).
+3. Envie email pro cliente pedindo pra [se cadastrar na Nossa Feira](subscriptions-the-customers-perspective.md#signing-up-to-ofn) e [adicionar dados de cartão](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges) na conta.
+4. [Crie a assinatura](subscriptions-creating-and-managing-orders.md).
 {% endhint %}
 
-## Schedules
+## Cronogramas
 
 {% hint style="info" %}
-If you are new to OFN we encourage you to get familiar with setting up [order cycles](../shopfront/order-cycle/) before setting up schedules and subscriptions
+Se você é novo na Nossa Feira, recomendamos se familiarizar com a configuração de [ciclos de pedidos](../shopfront/order-cycle/) antes de configurar cronogramas e assinaturas.
 {% endhint %}
 
-### About Schedules
+### Sobre cronogramas
 
-Subscriptions are setup so that every time an enterprise opens an order cycle, orders can be automatically generated for customers who have a subscription with that shop.  The frequency with which a subscription order is placed for a particular customer (ie which of your active order cycles triggers their subscription) is controlled by a facility called '**Schedules**'. &#x20;
+Assinaturas são configuradas para que, cada vez que uma empresa abre um ciclo, pedidos possam ser automaticamente gerados pra clientes que têm uma assinatura naquela loja. A frequência com que um pedido de assinatura é feito pra um determinado cliente (ou seja, qual dos ciclos ativos dispara sua assinatura) é controlada por uma facilidade chamada '**Cronogramas**'.
 
-Schedules are groups that order cycle can be assigned to. Once a schedule has been created, customer subscriptions are applied to the schedule, so that an order for their subscription will only be generated for new order cycles in that schedule. &#x20;
+Cronogramas são grupos aos quais ciclos podem ser atribuídos. Uma vez criado um cronograma, assinaturas de clientes são aplicadas ao cronograma, então um pedido pra assinatura só será gerado pra novos ciclos naquele cronograma.
 
 {% hint style="info" %}
-You may have some customers who would like a regular order every week, in which case you would add their subscriptions to a schedule which includes all of your weekly order cycles. For other groups of customers, desiring their orders only fortnightly/monthly you can create additional schedules which only include alternate/one-in-four of your weekly order cycles.
+Você pode ter clientes que querem um pedido regular toda semana, caso em que você adicionaria suas assinaturas a um cronograma que inclui todos os seus ciclos semanais. Para outros grupos de clientes que desejam pedidos quinzenais/mensais, você pode criar cronogramas adicionais que incluem apenas ciclos semanais alternados/um em cada quatro.
 {% endhint %}
 
 {% hint style="success" %}
-There's lots of flexibility in this arrangement and so feel free to experiment to come up with the order cycle-schedule combination which works best for your enterprise.  For example you may wish to have 'odd week' and 'even week' schedules, 'wholesale' schedules, 'monthly meat' schedules....
+Há bastante flexibilidade nesse arranjo. Sinta-se livre pra experimentar até encontrar a combinação ciclo-cronograma que funciona melhor. Por exemplo, você pode ter cronogramas de 'semana ímpar' e 'semana par', 'atacado', 'carnes mensais'...
 {% endhint %}
 
-### Create a schedule
+### Criar um cronograma
 
-Having completed all the steps outlined above, the **+New Schedule** button will appear at the top of your Order Cycles menu:
+Depois de completar todos os passos acima, o botão **+Novo Cronograma** aparecerá no topo do menu Ciclos de Pedidos:
 
 ![](<../../.gitbook/assets/new sched.jpg>)
 
 {% hint style="warning" %}
-You must have at least one open or due to open order cycle to be able to create a new schedule.
+Você precisa ter pelo menos um ciclo aberto ou prestes a abrir pra poder criar um novo cronograma.
 {% endhint %}
 
 ![](../../.gitbook/assets/sched1.jpg)
 
-**Name:** Give the schedule a logical name which describes this group of order cycles. E.g. ‘weekly’, ‘monthly’, ‘Tuesday Deliveries’, ‘wholesale’ or ‘retail’. This name is not visible to customers.
+**Nome:** Dê ao cronograma um nome lógico que descreva esse grupo de ciclos. Ex: 'semanal', 'mensal', 'Entregas terça', 'atacado' ou 'varejo'. Esse nome não é visível aos clientes.
 
 {% hint style="info" %}
-If you manage several OFN enterprises, with subscriptions being enabled in more than one, then naming your schedules clearly is essential eg. weekly\_hubA, weekly\_hubB, fortnightly\_hubA, fortnightly\_hubB.\
-Each enterprise will need a different schedule but when you create a subscription for a customer the schedules for all your enterprises will be visible. Hence, the descriptive name will help you make sure the subscription is created for the correct enterprise for that particular customer.
+Se você gerencia várias empresas com assinaturas habilitadas em mais de uma, nomear seus cronogramas claramente é essencial. Ex: semanal\_centralA, semanal\_centralB, quinzenal\_centralA, quinzenal\_centralB.\
+Cada empresa precisará de um cronograma diferente, mas ao criar uma assinatura pra um cliente, os cronogramas de todas as suas empresas ficarão visíveis. O nome descritivo ajuda a garantir que a assinatura seja criada pra empresa correta.
 {% endhint %}
 
-You can add existing order cycles into and out of the new schedule by clicking the < and > buttons.
+Você pode adicionar ciclos existentes de dentro e fora do novo cronograma clicando nos botões < e >.
 
-Click **create** when you are finished.
+Clique em **criar** quando terminar.
 
-### Edit or Delete a schedule
+### Editar ou deletar um cronograma
 
-To edit or delete a schedule, click on the schedule’s name next to a corresponding order cycle, in the ‘schedules’ column.  (The 'Schedules' column may need to be made visible by ticking it in the drop-down columns menu at the top right.)
+Pra editar ou deletar um cronograma, clique no nome dele ao lado de um ciclo correspondente, na coluna 'cronogramas'. (A coluna 'Cronogramas' pode precisar ser tornada visível marcando no menu suspenso de colunas no canto superior direito.)
 
 ![](../../.gitbook/assets/sched2.jpg)
 
-You can change the name of the schedule, add/remove order cycles from it or delete the schedule.
+Você pode alterar o nome, adicionar/remover ciclos ou deletar o cronograma.
 
 ![](../../.gitbook/assets/sched3.jpg)
 
 {% hint style="danger" %}
-You can not delete a schedule if there are subscriptions associated with it.
+Você não pode deletar um cronograma se há assinaturas associadas a ele.
 {% endhint %}
 
-### Adding or removing order cycles from schedules
+### Adicionando ou removendo ciclos de cronogramas
 
-You can add and remove order cycles from schedules by either editing the schedule ([above](subscriptions-configuration.md#edit-or-delete-a-schedule)), or by editing the order cycle and adding/removing the schedule in the ‘schedules’ field:
+Você pode adicionar e remover ciclos de cronogramas editando o cronograma ([acima](subscriptions-configuration.md#edit-or-delete-a-schedule)) ou editando o ciclo e adicionando/removendo o cronograma no campo 'cronogramas':
 
 ![](<../../.gitbook/assets/oc sched.jpg>)
 
 {% hint style="success" %}
-Order cycles can be in more than one schedule.  For example if your order cycles are weekly but you have three schedules (weekly, fortnightly-odd weeks and fortnightly-even weeks) then one order cycle might be associated with both the 'weekly' and 'fortnightly-odd' week schedules.
+Ciclos podem estar em mais de um cronograma. Por exemplo, se seus ciclos são semanais mas você tem três cronogramas (semanal, quinzenal-semana ímpar e quinzenal-semana par), um ciclo pode estar associado aos cronogramas 'semanal' e 'quinzenal-ímpar'.
 {% endhint %}
-

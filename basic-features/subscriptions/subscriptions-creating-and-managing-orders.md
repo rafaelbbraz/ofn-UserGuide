@@ -1,195 +1,195 @@
-# Subscriptions - Creating & Managing orders
+# Assinaturas — criando e gerenciando pedidos
 
-This page describes how shops can setup unique subscriptions for individual customers, including which items are included in their subscription, which [schedule](subscriptions-configuration.md#schedules) the subscription applies to (ie the rate at which they receive their order) and how to pause/edit their subscription.
+Esta página descreve como as lojas podem configurar assinaturas únicas pra clientes individuais, incluindo quais itens são incluídos, qual [cronograma](subscriptions-configuration.md#schedules) a assinatura segue (ou seja, a frequência com que recebem o pedido) e como pausar/editar a assinatura.
 
 {% hint style="danger" %}
-&#x20;In this first version of the subscriptions feature, **enterprises must setup subscriptions on behalf of their customers.** Customers cannot setup their own subscriptions.
+Nesta primeira versão do recurso de assinaturas, **as empresas precisam configurar as assinaturas em nome dos clientes**. Os clientes não podem configurar suas próprias assinaturas.
 {% endhint %}
 
-**Checklist of things to do before you create subscriptions for your customers:**
+**Checklist antes de criar assinaturas pros clientes:**
 
-* Enable subscriptions in your [Enterprise Settings](subscriptions-configuration.md#activate-subscriptions)
-* Create [shipping and payment methods](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions)
-* Have made contact with your customers to [get their details](subscriptions-configuration.md#gather-information-from-your-customers)
-* Added your subscription customers to your [customer list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list). &#x20;
-* Have contacted your customers to request that they [sign up for an account with OFN](subscriptions-the-customers-perspective.md#signing-up-to-ofn), and _if_ they will be billed with Stripe, to request they [save their card and authorise your shop to charge it](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).
-* Created at least one [Schedule](subscriptions-configuration.md#schedules)
+* Habilite assinaturas nas [Configurações da Empresa](subscriptions-configuration.md#activate-subscriptions).
+* Crie [métodos de envio e pagamento](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions).
+* Tenha contatado os clientes pra [obter os dados](subscriptions-configuration.md#gather-information-from-your-customers).
+* Adicione os clientes de assinatura à sua [lista de clientes](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list).
+* Tenha contatado os clientes pedindo pra [se cadastrarem na Nossa Feira](subscriptions-the-customers-perspective.md#signing-up-to-ofn) e, _se_ forem cobrados por Stripe, pedir que [salvem o cartão e autorizem a loja a cobrar](subscriptions-the-customers-perspective.md#saving-credit-cards-and-authorising-charges).
+* Crie pelo menos um [Cronograma](subscriptions-configuration.md#schedules).
 
-## Create subscriptions
+## Criar assinaturas
 
-Click on **Orders** on the main horizontal menu and then select **Subscriptions** in the sub-menu.
+Clique em **Pedidos** no menu horizontal principal e depois em **Assinaturas** no submenu.
 
 ![](../../.gitbook/assets/sub1.jpg)
 
-Click **+ New Subscription** to setup a recurring order for your customer.  You will first be prompted to select the shop with which you wish to create the new subscription. &#x20;
+Clique em **+ Nova Assinatura** pra configurar um pedido recorrente. Primeiro será solicitado a selecionar a loja com a qual quer criar a nova assinatura.
 
 {% hint style="danger" %}
-You must have created a schedule of order cycles before you can create a subscription. Read more [here](subscriptions-configuration.md#schedules).
+Você precisa ter criado um cronograma de ciclos antes de criar uma assinatura. Leia mais [aqui](subscriptions-configuration.md#schedules).
 {% endhint %}
 
-### Basic Details
+### Dados básicos
 
 ![](<../../.gitbook/assets/sub2 (1).jpg>)
 
-**Customer:** Select a customer from the drop-down list. You can only choose from those people added to the [Customer List](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) for the Enterprise with which you are creating the subscription.&#x20;
+**Cliente:** Selecione um cliente do menu suspenso. Você só pode escolher entre pessoas adicionadas à [Lista de Clientes](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) da empresa com a qual está criando a assinatura.
 
-**Schedule:** Select the schedule that this customer wants to subscribe to.
+**Cronograma:** Selecione o cronograma ao qual esse cliente quer assinar.
 
-**Payment method:** Select the customer’s preferred payment method. This must be either Stripe or a manual payment method (cash, cheque, bank transfer). See [here](subscriptions-configuration.md#payment-methods) for more information.&#x20;
+**Método de pagamento:** Selecione o método preferido do cliente. Precisa ser Stripe ou um método manual (dinheiro, transferência). Veja [aqui](subscriptions-configuration.md#payment-methods) pra mais informações.
 
-**Shipping method:** Select the customer’s preferred shipping method.
+**Método de envio:** Selecione o método preferido do cliente.
 
-**Begins at:** This is the date that the customer’s first subscription generated order will be generated.&#x20;
-
-{% hint style="danger" %}
-If this date is midway through an open order cycle in their schedule there will be an order generated for that order cycle. If not, their first subscription order will be placed when the next order cycle to open in their schedule begins.
-{% endhint %}
-
-**Ends at:** After this date the customer’s subscription orders will no longer be generated. This field is optional, if left blank the order will continue to be generate indefinitely.&#x20;
+**Começa em:** Data em que o primeiro pedido de assinatura será gerado.
 
 {% hint style="danger" %}
-If the 'Ends at' date falls in the middle of a future order cycle then no subscription order will be placed.For example:
-
-* If Ends at date is 10/01/2020 but closest order cycle in this customer's schedule is due to open 9/01/2020 and close 11/01/2020 then no order will be generated for the customer.
-* If Ends at date is 12/01/2020 then the above order cycle will generate a last subscription order for the customer.
+Se essa data está no meio de um ciclo aberto no cronograma dele, um pedido será gerado pra esse ciclo. Se não, o primeiro pedido de assinatura será feito quando o próximo ciclo abrir no cronograma.
 {% endhint %}
 
-### Address
+**Termina em:** Após esta data, os pedidos de assinatura não serão mais gerados. Campo opcional — se deixado em branco, o pedido continua a ser gerado indefinidamente.
 
-Fill out the customer’s billing and shipping details. Address details for customers who have placed orders on OFN previously will load automatically.
+{% hint style="danger" %}
+Se a data 'Termina em' cai no meio de um ciclo futuro, nenhum pedido de assinatura será feito. Por exemplo:
+
+* Se 'Termina em' é 10/01/2026 mas o ciclo mais próximo no cronograma do cliente abre em 09/01/2026 e fecha em 11/01/2026, nenhum pedido será gerado.
+* Se 'Termina em' é 12/01/2026, o ciclo acima gerará um último pedido de assinatura pro cliente.
+{% endhint %}
+
+### Endereço
+
+Preencha os detalhes de cobrança e entrega do cliente. Dados de endereço de clientes que já fizeram pedidos na Nossa Feira serão carregados automaticamente.
 
 ![](../../.gitbook/assets/sub3.jpg)
 
 {% hint style="warning" %}
-If you update the customer's address/contact details in the [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) page, the change won't automatically carry through to their subscription.  You will need to update their details here too.
+Se você atualizar os dados de endereço/contato do cliente na página de [Clientes](../shopfront/customer-management-and-conditional-displays-prices/customers.md), a alteração não é automaticamente refletida na assinatura. Você precisa atualizar aqui também.
 {% endhint %}
 
-### **Add Products**
+### **Adicionar produtos**
 
-Add the items the customer wishes to receive from your enterprise on a regular basis.
+Adicione os itens que o cliente deseja receber da sua empresa regularmente.
 
 ![](../../.gitbook/assets/sub4.jpg)
 
 {% hint style="warning" %}
-You can only add products which are listed in future order cycles for your enterprise which also belong to the customer's chosen subscription schedule.
+Você só pode adicionar produtos que estão listados em ciclos futuros da sua empresa que também pertencem ao cronograma de assinatura escolhido pelo cliente.
 {% endhint %}
 
-### Review & Save
+### Revisar e salvar
 
-Check that details are correct and then click **Create Subscription** or **Cancel**.
+Confira se os detalhes estão corretos e depois clique em **Criar Assinatura** ou **Cancelar**.
 
 {% hint style="warning" %}
-If the schedule for which you have just created a customer's new subscription has an open order cycle then their first order will be generated immediately unless you change the 'Begins at' date to some point in the future.
+Se o cronograma para o qual você acabou de criar uma nova assinatura tem um ciclo aberto, o primeiro pedido será gerado imediatamente, a menos que você altere a data 'Começa em' pra um momento futuro.
 {% endhint %}
 
-#### **What happens if the price of a product changes after the subscription is made?**
+#### **O que acontece se o preço de um produto mudar após a assinatura ser criada?**
 
-The prices of items within subscriptions will update and the customer will be charged according to the updated price.  At the start of each order cycle with which their subscription is generated they will receive an email with a summary of their order, including up-to-date prices.
+Os preços dos itens nas assinaturas serão atualizados e o cliente será cobrado de acordo com o preço atualizado. No início de cada ciclo com o qual sua assinatura é gerada, ele receberá um email com resumo do pedido, incluindo preços atualizados.
 
-#### **What if a product in a subscription is not available in an order cycle?**
+#### **E se um produto da assinatura não estiver disponível em um ciclo?**
 
-When an item in a subscription is not available (for example if it is a seasonal product) the customer will be alerted in their confirmation emails.
+Quando um item da assinatura não está disponível (por exemplo, se é sazonal), o cliente será alertado nos emails de confirmação.
 
-## Edit a customer’s subscription
+## Editar a assinatura de um cliente
 
-### Edit the base subscription
+### Editar a assinatura base
 
-To make changes to the whole subscription (ie all orders placed from now on for the customer) then visit **Orders** (main menu) -> **Subscriptions** (sub-menu).&#x20;
+Pra fazer alterações na assinatura toda (ou seja, todos os pedidos feitos daqui pra frente), vá em **Pedidos** (menu principal) -> **Assinaturas** (submenu).
 
-Select the enterprise with which the customer has a subscription from the drop-down menu. &#x20;
+Selecione a empresa com a qual o cliente tem uma assinatura no menu suspenso.
 
 ![](<../../.gitbook/assets/sub1 (1).jpg>)
 
-A table listing all your customers' subscriptions will be then visible.   Select the Edit (pen and paper) icon to the right of the customer:&#x20;
+Uma tabela listando todas as assinaturas dos seus clientes ficará visível. Selecione o ícone de Editar (caneta e papel) à direita do cliente:
 
 ![](../../.gitbook/assets/sub5.jpg)
 
 {% hint style="success" %}
-You can change the products the customer orders via subscription, their preferred shipping and payment methods and the start/end dates of their subscription.
+Você pode alterar os produtos que o cliente pede pela assinatura, os métodos preferidos de envio e pagamento e as datas de início/fim.
 {% endhint %}
 
 {% hint style="danger" %}
-You can not change the schedule of the customer's subscription. Instead the subscription must be recreated in the new preferred schedule and the old version deleted.
+Você não pode alterar o cronograma da assinatura. Em vez disso, a assinatura precisa ser recriada no novo cronograma preferido e a versão antiga deletada.
 {% endhint %}
 
-### Edit one specific order
+### Editar um pedido específico
 
-If you want to change a single upcoming order in a subscription you can click on the number in the customers’ _**orders**_ column.
+Se você quer alterar um único pedido futuro em uma assinatura, pode clicar no número na coluna _**pedidos**_ do cliente.
 
-This will reveal all upcoming orders in the schedule, and you can then edit a specific order.
+Isso revelará todos os pedidos futuros no cronograma e você pode então editar um pedido específico.
 
 ![](<../../.gitbook/assets/sub6 (1).jpg>)
 
 {% hint style="warning" %}
-Note that you will be able to remove items from an order in this manner, but not add them. Additional items will need to be added by creating a new order as described [here](../orders/create-orders-manually.md).
+Note que você pode remover itens de um pedido dessa forma, mas não adicionar. Itens adicionais precisarão ser adicionados criando um novo pedido como descrito [aqui](../orders/create-orders-manually.md).
 {% endhint %}
 
-### Delete a subscription
+### Deletar uma assinatura
 
-To delete a subscription for a customer who no longer wishes to receive the goods from you on a regular basis, click the **cross** button to the right of the table. This will prevent any future subscriptions from being generated and delete this subscription permanently.
+Pra deletar uma assinatura de um cliente que não quer mais receber os produtos regularmente, clique no botão **X** à direita da tabela. Isso impedirá que futuras assinaturas sejam geradas e deletará permanentemente essa assinatura.
 
 ![](../../.gitbook/assets/sub7.jpg)
 
 {% hint style="warning" %}
-&#x20;If you delete a subscription while there is an open order cycle you'll be asked whether you want to keep the customer's open order, or if they want to delete the current order.
+Se você deletar uma assinatura enquanto há um ciclo aberto, será perguntado se quer manter o pedido aberto do cliente ou se ele quer deletar o pedido atual.
 {% endhint %}
 
-### Pause a subscription
+### Pausar uma assinatura
 
-A customer may want to pause their order while on holiday for instance. In this case, click on the **pause** button (two vertical lines) to the right hand side of the subscriptions table. This will prevent all future orders in the subscription from being generated, until it is activated again.&#x20;
+Um cliente pode querer pausar o pedido durante férias, por exemplo. Nesse caso, clique no botão de **pausa** (duas linhas verticais) à direita da tabela de assinaturas. Isso impedirá que todos os pedidos futuros da assinatura sejam gerados, até que seja ativada novamente.
 
 ![](../../.gitbook/assets/sub8.jpg)
 
-To un-pause (re-activate) a subscription, click on the **play** (arrow) button.
+Pra despausar (reativar) uma assinatura, clique no botão **play** (seta).
 
 <figure><img src="../../.gitbook/assets/sub9.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-If you pause a subscription while an order cycle is still open, you'll be asked whether you'd like to keep the current order or not.&#x20;
+Se você pausar uma assinatura enquanto um ciclo ainda está aberto, será perguntado se quer manter o pedido atual ou não.
 
-Subscriptions re-activated in the middle of an open order cycle will generate orders immediately.
+Assinaturas reativadas no meio de um ciclo aberto vão gerar pedidos imediatamente.
 {% endhint %}
 
-## How are subscriptions processed?
+## Como as assinaturas são processadas?
 
-You have set up a subscription for a customer. What happens now, each time an order cycle opens and closes?
+Você configurou uma assinatura pra um cliente. O que acontece agora, cada vez que um ciclo abre e fecha?
 
-### **Order Cycle belonging to the subscription schedule opens:**
+### **Ciclo de pedidos do cronograma da assinatura abre:**
 
-* Your customer's order will be created immediately.  They will receive an email notifying them of this.
-* Stock levels of products ordered by the subscription will be deducted accordingly at this time.
-* An email will be sent to the [manager of the enterprise](../enterprise-profile/enterprise-settings.md#users) coordinating the order cycle concerned summarising how many subscription have been placed, and how many had issues (e.g. insufficient stock).&#x20;
-* If your enterprise is configured such that 'Orders can be changed/canceled while an order cycle is open' (see [here](subscriptions-configuration.md#activate-subscriptions)) then customers with a subscription generated order can remove products from their order or cancel it.
+* O pedido do cliente será criado imediatamente. Ele receberá um email notificando.
+* Os níveis de estoque dos produtos pedidos pela assinatura serão deduzidos nesse momento.
+* Um email será enviado ao [gerente da empresa](../enterprise-profile/enterprise-settings.md#users) coordenando o ciclo, resumindo quantas assinaturas foram feitas e quantas tiveram problemas (ex: estoque insuficiente).
+* Se sua empresa está configurada como 'Pedidos podem ser alterados/cancelados enquanto o ciclo está aberto' (veja [aqui](subscriptions-configuration.md#activate-subscriptions)), os clientes com pedido gerado por assinatura podem remover produtos ou cancelar.
 
 {% hint style="info" %}
-Note, if you create a subscription while there's an open order cycle in the schedule, _an order will be immediately created_ for that subscriber.
+Note que, se você criar uma assinatura enquanto há um ciclo aberto no cronograma, _um pedido será criado imediatamente_ pra esse assinante.
 {% endhint %}
 
 {% hint style="warning" %}
-Customers are not able to add items to a subscription order once it has been generated, even if the 'Orders can be changed/canceled while an order cycle is open' button is enabled.  In doing so they will create a second order and taken to the checkout as normal.
+Os clientes não conseguem adicionar itens a um pedido de assinatura uma vez que foi gerado, mesmo se 'Pedidos podem ser alterados/cancelados enquanto o ciclo está aberto' está habilitado. Ao tentar, criarão um segundo pedido e serão levados ao checkout normalmente.
 {% endhint %}
 
-### **The Order Cycle Closes**
+### **O ciclo de pedidos fecha**
 
-* When the Order cycle closes the subscription orders will be _confirmed_.  Customers will be sent an _order confirmation email_.
-* Customers who opted to pay for their subscription by Stripe will have their credit/debit card debited at this point.
-* An email will be sent to the [manager of the enterprise](../enterprise-profile/enterprise-settings.md#users) coordinating the order cycle concerned confirming how many subscription have been processed. It will also detail possible errors (eg. a credit card that couldn't be billed).
+* Quando o ciclo fecha, os pedidos de assinatura serão _confirmados_. Os clientes receberão um _email de confirmação_.
+* Clientes que optaram por pagar via Stripe terão o cartão debitado nesse ponto.
+* Um email será enviado ao [gerente da empresa](../enterprise-profile/enterprise-settings.md#users) coordenando o ciclo confirmando quantas assinaturas foram processadas. Também detalhará possíveis erros (ex: um cartão que não pôde ser cobrado).
 
-### Planning for future subscriptions
+### Planejando assinaturas futuras
 
-There are several ways in which you may opt to plan future order cycles for your enterprise, now that you offer customers the option of a regular automated subscription order:
+Há várias formas de planejar ciclos futuros pra sua empresa, agora que você oferece a opção de assinatura automática regular:
 
-* Create all order cycles for the season in advance. A quick way of doing this is to copy an order cycle and modify open/closing dates and name to span the period of time desired.  Add order cycles to the subscription schedules as desired.
+* Crie todos os ciclos da temporada antecipadamente. Um jeito rápido é copiar um ciclo e modificar as datas de abertura/fechamento e nome pra abranger o período desejado. Adicione os ciclos aos cronogramas de assinatura conforme desejado.
 
 {% hint style="info" %}
-If you set up lots of order cycles in advance, be sure to check with your suppliers about seasonal availability of items!
+Se você configura muitos ciclos com antecedência, confirme com seus fornecedores sobre a disponibilidade sazonal dos itens!
 {% endhint %}
 
-* Create order cycles on a weekly (or monthly) basis. On creation, make sure you also add it to the relevant subscription schedule.
+* Crie ciclos semanalmente (ou mensalmente). Na criação, garanta que também adiciona ao cronograma de assinatura relevante.
 
 {% hint style="success" %}
-Tips:
+Dicas:
 
-* You may like to promote the fact you offer subscriptions. This may attract potential customers to purchase items from your enterprise. Veg Box schemes are very popular and can be replicated using the subscription functionality.
-* If you notice a number of customers order the same items regularly then offering them the option of an automated order (subscription) might be greatly appreciated.
+* Você pode promover o fato de que oferece assinaturas. Isso pode atrair clientes potenciais. Esquemas de cesta de verduras são muito populares e podem ser replicados usando a funcionalidade de assinatura.
+* Se você nota que vários clientes pedem os mesmos itens regularmente, oferecer a eles a opção de pedido automatizado (assinatura) pode ser muito apreciado.
 {% endhint %}

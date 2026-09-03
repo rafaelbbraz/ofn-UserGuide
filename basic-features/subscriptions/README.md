@@ -1,49 +1,45 @@
-# Subscriptions
+# Assinaturas
 
-## What are subscriptions? <a href="#what-are-subscriptions" id="what-are-subscriptions"></a>
+## O que são assinaturas? <a href="#what-are-subscriptions" id="what-are-subscriptions"></a>
 
-Subscriptions are recurring or standing orders that can be set up for the customers of any Enterprise with a shopfront. Once set up, these orders will be automatically processed at defined intervals (eg. weekly, fortnightly, monthly).
+Assinaturas são pedidos recorrentes ou permanentes que podem ser configurados para clientes de qualquer empresa com vitrine. Uma vez configurados, esses pedidos são processados automaticamente em intervalos definidos (ex: semanal, quinzenal, mensal).
 
 {% hint style="success" %}
-Subscriptions are convenient for customers, as they can know that their order will be processed without needing to remember to place their order.&#x20;
+Assinaturas são convenientes pros clientes, pois eles sabem que o pedido será processado sem precisar lembrar de fazê-lo.
 {% endhint %}
 
 {% hint style="success" %}
-Subscriptions are also a good way for an Enterprise to boost customer loyalty and make their order volumes are&#x20;
-
-more predictable.
+Assinaturas também são uma boa forma de uma empresa aumentar a fidelidade do cliente e tornar os volumes de pedido mais previsíveis.
 {% endhint %}
 
-**Features of Subscriptions**
+**Recursos de assinaturas**
 
-* Customers can choose to have their 'usual order' placed automatically.
-* Customers can set up an automatic credit card payment (using [Stripe](../shopfront/payment-methods.md#integrated-payment-providers)) for their subscription
-* Enterprises and/or customers can pause, cancel and/or add/remove products from their standard subscription order.
+* Clientes podem escolher que seu 'pedido usual' seja feito automaticamente.
+* Clientes podem configurar pagamento automático por cartão de crédito (usando [Stripe](../shopfront/payment-methods.md#integrated-payment-providers)) pra assinatura.
+* Empresas e/ou clientes podem pausar, cancelar e/ou adicionar/remover produtos do pedido padrão da assinatura.
 
-## Set up subscriptions: Step-by-Step guide
+## Configurar assinaturas: guia passo a passo
 
-#### [Configuration](subscriptions-configuration.md): this page describes the steps to make your enterprise 'Subscription Ready'
+#### [Configuração](subscriptions-configuration.md): esta página descreve os passos pra tornar sua empresa 'Pronta pra Assinatura'
 
-* [Enable Subscriptions](subscriptions-configuration.md#activate-subscriptions) in your Enterprise Settings.
-* Make sure you have [Shipping and Payment methods](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions) setup for customers.
-* [Gather information from your customers](subscriptions-configuration.md#gather-information-from-your-customers), including their contact details, which items they'd like in their subscription and which shipping and payment methods they'll use.
-* [Add your subscription customers to your Customers list](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list), and then ask them to signup to OFN.
-* Setup [Schedules](subscriptions-configuration.md#schedules), which will dictate how frequently subscriptions are processed.
+* [Habilite Assinaturas](subscriptions-configuration.md#activate-subscriptions) nas Configurações da Empresa.
+* Garanta que tem métodos de [Envio e Pagamento](subscriptions-configuration.md#shipping-and-payment-methods-for-subscriptions) configurados pros clientes.
+* [Colete informações dos seus clientes](subscriptions-configuration.md#gather-information-from-your-customers), incluindo dados de contato, quais itens querem na assinatura e quais métodos de envio e pagamento usarão.
+* [Adicione seus clientes de assinatura à sua lista de Clientes](subscriptions-configuration.md#add-your-subscribers-to-your-customer-list) e depois peça pra se cadastrarem na Nossa Feira.
+* Configure [Cronogramas](subscriptions-configuration.md#schedules), que ditarão a frequência de processamento das assinaturas.
 
-#### [**Creating and Managing Orders**](subscriptions-creating-and-managing-orders.md)**: this page describes the steps involved in actually creating a new subscription and subsequently processing the order.**
+#### [**Criando e gerenciando pedidos**](subscriptions-creating-and-managing-orders.md)**: esta página descreve os passos envolvidos em criar uma nova assinatura e processar o pedido subsequentemente.**
 
-* [Create subscriptions](subscriptions-creating-and-managing-orders.md#create-subscriptions) for each customer.
-* [Edit](subscriptions-creating-and-managing-orders.md#edit-a-customers-subscription), [pause](subscriptions-creating-and-managing-orders.md#pause-a-subscription) and [delete](subscriptions-creating-and-managing-orders.md#delete-a-subscription) subscriptions.
-* Understand [How subscriptions are processed](subscriptions-creating-and-managing-orders.md#how-are-subscriptions-processed) (ie how they appear in your 'order list')
+* [Crie assinaturas](subscriptions-creating-and-managing-orders.md#create-subscriptions) para cada cliente.
+* [Edite](subscriptions-creating-and-managing-orders.md#edit-a-customers-subscription), [pause](subscriptions-creating-and-managing-orders.md#pause-a-subscription) e [delete](subscriptions-creating-and-managing-orders.md#delete-a-subscription) assinaturas.
+* Entenda [como as assinaturas são processadas](subscriptions-creating-and-managing-orders.md#how-are-subscriptions-processed) (ou seja, como aparecem na sua 'lista de pedidos').
 
-#### [**Customer Set Up**](subscriptions-the-customers-perspective.md)**: this page describes a customer's perspective of subscriptions.**
+#### [**Configuração pelo cliente**](subscriptions-the-customers-perspective.md)**: esta página descreve a perspectiva do cliente sobre assinaturas.**
 
 {% hint style="success" %}
-It can be useful to write a 'subscriptions guide' for your customers to help them through the process. You can see an example of a great subscriptions guide written by Tamar Valley Food Hub on their website [here](https://www.tamarvalleyfoodhubs.org.uk/subscriptions).
+Pode ser útil escrever um 'guia de assinaturas' pros seus clientes pra ajudá-los no processo.
 {% endhint %}
 
 {% hint style="info" %}
-If you struggle with any aspect of setting up subscriptions for your enterprise you may like to have a look at our [Frequently Asked Questions](subscriptions-faqs.md).
+Se você tem dificuldade com algum aspecto de configurar assinaturas pra sua empresa, dê uma olhada nas nossas [Perguntas Frequentes](subscriptions-faqs.md).
 {% endhint %}
-
-####
