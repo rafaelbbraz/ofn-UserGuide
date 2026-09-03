@@ -1,32 +1,32 @@
-# The team
+# A equipe
 
-As we explain later in this guidebook, people can contribute on the local level (facilitating a local OFN community) or at global level. At global level, we are building a team of certified contributors, who have gone through the [onboarding process](https://ofn-user-guide.gitbook.io/ofn-contributor-guide/working-on-the-ofn-governance/onboarding-process) (most of them were there before this process was even built actually!). Some are paid contributors, others can afford and have chosen to remain volunteer contributors, but all people in the certified team are involved on a daily basis.
+Como explicamos mais adiante neste guia, as pessoas podem contribuir no nível local (facilitando uma comunidade OFN local) ou em nível global. No nível global, estamos construindo uma equipe de contribuidores certificados que passaram pelo [processo de onboarding](https://ofn-user-guide.gitbook.io/ofn-contributor-guide/working-on-the-ofn-governance/onboarding-process) (a maioria estava lá antes desse processo ser construído, na verdade!). Alguns são contribuidores pagos, outros podem se dar ao luxo e escolheram permanecer contribuidores voluntários, mas todos na equipe certificada estão envolvidos diariamente.
 
-Here is the list of the main OFN global certified contributors:
+Aqui está a lista dos principais contribuidores certificados globais da OFN:
 
-**Certified regular contributors:**
+**Contribuidores regulares certificados:**
 
-* Maikel (Australia / developer + sys admin)
-* Pau (Catalunya / developer + sys admin + community facilitator)
-* Matt (UK / developer + sys admin)
-* Luis (Portugal / developer)
-* Lynne (UK / PO + sys admin)
-* Nick (UK / PO + community facilitator)
-* Kirsten (Australia / PO + community facilitator)
-* Serenity (Australia / community facilitator + sector development)
-* Theresa (Canada / community facilitator + sector development)
-* Myriam (France / community facilitator + PO + sector development)
-* Rachel (France / train driver + PO + UX + tester)
-* Danielle (Australia / community facilitator + train driver + global communication)
-* Jen (Australia / global communication + sector development)
-* Sigmund (Norway / workflow reviewer and curator)
-* Kristina (Philippines / developer)
-* Laurie (The USA / community facilitator)
+* Maikel (Austrália / desenvolvedor + sysadmin)
+* Pau (Catalunha / desenvolvedor + sysadmin + facilitador de comunidade)
+* Matt (UK / desenvolvedor + sysadmin)
+* Luis (Portugal / desenvolvedor)
+* Lynne (UK / PO + sysadmin)
+* Nick (UK / PO + facilitador de comunidade)
+* Kirsten (Austrália / PO + facilitador de comunidade)
+* Serenity (Austrália / facilitador de comunidade + desenvolvimento setorial)
+* Theresa (Canadá / facilitador de comunidade + desenvolvimento setorial)
+* Myriam (França / facilitador de comunidade + PO + desenvolvimento setorial)
+* Rachel (França / train driver + PO + UX + testadora)
+* Danielle (Austrália / facilitadora de comunidade + train driver + comunicação global)
+* Jen (Austrália / comunicação global + desenvolvimento setorial)
+* Sigmund (Noruega / revisor e curador de workflow)
+* Kristina (Filipinas / desenvolvedora)
+* Laurie (EUA / facilitadora de comunidade)
 
-**Certified occasional contributors:**
+**Contribuidores ocasionais certificados:**
 
-* Rob (Australia / developer + sys admin)
-* Enrico (Catalunya / developer + sys admin + community facilitator)
-* Steve (UK / developer)
+* Rob (Austrália / desenvolvedor + sysadmin)
+* Enrico (Catalunha / desenvolvedor + sysadmin + facilitador de comunidade)
+* Steve (UK / desenvolvedor)
 
-Feel free to contact them on [Slack](https://openfoodnetwork.slack.com) or through the [community forum](https://community.openfoodnetwork.org)!
+Fique à vontade pra contatá-los no [Slack](https://openfoodnetwork.slack.com) ou pelo [fórum da comunidade](https://community.openfoodnetwork.org)!

@@ -1,30 +1,30 @@
-# What is the OFN in brief?
+# O que é a OFN em resumo?
 
-Open Food Network (OFN) is a collaborative global network of local non-for-profit organisations who codevelop open source software and knowledge, and make it available to food hubs worldwide through localized online platforms (like [Open Food Network UK](https://openfoodnetwork.org.uk/), [Open Food Network Australia](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/) , [Open Food Network Canada](https://openfoodnetwork.ca/), etc.) and communities.
+Open Food Network (OFN) é uma rede global colaborativa de organizações locais sem fins lucrativos que codesenvolvem software e conhecimento open source e os disponibilizam pra centrais de alimentos no mundo todo através de plataformas online localizadas (como [Open Food Network UK](https://openfoodnetwork.org.uk/), [Open Food Network Austrália](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/), [Open Food Network Canadá](https://openfoodnetwork.ca/), Nossa Feira etc.) e comunidades.
 
-The mission of this community is to build shared digital infrastructure and shared knowledge to enable short food chain operators to manage their activities, cooperate more efficiently, and build food sovereignty. Just as consumers and producers come together to create food hubs, in OFN food hubs come together to create digital infrastructure and share the use of it. We could talk about "Community Supported Software" and "Community Supported Knowledge".
+A missão dessa comunidade é construir infraestrutura digital compartilhada e conhecimento compartilhado pra permitir que operadores de cadeias curtas de alimentos gerenciem suas atividades, cooperem mais eficientemente e construam soberania alimentar. Assim como consumidores e produtores se juntam pra criar centrais de alimentos, na OFN as centrais se juntam pra criar infraestrutura digital e compartilhar o uso. Poderíamos falar de "Software Apoiado pela Comunidade" e "Conhecimento Apoiado pela Comunidade".
 
-## The OFN products
+## Os produtos da OFN
 
-### The OFN software
+### O software OFN
 
-In practice, the software and platforms deployed with this software enable producers to manage their product catalogue and share them with multiple distributors (food hubs). Hubs can connect with one or multiple producers to list their products in a shop and organize collective sales, and get aggregated data to organize logistics and fulfil bulk or individual orders.
+Na prática, o software e plataformas implantadas com esse software permitem aos produtores gerenciar seu catálogo de produtos e compartilhá-los com múltiplos distribuidores (centrais de alimentos). Centrais podem se conectar com um ou múltiplos produtores pra listar seus produtos em uma loja e organizar vendas coletivas, e obter dados agregados pra organizar logística e cumprir pedidos em lote ou individuais.
 
-In OFN, a hub can be many different things, including:
+Na OFN, uma central pode ser muitas coisas diferentes, incluindo:
 
-* a producer selling directly to consumers through an online shop
-* a CSA or buying group organizing regular collective purchases, which can be subscription-based, and can handle multiple sub-purchase groups
-* an entrepreneur sourcing food from local/organic producers and organizing sales to individuals, groups, restaurants, retailers
+* um produtor vendendo diretamente aos consumidores através de uma loja online
+* um CSA ou grupo de compras organizando compras coletivas regulares, que podem ser baseadas em assinatura e podem lidar com múltiplos subgrupos de compra
+* um empreendedor obtendo alimentos de produtores locais/orgânicos e organizando vendas a indivíduos, grupos, restaurantes, varejistas
 
-### Sector development products
+### Produtos de desenvolvimento setorial
 
-The OFN community is in contact everyday with lots of food hubs, organized around diverse operational, economics, and logistics models. And food hubs need more than just a software tool to be efficient, and replicate. So we are building various products to support the development of the local and regenerative food sector:
+A comunidade OFN está em contato todos os dias com muitas centrais de alimentos, organizadas em torno de diversos modelos operacionais, econômicos e logísticos. E centrais de alimentos precisam de mais do que apenas uma ferramenta de software pra serem eficientes e se replicarem. Então estamos construindo vários produtos pra apoiar o desenvolvimento do setor de alimentos local e regenerativo:
 
-* articles, reports and other deliverables from research programs and food system analysis
-* training material
-* marketing tools and guidelines
-* support materials and guidelines for existing food hubs and social entrepreneurs
+* artigos, relatórios e outras entregas de programas de pesquisa e análise de sistema alimentar
+* material de treinamento
+* ferramentas e diretrizes de marketing
+* materiais de suporte e diretrizes pra centrais de alimentos existentes e empreendedores sociais
 
-## The OFN services
+## Os serviços da OFN
 
-All those products are open source, but as a community, we propose services around those various products, through local democratically run multi-stakeholders cooperatives and collectives (the local OFN entities): Saas services based on the OFN software, consulting and trainings based on the sector development products, etc. This is the basis of our economic and governance models. :-)
+Todos esses produtos são open source, mas como comunidade, propomos serviços em torno desses vários produtos, através de cooperativas e coletivos locais democraticamente administrados com múltiplos stakeholders (as entidades OFN locais): serviços SaaS baseados no software OFN, consultoria e treinamentos baseados nos produtos de desenvolvimento setorial etc. Essa é a base dos nossos modelos econômico e de governança. :-)

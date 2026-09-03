@@ -1,3 +1,3 @@
-# Contact us
+# Contato
 
-Interested to take part in the community ? Drop us a line at hello@openfoodnetwork.org, or post a message on [community.openfoodnetwork.org](https://community.openfoodnetwork.org/). We'll do our best to answer quickly, but we have so many things to do and we are still a small team, so we count on your understanding and empathy :-)
+Interessado em participar da comunidade? Nos escreva em hello@openfoodnetwork.org, ou poste uma mensagem em [community.openfoodnetwork.org](https://community.openfoodnetwork.org/). Faremos o nosso melhor pra responder rapidamente, mas temos muitas coisas pra fazer e ainda somos uma equipe pequena — então contamos com sua compreensão e empatia :-)

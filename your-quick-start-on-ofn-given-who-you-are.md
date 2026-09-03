@@ -1,90 +1,90 @@
 ---
-description: Identify the classification of your food enterprise within the OFN platform.
+description: Identifique a classificação da sua empresa de alimentos dentro da Nossa Feira.
 ---
 
-# Where does my business fit in OFN?
+# Onde meu negócio se encaixa na Nossa Feira?
 
-Depending on the type of food enterprise you are running, you will use the Open Food Network platform differently.
+Dependendo do tipo de empresa de alimentos que você roda, usará a Nossa Feira de forma diferente.
 
-We classify food enterprises in three ways: [Profiles](your-quick-start-on-ofn-given-who-you-are.md#profile), [Shops](your-quick-start-on-ofn-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-ofn-given-who-you-are.md#hub).
+Classificamos empresas de alimentos de três formas: [Perfis](your-quick-start-on-ofn-given-who-you-are.md#profile), [Lojas](your-quick-start-on-ofn-given-who-you-are.md#shop) ou [Centrais](your-quick-start-on-ofn-given-who-you-are.md#hub).
 
 ![](<.gitbook/assets/l-flowchart (1).png>)
 
-_The flexibility of the Open Food Network software allows you to change from profile,_ _to shop, to hub (or vice versa) as your business grows and/or needs change._
+_A flexibilidade do software da Nossa Feira permite que você mude de perfil pra loja, pra central (ou vice-versa) conforme seu negócio cresce e/ou as necessidades mudam._
 
 {% hint style="info" %}
-**Farmer's Markets** can either set up on the platform as a [Group](basic-features/groups/) of individually managed [shop](your-quick-start-on-ofn-given-who-you-are.md#shop) fronts or as a centrally managed [hub](your-quick-start-on-ofn-given-who-you-are.md#hub).  Read more [here](quick-start-guides/digital-farmers-markets.md).
+**Feiras** podem se configurar na plataforma como um [Grupo](basic-features/groups/) de [lojas](your-quick-start-on-ofn-given-who-you-are.md#shop) gerenciadas individualmente ou como uma [central](your-quick-start-on-ofn-given-who-you-are.md#hub) gerenciada centralmente. Leia mais [aqui](quick-start-guides/digital-farmers-markets.md).
 {% endhint %}
 
-## Hub
+## Central
 
 {% hint style="success" %}
-Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, Food Coops, Food Hubs, CSA, Market/City Gardens,  Retail Shops, Food Banks, Wholesale Distributors...
+Feira, cestas de verduras, grupos de crofting, grupos comunitários sociais de alimentos, cooperativas de alimentos, centrais de alimentos, CSA, hortas urbanas, varejos, bancos de alimentos, distribuidores atacadistas...
 {% endhint %}
 
-Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on OFN if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... (a '**Producer Hub**') or act solely as a distributor to sell a collection of groceries made by (local) enterprises (a '**Non-Producer Hub**').
+Centrais podem assumir muitas formas mas, essencialmente, sua empresa é melhor classificada como 'Central' na Nossa Feira se você quer **vender produtos feitos por outros**. Você pode revender seus próprios produtos junto com os de outros agricultores, padeiros, cultivadores... (uma '**Central Produtora**') ou atuar apenas como distribuidor pra vender uma coleção de produtos feitos por empresas (locais) (uma '**Central Não-Produtora**').
 
 {% hint style="info" %}
-If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' classification suits your needs better.
+Se você preferir vender apenas produtos que **você** faz, a classificação de '[loja](your-quick-start-on-ofn-given-who-you-are.md#shop)' atende melhor às suas necessidades.
 {% endhint %}
 
-#### OFN can help your hub thrive and prosper by:
+#### A Nossa Feira pode ajudar sua central a prosperar por:
 
-1. Increasing your online visibility.
-2. Providing your customers with a virtual 'farmers' market' experience.
-3. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
-4. Being able to take orders periodically to fit in with seasonal supply, production rotas and more.
-5. Helping organise regular repeating orders such as veg box schemes.
-6. Helping to build strong working relationships with local producers and food enterprises who supply you with goods.
+1. Aumentar sua visibilidade online.
+2. Fornecer aos clientes uma experiência virtual de 'feira'.
+3. Simplificar tarefas administrativas com níveis de estoque, pedidos, finanças, relatórios de embalagem — tudo em um só lugar.
+4. Poder receber pedidos periodicamente pra se encaixar com fornecimento sazonal, rotas de produção e mais.
+5. Ajudar a organizar pedidos regulares e recorrentes como esquemas de cestas de verduras.
+6. Ajudar a construir relacionamentos de trabalho fortes com produtores locais e empresas de alimentos que fornecem a você.
 
-_The Hub enterprise has the most flexibility of the three enterprise types in OFN and you may find it necessary to adjust your enterprise type to 'hub' in order to unlock some of the more complex features we can offer._
+_A Central tem a maior flexibilidade dos três tipos de empresa na Nossa Feira e você pode achar necessário ajustar seu tipo de empresa pra 'central' pra desbloquear alguns dos recursos mais complexos que oferecemos._
 
-**Setting up on OFN** can be as simple following 5 steps, just follow our quick start guide [here](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+**Configurar na Nossa Feira** pode ser simples como seguir 5 passos — apenas siga nosso guia rápido [aqui](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 
-## Shop
+## Loja
 
 {% hint style="success" %}
-Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
+Agricultores, padeiros, cultivadores, crofters individuais, agroindústrias caseiras, pequenos proprietários...
 {% endhint %}
 
-Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on OFN if you wish to **sell&#x20;**_**only**_**&#x20;produce** that **you** make.
+Lojas podem assumir muitas formas mas, essencialmente, sua empresa é melhor classificada como 'Loja' na Nossa Feira se você quer **vender&#x20;**_**apenas**_**&#x20;produtos** que **você** faz.
 
 {% hint style="danger" %}
-If you wish to sell products made by others as well as yourself then it is necessary to register as a '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)'.
+Se você quer vender produtos feitos por outros além de si mesmo, é necessário cadastrar como '[Central](your-quick-start-on-ofn-given-who-you-are.md#hub)'.
 {% endhint %}
 
-As a shop, as well as selling directly to customers through your shop front, you can also supply other OFN retailers (Hubs) with your produce.
+Como loja, além de vender diretamente aos clientes pela vitrine, você também pode fornecer a outros varejistas da Nossa Feira (Centrais) com seus produtos.
 
 {% hint style="warning" %}
-If you'd prefer not to organise sales to customers directly but would like to **only** supply an OFN hub with goods then the '[Profile](your-quick-start-on-ofn-given-who-you-are.md#profile)' classification suits your needs better.
+Se você preferir não organizar vendas diretamente aos clientes mas apenas **fornecer** a uma central da Nossa Feira com produtos, a classificação '[Perfil](your-quick-start-on-ofn-given-who-you-are.md#profile)' atende melhor.
 {% endhint %}
 
-#### OFN can help your shop thrive and prosper by:
+#### A Nossa Feira pode ajudar sua loja a prosperar por:
 
-1. Increasing your online visibility.
-2. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
-3. Being able to sell in a manner which suits your needs; whether it is periodic orders to fit in with a seasonal potato harvest or a weekly cycle which matches your baking production... it's up to you!
-4. Helping to build strong working relationships with local food distributors.
+1. Aumentar sua visibilidade online.
+2. Simplificar tarefas administrativas com níveis de estoque, pedidos, finanças, relatórios de embalagem em um só lugar.
+3. Poder vender de uma forma que atende às suas necessidades; seja pedidos periódicos pra se encaixar com uma colheita sazonal de batata ou um ciclo semanal que combine com sua produção de panificação... depende de você!
+4. Ajudar a construir relacionamentos de trabalho fortes com distribuidores locais.
 
-**Setting up on OFN** can be a simple 5-step process, just follow our quick start guide [here](quick-start-guides/producer-shop-quick-setup-guide.md).
+**Configurar na Nossa Feira** pode ser um processo simples de 5 passos — apenas siga nosso guia rápido [aqui](quick-start-guides/producer-shop-quick-setup-guide.md).
 
-## Profile
+## Perfil
 
 {% hint style="success" %}
-Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holders....
+Agricultores, padeiros, cultivadores, crofters individuais, agroindústrias caseiras, pequenos proprietários...
 {% endhint %}
 
-The 'Profile' is the most basic enterprise classification on OFN and is ideal for micro enterprises or individuals who prefer to concentrate on growing, making, baking and/or producing food.
+O 'Perfil' é a classificação de empresa mais básica na Nossa Feira e é ideal pra microempresas ou indivíduos que preferem se concentrar em cultivar, fazer, assar e/ou produzir alimentos.
 
-An OFN profile is ideal for **increasing your online visibility** and gives you the opportunity to connect in a simple manner with local retailers (hubs) who can manage customer sales for you.
+Um perfil na Nossa Feira é ideal pra **aumentar sua visibilidade online** e te dá a oportunidade de se conectar de forma simples com varejistas locais (centrais) que podem gerenciar vendas aos clientes por você.
 
 {% hint style="warning" %}
-If you'd prefer to organise sales to customers yourself then the '[shop](your-quick-start-on-ofn-given-who-you-are.md#shop)' or '[Hub](your-quick-start-on-ofn-given-who-you-are.md#hub)' classification is better suited to your needs.
+Se você prefere organizar as vendas aos clientes você mesmo, a classificação de '[loja](your-quick-start-on-ofn-given-who-you-are.md#shop)' ou '[Central](your-quick-start-on-ofn-given-who-you-are.md#hub)' é mais adequada.
 {% endhint %}
 
-#### OFN can help your food enterprise thrive and prosper by:
+#### A Nossa Feira pode ajudar sua empresa de alimentos a prosperar por:
 
-1. Increasing your online visibility.
-2. Helping to build strong working relationships with local food distributors and retailers (OFN hubs) to whom you supply goods.
+1. Aumentar sua visibilidade online.
+2. Ajudar a construir relacionamentos de trabalho fortes com distribuidores e varejistas de alimentos locais (centrais da Nossa Feira) a quem você fornece produtos.
 
-**Setting up on OFN** can be a simple 4-step process; just follow our quick starters' guide [here](quick-start-guides/profile-only-quick-setup-guide.md).
+**Configurar na Nossa Feira** pode ser um processo simples de 4 passos — apenas siga nosso guia rápido [aqui](quick-start-guides/profile-only-quick-setup-guide.md).

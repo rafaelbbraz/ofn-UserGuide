@@ -1,10 +1,9 @@
 # Feedback
 
-Do you have an idea for how a feature could be improved?
+Você tem uma ideia de como um recurso poderia ser melhorado?
 
-Is there something you need help with that you can't find in the guide?
+Há algo que precisa de ajuda que não consegue encontrar no guia?
 
-Please get in touch, we're here to help.
+Por favor, entre em contato — estamos aqui pra ajudar.
 
 Email: hello@openfoodnetwork.org
-

@@ -1,20 +1,19 @@
-# Buying Group
-## What is a buying group?
+# Grupo de Compras
+## O que é um grupo de compras?
 
-A buying group is a collective of customers who source produce in bulk, then receive a single delivery and distribute the produce among members. This might take place in someone’s back shed, or local community space. Buying groups are often not for profit and run by members. By ordering in bulk, and taking on the task of packing and distributing individual orders, members of a buying group can access great produce at lower prices. Joining or starting a buying group with your neighbours or community group can be a great way to access affordable produce and also build sense of community.
+Um grupo de compras é um coletivo de clientes que se abastecem em lote, recebem uma única entrega e distribuem o produto entre os membros. Isso pode acontecer no galpão de alguém ou em um espaço comunitário local. Grupos de compras são frequentemente sem fins lucrativos e organizados pelos membros. Ao pedir em lote e assumir a tarefa de empacotar e distribuir pedidos individuais, membros de um grupo de compras podem acessar produtos ótimos a preços mais baixos. Entrar ou começar um grupo de compras com seus vizinhos ou grupo comunitário pode ser uma ótima forma de acessar produtos acessíveis e construir senso de comunidade.
 
-If a shop delivers to a buying group, ask them about how you can join. Or if you want to start a new buying group, get in touch with a shop to see if it can be accommodated, and talk with your community to get others involved.
+Se uma loja entrega a um grupo de compras, pergunte como você pode participar. Ou se quer começar um novo grupo, entre em contato com uma loja pra ver se pode ser acomodado, e converse com sua comunidade pra envolver outras pessoas.
 
-## Setting up online ordering for a buying group on OFN
+## Configurando pedidos online pra um grupo de compras na Nossa Feira
 
-[Buying groups](/consumer-buying-groups.md) can use the OFN to setup an online shopfront, which can be stocked with items from their various suppliers. Each supplier has a corresponding profile, so as customers are shopping, they can learn about how their food was produced and where it’s come from. Different elements of the buying group’s shop can be configured, including whether it is member-only, what kind of markup is applied, how often its order cycles repeat and what shipping methods and payment terms are offered. Using the OFN within a buying group is a great way to streamline your administration tasks and to provide a more enjoyable shopping experience.
+[Grupos de compras](/consumer-buying-groups.md) podem usar a Nossa Feira pra montar uma vitrine online, que pode ser abastecida com itens de seus vários fornecedores. Cada fornecedor tem um perfil correspondente, então conforme os clientes compram, podem aprender sobre como o alimento foi produzido e de onde veio. Diferentes elementos da loja do grupo de compras podem ser configurados, incluindo se é só pra membros, que tipo de margem é aplicada, com que frequência os ciclos de pedidos se repetem e quais métodos de envio e termos de pagamento são oferecidos. Usar a Nossa Feira dentro de um grupo de compras é uma ótima forma de simplificar tarefas administrativas e fornecer uma experiência de compra mais agradável.
 
-The [hub shop manual](/hubs-set-up-guide.md) walks through the basic elements of setting up a buying group on the OFN. ‘Hub’ is a broad term used at the OFN to refer to different models that aggregate and sell source identified food. The hub setup manual applies to many different ‘hub’ models, including buying groups, so be aware that some features covered will be less relevant. As well as working through the hub setup manual, check out some of the [Advanced Features](/advanced-features.md) which are relevant to buying groups:
+O [manual de loja de central](/hubs-set-up-guide.md) percorre os elementos básicos de configurar um grupo de compras na Nossa Feira. 'Central' é um termo amplo usado na OFN pra se referir a diferentes modelos que agregam e vendem alimentos com origem identificada. O manual se aplica a muitos modelos de 'central' diferentes, incluindo grupos de compras — então esteja ciente que alguns recursos cobertos serão menos relevantes. Além de trabalhar pelo manual, confira alguns dos [Recursos Avançados](/advanced-features.md) relevantes pra grupos de compras:
 
-  
-## Advanced Features that are helpful for Buying Groups
-* [The group buy tool](/group-buy.md) makes it easier for buying groups to make decisions about purchasing stock which comes in bulk sizes like 10kg boxes of bananas, or 12 bottle crates of milk. Each customer can indicate their preferred order quantity at checkout, but also the maximum amount they would be happy to buy if the group needs more orders to reach the minimum bulk order size.
-* A Buying Group will often have many different people who are responsible for different parts of administering the shop. You can have multiple managers of your OFN profile and shopfront.
-* Make your [shopfront private](/private-shopfront.md) so new members must be approved before they can shop with you.
-* Boost the transparency of your shopfront with [product properties](/product-properties.md)
 
+## Recursos Avançados úteis pra Grupos de Compras
+* [A ferramenta de compra em grupo](/group-buy.md) torna mais fácil pros grupos de compras tomarem decisões sobre a compra de estoque que vem em tamanhos em lote como caixas de 10kg de bananas ou engradados de 12 garrafas de leite. Cada cliente pode indicar a quantidade preferida no checkout, mas também a quantidade máxima que estariam dispostos a comprar se o grupo precisa de mais pedidos pra atingir o tamanho mínimo de pedido em lote.
+* Um Grupo de Compras frequentemente terá muitas pessoas diferentes responsáveis por diferentes partes da administração da loja. Você pode ter múltiplos gerentes do seu perfil e vitrine na Nossa Feira.
+* Torne sua [vitrine privada](/private-shopfront.md) pra que novos membros precisem ser aprovados antes de comprarem com você.
+* Aumente a transparência da sua vitrine com [propriedades de produto](/product-properties.md)
