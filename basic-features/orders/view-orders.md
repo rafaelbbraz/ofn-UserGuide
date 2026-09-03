@@ -1,233 +1,231 @@
-# Manage Orders
+# Gerenciar pedidos
 
-Within the admin interface there are two places where orders can be viewed and modified (if necessary):
+No admin há dois lugares onde os pedidos podem ser visualizados e modificados (se necessário):
 
-1. the [Orders](view-orders.md#listing-orders) page itself,
-2. the [Bulk Order Management](view-orders.md#bulk-order-management) page.
+1. a página [Pedidos](view-orders.md#listing-orders),
+2. a página [Gerenciamento de Pedidos em Lote](view-orders.md#bulk-order-management).
 
-The features of both these two pages are discussed below.
+Os recursos das duas páginas são discutidos abaixo.
 
-## Listing orders
+## Listando pedidos
 
-The listing orders page shows a list view of all orders placed through your shop(s). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order manually for your customer see [here](create-orders-manually.md).
+A página de listagem mostra uma visão em lista de todos os pedidos feitos pela(s) sua(s) loja(s). Daqui você acessa detalhes de pedidos individuais, edita pedidos e acompanha o status de pagamento e entrega. Para detalhes de como criar um novo pedido manualmente para um cliente veja [aqui](create-orders-manually.md).
 
-The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
+A página tem filtros que permitem selecionar quais pedidos visualizar. Você pode filtrar por data, status ou email e nome do cliente.
 
 ![](<../../.gitbook/assets/listing orders.jpg>)
 
-**Distributor:** This is the enterprise through who's shop the order was placed.
+**Distribuidor:** É a empresa em cuja loja o pedido foi feito.
 
-**Completed at:** This is the date that the order was placed.
+**Concluído em:** Data em que o pedido foi feito.
 
-**Number:** This is an arbitrarily assigned order number. An exclamation mark symbol with with word 'Note' to the left of it will show if the customer included a comment with their order at checkout. Hover your mouse above the exclamation mark to view the comment.
+**Número:** Número arbitrário atribuído ao pedido. Um símbolo de exclamação com a palavra 'Nota' à esquerda aparecerá se o cliente incluiu um comentário no checkout. Passe o mouse sobre o exclamação pra ver o comentário.
 
-**State:**
+**Estado:**
 
-* Complete: The customer has finished checkout.
-* Cancelled: If a manager of an enterprise or a customer chose to ‘cancel' it.
-* Cart: The customer is in the process of shopping, but hasn’t checked out yet.
+* Completo: O cliente finalizou o checkout.
+* Cancelado: Se um gerente da empresa ou um cliente escolheu 'cancelar'.
+* Carrinho: O cliente está no processo de compra mas ainda não finalizou.
 
-**Payment State:**
+**Estado do pagamento:**
 
-* Balance Due: If it’s cash, or bank transfer or eftpos (i.e. all non automated payments), then the order will be ‘balance due’ by default, until admin members of the distributing enterprise manually mark that the payment has been received, at which point the payment state will change to 'paid'.
+* Saldo devedor: Se é dinheiro, transferência bancária ou similar (todos os pagamentos não automatizados), o pedido ficará 'saldo devedor' por padrão até que membros admin da empresa distribuidora marquem manualmente que o pagamento foi recebido — nesse ponto o estado muda pra 'pago'.
 
 ![](<../../.gitbook/assets/balance due.jpg>)
 
-* Paid: For automated payments (PayPal, Stripe SCA, PIN for instance), the payment portal will automatically mark an order as 'paid' when it has been processed. \
-  Non-automated payments (cash, bank transfer etc.) will also be marked as 'paid' when the payment has been marked as captured manually (see [Changing the Payment and Shipment state of an order](view-orders.md#payment-and-shipment-state)).&#x20;
-* Credit Owed: If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
+* Pago: Para pagamentos automatizados (PayPal, Stripe SCA), o gateway marca automaticamente um pedido como 'pago' quando processado.\
+  Pagamentos não automatizados (dinheiro, transferência etc.) também serão marcados como 'pago' quando o pagamento for capturado manualmente (veja [Alterando o estado de pagamento e envio](view-orders.md#payment-and-shipment-state)).
+* Crédito devido: Se alguém pagou pelo pedido, mas depois você edita o pedido e remove um item, o custo desse item vira 'crédito devido'.
 
 ![](<../../.gitbook/assets/credit owed.jpg>)
 
-**Shipment state:**
+**Estado da entrega:**
 
-* Pending: When the payment state is ‘balance due’ the shipping state will be pending, meaning that until payment is received, shipping should not commence.
-* Ready: When payment has been received ('paid', or 'credit owed' status) the shipping state becomes ‘ready’.
-* Shipped: After delivery or collection, an order can be manually marked as 'shipped' by the manager of the enterprise (see [Changing the Payment and Shipment state of an order](view-orders.md#payment-and-shipment-state)).
+* Pendente: Quando o pagamento é 'saldo devedor', a entrega fica pendente — significa que até o pagamento ser recebido, o envio não deve começar.
+* Pronto: Quando o pagamento é recebido (status 'pago' ou 'crédito devido'), o estado da entrega vira 'pronto'.
+* Enviado: Após entrega ou coleta, um pedido pode ser marcado manualmente como 'enviado' pelo gerente da empresa (veja [Alterando o estado de pagamento e envio](view-orders.md#payment-and-shipment-state)).
 
 {% hint style="warning" %}
-You can ONLY manually update an order to 'shipped' if the payment state is 'paid' or 'credit owed'.
+Você só pode atualizar manualmente um pedido pra 'enviado' se o estado do pagamento é 'pago' ou 'crédito devido'.
 {% endhint %}
 
-**Customer email:** The customer’s contact email.&#x20;
+**Email do cliente:** Email de contato do cliente.
 
-**Customer name:** written in the format of 'Surname-comma-first name'
+**Nome do cliente:** No formato 'Sobrenome, Nome'.
 
-**Total:** The total value of the customer’s order.
+**Total:** Valor total do pedido do cliente.
 
-### **Changing the Payment and Shipment state of an order** <a href="#payment-and-shipment-state" id="payment-and-shipment-state"></a>
+### **Alterando o estado de pagamento e entrega de um pedido** <a href="#payment-and-shipment-state" id="payment-and-shipment-state"></a>
 
-Next to each order in the Order list are two icons. Clicking on the edit icon (a pencil and paper symbol) will open up details of the order so that you can review or edit the order details. Below the edit icon will be one of two icons. These icons show the payment and shipment status, and can be clicked to change the status. If a payment has not been received, the icon will show a tick which can be clicked to capture the payment. If payment has been received, the icon will be a road, which can be clicked to mark the order as delivered.
+Ao lado de cada pedido na lista há dois ícones. Clicando no ícone de editar (símbolo de caneta e papel) abre os detalhes do pedido pra você revisar ou editar. Abaixo do ícone de edição haverá um de dois ícones. Eles mostram o status de pagamento e entrega, e podem ser clicados pra alterar. Se um pagamento não foi recebido, o ícone mostrará um "check" que pode ser clicado pra capturar o pagamento. Se o pagamento foi recebido, o ícone será uma estrada, que pode ser clicada pra marcar o pedido como entregue.
 
-* Clicking on the tick icon (highlighted in red below) will change the Payment State to **Paid**.&#x20;
-* Clicking on the road icon (highlighted in green below) will change the Shipment state to **Shipped**.
+* Clicar no ícone "check" (destacado em vermelho abaixo) mudará o Estado do Pagamento pra **Pago**.
+* Clicar no ícone de estrada (destacado em verde abaixo) mudará o estado da entrega pra **Enviado**.
 
 ![](<../../.gitbook/assets/orders capture.jpg>)
 
 {% hint style="info" %}
-The payment and shipping status of an order can also be updated when editing the order (see [below](view-orders.md#editing-an-order)).
+O status de pagamento e entrega de um pedido também pode ser atualizado ao editar o pedido (veja [abaixo](view-orders.md#editing-an-order)).
 {% endhint %}
 
-#### Capturing a Payment
+#### Capturando um pagamento
 
-Capturing a payment will mark it as received. This is helpful if customers do not pay when they order. When you receive cash or a bank transfer from the customer, you can then go in to the Order Listing and capture the payment. To quickly capture a payment as received, or mark that an order has been shipped, you can click on the tick or road icons to the right of the order in the Order List. &#x20;
+Capturar um pagamento marca como recebido. Útil quando clientes não pagam no momento do pedido. Quando você recebe dinheiro ou transferência do cliente, entra na Listagem de Pedidos e captura o pagamento. Pra capturar rapidamente como recebido ou marcar um pedido como enviado, clique nos ícones de check ou estrada à direita do pedido na Lista.
 
-Note that this will capture the full amount of the order as paid. if you want to review the order details before capturing a payment, you can select the edit icon to the right of the Order you wish to review. In the Order Details screen, click on Payments to see the Balance owing and Payment Status for this order. From here you can click on the tick to capture the payment. Once captured, the Payment Status will change to Completed.
+Note que isso captura o valor total do pedido como pago. Se você quer revisar os detalhes antes de capturar, selecione o ícone de editar à direita. Na tela de Detalhes do Pedido, clique em Pagamentos pra ver o Saldo devedor e Status do Pagamento. Daí você clica no check pra capturar. Uma vez capturado, o Status muda pra Concluído.
 
 ![](<../../.gitbook/assets/payments capt.jpg>)
 
-&#x20;&#x20;
-
 {% hint style="danger" %}
-When a shop or hub manager updates the 'Shipment state' to 'shipped' _**this will automatically send the customer an email**_ to say that their products have been shipped, irrespective of the shipping method. Hence it can cause confusion for orders due to be collected (rather than shipped).\
-Another source of potential confusion to be aware of is when customers pay for an order on collection. Updating the payment (and then shipping) status of the order after the goods have been collected will send an email to the customer, even though they have their goods in practice.
+Quando um gerente de loja/central atualiza o 'Estado da entrega' pra 'enviado', _**isso envia automaticamente um email ao cliente**_ dizendo que os produtos foram enviados, independente do método de envio. Portanto pode causar confusão pra pedidos que serão coletados (em vez de enviados).\
+Outra fonte potencial de confusão é quando clientes pagam na coleta. Atualizar o status de pagamento (e depois envio) após a coleta dos produtos enviará um email ao cliente, mesmo que ele já tenha os produtos.
 {% endhint %}
 
-### **Editing an order**
+### **Editando um pedido**
 
-To the right of an order you will see a pen and paper icon.  Click on this to access the order management page where you can edit, modify and cancel an order.
+À direita de um pedido você vê um ícone de caneta e papel. Clique nele pra acessar a página de gerenciamento onde pode editar, modificar e cancelar um pedido.
 
-This is what the order management page looks like:
+Assim é a página de gerenciamento do pedido:
 
 ![](<../../.gitbook/assets/edit order.jpg>)
 
-#### **Adding and removing products from an order**
+#### **Adicionar e remover produtos de um pedido**
 
-You can add a product to the order by selecting the variant you require from a drop down list of those available (at least 3 letters must be typed in to the field box 'Select Variant' for list of options to appear). To remove a product from an order click the rubbish bin icon on the right hand side of the product. You can also change the quantity of each item ordered. Remember to click the **update and recalculate fees** button to save changes (this will also update enterprise, shipping and payment method fees accordingly, where appropriate).
+Você pode adicionar um produto ao pedido selecionando a variante desejada de uma lista suspensa das disponíveis (pelo menos 3 letras precisam ser digitadas em 'Selecionar Variante' pra lista de opções aparecer). Pra remover um produto do pedido, clique no ícone de lixeira à direita. Você também pode alterar a quantidade de cada item pedido. Lembre de clicar no botão **atualizar e recalcular taxas** pra salvar as alterações (isso também atualizará as taxas de empresa, envio e pagamento quando apropriado).
 
-**Changing the Shipping Method**
+**Alterando o método de envio**
 
-A customer may contact you and ask to have their groceries delivered rather than collect. You can edit the shipping method assigned to the order by selecting the edit symbol to the right of the shipping method:
+Um cliente pode entrar em contato pedindo pra receber os produtos por entrega em vez de coleta. Você pode editar o método de envio atribuído ao pedido selecionando o símbolo de editar à direita do método de envio:
 
 ![](<../../.gitbook/assets/edit shipping 1.jpg>)
 
-You then have access to all available shipping methods. Select the one your customer wishes to change to. &#x20;
+Aí você tem acesso a todos os métodos disponíveis. Selecione o que o cliente quer usar.
 
 ![](<../../.gitbook/assets/edit shipping 2.jpg>)
 
-To save changes select the 'tick' icon to the right hand side. To discard, select the 'cross'.
+Pra salvar as alterações, selecione o ícone de 'check' à direita. Pra descartar, selecione o 'X'.
 
-**Adding tracking or a note to an order**
+**Adicionar rastreamento ou uma nota a um pedido**
 
-If the order will be sent by courier and you have tracking details then you can add them to the order by selecting the 'pen and paper' symbol to the right of 'Tracking details' (highlighted in red below).
+Se o pedido será enviado por transportadora e você tem detalhes de rastreamento, pode adicioná-los selecionando o símbolo 'caneta e papel' à direita de 'Detalhes de rastreamento' (destacado em vermelho abaixo).
 
-Customers may add notes to orders at checkout, such as where to leave a parcel if they are not going to be home. From time to time they may forget to add the note at checkout and then contact you later with this type of information. You can add the note in retrospect by selecting the pen and paper symbol to the right of Notes (highlighted in green below).
+Clientes podem adicionar notas aos pedidos no checkout, como onde deixar uma encomenda se não estiverem em casa. Às vezes esquecem de adicionar no checkout e contatam depois com esse tipo de informação. Você pode adicionar a nota retrospectivamente selecionando o símbolo de caneta e papel à direita de Notas (destacado em verde abaixo).
 
 <figure><img src="../../.gitbook/assets/tracking or note.jpg" alt=""><figcaption></figcaption></figure>
 
-### **Additional options available under 'Actions'**
+### **Opções adicionais em 'Ações'**
 
 ![](<../../.gitbook/assets/actions (1).jpg>)
 
-* **Resend Confirmation**: If you have edited a customer's order, you may wish to resend them an updated order confirmation email.
-* **Send Invoice**: This will automatically send the customer an [invoice](../reports/view-orders.md) (in .pdf format) by email. Sending an invoice is purely for record keeping purposes, and does not facilitate payment.&#x20;
-* **Print Invoice:** This will generate the[ invoice](../reports/view-orders.md) in the form of a pdf for printing.
-* **Cancel Order:** Cancel the order. It is important to process any refunds or adjustments to an order before cancelling it. **A cancelled order can not be edited or refunded.**
+* **Reenviar Confirmação**: Se você editou o pedido, pode querer reenviar um email de confirmação atualizado.
+* **Enviar Nota Fiscal**: Envia automaticamente ao cliente uma [nota](../reports/view-orders.md) (em PDF) por email. Enviar nota é puramente pra registros e não facilita pagamento.
+* **Imprimir Nota:** Gera a [nota](../reports/view-orders.md) em formato PDF pra impressão.
+* **Cancelar Pedido:** Cancela o pedido. É importante processar quaisquer reembolsos ou ajustes antes de cancelar. **Um pedido cancelado não pode ser editado ou reembolsado.**
 
 {% hint style="info" %}
-More information can be found about OFN [invoices](../reports/view-orders.md) here.
+Mais informações sobre [notas](../reports/view-orders.md) da Nossa Feira aqui.
 {% endhint %}
 
-#### **View customer details**
+#### **Ver dados do cliente**
 
-Customer information (email, billing, shipping addresses and phone numbers) are accessible from the menu on the right of the page:
+Informações do cliente (email, endereços de cobrança/entrega e telefones) são acessíveis no menu à direita da página:
 
 ![](<../../.gitbook/assets/customer details.jpg>)
 
-#### **Modify an Order or Record Partial Payment**
+#### **Modificar um pedido ou registrar pagamento parcial**
 
-Click on 'Adjustments' in the right hand menu (screen shot above).  On this page you can add or subtract from the order total by selecting the **+ New Adjustment button**.
+Clique em 'Ajustes' no menu à direita (captura acima). Nessa página você pode adicionar ou subtrair do total do pedido selecionando o botão **+ Novo Ajuste**.
 
 ![](<../../.gitbook/assets/adjustments 1 (1).jpg>)
 
-You may wish to use this functionality to:
+Você pode usar essa funcionalidade pra:
 
-* grant a discount on an order if a product is damaged
-* deduct credit owed to the customer from their total balance
-* refund a customer&#x20;
-* record a partial payment
-* see [Refunding and Adjusting Payments](refunds-and-adjusting-payments.md) for more information about making adjustments to orders
+* dar desconto em um pedido se um produto está danificado
+* deduzir crédito devido ao cliente do saldo total
+* reembolsar um cliente
+* registrar um pagamento parcial
+* veja [Reembolsando e Ajustando Pagamentos](refunds-and-adjusting-payments.md) pra mais informações sobre ajustes
 
 <figure><img src="../../.gitbook/assets/adjustments 2.jpg" alt=""><figcaption></figcaption></figure>
 
-## Bulk order management
+## Gerenciamento de pedidos em lote
 
-We have learned above that the [Listing Orders](view-orders.md#listing-orders) tab presents a table of the **orders per customer**. The Bulk Order Management page, on the other hand, details all the products that were purchased in your orders. This functionality is useful for modifying multiple orders at once that may contain the same product (quantity change, product out of stock etc). The page looks like:
+Vimos acima que a aba [Listando Pedidos](view-orders.md#listing-orders) apresenta uma tabela dos **pedidos por cliente**. A página de Gerenciamento de Pedidos em Lote, por outro lado, detalha todos os produtos comprados nos seus pedidos. Essa funcionalidade é útil pra modificar vários pedidos de uma vez que possam conter o mesmo produto (alteração de quantidade, produto fora de estoque etc.). A página se parece com:
 
 ![](<../../.gitbook/assets/bulk order 1.jpg>)
 
-**Start/End Date:** You can filter to display all orders that were placed within a given window of time.
+**Data inicial/final:** Você pode filtrar pra exibir todos os pedidos feitos em uma janela de tempo.
 
-**Producer:** You can filter for a given producer. This can narrow down the display, if you’re only interested in one product, supplied by one producer.
+**Produtor:** Filtre por um produtor específico. Pode restringir a exibição se você só está interessado em um produto de um produtor.
 
-**Shop:** You can filter according to the shop at which the order was placed.
+**Loja:** Filtre pela loja em que o pedido foi feito.
 
-**Order Cycle:** Perhaps the most useful filter, the order cycle filter, will display only those orders which were placed within a selected order cycle.
+**Ciclo de pedidos:** Talvez o filtro mais útil — exibe apenas os pedidos feitos em um ciclo selecionado.
 
-**Actions:** You can select the check boxes of multiple orders (left hand column), to perform the same function to all of them, such as delete.
+**Ações:** Você pode selecionar as caixas de vários pedidos (coluna esquerda) pra executar a mesma função em todos eles, como deletar.
 
-**Columns:** You can select which fields you do or do not want to be displayed in the table:
+**Colunas:** Você pode selecionar quais campos quer ou não que sejam exibidos na tabela:
 
 ![](<../../.gitbook/assets/bulk columns.jpg>)
 
 {% hint style="success" %}
-Rows ('Name', 'Producer', 'Product: Unit') can be sorted according to their content by clicking on the relevant column heading: one click for sorting A-Z, two clicks for the reverse (Z-A).
+Linhas ('Nome', 'Produtor', 'Produto: Unidade') podem ser ordenadas pelo conteúdo clicando no cabeçalho relevante da coluna: um clique pra A-Z, dois cliques pro reverso (Z-A).
 {% endhint %}
 
 {% hint style="warning" %}
-The **Price** column indicates price of an item including tax but excluding fees (enterprise, shipping or payment method fees).  Fees are recalculated each time an order is modified.
+A coluna **Preço** indica o preço de um item incluindo impostos mas excluindo taxas (da empresa, envio ou método de pagamento). Taxas são recalculadas cada vez que um pedido é modificado.
 {% endhint %}
 
-### Examples of using Bulk Order Management:
+### Exemplos de uso do Gerenciamento em Lote:
 
-#### Example 1: You have a stock shortage, and must reduce customer order quantities for a certain product.
+#### Exemplo 1: Você tem escassez de estoque e precisa reduzir as quantidades pedidas de um produto.
 
-_In your current order cycle, customers placed orders for 5kg of beef tomatoes. Unfortunately there was a storm, and you were only able to harvest 2kg. You need to identify all customers who ordered tomatoes, and half their orders for tomatoes._
+_No seu ciclo atual, os clientes pediram 5kg de tomates. Infelizmente teve uma tempestade e você só conseguiu colher 2kg. Você precisa identificar todos os clientes que pediram tomates e reduzir pela metade os pedidos deles._
 
-This can be done in bulk order management, as follows:
+Isso pode ser feito no gerenciamento em lote:
 
-1. Filter according to the date range, or current order cycle.
-2. Search for ‘tomatoes’. All orders for tomatoes within the date range/order cycle you selected will now display.
-3. Click on the product ‘Tomatoes’ in the Product:Unit column.
-4. A box will appear at the top of the page, showing the total quantity ordered (across the date range/order cycle you’ve selected).
+1. Filtre pelo intervalo de datas ou ciclo atual.
+2. Busque por 'tomates'. Todos os pedidos de tomates dentro do intervalo/ciclo aparecerão.
+3. Clique no produto 'Tomates' na coluna Produto:Unidade.
+4. Uma caixa aparecerá no topo da página, mostrando a quantidade total pedida (dentro do intervalo/ciclo selecionado).
 
 ![](<../../.gitbook/assets/beef tom.jpg>)
 
-You can then adjust the quantity (or delete products) of each unique order in the Quantity column. The Total Quantity Ordered in the box at the top will update automatically as you adjust orders. &#x20;
+Você pode então ajustar a quantidade (ou deletar produtos) de cada pedido único na coluna Quantidade. A Quantidade Total Pedida na caixa do topo atualiza automaticamente conforme você ajusta.
 
 {% hint style="danger" %}
-No automated email will be sent to customers after you have adjusted their orders. It is good practice though, to manually do so else the customer may be disappointed on collection/delivery.
+Nenhum email automático é enviado aos clientes após você ajustar os pedidos. Boa prática é fazer isso manualmente, senão o cliente pode ficar decepcionado na coleta/entrega.
 {% endhint %}
 
-Here, the amount of tomatoes allocated to each order has been reduced to meet the total available of 2kg:
+Aqui, a quantidade de tomates alocada a cada pedido foi reduzida pra atender o total disponível de 2kg:
 
 ![](<../../.gitbook/assets/beef tom adjusted.jpg>)
 
-#### Example 2: Updating the final weight of products.
+#### Exemplo 2: Atualizando o peso final de produtos.
 
-When selling indivisible products such as legs of lamb, or whole pumpkins, you may not know the final weight and price of the product until after the customer has placed their order. (Read more [here](../products-1/pricing-irregular-items-kg.md).) You can use Bulk Order Management to update the item’s exact weight once you have the product in front of you.
+Ao vender produtos indivisíveis como pernas de cordeiro ou abóboras inteiras, você pode não saber o peso e preço finais até depois que o cliente fez o pedido. (Leia mais [aqui](../products-1/pricing-irregular-items-kg.md).) Você pode usar o Gerenciamento em Lote pra atualizar o peso exato uma vez que tem o produto em mãos.
 
-For the example of two meat pies which are advertised to be 250g each but actually end up being 275g each for this particular batch:
+Exemplo de duas empadas anunciadas como 250g cada mas que acabam sendo 275g cada nesse lote:
 
-1. Filter for the order cycle or date range of interest.
-2. Search for the desired product
-3. Make the **Weight/Volume** and **Price** columns visible.
-4. Enter the actual weight of the pies that each customer will receive in the weight/volume column. The price will automatically recalculate based on this weight.
-5. Click update.
+1. Filtre pelo ciclo ou intervalo de datas.
+2. Busque o produto desejado.
+3. Torne as colunas **Peso/Volume** e **Preço** visíveis.
+4. Informe o peso real das empadas que cada cliente receberá na coluna peso/volume. O preço será recalculado automaticamente.
+5. Clique em atualizar.
 
 ![](<../../.gitbook/assets/bulk 2.jpg>)
 
-## A **Customer’s view of their order**
+## **Visão do cliente sobre seu pedido**
 
-Your customers can view a list of their orders when they login to the OFN, and click on their account (see below).
+Seus clientes podem ver uma lista dos pedidos deles quando fazem login na Nossa Feira e clicam na conta (abaixo).
 
 ![](../../.gitbook/assets/account-login.png)
 
-Here your customers will be able to see the past orders and payments as well as a running balance at your shop (and any others on OFN where they have placed an order).&#x20;
+Aqui seus clientes verão os pedidos e pagamentos passados, além do saldo corrente na sua loja (e em qualquer outra da Nossa Feira em que fizeram pedidos).
 
 ![](<../../.gitbook/assets/customer account.jpg>)
 
 {% hint style="warning" %}
-For non-automated payments (cash, cheque, bank transfer etc) the customer's 'balance' will display as 'owing' until you have [manually recorded the payment](view-orders.md#editing-an-order). \
-&#xNAN;_**If payments are not updated regularly by a shop/hub manager this can be confusing to your customers as they may have in fact paid but it won't be documented above.**_
+Para pagamentos não automatizados (dinheiro, transferência etc.), o 'saldo' do cliente aparecerá como 'devendo' até você [registrar manualmente o pagamento](view-orders.md#editing-an-order).\
+&#xNAN;_**Se os pagamentos não são atualizados regularmente por um gerente, isso pode confundir seus clientes — eles podem ter pago mas não estará documentado acima.**_
 {% endhint %}

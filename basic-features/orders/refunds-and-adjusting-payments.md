@@ -1,251 +1,232 @@
-# Refunds and Adjusting Payments
+# Reembolsos e ajuste de pagamentos
 
-From time to time, a customer may request that their order is adjusted such as adding or removing an item.
+De tempos em tempos, um cliente pode pedir que o pedido dele seja ajustado — adicionando ou removendo um item.
 
-On other occasions you as a business manager may need to change an order. Common scenarios include:
+Em outras ocasiões você, como gestor do negócio, pode precisar alterar um pedido. Cenários comuns:
 
-1. A product was not delivered by a supplier
-2. A product was of lower quality than expected
-3. An order contains products with variable weights such as [meat or large vegetables](../products-1/pricing-irregular-items-kg.md#option-one-set-an-average-weight-price-and-reimburse) (i.e. whole items priced by weight).
+1. Um produto não foi entregue por um fornecedor.
+2. Um produto teve qualidade menor que o esperado.
+3. Um pedido contém produtos com peso variável como [carnes ou vegetais grandes](../products-1/pricing-irregular-items-kg.md#option-one-set-an-average-weight-price-and-reimburse) (itens inteiros precificados por peso).
 
-The process of issuing a refund or requesting further payment depends on the [payment method](../shopfront/payment-methods.md) employed. &#x20;
-
-{% hint style="warning" %}
-On the OFN platform, refunds and additional payments can only be made **automatically** using the [Payment Method](../shopfront/payment-methods.md) Provider **Stripe/Stripe SCA**.
-{% endhint %}
-
-## Refunds
-
-Using the OFN Platform you can process a [total refund](refunds-and-adjusting-payments.md#total-refund), which refunds the entirety of the order, or a [partial refund](refunds-and-adjusting-payments.md#partial-refund), which you might use when an item was not available for example.
+O processo de emitir um reembolso ou solicitar pagamento adicional depende do [método de pagamento](../shopfront/payment-methods.md) usado.
 
 {% hint style="warning" %}
-If you have integrated with Stripe as a Payment Method, you can log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually capture the payment as received in OFN.
+Na Nossa Feira, reembolsos e pagamentos adicionais só podem ser feitos **automaticamente** usando o provedor de [Método de Pagamento](../shopfront/payment-methods.md) **Stripe/Stripe SCA**.
 {% endhint %}
 
-### Total Refund
+## Reembolsos
 
-To issue a _total refund_, select the relevant payment method from the tabs below:
+Usando a Nossa Feira, você pode processar um [reembolso total](refunds-and-adjusting-payments.md#total-refund), que reembolsa a totalidade do pedido, ou um [reembolso parcial](refunds-and-adjusting-payments.md#partial-refund), que você pode usar quando um item não estava disponível por exemplo.
+
+{% hint style="warning" %}
+Se você tem Stripe integrado como Método de Pagamento, pode fazer login na sua conta Stripe e emitir uma fatura ao cliente pelo Stripe. O cliente receberá um email pedindo pra pagar com cartão, mas atenção: a Nossa Feira não será notificada dessa transação e você ainda precisará capturar manualmente o pagamento como recebido na plataforma.
+{% endhint %}
+
+### Reembolso total
+
+Pra emitir um _reembolso total_, selecione o método de pagamento relevante nas abas abaixo:
 
 {% tabs %}
-{% tab title="Cash/BACS" %}
-For non-automated payment methods (such as cash on collection or BACS), there are two scenarios:
+{% tab title="Dinheiro/Pix" %}
+Para métodos não-automatizados (dinheiro na coleta ou transferência), há dois cenários:
 
-\
-**The customer has not yet paid for the item.**\
-If a customer places an order, selecting a payment method such as cash on collection or BACS and the payment has not been captured on the system it will appear as 'payment state: balance due':
+**O cliente ainda não pagou pelo item.**\
+Se um cliente faz um pedido selecionando dinheiro na coleta ou transferência e o pagamento não foi capturado no sistema, aparece como 'estado do pagamento: saldo devedor':
 
 ![](../../.gitbook/assets/balance.jpg)
 
-You can [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) straight away following the steps below for 'Marking an order as cancelled'.
+Você pode [cancelar o pedido](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) imediatamente seguindo os passos abaixo.
 
+**O cliente já pagou pelo item.**
 
-
-**The customer has paid for the item.**
-
-When [viewing orders](view-orders.md#listing-orders) the order appears as 'payment state: paid' and the 'Shipment State: Ready':
+Quando [visualizando pedidos](view-orders.md#listing-orders) o pedido aparece como 'estado do pagamento: pago' e 'Estado da entrega: Pronto':
 
 ![](<../../.gitbook/assets/paid not shipped.jpg>)
 
-1. Arrange for the customer to be reimbursed independently of the OFN platform. &#x20;
-2. Record this action by [**Orders -> Edit**](view-orders.md#editing-an-order) and select the ‘Payments’ tab from the right hand menu.  \
-   Select the ‘X’ to the right hand side of the payment to void it.
+1. Organize o reembolso ao cliente fora da plataforma Nossa Feira.
+2. Registre essa ação em [**Pedidos -> Editar**](view-orders.md#editing-an-order) e selecione a aba 'Pagamentos' no menu à direita.\
+   Selecione o 'X' à direita do pagamento pra anulá-lo.
 
+![Antes de marcar o pagamento como anulado](../../.gitbook/assets/void1.jpg)
 
+![Depois de marcar como anulado, o status muda para 'anulado'](../../.gitbook/assets/void2.jpg)
 
-![Before marking the payment as void](../../.gitbook/assets/void1.jpg)
-
-
-
-![After marking the payment as void, the payment status changes to 'void'](../../.gitbook/assets/void2.jpg)
-
-
-
-Then [mark the order as ‘cancelled'](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) using the steps below.
+Depois [marque o pedido como 'cancelado'](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) usando os passos abaixo.
 {% endtab %}
 
 {% tab title="Stripe" %}
-Order payment is collected automatically on creation (except for [subscriptions](../subscriptions/)) and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
+Pagamento de pedido é coletado automaticamente na criação (exceto por [assinaturas](../subscriptions/)) e na [listagem de Pedidos](view-orders.md#listing-orders) o pedido aparece como:
 
-!['Payment state = paid'](<../../.gitbook/assets/paid not shipped.jpg>)
+!['Estado do pagamento = pago'](<../../.gitbook/assets/paid not shipped.jpg>)
 
-
-
-To process the total refund, visit [**Orders -> Edit**](view-orders.md#editing-an-order) and select ‘Payments’ from the right hand menu. \
-Click on the ‘**X**’ to the right of the payment to void it.&#x20;
+Pra processar o reembolso total, vá em [**Pedidos -> Editar**](view-orders.md#editing-an-order) e selecione 'Pagamentos' no menu à direita.\
+Clique no '**X**' à direita do pagamento pra anulá-lo.
 
 ![](../../.gitbook/assets/void1.jpg)
 
-This will automatically send the payment back to the credit or debit card used by the customer.
+Isso automaticamente envia o pagamento de volta ao cartão usado pelo cliente.
 
 {% hint style="info" %}
-Note that Stripe payments can take 3-5 working days to appear on a customer’s bank statement.
+Pagamentos Stripe podem levar 3-5 dias úteis pra aparecer no extrato bancário do cliente.
 {% endhint %}
 
-Once you have issued a refund, follow the steps below to [cancel the order](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled).&#x20;
+Uma vez emitido o reembolso, siga os passos abaixo pra [cancelar o pedido](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled).
 {% endtab %}
 
 {% tab title="PayPal" %}
-Payment is collected automatically on checkout from the customer and so in [listing Orders](view-orders.md#listing-orders) the order appears as:
+Pagamento é coletado automaticamente no checkout e na [listagem de Pedidos](view-orders.md#listing-orders) o pedido aparece como:
 
-!['Payment state = paid'](<../../.gitbook/assets/paid not shipped.jpg>)
+!['Estado do pagamento = pago'](<../../.gitbook/assets/paid not shipped.jpg>)
 
-
-
-Going to the 'payments' screen from Orders -> Edit will show the payment method used:
+Ir na tela de 'pagamentos' em Pedidos -> Editar mostrará o método usado:
 
 ![](<../../.gitbook/assets/paypal (2).jpg>)
 
 {% hint style="danger" %}
-**Orders placed and paid for via PayPal can not be refunded through the OFN platform.**
+**Pedidos feitos e pagos via PayPal não podem ser reembolsados pela plataforma da Nossa Feira.**
 {% endhint %}
 
-To refund the customer you will need to log into your [PayPal account](https://www.paypal.com/uk/home) and issue the money back to the customer’s account through Paypal's interface.
+Pra reembolsar o cliente, você precisa fazer login na [sua conta PayPal](https://www.paypal.com/br/home) e emitir o valor de volta à conta do cliente pela interface do PayPal.
 
-Once this has been done, you can [mark the order as cancelled](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) using the steps below.
+Uma vez feito isso, você pode [marcar o pedido como cancelado](refunds-and-adjusting-payments.md#marking-an-order-as-cancelled) usando os passos abaixo.
 {% endtab %}
 {% endtabs %}
 
-#### Marking an order as cancelled
+#### Marcando um pedido como cancelado
 
-Once you have issued a refund, you can now cancel the order. [Edit the order](view-orders.md#editing-an-order) and select ‘Cancel Order’ under ‘Actions’ (top right hand blue button).
+Uma vez emitido o reembolso, você pode agora cancelar o pedido. [Edite o pedido](view-orders.md#editing-an-order) e selecione 'Cancelar Pedido' em 'Ações' (botão azul superior direito).
 
 ![](<../../.gitbook/assets/cancel order.jpg>)
 
 {% hint style="success" %}
-The customer will receive an email to state that their order has been cancelled.
+O cliente receberá um email dizendo que o pedido foi cancelado.
 {% endhint %}
 
 {% hint style="info" %}
-Cancelling an order will **automatically** **update stock levels**. For example, if a shop had five loaves of bread in stock and a customer ordered three, stock levels would show two in stock. Cancelling the customer's order automatically updates stock levels, such that five will again show as in stock.
+Cancelar um pedido **atualiza automaticamente os níveis de estoque**. Por exemplo, se uma loja tinha cinco pães em estoque e um cliente pediu três, o estoque mostraria dois. Cancelar o pedido do cliente atualiza automaticamente pra cinco em estoque novamente.
 {% endhint %}
 
 {% hint style="danger" %}
-Note that you cannot cancel an order which has been marked as ‘Shipped’
+Note que você não pode cancelar um pedido que foi marcado como 'Enviado'.
 {% endhint %}
 
-###
+### Reembolso parcial
 
-### Partial Refund
+Pra emitir um reembolso parcial, você precisa primeiro editar o pedido pra alterar o saldo devido. Há duas formas principais de [editar um pedido](view-orders.md#editing-an-order) quando você quer emitir um reembolso parcial. Você pode ajustar quantidades de itens ou fazer um ajuste:
 
-To issue a partial refund, you must first edit the order to change the balance owing. There are two main ways to [edit an order](view-orders.md#editing-an-order) when you want to issue a partial refund. You can adjust item quantities, or make an adjustment:
-
-**1. Edit the quantity of an item** by going to[ Orders -> edit ](view-orders.md#adding-and-removing-products-from-an-order)order and clicking on the ‘edit’ icon next to the item (highlighted in red below) or delete the item completely using the 'bin' icon (highlighted in green below):
+**1. Edite a quantidade de um item** indo em [Pedidos -> editar](view-orders.md#adding-and-removing-products-from-an-order) pedido e clicando no ícone 'editar' ao lado do item (destacado em vermelho abaixo) ou delete o item completamente usando o ícone de 'lixeira' (destacado em verde abaixo):
 
 <figure><img src="../../.gitbook/assets/adjust order.jpg" alt=""><figcaption></figcaption></figure>
 
-Or you can _reduce_ the quantity by editing the quantity value, remembering to click the 'tick' button to save your changes:
+Ou você pode _reduzir_ a quantidade editando o valor, lembrando de clicar no botão 'check' pra salvar:
 
 <figure><img src="../../.gitbook/assets/edit quant.jpg" alt=""><figcaption></figcaption></figure>
 
-Select **‘Update and Recalculate Fees’** at the bottom of the page to save your changes.
+Selecione **'Atualizar e Recalcular Taxas'** no rodapé da página pra salvar as alterações.
 
 {% hint style="danger" %}
-If the product has been deleted by the supplier from their master [product](../products-1/) list then it will not be possible to edit this page. In which case, use the ‘adjustments’ method below.
+Se o produto foi deletado pelo fornecedor da lista mestra de [produtos](../products-1/), não será possível editar essa página. Nesse caso, use o método de 'ajustes' abaixo.
 {% endhint %}
 
-**2. Edit by adding a new Adjustment** to the [**order**](view-orders.md#modify-an-order) by visiting **Orders -> Edit -> Adjustments** from the right hand menu and selecting **+ New Adjustment**  at the top right.
+**2. Edite adicionando um novo Ajuste** ao [**pedido**](view-orders.md#modify-an-order) indo em **Pedidos -> Editar -> Ajustes** no menu à direita e selecionando **+ Novo Ajuste** no canto superior direito.
 
 <figure><img src="../../.gitbook/assets/adjustments 1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-
-
-Add the relevant details, remembering that for **a refund**,  the value needs to be a **negative number**. When finished, click ‘continue’:
+Adicione os detalhes relevantes, lembrando que pra **um reembolso**, o valor precisa ser um **número negativo**. Quando terminar, clique em 'continuar':
 
 <figure><img src="../../.gitbook/assets/adjustments 2.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 {% hint style="success" %}
-You can use ‘Adjustments’ to partially refund a customer for a substandard product.
+Você pode usar 'Ajustes' pra reembolsar parcialmente um cliente por um produto abaixo do padrão.
 {% endhint %}
 
-Once the order has been amended to reflect either the missing/adjusted products or the new adjustment, the order will appear with the payment state of **‘Credit Owing’** for the amount the customer no longer needs to pay.
+Uma vez que o pedido foi alterado para refletir produtos ausentes/ajustados ou o novo ajuste, o pedido aparecerá com o estado de pagamento **'Crédito devido'** pelo valor que o cliente não precisa mais pagar.
 
-**Process the Partial Refund**\
-To process a partial refund of the amount that is now owed, see instructions by choosing the payment method from the following tabs:
+**Processar o reembolso parcial**\
+Pra processar um reembolso parcial do valor agora devido, veja as instruções escolhendo o método de pagamento nas abas:
 
 {% tabs %}
-{% tab title="Cash/BACS" %}
-1. Arrange for the refund to be made to the customer independently of the platform. &#x20;
-2. Record this action by going to **Orders -> Edit** and selecting ‘Payments’ from the right hand menu, then '**+ New Payment**':
+{% tab title="Dinheiro/Pix" %}
+1. Organize o reembolso ao cliente fora da plataforma.
+2. Registre essa ação indo em **Pedidos -> Editar** e selecionando 'Pagamentos' no menu à direita, depois '**+ Novo Pagamento**':
 
 <figure><img src="../../.gitbook/assets/manual8.jpg" alt=""><figcaption></figcaption></figure>
 
-Enter a **negative value** in the ‘Amount’ field to record the refund as having been made.
+Informe um **valor negativo** no campo 'Valor' pra registrar o reembolso como feito.
 
 {% hint style="info" %}
-The button for **+ New Payment** will only be visible if you have already added an adjustment (e.g. the payment state is 'credit owed')
+O botão **+ Novo Pagamento** só ficará visível se você já adicionou um ajuste (ex: o estado do pagamento é 'crédito devido').
 {% endhint %}
 {% endtab %}
 
 {% tab title="Stripe" %}
-Using the OFN platform you can automatically refund a customer who paid by Stripe. This will directly process the refund to their credit or debit card.
+Usando a Nossa Feira, você pode automaticamente reembolsar um cliente que pagou por Stripe. Isso vai diretamente processar o reembolso ao cartão.
 
-1. Visit **Orders -> Edit Order** and then select ‘Payments’ from the right hand menu.
-2. As you created the adjustment in the previous step, the payment screen will now say '**Credit Owed**' with the amount you specified. By clicking the tick next to the payment any credit owed to the customer will be automatically refunded.&#x20;
+1. Vá em **Pedidos -> Editar Pedido** e depois selecione 'Pagamentos' no menu à direita.
+2. Como você criou o ajuste no passo anterior, a tela de pagamento agora dirá '**Crédito Devido**' com o valor especificado. Clicando no check ao lado do pagamento, qualquer crédito devido ao cliente será automaticamente reembolsado.
 
 ![](<../../.gitbook/assets/stripe credit owe.jpg>)
 
 {% hint style="danger" %}
-Clicking the 'X' will **void the whole payment** and issue a **full refund** to the customer.
+Clicar no 'X' vai **anular todo o pagamento** e emitir um **reembolso total** ao cliente.
 {% endhint %}
 
 {% hint style="warning" %}
-Note that Stripe payments can take 3-5 working days to appear on a customer’s bank statement.
+Pagamentos Stripe podem levar 3-5 dias úteis pra aparecer no extrato do cliente.
 {% endhint %}
 {% endtab %}
 
 {% tab title="PayPal" %}
-**You can not issue a partial refund to a customer who paid by PayPal automatically via the OFN platform at present.** &#x20;
+**Você não pode emitir um reembolso parcial a um cliente que pagou por PayPal automaticamente pela plataforma no momento.**
 
-1. You will need to log into your business [PayPal account](https://www.paypal.com/uk/home) and refund the customer the correct amount through their interface.
-2. To record this action you will need to set up a new [Payment Method](../shopfront/payment-methods.md) as follows:\
-   Name= ‘Paypal refunds’\
-   Display = ‘Back Office Only’\
-   Payment provider = ‘cash/EFT/etc’.
-3. Visit **Orders - > Edit Order-> Payments** (found in the right hand menu).
-4. Select **+New Payment** and select ‘Paypal refunds’.
+1. Você precisa fazer login na sua [conta PayPal comercial](https://www.paypal.com/br/home) e reembolsar o cliente pelo valor correto pela interface.
+2. Pra registrar essa ação, você precisa configurar um novo [Método de Pagamento](../shopfront/payment-methods.md):\
+   Nome= 'Reembolsos PayPal'\
+   Exibição = 'Apenas back office'\
+   Provedor de pagamento = 'dinheiro/pix/etc'.
+3. Vá em **Pedidos -> Editar Pedido -> Pagamentos** (no menu à direita).
+4. Selecione **+Novo Pagamento** e selecione 'Reembolsos PayPal'.
 
-A negative value in the ‘Amount’ field means that a refund is recorded.
+Um valor negativo no campo 'Valor' significa que um reembolso é registrado.
 
 {% hint style="danger" %}
-If you opt to add a new payment with the payment method provider ‘Paypal’ this will not be possible:
+Se você optar por adicionar um novo pagamento com o provedor 'PayPal', isso não será possível:
 {% endhint %}
 
 ![](<../../.gitbook/assets/paypal refund hack.jpg>)
 {% endtab %}
 {% endtabs %}
 
-## Collecting Additional Payments
+## Coletando pagamentos adicionais
 
-Follow the steps above for [Partial refunds](refunds-and-adjusting-payments.md#partial-refund) to add extra items to a customer's order or make adjustments via the [Bulk Order Management](../products-1/group-buy-for-bulk-ordering.md#adjusting-orders-to-make-complete-batches) page.
+Siga os passos acima para [Reembolsos parciais](refunds-and-adjusting-payments.md#partial-refund) pra adicionar itens extras ao pedido de um cliente ou fazer ajustes pela página de [Gerenciamento em Lote](../products-1/group-buy-for-bulk-ordering.md#adjusting-orders-to-make-complete-batches).
 
-Orders will now display with the Payment State = ‘Balance Due’:
+Os pedidos aparecerão com Estado do Pagamento = 'Saldo Devedor':
 
 <figure><img src="../../.gitbook/assets/balance.jpg" alt=""><figcaption></figcaption></figure>
 
-To record payment of the extra monies due visit [Orders -> Edit Order](view-orders.md#editing-an-order) and then ‘Payments’. \
-Select **+ New Payment** (top right hand blue button)
+Pra registrar o pagamento do valor extra devido, vá em [Pedidos -> Editar Pedido](view-orders.md#editing-an-order) e depois 'Pagamentos'.\
+Selecione **+ Novo Pagamento** (botão azul superior direito).
 
-1. If customer has given your business the money owing in **cash or BACS** payment then record this in the same manner as detailed for a refund, but use a positive value in the ‘Amount’ field.
-2. If the customer is present or on the end of the phone you can take the extra payment by **Stripe**. You will need the customer’s credit/debit card details to do this. You can also log in to your Stripe account and issue an invoice to the customer via Stripe. The customer will be sent an email asking them to pay with a Credit or Debit Card, but be aware that OFN will not be notified of this transaction and you will still need to manually capture the payment as received in OFN.
+1. Se o cliente deu o dinheiro devido em **dinheiro ou transferência**, registre da mesma forma que detalhado pra reembolso, mas use um valor positivo no campo 'Valor'.
+2. Se o cliente está presente ou ao telefone, você pode receber o pagamento extra por **Stripe**. Você precisará dos dados do cartão do cliente. Você também pode fazer login na sua conta Stripe e emitir uma fatura ao cliente pelo Stripe. O cliente receberá um email pedindo pra pagar com cartão, mas atenção: a Nossa Feira não será notificada dessa transação e você ainda precisará capturar manualmente o pagamento como recebido.
 
 {% hint style="warning" %}
-Collection of additional payments through PayPal is not possible at present
+Coleta de pagamentos adicionais via PayPal não é possível no momento.
 {% endhint %}
 
 {% hint style="warning" %}
-If a payment method has an associated fee attached then the fee will be recorded by the system every time you collect extra money from the customer or issue them a refund.
+Se um método de pagamento tem uma taxa associada, a taxa será registrada pelo sistema cada vez que você coleta dinheiro extra do cliente ou emite um reembolso.
 {% endhint %}
 
-## Keeping Track of Customer Payment Balances
+## Acompanhando saldos de pagamento dos clientes
 
-Monies owing (credit) or due (debit) for **individual orders** can be viewed on your [listing orders admin](view-orders.md) page. &#x20;
+Valores devidos (crédito) ou a receber (débito) para **pedidos individuais** podem ser visualizados na sua [página de listagem de pedidos admin](view-orders.md).
 
 {% hint style="warning" %}
-Remember that only payments for integrated payment methods (PayPal and Stripe) are automatically captured by the platform. If a customer pays your business by cash or BACS (or similar) you will need to [capture this payment](view-orders.md#capturing-a-payment) manually to keep your records up to date.
+Lembre que apenas pagamentos para métodos integrados (PayPal e Stripe) são automaticamente capturados pela plataforma. Se um cliente paga por dinheiro ou transferência (ou similar), você precisa [capturar esse pagamento](view-orders.md#capturing-a-payment) manualmente pra manter os registros atualizados.
 {% endhint %}
 
-You may wish to allow your trusted customers to pay (by BACS) once a month for all their orders in that time period, or give those who have cash flow one week a bit of lee-way with their payments.  To keep track of individual **customer balances** with your business, visit your [Customer](../shopfront/customer-management-and-conditional-displays-prices/customers.md) list.  The amount of credit/debit due is displayed to the right of each customer's entry.
+Você pode querer permitir que seus clientes de confiança paguem (por transferência) uma vez por mês por todos os pedidos daquele período, ou dar a quem tem restrições de fluxo de caixa uma semana de tolerância. Pra acompanhar saldos **individuais dos clientes** com seu negócio, visite sua lista de [Clientes](../shopfront/customer-management-and-conditional-displays-prices/customers.md). O valor de crédito/débito devido é exibido à direita de cada entrada do cliente.
 
 ![](<../../.gitbook/assets/customer add tag (1).jpg>)

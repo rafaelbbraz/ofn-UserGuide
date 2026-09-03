@@ -1,7 +1,7 @@
-# Orders
+# Pedidos
 
-Once your shop is online (i.e. you have an active [Order Cycle](../shopfront/order-cycle/)), customers are able to place orders. This section explains how to:&#x20;
+Uma vez que sua loja está online (ou seja, você tem um [Ciclo de Pedidos](../shopfront/order-cycle/) ativo), os clientes podem fazer pedidos. Esta seção explica como:
 
-* [manage and modify orders](view-orders.md)
-* [create orders manually for customers](create-orders-manually.md)
-* [adjust payments](refunds-and-adjusting-payments.md) (refunds etc.)
+* [gerenciar e modificar pedidos](view-orders.md)
+* [criar pedidos manualmente para clientes](create-orders-manually.md)
+* [ajustar pagamentos](refunds-and-adjusting-payments.md) (reembolsos etc.)
