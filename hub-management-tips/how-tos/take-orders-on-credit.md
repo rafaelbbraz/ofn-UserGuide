@@ -1,137 +1,137 @@
-# Take orders on Credit
+# Receber pedidos em crédito
 
-## Introduction
+## Introdução
 
-Although this feature is not-yet built into OFN, with a few quick steps it is possible to allow customers to pay with prepaid credit on OFN. In a nutshell, this involves first creating a credit product that the customer checks out with. The store manager will then go into the backoffice and ‘delete’ this product putting ‘credit’ on the customer account. Future orders can then be ‘paid’ with the credit on the account.
+Embora esse recurso ainda não esteja embutido na Nossa Feira, com alguns passos rápidos é possível permitir que clientes paguem com crédito pré-pago. Em resumo, isso envolve primeiro criar um produto de crédito que o cliente finaliza a compra. O gerente da loja então vai ao painel admin e 'deleta' esse produto, colocando 'crédito' na conta do cliente. Pedidos futuros podem então ser 'pagos' com o crédito da conta.
 
-## Process
+## Processo
 
-First create a credit product in the backend. When creating the [product](../../basic-features/products-1/) in the backend also create a variant named ‘Place Holder credit’ variant for $0 and with ‘0’ for ‘on hand’ available. It will come in handy later in the backend order admin. Then add all the variants to an [order cycle](../../basic-features/shopfront/order-cycle/) to sell the prepaid credit to your customers.
+Primeiro crie um produto de crédito no admin. Ao criar o [produto](../../basic-features/products-1/) no admin, crie também uma variante chamada 'Crédito Placeholder' por R\$ 0 e com '0' de 'em mãos'. Isso será útil depois no admin de pedidos. Depois adicione todas as variantes a um [ciclo de pedidos](../../basic-features/shopfront/order-cycle/) pra vender crédito pré-pago aos clientes.
 
 <figure><img src="../../.gitbook/assets/prod 1.jpg" alt=""><figcaption></figcaption></figure>
 
-Here is an example credit product in the storefront that the customer can choose to add ‘credit’ to their account.
+Aqui um exemplo de produto de crédito na vitrine que o cliente pode escolher pra adicionar 'crédito' à conta.
 
 <figure><img src="../../.gitbook/assets/credit shop.jpg" alt=""><figcaption></figcaption></figure>
 
-Instruct the customer to choose the amount of credit they want to apply to their account and check out their order. Make sure they ‘save’ their account info by choosing ‘LOGIN’ when checking out and creating an account with a password.
+Instrua o cliente a escolher a quantidade de crédito que quer aplicar à conta e finalizar o pedido. Garanta que ele 'salve' as informações da conta escolhendo 'LOGIN' no checkout e criando uma conta com senha.
 
 ![image3](https://user-images.githubusercontent.com/88801240/207040600-029c79d3-f975-4985-849d-4af2f0df0085.png)
 
-Now in the backend you will have their order with the amount of credit they are purchasing.
+Agora no admin você terá o pedido dele com a quantidade de crédito que está comprando.
 
 <figure><img src="../../.gitbook/assets/order 1.jpg" alt=""><figcaption></figcaption></figure>
 
-Once they have paid the order you can ‘capture’ the payment by using the green checkmark.
+Uma vez que ele pagou o pedido, você pode 'capturar' o pagamento usando o check verde.
 
 <figure><img src="../../.gitbook/assets/order 1 paid.jpg" alt=""><figcaption></figcaption></figure>
 
-Then you need to go in and ‘edit’ the order, but first you will have to add ‘on hand’ to the ‘place holder credit’ product. Add the amount of ‘on hand’ equal to the number of credit orders you are processing at that time (i.e. you have 1 credit orders, add ‘1’ as ‘on hand’ to the ‘place holder credit’ variant and SAVE CHANGES).
+Depois você precisa entrar e 'editar' o pedido, mas primeiro precisará adicionar 'em mãos' ao produto 'crédito placeholder'. Adicione a quantidade 'em mãos' igual ao número de pedidos de crédito que está processando naquele momento (ex: você tem 1 pedido de crédito, adicione '1' como 'em mãos' à variante 'crédito placeholder' e SALVE).
 
 <figure><img src="../../.gitbook/assets/prod 2.jpg" alt=""><figcaption></figcaption></figure>
 
-Now you can go back to your order list and choose to[ ‘edit’ the credit order](../../basic-features/orders/).
+Agora você pode voltar à lista de pedidos e escolher ['editar' o pedido de crédito](../../basic-features/orders/).
 
-First you will need to add the ‘Place Holder credit’ to the order.
+Primeiro, você precisará adicionar o 'Crédito Placeholder' ao pedido.
 
 <figure><img src="../../.gitbook/assets/order edit 1.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/order edit 2.jpg" alt=""><figcaption></figcaption></figure>
 
-Now you can delete the other ‘credit’ product from the order (adding the ‘place holder credit’ variant first prevents the entire order from being canceled; that step would be unnecessary if the order already contained other products).
+Agora você pode deletar o outro produto 'crédito' do pedido (adicionar a variante 'crédito placeholder' primeiro impede que o pedido inteiro seja cancelado; esse passo seria desnecessário se o pedido já contivesse outros produtos).
 
 <figure><img src="../../.gitbook/assets/order edit 3.jpg" alt=""><figcaption></figcaption></figure>
 
-Now in your orders list the payment state for the order will revert to ‘credit owed’ for the amount of the prepaid credit.
+Agora na sua lista de pedidos o estado do pagamento pro pedido reverterá pra 'crédito devido' pelo valor do crédito pré-pago.
 
 <figure><img src="../../.gitbook/assets/order 1 credit.jpg" alt=""><figcaption></figcaption></figure>
 
-It will also look like this in your customer list under the[ **Customers**](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/) tab for that customer.
+Também aparecerá assim na sua lista de clientes na aba [**Clientes**](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/) pra esse cliente.
 
 <figure><img src="../../.gitbook/assets/customer 1.jpg" alt=""><figcaption></figcaption></figure>
 
-And if you do a [**Order Cycle Management - Delivery Report**](../../basic-features/reports/reports-for-hub-management.md), it will show a positive balance for the customer.
+E se você fizer um [**Relatório de Entrega — Gerenciamento de Ciclo**](../../basic-features/reports/reports-for-hub-management.md), mostrará saldo positivo pro cliente.
 
 <figure><img src="../../.gitbook/assets/report 1.jpg" alt=""><figcaption></figcaption></figure>
 
-And if the customer logins to their account on OFN and goes to Transactions they will see a running balance of their account with you.
+E se o cliente fizer login na conta da Nossa Feira e for em Transações, verá um saldo corrente da conta com você.
 
-To apply the credit to future orders you will need to [create a payment option](https://guide.openfoodnetwork.org/basic-features/shopfront/payment-methods#setting-up-a-payment-method) - ‘pay by credit’ that customers can choose when they checkout to indicate they want you to use their credits.&#x20;
+Pra aplicar o crédito em pedidos futuros, você precisará [criar uma opção de pagamento](https://guide.openfoodnetwork.org/basic-features/shopfront/payment-methods#setting-up-a-payment-method) — 'pagar com crédito' que os clientes podem escolher no checkout pra indicar que querem que você use os créditos deles.
 
 <figure><img src="../../.gitbook/assets/payment method 1.jpg" alt=""><figcaption></figcaption></figure>
 
-You can use [tags](https://guide.openfoodnetwork.org/basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules) if you want this payment option only available/visible to those customers that have purchased prepaid credit with you.  Add the appropriate tag to the customer's account:
+Você pode usar [tags](https://guide.openfoodnetwork.org/basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules) se quer que essa opção esteja disponível/visível apenas pros clientes que compraram crédito pré-pago. Adicione a tag apropriada à conta do cliente:
 
 <figure><img src="../../.gitbook/assets/customer tag 1.jpg" alt=""><figcaption></figcaption></figure>
 
-And set up the following tag rules:
+E configure as seguintes regras de tag:
 
 <figure><img src="../../.gitbook/assets/tags 1.jpg" alt=""><figcaption></figcaption></figure>
 
-Make sure you add the new payment method to page 4 of your order cycles ('Checkout options') when you set up a new order cycle.
+Garanta que você adiciona o novo método de pagamento à página 4 dos seus ciclos ('Opções de Checkout') quando configura um novo ciclo.
 
-This is what the customer will see when they checkout.
+Isso é o que o cliente verá quando finalizar a compra.
 
 <figure><img src="../../.gitbook/assets/customer pay.jpg" alt=""><figcaption></figcaption></figure>
 
-Once the customer has placed a 2nd order it will appear in your **Orders** list with a **Balance Due**.
+Uma vez que o cliente fez um 2º pedido, aparecerá na sua lista de **Pedidos** com **Saldo Devedor**.
 
 <figure><img src="../../.gitbook/assets/order 2.jpg" alt=""><figcaption></figcaption></figure>
 
-This is what they will see if they login to their account. The negative amount means their remaining credit balance.
+Isso é o que ele verá se fizer login na conta. O valor negativo significa o saldo de crédito restante.
 
 <figure><img src="../../.gitbook/assets/customer account 2.jpg" alt=""><figcaption></figcaption></figure>
 
-And this is what you will see if you as a manager from your customer list.
+E isso é o que você verá como gerente na sua lista de clientes.
 
 <figure><img src="../../.gitbook/assets/customer 2.jpg" alt=""><figcaption></figcaption></figure>
 
-And if you run the Delivery Report.
+E se você rodar o Relatório de Entrega.
 
 <figure><img src="../../.gitbook/assets/delivery report 2.jpg" alt=""><figcaption></figcaption></figure>
 
-**IF** you want to mark the new order as ‘Paid’ changing the payment state from ‘Balance Due’ to ‘Paid’, you can click the green check mark to the right of the order. (**Note**: You may first want to check your customer list to ensure the customer has enough ‘credit owed’ to cover the order cost. If they don’t you can make a partial payment on the order with the ‘credit owed’ amount remaining and then send them an invoice for the balance on the order.)
+**SE** você quer marcar o novo pedido como 'Pago', mudando o estado de 'Saldo Devedor' pra 'Pago', pode clicar no check verde à direita do pedido. (**Nota**: você pode primeiro querer verificar sua lista de clientes pra garantir que o cliente tem 'crédito devido' suficiente pra cobrir o custo do pedido. Se não tem, você pode fazer um pagamento parcial no pedido com o valor 'crédito devido' restante e depois enviar uma fatura pelo saldo.)
 
-Now the payment state of the order is 'paid' in your orders list.
+Agora o estado do pagamento é 'pago' na sua lista de pedidos.
 
 <figure><img src="../../.gitbook/assets/order 2 paid.jpg" alt=""><figcaption></figcaption></figure>
 
-But in the customer record and in your customer list the running balance will revert back to the full prepaid credit amount.
+Mas no registro do cliente e na sua lista de clientes, o saldo corrente reverterá pro valor total pré-pago.
 
 <figure><img src="../../.gitbook/assets/customer tag 1.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/customer account 3.jpg" alt=""><figcaption></figcaption></figure>
 
-To credit the payment on the 2nd order to the running balance of credit we must now go into that original credit order and make a negative payment in the amount of the 2nd order (i.e. - £5.70).
+Pra creditar o pagamento do 2º pedido ao saldo corrente de crédito, agora precisamos ir naquele pedido original de crédito e fazer um pagamento negativo no valor do 2º pedido (ex: -R\$ 5,70).
 
-First Edit the original credit order.
+Primeiro edite o pedido original de crédito.
 
 <figure><img src="../../.gitbook/assets/edit order 1.jpg" alt=""><figcaption></figcaption></figure>
 
-Then choose Payments from the right side menu.  Choose New Payment from the top right menu.
+Depois escolha Pagamentos no menu à direita. Escolha Novo Pagamento no menu superior direito.
 
 <figure><img src="../../.gitbook/assets/credit new pay.jpg" alt=""><figcaption></figcaption></figure>
 
-Enter the amount of the order paid that has been 'paid by credit' preceded with a minus sign (i.e. -£5.70) and choose ‘Pay by Credit’, then ‘Update’.
+Informe o valor do pedido pago que foi 'pago com crédito' precedido por sinal de menos (ex: -R\$ 5,70) e escolha 'Pagar com Crédito', depois 'Atualizar'.
 
 <figure><img src="../../.gitbook/assets/new pay.jpg" alt=""><figcaption></figcaption></figure>
 
-‘Capture’ that payment with the green check mark.
+'Capture' esse pagamento com o check verde.
 
 <figure><img src="../../.gitbook/assets/capture new pay.jpg" alt=""><figcaption></figcaption></figure>
 
-Now the ‘credit owed’ has been reduced by the correct amount on the credit order.
+Agora o 'crédito devido' foi reduzido pelo valor correto no pedido de crédito.
 
 ![image30](https://user-images.githubusercontent.com/88801240/207069952-80e23eb1-92a8-4654-931d-1bdd316d7be9.png)
 
-And the balance is correct in your customer list.
+E o saldo está correto na sua lista de clientes.
 
 <figure><img src="../../.gitbook/assets/customer 2.jpg" alt=""><figcaption></figcaption></figure>
 
-And the Delivery Report will show the up-to-date balance for the customer. The 2nd order has been paid (so it is no longer negative) and the credit or positive balance has been reduced.
+E o Relatório de Entrega mostrará o saldo atualizado pro cliente. O 2º pedido foi pago (então não é mais negativo) e o crédito ou saldo positivo foi reduzido.
 
 <figure><img src="../../.gitbook/assets/report final.jpg" alt=""><figcaption></figcaption></figure>
 
-And, finally, when the customer logs into their account the running balance and credit amount will be accurate.
+E, finalmente, quando o cliente fizer login na conta, o saldo corrente e valor do crédito estarão precisos.
 
 <figure><img src="../../.gitbook/assets/customer account 4.jpg" alt=""><figcaption></figcaption></figure>

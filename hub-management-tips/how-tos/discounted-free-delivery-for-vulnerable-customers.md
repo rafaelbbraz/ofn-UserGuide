@@ -1,70 +1,70 @@
-# Discounted/Free Delivery for Vulnerable Customers
+# Entrega grátis/com desconto pra clientes vulneráveis
 
 {% hint style="info" %}
-This functionality is best achieved using the [Tags and Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) feature of the platform.
+Essa funcionalidade é melhor alcançada usando o recurso [Tags e Regras de Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md).
 {% endhint %}
 
-## Introduction
+## Introdução
 
-Elderly or vulnerable customers may find it more difficult to reach your hub or shop collection point.  Whilst it wouldn't necessarily be possible for you to deliver goods to every customer's doorstep (due to cost, time and distances involved) you may have capacity to help a small number of local 'priority' customers.
+Clientes idosos ou vulneráveis podem achar mais difícil chegar ao seu ponto de coleta. Embora não fosse necessariamente possível você entregar produtos na porta de cada cliente (por custo, tempo e distâncias), você pode ter capacidade pra ajudar um pequeno número de clientes 'prioritários' locais.
 
-Below is a step-by-step guide to enable selected customers to access free (or discounted) delivery.
+Abaixo, um guia passo a passo pra permitir que clientes selecionados acessem entrega grátis (ou com desconto).
 
-The process uses the Customer Management feature which is described in [full here](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-shipping-methods).
+O processo usa o recurso de Gerenciamento de Clientes descrito [em detalhe aqui](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-shipping-methods).
 
-## **Things to consider before starting**
+## **Coisas a considerar antes de começar**
 
-* What is the maximum number of delivery slots you can offer for free/discounted rate?
-* Which areas would you consider delivering to free of charge or at a discounted rate?  For instance, limit the area to a specific postcode/street/district or perhaps to streets on your way home.
-* Be realistic about the number of deliveries you can make and the cost of petrol/time to make them.
+* Qual o número máximo de slots de entrega que você pode oferecer com taxa grátis/desconto?
+* Quais áreas você consideraria entregar grátis ou com desconto? Por exemplo, limite a área a um CEP/rua/bairro específico ou ruas no caminho pra casa.
+* Seja realista sobre o número de entregas que você pode fazer e o custo de combustível/tempo.
 
-## Process
+## Processo
 
-* Keep a record of the customer’s name and the email address linked to their OFN account.
-* Login to your business OFN account and visit [Customers](https://openfoodnetwork.org.uk/admin/customers) [page](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md).
-* Use the ‘Quick Search’ box to identify if the person has shopped with you before.&#x20;
+* Mantenha um registro do nome do cliente e email vinculado à conta na Nossa Feira.
+* Faça login na sua conta de negócio na Nossa Feira e visite a [página de Clientes](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md).
+* Use a caixa 'Busca Rápida' pra identificar se a pessoa já comprou com você antes.
 
 ![](../../.gitbook/assets/customers.jpg)
 
-* If their email address doesn’t appear then click **+ New Customer** and add their address.
-* Add the tag ‘free\_delivery’ to the customers entry.
+* Se o email dela não aparecer, clique em **+ Novo Cliente** e adicione o endereço.
+* Adicione a tag 'entrega\_gratis' à entrada do cliente.
 
 ![](<../../.gitbook/assets/free\_delivery 3.jpg>)
 
-* Visit **Enterprises -> Settings ->** [**Shipping Methods**](../../basic-features/shopfront/shipping-methods.md) and click **+New Shipping Method**.
+* Visite **Empresas -> Configurações ->** [**Métodos de Envio**](../../basic-features/shopfront/shipping-methods.md) e clique em **+Novo Método de Envio**.
 
 ![](<../../.gitbook/assets/free\_delivery 2 (1).jpg>)
 
-Name: Free local home delivery for elderly and vulnerable customers.\
-Description: Free local delivery to your home address.\
-Display: Both Checkout and Back Office\
-Category: Delivery\
-**Tags: Add the tag ‘free\_delivery’ into this space.**\
-Fee Calculator: Flat Rate amount = 0.00\
-Categories: Default\
-Zones: UK\_VAT
+Nome: Entrega local grátis para clientes idosos e vulneráveis.\
+Descrição: Entrega local grátis no seu endereço.\
+Exibição: Checkout e back office\
+Categoria: Entrega\
+**Tags: Adicione a tag 'entrega\_gratis' nesse espaço.**\
+Calculadora de Taxa: Taxa fixa = 0,00\
+Categorias: Padrão\
+Zonas: (selecione a apropriada)
 
-* Visit your **Enterprise -> Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)’ from the left hand menu.  Set up the following Tag rules:
+* Visite **Empresa -> Configurações** e selecione '[Regras de Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md)' no menu à esquerda. Configure as seguintes regras:
 
-Default: Shipping Methods tagged ‘free\_delivery’ are not visible.\
-For Customers tagged ‘free\_delivery’, Shipping Methods tagged ‘free\_delivery’ are visible.
+Padrão: Métodos de envio marcados 'entrega\_gratis' não são visíveis.\
+Para clientes marcados 'entrega\_gratis', Métodos de envio marcados 'entrega\_gratis' são visíveis.
 
 ![](<../../.gitbook/assets/free\_delivery 1.jpg>)
 
-Open an order cycle and on Page 4 'Checkout Options' select at least one delivery/collection method which will be available to all customers AND the new 'Free delivery for elderly and vulnerable customers' which you set up with a tag above.
+Abra um ciclo e na Página 4 'Opções de Checkout' selecione pelo menos um método de entrega/coleta que estará disponível pra todos os clientes E o novo método 'Entrega grátis para clientes idosos e vulneráveis' configurado com tag acima.
 
-**Bingo!  A customer who has registered with you as elderly and lives close will be able to view an extra option at checkout compared to all other shoppers:**
+**Pronto! Um cliente que se cadastrou com você como idoso e mora próximo poderá ver uma opção extra no checkout em comparação aos outros compradores:**
 
-![Tagged customer view at checkout](<../../.gitbook/assets/free\_delivery 4.jpg>)
+![Visão do cliente marcado no checkout](<../../.gitbook/assets/free\_delivery 4.jpg>)
 
 {% hint style="success" %}
-Add a comment to your standard delivery methods (in the ‘Description box’) to inform elderly and vulnerable customers on how to get in touch and be eligible for free delivery in the future.
+Adicione um comentário aos seus métodos de entrega padrão (na 'caixa de Descrição') pra informar clientes idosos e vulneráveis sobre como entrar em contato e ser elegíveis à entrega grátis no futuro.
 {% endhint %}
 
-## **You might also like to: Add a message to your customers on your shop Notice page.**
+## **Você também pode gostar de: Adicionar uma mensagem aos seus clientes na página Avisos da loja.**
 
-Don’t forget to edit your ‘[Shopfront Message](../../basic-features/enterprise-profile/enterprise-settings.md#shop-preferences)’ (found from **Enterprises -> Settings -> Shop Preferences**) to invite new elderly/vulnerable/keyworker customers to contact you so they can be prioritised.
+Não esqueça de editar sua '[Mensagem da Vitrine](../../basic-features/enterprise-profile/enterprise-settings.md#shop-preferences)' (em **Empresas -> Configurações -> Preferências da Loja**) pra convidar novos clientes idosos/vulneráveis/prioritários a entrar em contato pra serem priorizados.
 
-![Admin view](<../../.gitbook/assets/priority 4.jpg>)
+![Visão admin](<../../.gitbook/assets/priority 4.jpg>)
 
 ![](../../.gitbook/assets/notices2.jpg)

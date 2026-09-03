@@ -1,65 +1,65 @@
-# Early Shopping 'Hour' for Priority Groups
+# Hora antecipada de compra pra grupos prioritários
 
 {% hint style="info" %}
-This functionality is best achieved using the [Tags and Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) feature of the platform.
+Essa funcionalidade é melhor alcançada usando o recurso [Tags e Regras de Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md).
 {% endhint %}
 
-## Introduction
+## Introdução
 
-The outbreak of COVID-19 in March 2020 saw a wave of panic buying by consumers prior to (or in the early days of) national 'lockdowns'.  This left vulnerable groups and key workers short of food.
+O surto de COVID-19 em março de 2020 viu uma onda de compras em pânico pelos consumidores antes (ou nos primeiros dias) dos 'lockdowns' nacionais. Isso deixou grupos vulneráveis e trabalhadores essenciais sem alimentos.
 
-Below is a step-by-step guide to enable selected customers (you may choose as a business for this to just be people you know to be over 80 years or perhaps include key workers as well) to shop before others and hence get the first choice of products (should they run out later in your order cycle).
+Abaixo, um guia passo a passo pra permitir que clientes selecionados (você pode escolher como negócio ser pessoas acima de 80 anos ou incluir trabalhadores essenciais também) comprem antes dos outros e portanto tenham a primeira escolha de produtos (caso acabem no fim do ciclo).
 
-The process uses the Customer Management feature which is described in[ full here](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
+O processo usa o recurso de Gerenciamento de Clientes descrito [em detalhe aqui](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/).
 
 {% hint style="warning" %}
-Your enterprise will need to be registered as a [Hub](../../your-quick-start-on-ofn-given-who-you-are.md#hub) on the OFN platform to add tags to Order Cycles, as described below.
+Sua empresa precisará estar cadastrada como [Central](../../your-quick-start-on-ofn-given-who-you-are.md#hub) na Nossa Feira pra adicionar tags a Ciclos de Pedidos, como descrito abaixo.
 {% endhint %}
 
-## Process
+## Processo
 
-The process is much the same as that you would use for opening your [shop early on 'Preview'](open-your-shop-on-preview.md) but only this time you make the shop visible to a different subset of customer.
+O processo é bem parecido com o que você usaria pra abrir sua [loja cedo em 'Preview'](open-your-shop-on-preview.md), mas dessa vez torna a loja visível a um subconjunto diferente de cliente.
 
-* Set up a policy as a business on which group(s) you would like to offer this service to.
-* Keep a record of the customer’s name and the email address linked to their OFN account.
-* Login to your business OFN account and visit [Customers](https://openfoodnetwork.org.uk/admin/customers) [page](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md).
-* Use the ‘Quick Search’ box to identify if the person has shopped with you before.&#x20;
+* Estabeleça como negócio a qual(is) grupo(s) você quer oferecer esse serviço.
+* Mantenha um registro do nome do cliente e email vinculado à conta na Nossa Feira.
+* Faça login na sua conta e visite a [página de Clientes](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/customers.md).
+* Use a caixa 'Busca Rápida' pra identificar se a pessoa já comprou com você antes.
 
 ![](../../.gitbook/assets/customers.jpg)
 
-* If their email address doesn’t appear then click **+ New Customer** and add their address.
-* In the ‘tags’ column type in ‘priority’ for that customer.
+* Se o email dela não aparecer, clique em **+ Novo Cliente** e adicione o endereço.
+* Na coluna 'tags', digite 'prioridade' pra esse cliente.
 
 ![](<../../.gitbook/assets/priority 2.jpg>)
 
-**Step One: Before the order cycle opens**
+**Passo 1: Antes do ciclo abrir**
 
-* Visit your [Order Cycles](https://openfoodnetwork.org.uk/admin/order\_cycles) page.  Set up your next [order cycle](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) as you normally would, **setting the opening time to be one hour (or more) before** that you would like it to be open to all customers.
-* On page 3 of the order cycle add ‘priority’ into the tags section:
+* Visite sua página de [Ciclos de Pedidos](https://openfoodnetwork.org.uk/admin/order\_cycles). Configure seu próximo [ciclo](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md) normalmente, **definindo o horário de abertura pra uma hora (ou mais) antes** do horário em que quer estar aberto a todos os clientes.
+* Na página 3 do ciclo adicione 'prioridade' na seção de tags:
 
 ![](<../../.gitbook/assets/priority 3.jpg>)
 
-* Visit your **Enterprise -> Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront)’ from the left hand menu.  Set up the following Tag rules:
+* Visite **Empresa -> Configurações** e selecione '[Regras de Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront)' no menu à esquerda. Configure:
 
-Default: Order Cycles tagged ‘priority’ are not visible.\
-For Customers tagged ‘priority’, Order Cycles tagged ‘priority’ are visible.
+Padrão: Ciclos de Pedidos marcados 'prioridade' não são visíveis.\
+Para clientes marcados 'prioridade', Ciclos marcados 'prioridade' são visíveis.
 
 ![](<../../.gitbook/assets/priority 1.jpg>)
 
-**Step Two: On the day of the order cycle**
+**Passo 2: No dia do ciclo**
 
-* Set a reminder on your phone or in a calendar at the time of day which you wish your shop front to be visible to all your customers.
-* At this time, log into the OFN platform and edit the order cycle which is currently only open for priority customers.&#x20;
-* Visit Page 3 'Outgoing Products' and remove the tag.  Remember to save your changes.
+* Defina um lembrete no celular ou calendário pro horário em que quer que sua vitrine fique visível a todos os clientes.
+* Nesse horário, faça login na Nossa Feira e edite o ciclo que está atualmente aberto apenas pra clientes prioritários.
+* Vá em Página 3 'Produtos Saintes' e remova a tag. Lembre de salvar.
 
 <figure><img src="../../.gitbook/assets/preview 6.jpg" alt=""><figcaption></figcaption></figure>
 
-**Your shop front will now be visible for all your customers to view and purchase from.**
+**Sua vitrine agora ficará visível pra todos os clientes verem e comprarem.**
 
-## **You might also like to: Add a message to your customers on your shop Notice page.**
+## **Você também pode gostar de: Adicionar uma mensagem aos clientes na página Avisos.**
 
-Don’t forget to edit your ‘[Shopfront Message](../../basic-features/enterprise-profile/enterprise-settings.md#shop-preferences)’ (found from **Enterprises -> Settings -> Shop Preferences**) to invite new elderly/vulnerable/keyworker customers to contact you so they can be prioritised.
+Não esqueça de editar sua '[Mensagem da Vitrine](../../basic-features/enterprise-profile/enterprise-settings.md#shop-preferences)' (em **Empresas -> Configurações -> Preferências da Loja**) pra convidar novos clientes idosos/vulneráveis/essenciais a contatarem você pra serem priorizados.
 
-![Admin View](<../../.gitbook/assets/priority 4.jpg>)
+![Visão admin](<../../.gitbook/assets/priority 4.jpg>)
 
 ![](../../.gitbook/assets/notices2.jpg)

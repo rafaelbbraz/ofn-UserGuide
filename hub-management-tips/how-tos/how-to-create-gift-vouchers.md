@@ -1,97 +1,97 @@
-# How to Create Gift Vouchers
+# Como criar vouchers-presente
 
 {% hint style="info" %}
-We recommend using the [Voucher](../../basic-features/shopfront/vouchers.md) functionality of the platform if you wish to offer Gift Vouchers for sale through your OFN shop front.
+Recomendamos usar a funcionalidade de [Voucher](../../basic-features/shopfront/vouchers.md) se quer oferecer Vouchers-presente à venda pela sua vitrine.
 {% endhint %}
 
 {% hint style="success" %}
-The advantages of voucher codes are:
+As vantagens dos códigos de voucher:
 
-* There's no need for shoppers to have an OFN account or be existing customers of your shop.
-* They are easy for customers to use and easy for hub managers to facilitate.
+* Não é necessário que os compradores tenham conta na Nossa Feira ou sejam clientes existentes.
+* São fáceis pros clientes usarem e fáceis pros gerentes facilitarem.
 {% endhint %}
 
 {% hint style="danger" %}
-Limitations which you need to be aware of before starting:
+Limitações que você precisa saber antes de começar:
 
-* Voucher codes have no expiry date and so you will need to remember to log into your OFN account and deactivate the voucher when it has been redeemed to prevent multiple uses.
-* A voucher code is not specific to a customer and hence if it is shared then it could be redeemed by someone who is not the intended recipient of the gift.
-* Voucher balances are not adjusted after purchases (ie. if a customer spends less than the voucher value then the remaining balance will be lost (when the voucher is deactivated)).
+* Códigos de voucher não têm data de expiração — você precisará lembrar de fazer login e desativar o voucher quando for resgatado pra impedir uso múltiplo.
+* Um código de voucher não é específico a um cliente — se compartilhado, poderia ser resgatado por alguém que não é o destinatário pretendido.
+* Saldos de voucher não são ajustados após compras (ex: se um cliente gasta menos que o valor do voucher, o saldo restante será perdido quando o voucher for desativado).
 {% endhint %}
 
-## Introduction
+## Introdução
 
-Gift vouchers are always popular around Christmas and other seasonal events- they are a 'go to' option for many if you don't know exactly what the recipient would like.  They can also make very thoughtful gifts for those who are perhaps struggling with household budgets.
+Vouchers-presente são sempre populares no Natal e outros eventos sazonais — são uma opção 'garantida' pra muitos que não sabem exatamente o que o destinatário gostaria. Também podem ser presentes muito atenciosos pra quem está com dificuldades no orçamento doméstico.
 
-You may well find not only that friends and family members of regular and loyal customers of your food enterprise will want to purchase them your gift vouchers for special events, but these customers themselves may want to purchase them and give to their friends (whereby introducing new people to your shop).
+Você pode descobrir não só que amigos e familiares de clientes regulares e fiéis da sua empresa vão querer comprar vouchers-presente pra eventos especiais, mas também que esses clientes vão querer comprá-los pra dar aos amigos (introduzindo novas pessoas à sua loja).
 
-## Process
+## Processo
 
-This is a THREE-step process:
+Este é um processo em TRÊS etapas:
 
-* (Optional) [Offer gift vouchers for sale ](how-to-create-gift-vouchers.md#step-one)on the OFN platform by your shop front.
-* After a gift has been purchased, [create the voucher](how-to-create-gift-vouchers.md#step-two).
-* [Deactivate the gift voucher](how-to-create-gift-vouchers.md#step-three) when spent.
+* (Opcional) [Oferecer vouchers-presente à venda](how-to-create-gift-vouchers.md#step-one) na sua vitrine.
+* Após um presente ser comprado, [criar o voucher](how-to-create-gift-vouchers.md#step-two).
+* [Desativar o voucher-presente](how-to-create-gift-vouchers.md#step-three) quando gasto.
 
 {% hint style="warning" %}
-If you have active OFN 'Flat rate' gift vouchers in your OFN enterprise then we strongly recommend checking through your orders as they come in, to spot when the vouchers have been redeemed (and hence swiftly deactivate them before they are potentially misused).
+Se você tem vouchers-presente 'Valor fixo' ativos na sua empresa, recomendamos fortemente verificar os pedidos conforme chegam pra identificar quando os vouchers foram resgatados (e desativá-los rapidamente antes que sejam potencialmente mal usados).
 {% endhint %}
 
-### Step One
+### Passo 1
 
-Create a [product listing](../../basic-features/products-1/products.md) for vouchers. We suggest that you keep it simple ie. having a maximum of three different denominations of voucher only (£10, £25, £50).
+Crie um [cadastro de produto](../../basic-features/products-1/products.md) pra vouchers. Sugerimos manter simples — com no máximo três denominações diferentes (R\$50, R\$100, R\$200).
 
 ![](<../../.gitbook/assets/gift voucher 2.jpg>)
 
-Remember:
+Lembre:
 
-* To include instructions to the customer on how they will receive the voucher code.  You will collect the email address of the customer during the order process but not the gift recipient.  You could opt for an additional step whereby you email the customer and ask them if they have the email address of the gift voucher recipient and date they would like the voucher sent, but you will need to ensure you keep within the limits of data protection during this process.
-* It is best practice (as in not to cause later disappointment) to inform the customer of the voucher limitations (one code per purchase and that voucher balances are not carried over if the full value is not redeemed).
-* That [enterprise fees](../../basic-features/shopfront/enterprise-fees.md) are included in the price of the voucher.  The person who redeems the voucher will also have the enterprise fee added onto the products they purchase (ie. fees will be collected twice). The extra enterprise fee may be necessary to cover the added overheads of admin work, processing gift vouchers. Alternatively the product price can be adjusted so that the customer facing price (product price + fee) is the voucher’s value.
+* Incluir instruções ao cliente sobre como receberá o código do voucher. Você coletará o email do cliente durante o pedido mas não do destinatário do presente. Você poderia optar por uma etapa adicional onde envia email ao cliente pedindo se tem o email do destinatário e a data que gostaria que o voucher fosse enviado, mas precisará garantir se manter dentro dos limites da LGPD durante esse processo.
+* É boa prática (pra não causar decepção depois) informar ao cliente as limitações do voucher (um código por compra e saldos não são transferidos se o valor total não for resgatado).
+* [Taxas da empresa](../../basic-features/shopfront/enterprise-fees.md) estão incluídas no preço do voucher. A pessoa que resgatar o voucher também terá a taxa da empresa adicionada aos produtos que comprar (ou seja, taxas serão cobradas duas vezes). A taxa extra pode ser necessária pra cobrir custos administrativos de processar vouchers-presente. Alternativamente, o preço do produto pode ser ajustado pra que o preço visto pelo cliente (preço do produto + taxa) seja o valor do voucher.
 
 ![](<../../.gitbook/assets/voucher shop front.jpg>)
 
 {% hint style="success" %}
-You may wish to consider creating a paper voucher with the unique code written on each one.
+Você pode considerar criar um voucher em papel com o código único escrito em cada.
 {% endhint %}
 
-### Step Two
+### Passo 2
 
-* Create a new voucher by visiting Enterprises -> Settings -> Vouchers and selecting **Add New**
+* Crie um novo voucher em Empresas -> Configurações -> Vouchers e selecione **Adicionar Novo**.
 
 <figure><img src="../../.gitbook/assets/new voucher (1).jpg" alt=""><figcaption></figcaption></figure>
 
-* Complete the form:\
-  Voucher Code: Choose a unique string. We suggest adding special characters and perhaps dates or numbers to prevent vouchers being misused.\
-  Voucher Type: Flat\
-  Amount: monetary value of the gift voucher purchased.
+* Complete o formulário:\
+  Código do voucher: Escolha uma string única. Sugerimos adicionar caracteres especiais e talvez datas ou números pra impedir mau uso.\
+  Tipo de voucher: Valor fixo\
+  Valor: valor monetário do voucher-presente comprado.
 
 ![](<../../.gitbook/assets/gift voucher 3.jpg>)
 
-* Inform the person who purchased the gift voucher of their voucher code by email or print them a gift voucher with this code on it for them to pass on to the recipient of their gift.
+* Informe à pessoa que comprou o voucher-presente sobre o código do voucher por email, ou imprima um voucher-presente com esse código pra ela passar ao destinatário.
 
-### Step Three
+### Passo 3
 
-Check through orders as you receive them to see if and when customers use vouchers as part (or full) payments for their shopping. &#x20;
+Confira os pedidos conforme recebe pra ver se e quando os clientes usam vouchers como parte (ou total) do pagamento.
 
-Places to look are:
+Lugares pra olhar:
 
-* Vouchers display as an Adjustment when you edit an [order](../../basic-features/orders/).
+* Vouchers aparecem como um Ajuste quando você edita um [pedido](../../basic-features/orders/).
 
 <figure><img src="../../.gitbook/assets/voucher order.jpg" alt=""><figcaption></figcaption></figure>
 
-* They also appear between the Subtotal and Total lines in order confirmation emails (sent to both the customer and the food enterprise:
+* Também aparecem entre as linhas de Subtotal e Total nos emails de confirmação de pedido (enviados tanto ao cliente quanto à empresa):
 
 <figure><img src="../../.gitbook/assets/voucher email.jpg" alt=""><figcaption></figcaption></figure>
 
-* There's an option to view Vouchers and voucher codes used when viewing or downloading all varieties of [Order Cycle Totals reports](../../basic-features/reports/order-reports.md).
+* Há uma opção de ver Vouchers e códigos de voucher usados ao visualizar ou baixar todas as variedades de [relatórios de Totais do Ciclo](../../basic-features/reports/order-reports.md).
 
-When you notice a voucher has been redeemed then you need to visit your list of Vouchers (Enterprises -> Settings -> Vouchers) and deactivate it, by changing the check box to the right from ticked to unticked.
+Quando você nota que um voucher foi resgatado, precisa visitar sua lista de Vouchers (Empresas -> Configurações -> Vouchers) e desativá-lo, alterando a caixa à direita de marcado para desmarcado.
 
-Active:
+Ativo:
 
 <figure><img src="../../.gitbook/assets/active voucher gift.jpg" alt=""><figcaption></figcaption></figure>
 
-Deactivated:
+Desativado:
 
 <figure><img src="../../.gitbook/assets/inactive gift voucher.jpg" alt=""><figcaption></figcaption></figure>

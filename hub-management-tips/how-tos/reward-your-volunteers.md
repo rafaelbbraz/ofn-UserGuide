@@ -1,76 +1,75 @@
-# Reward your volunteers
+# Recompensar seus voluntários
 
 {% hint style="info" %}
-This functionality can be achieved using either the [Voucher](../../basic-features/shopfront/vouchers.md) or  [Tags and Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) features of the platform.&#x20;
+Essa funcionalidade pode ser alcançada usando o recurso de [Voucher](../../basic-features/shopfront/vouchers.md) ou [Tags e Regras de Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md).
 
-We recommend using the Tags and Tag Rules feature here for the following reasons:
+Recomendamos usar Tags e Regras de Tag pelos seguintes motivos:
 
-* Volunteers are often already customers of your shop and so setting the tags up is more straight forward in their case than it for members of the public.
-* It prevents a discount voucher code being published and shared online where it could be used by non-volunteers to get money off their shopping.  Equally, if a volunteer stops helping then the tag can be easily removed for them without having to re-issue all your volunteers with a new voucher discount code.
-* Only one voucher can be redeemed at a time.  By offering volunteers a discount using tags, they will also be able to redeem a voucher on their reduced price shopping which may be gifted to them at Christmas or birthday by friend/family.
+* Voluntários frequentemente já são clientes da sua loja, então configurar as tags é mais direto no caso deles do que pra público em geral.
+* Impede que um código de voucher de desconto seja publicado e compartilhado online, onde poderia ser usado por não-voluntários pra ganhar desconto. Igualmente, se um voluntário para de ajudar, a tag pode ser facilmente removida sem precisar reemitir um novo código de voucher pra todos.
+* Apenas um voucher pode ser resgatado por vez. Oferecendo aos voluntários um desconto por tags, eles também poderão resgatar um voucher no valor já com desconto que pode ser presenteado no Natal ou aniversário por amigos/família.
 {% endhint %}
 
-## Introduction
+## Introdução
 
-Would you like to say a little thank you to the people who help run your community food enterprise?  One option is to allow staff and volunteers to have a small discount off any shopping they do.  Below is a step-by-step guide on how to implement this.  The process draws on the highly flexible Customer Management tools available using [Tags and Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md).
+Gostaria de dizer um pequeno obrigado pra pessoas que ajudam a rodar sua empresa comunitária de alimentos? Uma opção é permitir que funcionários e voluntários tenham um pequeno desconto em qualquer compra. Abaixo, um guia passo a passo de como implementar isso.
 
-## Process
+## Processo
 
-* Ask your volunteers to  let you know the email address linked to their OFN account.
-* Login to your business OFN account and visit [Customers](https://openfoodnetwork.org.uk/admin/customers) page.
-* Use the ‘Quick Search’ box to identify if the person has shopped with you before.&#x20;
+* Peça aos voluntários que te informem o email vinculado à conta na Nossa Feira.
+* Faça login na sua conta e visite a página de [Clientes](https://openfoodnetwork.org.uk/admin/customers).
+* Use a caixa 'Busca Rápida' pra identificar se a pessoa já comprou antes.
 
 ![](../../.gitbook/assets/customers.jpg)
 
-* If their email address doesn’t appear then click **+ New Customer** and add their address.
-* Add the tag ‘volunteer’ to the customer’s entry.
+* Se o email não aparecer, clique em **+ Novo Cliente** e adicione o endereço.
+* Adicione a tag 'voluntario' à entrada do cliente.
 
 ![](<../../.gitbook/assets/volunteer 1.jpg>)
 
-* Visit **Enterprises -> Settings** and then select ‘[Payment Methods](../../basic-features/shopfront/payment-methods.md)’ from the left hand menu. &#x20;
-* Click **+ New Payment** Method.
+* Visite **Empresas -> Configurações** e depois selecione '[Métodos de Pagamento](../../basic-features/shopfront/payment-methods.md)' no menu à esquerda.
+* Clique em **+ Novo Método de Pagamento**.
 
 ![](<../../.gitbook/assets/volunteer 3.jpg>)
 
 \
-Name: Volunteer 5% Discount\
-Description: Thank you for helping us run our local food hub.\
-Display: Both Checkout and Back Office\
-Active: yes\
-**Tags: Add the tag ‘volunteer’ into this space.**\
-Provider: choose the most appropriate method for your business.\
-Fee Calculator: Flat Percent
+Nome: Desconto 5% Voluntário\
+Descrição: Obrigado por ajudar a rodar nossa central de alimentos local.\
+Exibição: Checkout e back office\
+Ativo: sim\
+**Tags: Adicione a tag 'voluntario' nesse espaço.**\
+Provedor: escolha o método mais apropriado pro seu negócio.\
+Calculadora de Taxa: Porcentagem fixa
 
-* After selecting Create, add ‘-5’ \* to the ‘Amount’ field of the ‘Fee Calculator’ Section.  (Negative sign results in a discount)\
+* Após selecionar Criar, adicione '-5' \* no campo 'Valor' da seção 'Calculadora de Taxa'. (Sinal negativo resulta em desconto)\
   \
-  \*-5 will result in a 5% discount if your enterprise does not use Enterprise Fees.
+  \*-5 resultará em um desconto de 5% se sua empresa não usa Taxas da Empresa.
 
 {% hint style="danger" %}
-All **percentage fees** are calculated on a percentage of **product costs** only.&#x20;
+Todas as **taxas percentuais** são calculadas sobre o custo dos **produtos** apenas.
 {% endhint %}
 
 {% hint style="warning" %}
-If your business adds a flat percent Enterprise Fee to all products then the amount you need to enter into the 'Flat Percent' field for this discount payment method is:
+Se seu negócio adiciona uma Taxa da Empresa percentual fixa a todos os produtos, o valor a informar no campo 'Porcentagem fixa' desse método de pagamento com desconto é:
 
-&#x20;$$= (100 + Enterprise Fee)*Desired Discount/100$$&#x20;
+&#x20;$$= (100 + Taxa da Empresa) * Desconto Desejado / 100$$&#x20;
 
-eg. for a business with an enterprise fee of 20% who would like to offer a 5% discount to volunteers, the amount to enter in the flat percent of this payment method is:
+Ex: para um negócio com Taxa da Empresa de 20% que quer oferecer 5% de desconto aos voluntários:
 
 $$= -(100 + 20) *5/100 = -6$$&#x20;
 {% endhint %}
 
-* Visit your **Enterprise -> Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-payment-methods)’ from the left hand menu.  Set up the following Tag rules:
+* Visite **Empresa -> Configurações** e selecione '[Regras de Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-payment-methods)' no menu à esquerda. Configure:
 
-Default: Payment Methods tagged ‘volunteer’ are not visible.\
-For customers tagged ‘volunteer’ payment methods tagged ‘volunteer’ are visible.
+Padrão: Métodos de pagamento marcados 'voluntario' não são visíveis.\
+Para clientes marcados 'voluntario', métodos de pagamento marcados 'voluntario' são visíveis.
 
 ![](<../../.gitbook/assets/volunteer 2.jpg>)
 
-* When you open an [order cycle](../../basic-features/shopfront/order-cycle/), ensure to select at least two payment methods on Page 4, under 'Checkout Options' - the tagged payment method which offers volunteers a discount and an un-tagged method visible for all customers.
+* Quando você abre um [ciclo de pedidos](../../basic-features/shopfront/order-cycle/), garanta selecionar pelo menos dois métodos de pagamento na Página 4, em 'Opções de Checkout' — o método marcado com tag que oferece desconto aos voluntários e um método sem tag visível pra todos.
 
 <figure><img src="../../.gitbook/assets/volunteer 4.jpg" alt=""><figcaption></figcaption></figure>
 
-At checkout, this is an example of what a volunteer will view (when logged into their OFN account):
+No checkout, este é um exemplo do que um voluntário verá (quando logado na conta):
 
-![Checkout view for volunteer](<../../.gitbook/assets/volunteer 5.jpg>)
-
+![Visão de checkout do voluntário](<../../.gitbook/assets/volunteer 5.jpg>)

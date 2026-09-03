@@ -1,65 +1,65 @@
-# Open your Shop on 'Preview'
+# Abrir sua loja em 'Preview'
 
 {% hint style="info" %}
-This functionality is best achieved using the [Tags and Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md) feature of the platform.
+Essa funcionalidade é melhor alcançada usando o recurso [Tags e Regras de Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md).
 {% endhint %}
 
-## Introduction
+## Introdução
 
-As a hub manager you may often be asked by your suppliers to see what their products look like on your shop front before the order cycle goes 'live' to customers.  Suppliers may wish to tweak their listings- change a photo or add to their product descriptions for example.  This is especially common in the early days (weeks and months) of a new hub.
+Como gerente de central, você frequentemente pode ser solicitado pelos fornecedores a ver como os produtos deles ficam na sua vitrine antes do ciclo ir ao ar pros clientes. Fornecedores podem querer ajustar seus cadastros — mudar uma foto ou adicionar às descrições dos produtos, por exemplo. Isso é especialmente comum nos primeiros dias (semanas e meses) de uma nova central.
 
-The process below outlines how to implement a 'Preview' Order Cycle. It draws on the highly flexible feature of Tag and Tag Rules on the OFN platform.
+O processo abaixo descreve como implementar um Ciclo de Pedidos em 'Preview'. Depende do recurso altamente flexível de Tags e Regras de Tag.
 
 {% hint style="info" %}
-Your enterprise will need to be listed as a Hub on the OFN platform to add a tag to order cycles.
+Sua empresa precisará estar listada como Central na Nossa Feira pra adicionar tag a ciclos.
 {% endhint %}
 
-## Process
+## Processo
 
 {% hint style="warning" %}
-This is a **TWO** step process:&#x20;
+Este é um processo em **DUAS** etapas:
 
-1. Opening an Order Cycle which only you and suppliers can view.
-2. Removing the tag which facilitates (1) when the order cycle goes 'live' to customers.
+1. Abrir um Ciclo que apenas você e os fornecedores podem visualizar.
+2. Remover a tag que facilita (1) quando o ciclo vai ao ar pros clientes.
 {% endhint %}
 
-### Step one
+### Passo 1
 
-* Login to your business OFN account and visit [Customers](https://openfoodnetwork.org.uk/admin/customers) page.
-* Click **+ New Customer** and add the email addresses of your suppliers. (If they have placed an order with your shop/hub in the past then they will already be a customer of your enterprise and so this step is not necessary.)
-* In the ‘tags’ column type in ‘producer’ for that customer.
+* Faça login na sua conta e visite a página de [Clientes](https://openfoodnetwork.org.uk/admin/customers).
+* Clique em **+ Novo Cliente** e adicione os emails dos seus fornecedores. (Se já fizeram um pedido na sua loja no passado, já serão clientes e esse passo não é necessário.)
+* Na coluna 'tags', digite 'produtor' pra esse cliente.
 
 ![](<../../.gitbook/assets/preview 3.jpg>)
 
-* Visit your [Order Cycles](https://openfoodnetwork.org.uk/admin/order\_cycles) page. &#x20;
-* Set up your next [order cycle](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md). Set the opening time as ‘now’ and the closing time your usual closing time.
-* On page 3 (‘Outgoing Products’) add ‘preview’ into the tag section:
+* Visite sua página de [Ciclos de Pedidos](https://openfoodnetwork.org.uk/admin/order\_cycles).
+* Configure seu próximo [ciclo](../../basic-features/shopfront/order-cycle/order-cycles-for-hubs.md). Defina o horário de abertura como 'agora' e o horário de fechamento como o usual.
+* Na página 3 ('Produtos Saintes') adicione 'preview' na seção de tags:
 
 ![](<../../.gitbook/assets/preview 4.jpg>)
 
-* Visit your **Enterprise -> Settings** page and select ‘[Tag Rules](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront)’ from the left hand menu.  Set up the following Tag rules:\
-  Default: Order Cycles tagged ‘preview’ are not visible.\
-  For Customers tagged ‘producer’, Order Cycles tagged ‘preview’ are visible.
+* Visite **Empresa -> Configurações** e selecione '[Regras de Tag](../../basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules.md#show-hide-order-cycles-at-my-shopfront)' no menu à esquerda. Configure:\
+  Padrão: Ciclos marcados 'preview' não são visíveis.\
+  Para clientes marcados 'produtor', Ciclos marcados 'preview' são visíveis.
 
 ![](<../../.gitbook/assets/preview 2.jpg>)
 
-**Bingo!  Your order cycle is now open for your producers to view their products on your shop front but general customers will not be able to view (or shop).**
+**Pronto! Seu ciclo agora está aberto pros produtores visualizarem seus produtos na sua vitrine, mas clientes gerais não conseguirão ver (nem comprar).**
 
 {% hint style="warning" %}
-Producers/suppliers can make purchases during this time
+Produtores/fornecedores podem fazer compras durante esse período.
 {% endhint %}
 
-### Step Two
+### Passo 2
 
-* **Set a reminder on your phone/calendar to edit your order cycles at the time and day you wish shopping to commence.**
-* At this time visit your [order cycles](https://openfoodnetwork.org.uk/admin/order\_cycles) and select ‘Edit’ next to the one you wish to make ‘live’ to customers:
+* **Defina um lembrete no celular/calendário pra editar seus ciclos no horário e dia que quer que as compras comecem.**
+* Nesse horário, visite seus [ciclos](https://openfoodnetwork.org.uk/admin/order\_cycles) e selecione 'Editar' ao lado do que quer tornar 'ao vivo' pros clientes:
 
 ![](<../../.gitbook/assets/preview 5.jpg>)
 
-* Visit ‘Outgoing Products’ section on page 3 and remove the tag:
+* Vá na seção 'Produtos Saintes' na página 3 e remova a tag:
 
 ![](<../../.gitbook/assets/preview 6.jpg>)
 
-**All your customers will be able to view your shop and make purchases now!**
+**Todos os seus clientes conseguirão ver sua loja e fazer compras agora!**
 
 ###

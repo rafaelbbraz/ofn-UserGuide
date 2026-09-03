@@ -1,117 +1,117 @@
-# Customise your shop appearance
+# Customizar a aparência da sua loja
 
-There are a number of ways you can manipulate the appearance of your shop to suite your customer base.  These primarily come in two broad groups:
+Há várias formas de você manipular a aparência da sua loja pra atender sua base de clientes. Elas vêm em dois grandes grupos:
 
-* [Overall shop appearance](customise-your-shop-appearance.md#overall-shop-appearance)
-* [Product ordering in your shop front](customise-your-shop-appearance.md#product-ordering)
+* [Aparência geral da loja](customise-your-shop-appearance.md#overall-shop-appearance)
+* [Ordenação de produtos na vitrine](customise-your-shop-appearance.md#product-ordering)
 
-## Overall shop appearance
+## Aparência geral da loja
 
-Your overall shop appearance can be customised using the '[White Label](../../basic-features/shopfront/white-label-site.md)' feature of the platform. This is found from visiting Enterprises -> Settings -> White Label.
+A aparência geral pode ser customizada usando o recurso '[White Label](../../basic-features/shopfront/white-label-site.md)' da plataforma. Encontrado em Empresas -> Configurações -> White Label.
 
-Currently the two main options you can take advantage of are:
+Atualmente as duas opções principais são:
 
-* [Removing OFN branding](customise-your-shop-appearance.md#removing-ofn-branding) (highlighted in red below)
-* [Customising menu tabs on your shop front](customise-your-shop-appearance.md#customising-menu-tabs) (highlighted in green below)
+* [Remover marca OFN](customise-your-shop-appearance.md#removing-ofn-branding) (destacado em vermelho abaixo)
+* [Customizar abas de menu na sua vitrine](customise-your-shop-appearance.md#customising-menu-tabs) (destacado em verde abaixo)
 
 <figure><img src="../../.gitbook/assets/places (1).jpg" alt=""><figcaption></figcaption></figure>
 
-### Removing OFN branding
+### Remover marca OFN
 
-While for some enterprises being a member of the OFN family is part of their food enterprise's story, for others it can be confusing- especially for customers.  (For instance, a customer may think they placed an order with OFN and hence get in touch with your local OFN support team asking to cancel or add items, rather than contacting you directly.)
+Enquanto pra algumas empresas ser membro da família OFN faz parte da história do negócio, pra outras pode ser confuso — especialmente pros clientes. (Por exemplo, um cliente pode achar que fez o pedido com a OFN e portanto entrar em contato com a equipe de suporte da OFN pedindo pra cancelar ou adicionar itens, em vez de contatar você diretamente.)
 
-By visiting the [White Label](../../basic-features/shopfront/white-label-site.md) menu via your Enterprise settings, the first option ('Hide OFN navigation') allows you to manipulate which part of the OFN branding you would like to remove.
+Visitando o menu [White Label](../../basic-features/shopfront/white-label-site.md) nas configurações da Empresa, a primeira opção ('Ocultar navegação OFN') permite manipular qual parte da marca OFN você quer remover.
 
 <figure><img src="../../.gitbook/assets/remove 1.jpg" alt=""><figcaption></figcaption></figure>
 
-To just remove the top menu (highlighted above in red) then simply check the box as below but do not add an alternative logo for your organisation.
+Pra apenas remover o menu superior (destacado acima em vermelho), simplesmente marque a caixa como abaixo mas não adicione um logo alternativo.
 
 <figure><img src="../../.gitbook/assets/just remove menu.jpg" alt=""><figcaption></figcaption></figure>
 
-Your shop front will now appear as:
+Sua vitrine agora aparecerá como:
 
 <figure><img src="../../.gitbook/assets/menu gone.jpg" alt=""><figcaption></figcaption></figure>
 
-Uploading a new image to replace the top right-hand OFN logo will also allow you to add a custom link to an external website.  The OFN logo at the top of your shop front will, for most instances, link to their main OFN landing page.  You may have a website which tells your food hub story etc.  It would, therefore, perhaps be good to direct customers to this.
+Fazer upload de uma nova imagem pra substituir o logo OFN no canto superior direito também permite adicionar um link customizado a um site externo. O logo OFN no topo da sua vitrine, na maioria das instâncias, linka pra página principal da OFN. Você pode ter um site que conta a história da sua central etc. Pode ser bom direcionar os clientes pra lá.
 
 <figure><img src="../../.gitbook/assets/white label 1 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-The option to add a hyperlink will only become available after an image has been uploaded and saved.
+A opção de adicionar um hyperlink só fica disponível após uma imagem ter sido enviada e salva.
 {% endhint %}
 
-Your edited shop front will now appear as:
+Sua vitrine editada agora aparecerá como:
 
 <figure><img src="../../.gitbook/assets/white label shop front (1).jpg" alt=""><figcaption></figcaption></figure>
 
-### Customising menu tabs
+### Customizar abas de menu
 
-The standard menu tabs which will appear under your shop name, logo and location are:
+As abas de menu padrão que aparecerão sob o nome da sua loja, logo e localização são:
 
-* <mark style="color:green;">**Notices:**</mark>  This will only be visible if you have entered text into the Shopfront Message and Shopfront Closed Message found under [Enterprise -> Settings -> Shop Preferences](../../basic-features/enterprise-profile/enterprise-settings.md).
-* <mark style="color:blue;">**Shop:**</mark> This is only visible for enterprises listed as Producer Shops or Hubs.
-* <mark style="color:red;">**About:**</mark> This is visible for all enterprises.  The image and text can be edited from [Enterprise -> Settings -> Images/About](../../basic-features/enterprise-profile/enterprise-settings.md) respectively.
-* <mark style="color:red;">**Producers:**</mark> This is a list of all the producers with whom you share enterprise permissions which means your shop front can retail their products.&#x20;
-* <mark style="color:red;">**Contact Us:**</mark> This is visible for all enterprises.  The image and text can be edited from [Enterprise -> Settings ->](../../basic-features/enterprise-profile/enterprise-settings.md) Address/Contact/Social.
-* <mark style="color:green;">**Groups:**</mark> If your food enterprise is part of a larger group on the OFN network then this tab will be visible.  You can opt to remove it using the White Label feature.
+* <mark style="color:green;">**Avisos:**</mark> Isso só fica visível se você preencheu texto na Mensagem da Vitrine e Mensagem de Loja Fechada em [Empresa -> Configurações -> Preferências da Loja](../../basic-features/enterprise-profile/enterprise-settings.md).
+* <mark style="color:blue;">**Loja:**</mark> Visível apenas pra empresas listadas como Lojas de Produtor ou Centrais.
+* <mark style="color:red;">**Sobre:**</mark> Visível pra todas as empresas. A imagem e texto podem ser editados em [Empresa -> Configurações -> Imagens/Sobre](../../basic-features/enterprise-profile/enterprise-settings.md).
+* <mark style="color:red;">**Produtores:**</mark> Lista de todos os produtores com quem você compartilha permissões — significa que sua vitrine pode comercializar os produtos deles.
+* <mark style="color:red;">**Contato:**</mark> Visível pra todas as empresas. A imagem e texto podem ser editados em [Empresa -> Configurações](../../basic-features/enterprise-profile/enterprise-settings.md) -> Endereço/Contato/Social.
+* <mark style="color:green;">**Grupos:**</mark> Se sua empresa é parte de um grupo maior na rede OFN, essa aba fica visível. Você pode optar por remover usando o recurso White Label.
 
-Those highlighted above in red will be visible for all enterprises and can not, at present, be removed.  Those in green can be removed.
+Os destacados em vermelho ficam visíveis pra todas as empresas e não podem ser removidos no momento. Os em verde podem ser removidos.
 
-#### Hide Groups Tab
+#### Ocultar aba de Grupos
 
-Under the [White Label ](../../basic-features/shopfront/white-label-site.md)feature, you can opt to hide the Groups tab from your shop front. &#x20;
+No recurso [White Label](../../basic-features/shopfront/white-label-site.md), você pode optar por ocultar a aba Grupos da sua vitrine.
 
 <figure><img src="../../.gitbook/assets/hide groups.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-This might be helpful if all the other food enterprises which are in the same group as yours are dispersed across the country and hence not accessible to your customers.
+Isso pode ser útil se todas as outras empresas do mesmo grupo estão dispersas pelo país e portanto não acessíveis aos seus clientes.
 {% endhint %}
 
-#### Add a custom tab
+#### Adicionar aba customizada
 
-For organisations who offer more than food retail but perhaps don't have another external website, this option allows you to give customers more information about your food enterprise.  For example, you may wish to use the tab to recruit volunteers to help with packing and distributing food orders. &#x20;
+Para organizações que oferecem mais que varejo de alimentos mas talvez não tenham outro site externo, essa opção permite dar aos clientes mais informações sobre sua empresa. Por exemplo, você pode querer usar a aba pra recrutar voluntários pra ajudar com embalagem e distribuição.
 
-The facility to add this is found under the [White Label](../../basic-features/shopfront/white-label-site.md) feature:
+O recurso pra adicionar isso fica em [White Label](../../basic-features/shopfront/white-label-site.md):
 
 <figure><img src="../../.gitbook/assets/custom tab.jpg" alt=""><figcaption></figcaption></figure>
 
-## Product ordering
+## Ordenação de produtos
 
-Although customers can use the filter and search functions to find the products they are looking for, some shops like to organise their product list to optimise sales.
+Embora os clientes possam usar as funções de filtro e busca pra encontrar os produtos que procuram, algumas lojas gostam de organizar a lista de produtos pra otimizar vendas.
 
 {% hint style="info" %}
-By default, products will be listed in alphabetical order.
+Por padrão, os produtos são listados em ordem alfabética.
 {% endhint %}
 
-There are two options:
+Há duas opções:
 
-* To group products according to their type
-* To group products according to their producer.
+* Agrupar produtos pelo tipo
+* Agrupar produtos pelo produtor
 
-You can choose between the two by visiting [Enterprises -> Settings -> Shop Preferences](../../basic-features/enterprise-profile/enterprise-settings.md)&#x20;
+Você escolhe entre as duas visitando [Empresas -> Configurações -> Preferências da Loja](../../basic-features/enterprise-profile/enterprise-settings.md).
 
 <figure><img src="../../.gitbook/assets/prod ordering.jpg" alt=""><figcaption></figcaption></figure>
 
-An example of sorting my categories might look like:
+Um exemplo de ordenação por categorias pode ficar assim:
 
 <figure><img src="../../.gitbook/assets/example category.jpg" alt=""><figcaption></figcaption></figure>
 
-Here you will have all products listed in the category 'Special Offers' first, followed by those in the 'Fruit & veg', 'Bread & Baking' and 'Meat' categories.  Any remaining products not in one of these four categories will be found after this.
+Aqui você terá todos os produtos listados na categoria 'Ofertas Especiais' primeiro, seguidos por 'Frutas e Verduras', 'Pães e Panificados' e 'Carnes'. Quaisquer produtos restantes não pertencentes a uma dessas quatro categorias virão depois.
 
 {% hint style="info" %}
-Note: within each category, the products will be sorted alphabetically and not by producer.  So you may have Apples by farmer A, Apples by farmer B... before you get more of farmer A's produce.
+Nota: dentro de cada categoria, os produtos serão ordenados alfabeticamente e não pelo produtor. Então você pode ter Maçãs do agricultor A, Maçãs do agricultor B... antes de ver mais produtos do agricultor A.
 {% endhint %}
 
-An example of sorting by producer may look like:
+Um exemplo de ordenação por produtor:
 
 <figure><img src="../../.gitbook/assets/sort by producer.jpg" alt=""><figcaption></figcaption></figure>
 
-Here you will have all products made by 'Lemon & Canela' first, followed by those by 'Blackbirds Micro Bakery, 'Sole of Discretion'... and so on.  This works well if you have only one primary supplier of each type of product.
+Aqui você terá todos os produtos feitos por 'Lemon & Canela' primeiro, seguidos por 'Blackbirds Micro Bakery', 'Sole of Discretion'... e assim por diante. Funciona bem se você tem apenas um fornecedor principal de cada tipo de produto.
 
 {% hint style="info" %}
-Note: for each producer, the products will be sorted alphabetically and not grouped according to category.&#x20;
+Nota: para cada produtor, os produtos serão ordenados alfabeticamente e não agrupados por categoria.
 {% endhint %}
 
 {% hint style="success" %}
-The method which is 'right' for your enterprise will be distinct for you.  If you find that the big attraction of your food hub for customers is, say, fruit and vegetables, then perhaps it might work well to organise your products by category, with Fruit & Veg first.  If on the other hand, a well known and award winning butcher supplies you food hub and is a key attraction then it might work well to organise your products by producer, with this Butcher coming first.
+O método 'certo' pra sua empresa será distinto. Se você descobre que a grande atração da sua central pros clientes são, digamos, frutas e verduras, então talvez organizar os produtos por categoria com Frutas e Verduras primeiro funcione bem. Se por outro lado, um açougueiro conhecido e premiado fornece pra sua central e é uma atração chave, pode funcionar organizar por produtor com esse Açougueiro vindo primeiro.
 {% endhint %}

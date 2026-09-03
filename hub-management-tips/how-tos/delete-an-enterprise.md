@@ -1,8 +1,7 @@
-# Delete an Enterprise
+# Deletar uma empresa
 
-Often as a hub manager you may [setup an enterprise](../../basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md) on behalf of one of your potential suppliers.  Sometimes suppliers may change their mind and decide not to register on OFN and sell through your hub.  This is a shame but hopefully they will change their minds in the future!
+Frequentemente, como gerente de central, você pode [configurar uma empresa](../../basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md) em nome de um dos seus fornecedores potenciais. Às vezes os fornecedores podem mudar de ideia e decidir não se cadastrar na Nossa Feira nem vender pela sua central. É uma pena, mas quem sabe eles mudam de ideia no futuro!
 
-In the meantime their enterprise will be listed in your Enterprise list and may be confusing for you.  To delete the Enterprise you will need to contact your local [OFN support team](../../local-ofn-organizations-and-contacts.md).  
+Enquanto isso, a empresa deles ficará listada na sua lista de Empresas e pode ser confusa pra você. Pra deletar a Empresa você precisará entrar em contato com a [equipe de suporte](../../local-ofn-organizations-and-contacts.md).
 
-Currently users are unable to delete enterprises themselves although it is a functionality that OFN would like to implement in the future.
-
+Atualmente os usuários não conseguem deletar empresas eles mesmos, embora seja uma funcionalidade que a Nossa Feira gostaria de implementar no futuro.
