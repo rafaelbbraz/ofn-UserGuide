@@ -1,11 +1,11 @@
-# Customer management and conditional displays/prices
+# Gerenciamento de clientes e exibições/preços condicionais
 
-Often an enterprise may want to offer individual customers and wholesale retailers different prices (or even different products- such as bulk buys).
+Muitas vezes uma empresa quer oferecer a clientes individuais e varejistas atacado preços diferentes (ou até produtos diferentes — como compras em lote).
 
-For some enterprises (such as community food groups) 'members' may be eligible to reduced rates in comparison to 'non members'.
+Para algumas empresas (como grupos comunitários de alimentos), 'membros' podem ser elegíveis a preços reduzidos em comparação com 'não-membros'.
 
-'[**Tags and Tag rules**](tags-and-tag-rules.md)' are the mechanism on the OFN platform whereby differential pricing and other benefits can be imparted to specific customer groups, if desired.
+'[**Tags e Regras de Tag**](tags-and-tag-rules.md)' são o mecanismo na Nossa Feira pelo qual preços diferenciados e outros benefícios podem ser atribuídos a grupos específicos de clientes.
 
-For step-by-step guides on how to implement tags and tag rules to provide specific functionalities view the [How To section here](../../../hub-management-tips/how-tos/).
+Para guias passo a passo sobre como implementar tags e regras pra fornecer funcionalidades específicas, veja a [seção Como Fazer aqui](../../../hub-management-tips/how-tos/).
 
-You may find it especially helpful to read [this comparison of vouchers and tags and tag rules](../../../hub-management-tips/how-tos/vouchers-v.-tags.md) before you start.  It highlights our recommended method to achieve the functionality you are looking for.
+Você pode achar especialmente útil ler [esta comparação entre vouchers e tags/regras de tag](../../../hub-management-tips/how-tos/vouchers-v.-tags.md) antes de começar. Ela destaca nosso método recomendado pra atingir a funcionalidade que você procura.
