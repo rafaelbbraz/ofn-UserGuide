@@ -1,22 +1,21 @@
-# Making a producer profile searchable by product category
+# Tornando um perfil de produtor pesquisável por categoria de produto
 
-When customers come to the Open Food Network they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock (see below).&#x20;
+Quando os clientes vêm à Nossa Feira, podem buscar produtores por nome ou localização. Também podem filtrar os perfis de produtores pelos tipos de produtos que comercializam (veja abaixo).
 
 ![](../../.gitbook/assets/filter-by-product.png)
 
-Producers with online shops on the OFN have products in the system, which get picked up by the search filter tool. However, producers who don’t have an OFN shop (just a profile) won’t be searchable in this way unless they add some fake products into the system. By adding a dummy product for each product category that you want to be searchable under, you’ll show up when customers search for your products.
+Produtores com lojas online na Nossa Feira têm produtos no sistema, que são captados pela ferramenta de filtro. Mas produtores que não têm loja (apenas perfil) não serão pesquisáveis dessa forma a menos que adicionem alguns produtos fictícios ao sistema. Ao adicionar um produto de exemplo para cada categoria em que quer ser pesquisável, você aparecerá quando os clientes buscarem por seus produtos.
 
-Here’s how to do this…
+Aqui vai como fazer isso...
 
-Click **Products** on the main horizontal menu, and then click **+ New Product** to add your dummy products.
+Clique em **Produtos** no menu horizontal principal e depois em **+ Novo Produto** pra adicionar seus produtos fictícios.
 
 ![](<../../.gitbook/assets/add new product.jpg>)
 
-Because you don’t have an OFN shopfront, this product won’t be visible anywhere. Therefore you can call it whatever you like, and set the price and units to anything. The important thing is that you select the correct **Product Category** that you wish to be found under. Below is an example of a dummy meat product. This producer’s profile will now show if a customer searches for producers of meat.
+Como você não tem vitrine na Nossa Feira, esse produto não ficará visível em lugar nenhum. Portanto, pode chamá-lo do que quiser e definir preço e unidades de qualquer forma. O importante é selecionar a **Categoria de Produto** correta em que quer ser encontrado. Abaixo, um exemplo de produto fictício de carne. O perfil desse produtor agora vai aparecer quando um cliente buscar por produtores de carne.
 
 ![](<../../.gitbook/assets/dummy meat.jpg>)
 
-Their summary profile will also indicate that they sell meat products (below).
+O perfil resumido também indicará que ele vende produtos de carne (abaixo).
 
 ![](../../.gitbook/assets/meat.png)
-
