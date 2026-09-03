@@ -1,103 +1,103 @@
 ---
-description: Order Cycle, Product, Customer and Enterprise Fee Management reports
+description: Relatórios de Ciclo de Pedidos, Produtos, Clientes e Taxas da Empresa
 ---
 
-# Reports for Hub Management
+# Relatórios para gerenciamento de central
 
-On this page you can find more information about reports listed in the following sections:
+Nesta página você encontra mais informações sobre relatórios listados nas seguintes seções:
 
-* [Order Cycle Management](reports-for-hub-management.md#order-cycle-management)
-* [Products & Inventory](reports-for-hub-management.md#product-management)
-* [Customers](reports-for-hub-management.md#customer-management)
-* [Enterprise Fee Management](reports-for-hub-management.md#enterprise-fees)
+* [Gerenciamento de Ciclo de Pedidos](reports-for-hub-management.md#order-cycle-management)
+* [Produtos e Estoque](reports-for-hub-management.md#product-management)
+* [Clientes](reports-for-hub-management.md#customer-management)
+* [Gerenciamento de Taxas da Empresa](reports-for-hub-management.md#enterprise-fees)
 
-## Order Cycle Management
+## Gerenciamento de Ciclo de Pedidos
 
-There are two reports in the Order Cycle Management section: Payment Methods and Delivery Report.&#x20;
+Há dois relatórios na seção Gerenciamento de Ciclo de Pedidos: Métodos de Pagamento e Relatório de Entrega.
 
 {% hint style="success" %}
-A **Customer's Balance** (ie. the sum of monies paid and owed across all orders they have placed with your food enterprise) is listed in both the Payment Method and Delivery reports. These are a good place to see at a glance if a customer is running up a big debt.
+Um **Saldo do Cliente** (a soma de valores pagos e devidos em todos os pedidos feitos na sua empresa) está listado tanto no relatório de Método de Pagamento quanto no de Entrega. Bom lugar pra ver rapidamente se um cliente está acumulando uma dívida grande.
 {% endhint %}
 
-At a glance, the data contained in these reports can be summarised:
+Resumidamente, os dados contidos nesses relatórios:
 
-|                       | Payment Method | Delivery Report |
-| --------------------- | -------------- | --------------- |
-| Customer name         | Y              | Y               |
-| Customer phone no     | Y              | Y               |
-| Customer email        | Y              | N               |
-| Hub                   | Y              | Y               |
-| Shipping Method       | Y              | Y               |
-| Delivery Address\*    | N              | Y               |
-| Shipping Category\*\* | N              | Y               |
-| Payment Method        | Y              | Y               |
-| Order Notes           | N              | Y               |
-| Order Total           | Y              | Y               |
-| Customer Balance      | Y              | Y               |
+|                              | Método de Pagamento | Relatório de Entrega |
+| ---------------------------- | ------------------- | -------------------- |
+| Nome do cliente              | Sim                 | Sim                  |
+| Telefone do cliente          | Sim                 | Sim                  |
+| Email do cliente             | Sim                 | Não                  |
+| Central                      | Sim                 | Sim                  |
+| Método de envio              | Sim                 | Sim                  |
+| Endereço de entrega\*        | Não                 | Sim                  |
+| Categoria de frete\*\*       | Não                 | Sim                  |
+| Método de pagamento          | Sim                 | Sim                  |
+| Notas do pedido              | Não                 | Sim                  |
+| Total do pedido              | Sim                 | Sim                  |
+| Saldo do cliente             | Sim                 | Sim                  |
 
-\*Delivery Address is either the hub/distributor address (for pick up) or an address submitted by the customer (for delivery)
+\*Endereço de Entrega é o endereço da central/distribuidor (pra retirada) ou um endereço informado pelo cliente (pra entrega).
 
-\*\*Shipping Category = default, frozen, refrigerated
+\*\*Categoria de frete = padrão, congelado, refrigerado
 
-![Payment Method report](<../../.gitbook/assets/payment method (1).jpg>)
+![Relatório de Método de Pagamento](<../../.gitbook/assets/payment method (1).jpg>)
 
-![Delivery Methods](<../../.gitbook/assets/delivery method.jpg>)
+![Métodos de Entrega](<../../.gitbook/assets/delivery method.jpg>)
 
-## Product Management
+## Gerenciamento de produtos
 
-Under Products & Inventory you will find three reports which are useful if you wish to review items stocked by your hub from different producers.
+Em Produtos e Estoque você encontra três relatórios úteis se quer revisar itens comercializados pela sua central de diferentes produtores.
 
-The **All Products** and **Inventory** reports differ only in that the latter (Inventory) contains only data for products with stock levels greater than zero. &#x20;
+Os relatórios **Todos os Produtos** e **Estoque** diferem apenas no fato de que o último (Estoque) contém apenas dados de produtos com níveis maiores que zero.
 
-The data they contain for each product is:
+Os dados que contêm para cada produto são:
 
-* Supplier name and city/suburb of supplier's address
-* Product name, variant name and SKU
-* Product property and category (taxon)
-* Price
-* Group buy unit quantity (if applicable)
-* Stock levels (by selecting 'In Stock' from the Columns dropdown)
+* Nome do fornecedor e cidade/bairro do endereço do fornecedor
+* Nome do produto, nome da variante e SKU
+* Propriedade do produto e categoria
+* Preço
+* Quantidade de unidade de compra em grupo (se aplicável)
+* Níveis de estoque (selecionando 'Em Estoque' no menu suspenso de Colunas)
 
-Below is an example of the All Products Report:
+Abaixo, um exemplo do Relatório Todos os Produtos:
 
-![All Products Report](<../../.gitbook/assets/all products.jpg>)
+![Relatório Todos os Produtos](<../../.gitbook/assets/all products.jpg>)
 
-The **Lettuce Share** report gives more details about each product: It's name, variant name (listed under 'Description'), unit (g, l, item name etc), pack size (ie. for a product of '500g tomatoes' the unit = g, pack size = 500), price, tax included in cost, producer properties (not product properties) and product category (taxon).
+O relatório **Lettuce Share** dá mais detalhes sobre cada produto: nome, nome da variante (listado em 'Descrição'), unidade (g, L, nome do item etc.), tamanho do pacote (ex: para um produto de '500g tomates' unidade = g, tamanho do pacote = 500), preço, imposto incluído no custo, propriedades do produtor (não propriedades do produto) e categoria do produto.
 
-![Lettuce Share report](<../../.gitbook/assets/lettuce share.jpg>)
+![Relatório Lettuce Share](<../../.gitbook/assets/lettuce share.jpg>)
 
-## Customer Management
+## Gerenciamento de clientes
 
-You can use this report to view the number of orders placed by a customer per order cycle- particularly useful if someone orders more than once but wants to collect everything in one box.
+Você pode usar este relatório pra ver o número de pedidos feitos por um cliente por ciclo — particularmente útil se alguém pede mais de uma vez mas quer coletar tudo em uma única caixa.
 
 <figure><img src="../../.gitbook/assets/customer report.jpg" alt=""><figcaption></figcaption></figure>
 
-## Enterprise Fees
+## Taxas da Empresa
 
-Enterprises can set up [Enterprise Fees](../shopfront/enterprise-fees.md) to identify and control allocation of costs / prices for different purposes. These fees enable price transparency to customers when they visit your shopfront.&#x20;
+Empresas podem configurar [Taxas da Empresa](../shopfront/enterprise-fees.md) pra identificar e controlar a alocação de custos/preços com diferentes finalidades. Essas taxas permitem transparência de preço para os clientes quando visitam sua vitrine.
 
 {% hint style="success" %}
-The Enterprise Fee Summary report is used to summarise the amounts of fees that were charged, and to whom.&#x20;
+O relatório de Resumo de Taxas da Empresa é usado pra resumir os valores das taxas cobradas e para quem.
 {% endhint %}
 
-The report can be filtered by Shopfront (**Hub**), **Producer** and **Order** **Cycle**, as well as Fee Names and Shipping and Payment methods.
+O relatório pode ser filtrado por Vitrine (**Central**), **Produtor** e **Ciclo de Pedidos**, além de Nomes de Taxa e métodos de Envio e Pagamento.
 
-![Enterprise Fee Summary Report](<../../.gitbook/assets/ent fee summary.jpg>)
+![Relatório de Resumo de Taxas da Empresa](<../../.gitbook/assets/ent fee summary.jpg>)
 
-**Example 1**: a Hub adds a mark up fee of 18% to selected suppliers.  These fees are added in the 'Incoming' section of the order cycle.&#x20;
+**Exemplo 1**: uma central adiciona uma taxa de margem de 18% a fornecedores selecionados. Essas taxas são adicionadas na seção 'Entrantes' do ciclo.
 
 <figure><img src="../../.gitbook/assets/example1.jpg" alt=""><figcaption></figcaption></figure>
 
-**Example 2**: a Hub charges a transport fee which they pay to a Producer for picking up produce from other farmers and bringing it into the Hub. This fee is calculated as a percentage on every product in the order cycle. They can use the Enterprise Fee Summary report to calculate how much to pay that Producer for transport in each Order Cycle.
+**Exemplo 2**: uma central cobra uma taxa de transporte que é paga a um produtor por buscar produtos de outros agricultores e trazer à central. Essa taxa é calculada como percentual sobre cada produto no ciclo. Podem usar o relatório de Resumo de Taxas pra calcular quanto pagar ao produtor pelo transporte em cada ciclo.
 
 <figure><img src="../../.gitbook/assets/example2.jpg" alt=""><figcaption></figcaption></figure>
 
-### Data
+### Dados
 
-The data which found in an Enterprise Fee Summary Report includes:
+Os dados encontrados em um Relatório de Resumo de Taxas da Empresa incluem:
 
-* Fee type (Enterprise fee types are admin, packing, transport, fundraising, sales), name and tax rate of the fee.
-* Customer name
-* Where in the order cycle the fee is placed (incoming/outgoing products or order cycle coordinator fee)
-* Name of enterprise who set the fee ('Fee Calc on Transfer though')
-* Total value of enterprise fee collected for the sale of the line item.
+* Tipo de taxa (Tipos de taxa da empresa são administrativa, embalagem, transporte, arrecadação, vendas), nome e alíquota da taxa.
+* Nome do cliente
+* Onde no ciclo a taxa é colocada (produtos entrantes/saintes ou taxa do coordenador do ciclo)
+* Nome da empresa que definiu a taxa ('Cálculo da Taxa na Transferência')
+* Valor total da taxa da empresa coletada pela venda do item.

@@ -1,32 +1,31 @@
-# Packing Reports
+# Relatórios de embalagem
 
-## Packing Reports
+## Relatórios de embalagem
 
-Some enterprises use their order confirmation emails as packing sheets, or download and modify the Order Cycle Customer Totals report to suit their specific needs. The two Packing Reports offer additional options for managing the packing process.
+Algumas empresas usam os emails de confirmação de pedido como folhas de embalagem, ou baixam e modificam o relatório de Totais por Cliente pra atender às suas necessidades. Os dois Relatórios de Embalagem oferecem opções adicionais pra gerenciar o processo.
 
-### **Pack by supplier**
+### **Empacotar por fornecedor**
 
-This report lists each supplier and their products. Next to each product is the name of the customers who ordered the product, and the quantity they ordered.&#x20;
-
-{% hint style="success" %}
-This report is helpful to check in items delivered by suppliers - keeping track of goods which may have been missed or are supplied damaged.
-{% endhint %}
-
-![Pack by Supplier Report](<../../.gitbook/assets/pack by supplier (1).jpg>)
-
-### **Pack by Customer**&#x20;
-
-This report lists each customer who placed an order and shows each item ordered by the customer, including the quantities of each item.&#x20;
+Este relatório lista cada fornecedor e seus produtos. Ao lado de cada produto está o nome dos clientes que pediram o produto e a quantidade.
 
 {% hint style="success" %}
-This report is useful for packing all of a customer's shopping in a crate/bag/box so it is ready for them to collect or for you to deliver.
+Este relatório é útil pra receber os itens entregues pelos fornecedores — acompanhando produtos que possam ter sido esquecidos ou entregues danificados.
 {% endhint %}
 
-![Pack by Customer Report](<../../.gitbook/assets/pack by customer (1).jpg>)
+![Relatório Empacotar por Fornecedor](<../../.gitbook/assets/pack by supplier (1).jpg>)
 
-### Pack by Product
+### **Empacotar por cliente**
 
-This report lists the products ordered with a list of the customers who have ordered each product and the quantity ordered.
+Este relatório lista cada cliente que fez um pedido e mostra cada item pedido, incluindo as quantidades.
+
+{% hint style="success" %}
+Este relatório é útil pra empacotar todas as compras do cliente em uma caixa/sacola/box, deixando pronto pra ele coletar ou pra você entregar.
+{% endhint %}
+
+![Relatório Empacotar por Cliente](<../../.gitbook/assets/pack by customer (1).jpg>)
+
+### Empacotar por produto
+
+Este relatório lista os produtos pedidos com uma lista dos clientes que pediram cada produto e a quantidade.
 
 <figure><img src="../../.gitbook/assets/pack by product (1).jpg" alt=""><figcaption></figcaption></figure>
-

@@ -1,57 +1,57 @@
-# OFN Invoices
+# Notas Fiscais da Nossa Feira
 
 {% hint style="danger" %}
-Please check regional regulations regarding the information legally required to be on an invoice. &#x20;
+Consulte as regulamentações regionais sobre as informações legalmente exigidas em uma nota fiscal.
 
-**Currently our invoices are not compliant to:**
+**Atualmente nossas notas fiscais não atendem plenamente à:**
 
-* **French law (in all circumstances)**
-* **UK law for enterprises which are VAT registered.**
+* **Legislação francesa (em todas as circunstâncias)**
+* **Legislação do UK pra empresas contribuintes de VAT.**
 
 \
-We hope to bring about updates to correct these aspects. In the meantime you may wish to invoice through a [complementary software package](../../complementary-tools-software/).
+Esperamos trazer atualizações pra corrigir esses aspectos. Enquanto isso, você pode emitir notas por um [pacote de software complementar](../../complementary-tools-software/).
 {% endhint %}
 
-Despite their shortcomings, OFN invoices can be a handy tool to print when packing orders for customers to collect.&#x20;
+Apesar das limitações, as notas fiscais da Nossa Feira podem ser uma ferramenta útil pra imprimir ao empacotar pedidos para os clientes coletarem.
 
-Unlike reports, invoices are printed in such a way as there is one document per order (or parcel to pack) with all the information relevant to the packing/collection/delivery process contained within it (items purchased, supplier the items are coming from, customer delivery/collection option, customer phone number in case of an issue etc).
+Diferente dos relatórios, notas são impressas de forma que há um documento por pedido (ou pacote a empacotar), com todas as informações relevantes ao processo de embalagem/coleta/entrega contidas nele (itens comprados, fornecedor dos itens, opção de entrega/coleta do cliente, telefone do cliente em caso de problema, etc.).
 
-Below is an example of an invoice:
+Abaixo, um exemplo de nota fiscal:
 
 ![](<../../.gitbook/assets/invoice basics.jpg>)
 
-On this page you can find details on:
+Nesta página você encontra detalhes sobre:
 
-* How to print and or send [single invoices](view-orders.md#printing-single-invoices)
-* [Batch printing](view-orders.md#batch-print-invoices) of invoices
-* [Hints & tips](view-orders.md#hints-and-tips)
+* Como imprimir e/ou enviar [notas individuais](view-orders.md#printing-single-invoices)
+* [Impressão em lote](view-orders.md#batch-print-invoices) de notas
+* [Dicas](view-orders.md#hints-and-tips)
 
-### **Printing single invoices**
+### **Imprimindo notas individuais**
 
-When you visit the 'Orders' page of your Dashboard there is a drop down menu to the left of the screen 'Actions'.  By checking the tick box next to the order you wish to print or send the invoice for, the Actions menu becomes active and you can opt to either send the invoice (by email) to the customer or download and print the pdf document yourself:
+Quando você visita a página 'Pedidos' do seu Dashboard, há um menu suspenso 'Ações' à esquerda da tela. Marcando a caixa ao lado do pedido para o qual quer imprimir ou enviar a nota, o menu Ações fica ativo e você pode escolher entre enviar a nota (por email) ao cliente ou baixar e imprimir o PDF você mesmo:
 
 ![](<../../.gitbook/assets/actions (2).jpg>)
 
-### Batch Print Invoices
+### Impressão em lote
 
-To save time you can print multiple invoices at once (rather than visiting each order in turn and selecting Actions-> Print Invoice).\
-On the Listing Orders page check the box to the left of orders for which you would like to send an invoice. You can increase the number of orders per page from 15 to 100 and select all at once, if desired.\
-Then click 'Print Invoices' from the Actions menu.
+Pra economizar tempo, você pode imprimir várias notas de uma vez (em vez de visitar cada pedido e selecionar Ações -> Imprimir Nota).\
+Na página de Listagem de Pedidos, marque a caixa à esquerda dos pedidos para os quais quer enviar uma nota. Você pode aumentar o número de pedidos por página de 15 pra 100 e selecionar todos de uma vez, se desejar.\
+Depois clique em 'Imprimir Notas' no menu Ações.
 
 ![](<../../.gitbook/assets/bulk print invoices.jpg>)
 
-A Loading page will pop up while the invoices are generated. On completion you will be able to view (and download) a file containing all the invoices for the orders selected:
+Uma página de Carregando aparecerá enquanto as notas são geradas. Ao concluir, você poderá visualizar (e baixar) um arquivo contendo todas as notas dos pedidos selecionados:
 
 ![](<../../.gitbook/assets/bulk print.jpg>)
 
-### Hints & tips
+### Dicas
 
-If you are batch printing invoices to aid organisation of your packing then you may find the following tips helpful:
+Se você está imprimindo notas em lote pra auxiliar a organização da embalagem, pode achar essas dicas úteis:
 
-* Using the 'Order cycle' name filter to identify only the relevant invoices for batch printing.
-* If you have more than one Shipping Method option for the Order Cycle and need to organise your packing room into boxes/parcels for collection and boxes/parcels for delivery (for instance) then you can use the Shipping Method filter to batch print the invoices in separate batches (saves having to sort through them at a later stage).
-* By default, the invoices selected for batch printing will be printed in the sequence in which the orders were completed.  By clicking on the 'Name' column heading in the listing Orders table you can sort the printed invoices alphabetically by customer name.
-* By default the produce on each invoice will be listed alphabetically.  It may be more helpful to have items listed by supplier.  This way, say, if you have a large box of different vegetables supplied by Farmer A, which has been ordered by customers M-Z then you can put all of customer M's vegetables purchased from Farmer A into their collection box at once as they are all listed together; and then move onto customer N etc, etc... before repeating the process for Farmer B's produce.  \
-  This option is enabled in your [Enterprise Settings](../enterprise-profile/enterprise-settings.md) > Business Details.
+* Use o filtro de 'Ciclo de Pedidos' pra identificar apenas as notas relevantes pra impressão em lote.
+* Se você tem mais de uma opção de Método de Envio para o Ciclo e precisa organizar seu espaço em caixas/pacotes pra coleta e caixas/pacotes pra entrega (por exemplo), pode usar o filtro de Método de Envio pra imprimir em lotes separados (evita ter que separar depois).
+* Por padrão, as notas selecionadas pra impressão em lote serão impressas na sequência em que os pedidos foram concluídos. Clicando no cabeçalho 'Nome' na tabela de listagem de Pedidos, você pode ordenar as notas impressas alfabeticamente por nome do cliente.
+* Por padrão, os produtos em cada nota serão listados alfabeticamente. Pode ser mais útil ter os itens listados por fornecedor. Assim, se você tem uma caixa grande de vegetais diferentes fornecida pelo Agricultor A, que foi pedida pelos clientes M-Z, pode colocar todos os vegetais que o cliente M comprou do Agricultor A na caixa de coleta dele de uma vez (já que estão listados juntos), depois mover pro cliente N etc., antes de repetir o processo pros produtos do Agricultor B.\
+  Essa opção é habilitada nas [Configurações da Empresa](../enterprise-profile/enterprise-settings.md) > Dados do Negócio.
 
 ##

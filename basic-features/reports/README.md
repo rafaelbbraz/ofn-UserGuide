@@ -1,24 +1,21 @@
-# Reports
+# Relatórios
 
-If you have opened an [Order Cycle](../shopfront/order-cycle/), you will be able to run reports to help with managing **packing,** **processing your orders**, and meet your **financial reporting** needs.
+Se você abriu um [Ciclo de Pedidos](../shopfront/order-cycle/), poderá gerar relatórios pra ajudar no gerenciamento, **embalagem**, **processamento de pedidos** e atender às suas necessidades de **relatórios financeiros**.
 
-You can access your reports by clicking on **Reports** on the main horizontal menu. &#x20;
+Você acessa seus relatórios clicando em **Relatórios** no menu horizontal principal.
 
 ![](../../.gitbook/assets/menu.jpg)
 
-This brings up a list of all the different options.  For most reports you are able to filter data by date range, hub name, producer name and order cycle name.&#x20;
+Isso abre uma lista de todas as opções. Para a maioria dos relatórios você pode filtrar dados por intervalo de datas, nome da central, nome do produtor e nome do ciclo de pedidos.
 
-![Reports available to view and download](../../.gitbook/assets/menu2.jpg)
+![Relatórios disponíveis pra visualizar e baixar](../../.gitbook/assets/menu2.jpg)
 
 {% hint style="danger" %}
-Reports written with ~~a line through them~~ are no longer maintained and will be removed from the platform in future updates.
+Relatórios escritos com ~~uma linha atravessando~~ não são mais mantidos e serão removidos da plataforma em atualizações futuras.
 {% endhint %}
 
+Nesta seção do Guia do Usuário você encontra:
 
-
-In this section of the User Guide you can find:
-
-* An [explanation of the common format and options](general-tips.md) available for all Reports.
-* A summary of the data included in each report type.
-* [OFN invoices](view-orders.md) and integrating with Xero invoices.
-
+* Uma [explicação do formato comum e opções](general-tips.md) disponíveis para todos os Relatórios.
+* Um resumo dos dados incluídos em cada tipo de relatório.
+* [Notas fiscais da Nossa Feira](view-orders.md) e integração com notas Xero.

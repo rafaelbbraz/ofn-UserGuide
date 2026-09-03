@@ -1,30 +1,29 @@
 ---
-description: Payment Reports
+description: Relatórios de pagamento
 ---
 
-# Payment  Reports
+# Relatórios de pagamento
 
-## Payment Reports
+## Relatórios de pagamento
 
 {% hint style="success" %}
-The three Payment reports are good for keeping track of total incoming and outgoing revenue for your food hub within a time frame.
+Os três relatórios de pagamento são bons pra acompanhar a receita total de entrada e saída da sua central em um período.
 {% endhint %}
 
-### Payment by Type
+### Pagamento por Tipo
 
-The simplest payment report. This documents the total of paid, balance due and credit owing for each different type of payment a hub may employ (ie. a total for Stripe payments, a total for cash/EFT payments and one for PayPal).
+O relatório de pagamento mais simples. Documenta os totais de pago, saldo devedor e crédito devido para cada tipo diferente de pagamento que uma central usa (ex: total pra pagamentos Stripe, total pra dinheiro/transferência e um pra PayPal).
 
-![Payment by Type](<../../.gitbook/assets/payment type.jpg>)
+![Pagamento por Tipo](<../../.gitbook/assets/payment type.jpg>)
 
-### Itemised Payment Totals
+### Totais de Pagamento Itemizados
 
-Listed by payment status (paid, balance due, credit owing) rather than payment provider, this report gives a breakdown of revenue (product costs, shipping fees) as well as the total.  The Outstanding balance column will be 0.0 for the payment status of 'paid'
+Listado por status do pagamento (pago, saldo devedor, crédito devido) em vez de provedor, este relatório dá um detalhamento da receita (custos de produtos, taxas de envio) e o total. A coluna Saldo Pendente será 0,00 para o status 'pago'.
 
-![Itemised Payment Totals](<../../.gitbook/assets/itemised payment types.jpg>)
+![Totais de Pagamento Itemizados](<../../.gitbook/assets/itemised payment types.jpg>)
 
-### Payment Totals
+### Totais de Pagamento
 
-In addition to the Itemised Payment Totals this report states revenue coming from EFT (cash or bank transfer) and Paypal separately.
+Além dos Totais de Pagamento Itemizados, este relatório informa separadamente a receita de dinheiro/transferência e PayPal.
 
-![Payment Totals](<../../.gitbook/assets/payment totals.jpg>)
-
+![Totais de Pagamento](<../../.gitbook/assets/payment totals.jpg>)

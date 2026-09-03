@@ -1,98 +1,98 @@
-# Order Reports
+# Relatórios de pedidos
 
-On this page you can find more details about reports listed under the following sections:
+Nesta página você encontra mais detalhes sobre relatórios listados nas seguintes seções:
 
-* [Orders & Distributors](order-reports.md#orders-and-distributors-report)&#x20;
-* [Orders & Fulfillment](order-reports.md#orders-and-fulfillment-reports)
+* [Pedidos e Distribuidores](order-reports.md#orders-and-distributors-report)
+* [Pedidos e Atendimento](order-reports.md#orders-and-fulfillment-reports)
 
-## Orders and Distributors Report
+## Relatório de Pedidos e Distribuidores
 
 {% hint style="success" %}
-This report is a useful way to view customer orders as they are placed in more detail than on the [Order](../orders/view-orders.md) list.
+Este relatório é uma forma útil de ver os pedidos dos clientes conforme são feitos, em mais detalhes do que na lista de [Pedidos](../orders/view-orders.md).
 {% endhint %}
 
-The Data fields you can see in this report are:
+Os campos de dados que você vê nesse relatório:
 
-* Date & time the order was placed along with order ID
-* Shipping method (and cost), payment method, customer notes
-* Customer name, email, phone number, city (but not full address)
-* For each product within an order, there is the name of the product, variant name, quantity (and Max quantity for bulk order items), cost
-* Hub (distributor) address
+* Data e hora do pedido junto com ID
+* Método de envio (e custo), método de pagamento, notas do cliente
+* Nome do cliente, email, telefone, cidade (mas não endereço completo)
+* Para cada produto do pedido: nome do produto, nome da variante, quantidade (e Máx quantidade para itens em lote), custo
+* Endereço da central (distribuidor)
 
-![Orders and Distributors Report](<../../.gitbook/assets/orders and distributors report.jpg>)
+![Relatório de Pedidos e Distribuidores](<../../.gitbook/assets/orders and distributors report.jpg>)
 
 {% hint style="info" %}
-Filter by date and time to enable swift download.
+Filtre por data e hora pra download mais rápido.
 {% endhint %}
 
-## Orders and Fulfillment Reports
+## Relatórios de Pedidos e Atendimento
 
-Under the Orders and Fulfillment Reports you will find four options: Order Cycle Supplier Totals, Order Cycle Supplier Totals by Distributor, Order Cycle Distributor Totals by Supplier and Order Cycle Customer Totals.
+Nos Relatórios de Pedidos e Atendimento você encontra quatro opções: Totais do Ciclo por Fornecedor, Totais do Ciclo por Fornecedor por Distribuidor, Totais do Ciclo por Distribuidor por Fornecedor e Totais do Ciclo por Cliente.
 
-### Order Cycle Supplier Totals&#x20;
+### Totais do Ciclo por Fornecedor
 
 {% hint style="success" %}
-As a **producer who supplies one or more hubs** these three reports are a great way to keep track of orders of your products which coming in **while an order cycle is open.**&#x20;
+Como um **produtor que fornece a uma ou mais centrais**, esses três relatórios são uma ótima forma de acompanhar pedidos dos seus produtos que chegam **enquanto um ciclo está aberto**.
 {% endhint %}
 
-Unless you are also the coordinator or distributor of the order cycle these orders will not appear in your list of [Orders](../orders/view-orders.md) but you may want to start planning your baking/picking before you receive the [supplier notification email](../shopfront/order-cycle/order-cycles-for-hubs.md#notify-producers-button) from the distributing hub.
+A menos que você também seja o coordenador ou distribuidor do ciclo, esses pedidos não aparecerão na sua lista de [Pedidos](../orders/view-orders.md), mas você pode querer começar a planejar sua produção/colheita antes de receber o [email de notificação do fornecedor](../shopfront/order-cycle/order-cycles-for-hubs.md#notify-producers-button) da central distribuidora.
 
-A summary of the data found in each report is below:
+Um resumo dos dados encontrados em cada relatório:
 
-| Report            | OC Sup Tots | OC Sup Tot by Dist | OC Dist Tot by Sup |
-| ----------------- | ----------- | ------------------ | ------------------ |
-| Producer          | Y           | Y                  | Y                  |
-| Hub               | N           | Y                  | Y                  |
-| Product           | Y           | Y                  | Y                  |
-| Variant           | Y           | Y                  | Y                  |
-| Amount            | Y           | Y                  | Y                  |
-| Tot Units         | Y           | N                  | N                  |
-| Current unit Cost | Y           | Y                  | Y                  |
-| Total Cost        | Y           | Y                  | Y                  |
-| Status            | Y           | N                  | N                  |
-| Shipping Method   | Y           | Y                  | Y                  |
-| Tot shipping cost | N           | N                  | Y                  |
+| Relatório         | Tot Forn CP | Tot Forn CP por Dist | Tot Dist CP por Forn |
+| ----------------- | ----------- | -------------------- | -------------------- |
+| Produtor          | Sim         | Sim                  | Sim                  |
+| Central           | Não         | Sim                  | Sim                  |
+| Produto           | Sim         | Sim                  | Sim                  |
+| Variante          | Sim         | Sim                  | Sim                  |
+| Quantidade        | Sim         | Sim                  | Sim                  |
+| Total Unidades    | Sim         | Não                  | Não                  |
+| Custo unit atual  | Sim         | Sim                  | Sim                  |
+| Custo total       | Sim         | Sim                  | Sim                  |
+| Status            | Sim         | Não                  | Não                  |
+| Método de envio   | Sim         | Sim                  | Sim                  |
+| Custo total frete | Não         | Não                  | Sim                  |
 
 {% hint style="warning" %}
-Note that the Total Cost is not a simple multiple of Current cost per unit and amount. &#x20;
+Note que o Custo Total não é uma multiplicação simples de Custo unitário atual e quantidade.
 
-* The current cost per unit may vary over the time frame selected. &#x20;
-* The value recorded in these reports is the current cost per unit at the time of the last order.
-* The Total Cost is a sum of product costs at the time when each item was purchased.
+* O custo unitário atual pode variar no intervalo de tempo selecionado.
+* O valor registrado nestes relatórios é o custo unitário atual no momento do último pedido.
+* O Custo Total é a soma dos custos dos produtos no momento em que cada item foi comprado.
 {% endhint %}
 
-![Order Cycle Supplier Totals](<../../.gitbook/assets/report order cycle by supplier totals.jpg>)
+![Totais do Ciclo por Fornecedor](<../../.gitbook/assets/report order cycle by supplier totals.jpg>)
 
-![Order Cycle Supplier Totals by Distributor](<../../.gitbook/assets/order cycle by distributor.jpg>)
+![Totais do Ciclo por Fornecedor por Distribuidor](<../../.gitbook/assets/order cycle by distributor.jpg>)
 
-![Order Cycle Distributor Totals by Supplier](<../../.gitbook/assets/order cycle totals for distributor by supplier.jpg>)
+![Totais do Ciclo por Distribuidor por Fornecedor](<../../.gitbook/assets/order cycle totals for distributor by supplier.jpg>)
 
 {% hint style="success" %}
-These reports are handy for calculating the amount to reimburse a producer for items supplied
+Esses relatórios são úteis pra calcular o valor a reembolsar a um produtor pelos itens fornecidos.
 {% endhint %}
 
-### Order Cycle Customer Totals
+### Totais do Ciclo por Cliente
 
 {% hint style="success" %}
-Useful for:
+Útil para:
 
-* Fulfilling orders on a individual basis&#x20;
-* Preparing individual orders in bulk
+* Atender pedidos individualmente
+* Preparar pedidos individuais em lote
 {% endhint %}
 
-This report which contains the most data:
+Este é o relatório que contém mais dados:
 
-* Date & time the order was placed along with order ID
-* Customer name, email, phone number, billing and shipping addresses
-* For each product within an order, there is the name of the product, variant name, quantity, cost, price paid by the customer (item cost + fees), a break down of fees (Enterprise, payment method and shipping method fee associated with each product), producer
-* Hub name.
-* Payment Method and status (ie. paid, unpaid)
-* Shipping Method, Delivery or Pick up
+* Data e hora do pedido junto com ID
+* Nome, email, telefone, endereços de cobrança e entrega do cliente
+* Para cada produto do pedido: nome do produto, nome da variante, quantidade, custo, preço pago pelo cliente (custo do item + taxas), detalhamento de taxas (Empresa, método de pagamento e método de envio associadas a cada produto), produtor
+* Nome da central
+* Método de pagamento e status (ex: pago, não pago)
+* Método de envio, Entrega ou Retirada
 
 {% hint style="info" %}
-The Shipping Address displayed for an order where the chosen shipping method is 'pick up' will be the address of the distributing hub.
+O Endereço de Entrega exibido para um pedido onde o método escolhido é 'retirada' será o endereço da central distribuidora.
 {% endhint %}
 
-The screenshot below shows the information contained in an Order Cycle Customer Totals report.&#x20;
+A captura abaixo mostra as informações contidas em um relatório de Totais do Ciclo por Cliente.
 
-![Order Cycle Customer Totals](<../../.gitbook/assets/oc totals by customer.jpg>)
+![Totais do Ciclo por Cliente](<../../.gitbook/assets/oc totals by customer.jpg>)

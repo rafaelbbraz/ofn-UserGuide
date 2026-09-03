@@ -1,59 +1,58 @@
 ---
-description: Tax reports
+description: Relatórios de imposto
 ---
 
-# Tax Reports
+# Relatórios de imposto
 
-## Sales Tax
+## Imposto sobre vendas
 
-There are four sales tax reports:&#x20;
+Existem quatro relatórios de imposto sobre vendas:
 
-* [Tax Types](payment-and-tax-reports-1.md#tax-type-reports)&#x20;
-* [Tax Rates](payment-and-tax-reports-1.md#tax-rate-reports)&#x20;
-* [Sales Tax Totals by Producer](payment-and-tax-reports-1.md#sales-tax-totals-by-producer)
-* [Sales Tax Totals by Order](payment-and-tax-reports-1.md#sales-tax-totals-by-order)
+* [Tipos de imposto](payment-and-tax-reports-1.md#tax-type-reports)
+* [Alíquotas](payment-and-tax-reports-1.md#tax-rate-reports)
+* [Totais de imposto por produtor](payment-and-tax-reports-1.md#sales-tax-totals-by-producer)
+* [Totais de imposto por pedido](payment-and-tax-reports-1.md#sales-tax-totals-by-order)
 
 {% hint style="danger" %}
-If your enterprise is **Tax Registered** then it is important that the correct 'Tax Zone' is selected when prompted (for example when setting up a [Shipping Method](../shopfront/shipping-methods.md) fee).
+Se sua empresa é **contribuinte de impostos**, é importante selecionar a 'Zona de Imposto' correta quando solicitado (por exemplo, ao configurar uma taxa de [Método de Envio](../shopfront/shipping-methods.md)).
 {% endhint %}
 
-### Tax Type Reports
+### Relatórios de tipos de imposto
 
-The **Tax Type** report is useful for separating total tax per order into its different component elements: tax on products, tax on shipping method fee and tax on fees- enterprise and/or payment method fees.
+O relatório de **Tipos de Imposto** é útil pra separar o imposto total por pedido nos seus diferentes componentes: imposto sobre produtos, imposto sobre taxa do método de envio e imposto sobre taxas — de empresa e/ou método de pagamento.
 
-![Tax type report](<../../.gitbook/assets/tax types.jpg>)
+![Relatório de tipos de imposto](<../../.gitbook/assets/tax types.jpg>)
 
-### Tax Rate Reports
+### Relatórios de alíquotas
 
-The tax rate report gives an **order-by-order break down** of tax by it's tax rate (full, reduced or zero-rated PRODUCTS and tax from delivery fees).  Order totals inclusive and exclusive of tax are also given.
+O relatório de alíquotas dá um **detalhamento pedido a pedido** por alíquota (PRODUTOS com alíquota cheia, reduzida ou isentos, e imposto sobre taxas de entrega). Totais de pedidos com e sem imposto também são fornecidos.
 
-![Tax rate report](<../../.gitbook/assets/tax rates.jpg>)
+![Relatório de alíquotas](<../../.gitbook/assets/tax rates.jpg>)
 
 {% hint style="warning" %}
-The exact tax rates for Full, Reduced and Zero, along with the legislation which governs which category a product belongs to, varies from instance to instance.
+As alíquotas exatas para Cheia, Reduzida e Isento, além da legislação que define a qual categoria um produto pertence, variam de instância pra instância.
 
-There are, however, three 'Tax Zones' available on the OFN platform: UK\_VAT, EU\_VAT and North America.  UK and EU tax zones operate in the same manner (prices displayed to customers are inclusive of sales tax); the North America tax zone operates differently (prices displayed to customers are exclusive of sales tax).
+Existem três 'Zonas de Imposto' disponíveis na Nossa Feira: UK\_VAT, EU\_VAT e América do Norte. Zonas UK e EU operam da mesma forma (preços exibidos aos clientes incluem o imposto); a zona América do Norte opera diferentemente (preços exibidos aos clientes são sem imposto). No Brasil, o padrão é preços com imposto incluído.
 
-As a result there will be more than three possible columns for selection when you download a Tax Rate Report.
+Como resultado, haverá mais de três colunas possíveis pra seleção ao baixar um Relatório de Alíquotas.
 {% endhint %}
 
-The above screen shot was taken from a UK enterprise.  The columns shown correspond to (from left to right):
+A captura acima foi de uma empresa UK. As colunas correspondem a (da esquerda pra direita):
 
-* 5.0% : Reduced rate VAT on products
-* 0.0% : Zero rate VAT on products
-* 20.0% : Full rate VAT on products
-* 20.0% : Full rate VAT on shipping methods from UK to North America
-* 20.0% : Full rate VAT on shipping/collection methods within the UK
+* 5,0% : Alíquota reduzida sobre produtos
+* 0,0% : Alíquota zero sobre produtos
+* 20,0% : Alíquota cheia sobre produtos
+* 20,0% : Alíquota cheia sobre métodos de envio do UK para América do Norte
+* 20,0% : Alíquota cheia sobre métodos de envio/coleta dentro do UK
 
-### &#x20;Sales Tax Totals by Producer
+### Totais de imposto sobre vendas por produtor
 
-For the time period or order cycle used to filter results, this report gives the tax status of each supplier, and the total revenue they sold for each available tax rate.  (Only tax rates for which they sold produce are shown).
+Para o período ou ciclo usado pra filtrar resultados, este relatório dá o status fiscal de cada fornecedor e a receita total que ele vendeu para cada alíquota disponível. (Apenas alíquotas para as quais ele vendeu produtos são mostradas.)
 
-<figure><img src="../../.gitbook/assets/tax by producer.jpg" alt=""><figcaption><p>Sales Tax by Producer Report</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tax by producer.jpg" alt=""><figcaption><p>Relatório de Imposto sobre Vendas por Produtor</p></figcaption></figure>
 
-### Sales Tax Totals by Order
+### Totais de imposto sobre vendas por pedido
 
-For the time period or order cycle used to filter results, this report gives the contribution of products or services in each tax rate to the overall tax paid by the customer for that order. &#x20;
+Para o período ou ciclo usado pra filtrar resultados, este relatório dá a contribuição de produtos ou serviços em cada alíquota ao imposto total pago pelo cliente naquele pedido.
 
-<figure><img src="../../.gitbook/assets/tax by order.jpg" alt=""><figcaption><p>Sales Tax by Order</p></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/tax by order.jpg" alt=""><figcaption><p>Imposto sobre Vendas por Pedido</p></figcaption></figure>
