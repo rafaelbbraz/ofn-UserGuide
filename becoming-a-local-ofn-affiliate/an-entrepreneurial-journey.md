@@ -1,60 +1,60 @@
-# An entrepreneurial journey
+# Uma jornada empreendedora
 
-Bootstraping a local OFN community is a social enterprise; it means you are taking the lead on gathering a team, creating a local entity (or finding an existing one to host the project), organize the deployment of the OFN software for the local users, setup user support, plan communication, think about economic model, etc. Let's detail a bit what it takes to startup a local OFN affiliate entity.
+Iniciar uma comunidade OFN local é uma empresa social — significa que você está assumindo a liderança em reunir uma equipe, criar uma entidade local (ou encontrar uma existente pra hospedar o projeto), organizar a implantação do software OFN pros usuários locais, configurar suporte ao usuário, planejar comunicação, pensar em modelo econômico etc. Vamos detalhar um pouco o que é preciso pra iniciar uma entidade OFN afiliada local.
 
-## 1- Build a first node of community and/or team
+## 1 – Construir um primeiro nó de comunidade e/ou equipe
 
-You might be alone to take the lead on carrying on the project of developing the OFN project where you are. Or you might be 2 or more people joining forces and sharing tasks. Whatever, you will need to talk to people about the OFN and your project and start to build a network of potential/actual co-leaders, contributors, users, partners, supporters, etc. When doing that, you can also "sense" how people react to the project and perceive the potential of it in your territory. That will help you understand the need of potential local food networks that the OFN software and knowledge base could serve.
+Você pode estar sozinho pra liderar o projeto de desenvolver a OFN onde você está. Ou pode ser 2 ou mais pessoas unindo forças e dividindo tarefas. De qualquer forma, precisará conversar com pessoas sobre a OFN e seu projeto e começar a construir uma rede de potenciais co-líderes, contribuidores, usuários, parceiros, apoiadores etc. Ao fazer isso, você também pode 'sentir' como as pessoas reagem ao projeto e percebem seu potencial no seu território. Isso ajudará a entender a necessidade de potenciais redes de alimentos locais que o software e base de conhecimento da OFN poderiam atender.
 
-Networking can mean participate to conferences, connect with local media, blogs, publish articles, survey potential users, etc.
+Networking pode significar participar de conferências, se conectar com mídia local, blogs, publicar artigos, entrevistar usuários potenciais etc.
 
-## 2- Deploy a first local version of the OFN software
+## 2 – Implantar uma primeira versão local do software OFN
 
-It's hard to start talking about the project without having something to show to the people you talk to. The faster you have a local software version to show, the easier it will be to gather people around your local project. The OFN is more than a software but having a software to show makes it easier for people to understand what it is about. It's OK if it doesn't answer yet all the local needs you perceive, think about it as a "minimum viable product", something local users can start using even if it's not perfect.
+É difícil começar a falar sobre o projeto sem ter algo pra mostrar às pessoas com quem conversa. Quanto mais rápido você tiver uma versão local do software pra mostrar, mais fácil será reunir pessoas em torno do projeto local. A OFN é mais que um software mas ter um software pra mostrar torna mais fácil pras pessoas entenderem do que se trata. Está tudo bem se ainda não responde a todas as necessidades locais que você percebe — pense como um "produto mínimo viável", algo que usuários locais podem começar a usar mesmo que não seja perfeito.
 
-If you have not yet set up the software in your country and you want to show others how it works, you are welcome to become an administrator of the OFN demo food hub on the OFN UK server. Please contact nick@openfoodnetwork.org.uk if you would like to be given admin access to this demo enterprise.
+Se você ainda não configurou o software no seu país e quer mostrar como funciona, seja bem-vindo a se tornar um administrador da central de alimentos demo da OFN no servidor OFN UK. Entre em contato com nick@openfoodnetwork.org.uk se quiser ter acesso admin a essa empresa demo.
 
-### Why we have separate local OFN platforms ?
+### Por que temos plataformas OFN locais separadas?
 
-For now, each local OFN entity needs a specific local deployment of the software, on their own servers. It may seem a bit less efficient than having just one deployment for the whole world, as we need to redo the installation job every time.
+Por enquanto, cada entidade OFN local precisa de uma implantação local específica do software, em seus próprios servidores. Pode parecer um pouco menos eficiente do que ter apenas uma implantação pro mundo todo, já que precisamos refazer o trabalho de instalação toda vez.
 
-The main reason why the deployments are done separately for now is technical; we don’t currently need to deal with country specific customisations, taxes, currencies and languages within the same application; local customisation and setup is done separately for each local deployment. Having a "single instance" for the whole world would mean it is multilingual, multi-currency, manage VAT/sales tax properly all over the world, etc. This requires lots of developments/money we have not yet found.
+A principal razão pela qual as implantações são feitas separadamente por enquanto é técnica — atualmente não precisamos lidar com customizações específicas de país, impostos, moedas e idiomas dentro da mesma aplicação; customização e setup local são feitos separadamente pra cada implantação. Ter uma "instância única" pro mundo todo significaria que ela é multilíngue, multi-moeda, gerencia impostos apropriadamente pelo mundo todo etc. Isso requer muitos desenvolvimentos/dinheiro que ainda não encontramos.
 
-### Understand the technical aspect of it
+### Entender o aspecto técnico
 
-You'll find everything you need on the [OFN wiki on Github](https://github.com/openfoodfoundation/openfoodnetwork/wiki) concerning the technical aspects of a local deployment.
+Você encontrará tudo que precisa no [wiki OFN no GitHub](https://github.com/openfoodfoundation/openfoodnetwork/wiki) sobre os aspectos técnicos de uma implantação local.
 
-Here are some precisions on 2 aspects of the local deployment:
+Aqui algumas precisões sobre 2 aspectos da implantação local:
 
-* [What infrastructure do I need to run an OFN instance and what are the estimated associated costs ?](https://community.openfoodnetwork.org/t/what-infrastructure-do-i-need-to-run-an-ofn-instance-and-what-are-the-estimated-associated-costs/828)
-* \*\*\*\*[OFN security roadmap: making sure OFN answers your security needs](https://community.openfoodnetwork.org/t/ofn-security-roadmap-making-sure-ofn-answers-your-security-needs/829)
+* [Qual infraestrutura preciso pra rodar uma instância OFN e quais os custos estimados?](https://community.openfoodnetwork.org/t/what-infrastructure-do-i-need-to-run-an-ofn-instance-and-what-are-the-estimated-associated-costs/828)
+* [Roadmap de segurança OFN: garantindo que a OFN atenda suas necessidades de segurança](https://community.openfoodnetwork.org/t/ofn-security-roadmap-making-sure-ofn-answers-your-security-needs/829)
 
-So as a local driver of the project, you need to make sure the person doing the local deployment is taking into account those two specific points.
+Portanto, como líder local do projeto, você precisa garantir que a pessoa fazendo a implantação local esteja considerando esses dois pontos específicos.
 
-### Get support from the OFN global sys admin team
+### Obter apoio da equipe global de sysadmin da OFN
 
-From all over the world, people have contributed for months, years, and have developed a specific expertise on the OFN code base and processes around how to set up a local instance and run your project on it. We do have a global system administration team and have organised deployments in "batch" of new releases for all local affiliate instances to try to improve the efficiency of our processes. This team can also support the setting up of a new local deployed version, but that can't be done for free, so if you would like support from the global team to deploy your first local version of the OFN software, you need to find some budget to start with. [Contact us](../contact-us.md) for more details.
+De todo o mundo, pessoas contribuíram por meses, anos, e desenvolveram expertise específica na base de código OFN e processos sobre como configurar uma instância local e rodar seu projeto nela. Temos uma equipe global de administração de sistemas e organizamos implantações em "lote" de novas releases pra todas as instâncias de afiliados locais pra tentar melhorar a eficiência dos processos. Essa equipe também pode apoiar a configuração de uma nova versão local implantada, mas isso não pode ser feito gratuitamente. Então se você gostaria de apoio da equipe global pra implantar sua primeira versão local do software OFN, precisará encontrar um orçamento pra começar. [Entre em contato](../contact-us.md) pra mais detalhes.
 
-### Identify the blockers to local use - if there are some
+### Identificar os bloqueadores ao uso local — se houver
 
-It might be that some specific aspects of the software are really blocking a local use. In that case, you can start listing them and discuss those points with the global team, in the context of the priorization process (see below).
+Pode ser que alguns aspectos específicos do software estejam realmente bloqueando um uso local. Nesse caso, você pode começar a listá-los e discutir esses pontos com a equipe global no contexto do processo de priorização (veja abaixo).
 
-## 3- Find a first legal and economic model
+## 3 – Encontrar um primeiro modelo legal e econômico
 
-This can also be done before 2, or in parallel, depending on the local resources you have or can get.
+Isso também pode ser feito antes de 2, ou em paralelo, dependendo dos recursos locais que você tem ou pode obter.
 
-You can start the project without any legal entity if you find people able to deploy the software, but you will soon realize you need some money to operate, at least pay server costs. Which legal entity to incorporate or build on to host the project? Which governance model around this entity to govern the local platform and other services the entity may propose like training, incubation programs, etc.?
+Você pode começar o projeto sem qualquer entidade legal se encontrar pessoas capazes de implantar o software, mas logo perceberá que precisa de algum dinheiro pra operar, pelo menos pagar custos de servidor. Qual entidade legal incorporar ou construir pra hospedar o projeto? Qual modelo de governança ao redor dessa entidade pra governar a plataforma local e outros serviços que a entidade pode propor como treinamento, programas de incubação etc.?
 
-Through all the networking you will have done, you might start to foresee some form of legal entity you think is more relevant to start with. Some existing local OFN entities have started with not-for-profit organizations because they could get grants for instance, before creating cooperative commercial entities as a side when the time has come, like OFN Australia and France. Others have directly gone for community interest companies, like OFN UK. Others only are a not-for-profit organization like OFN Canada. Others have found a local existing entity willing to host the project, like Oxfam Magasins du Monde in Belgium.The choice of the form of incorporation is yours, but to become an affiliate, a condition is that this legal entity involved a collaborative and democratic governance. Because there can only be one affiliate on a given territory, it needs to be inclusive of all parties interested.
+Através do networking que fizer, você pode começar a prever alguma forma de entidade legal que acha mais relevante pra começar. Algumas entidades OFN locais existentes começaram com organizações sem fins lucrativos porque podiam obter subsídios, por exemplo, antes de criar entidades comerciais cooperativas ao lado quando chegou a hora, como OFN Austrália e França. Outras foram diretamente pra empresas de interesse comunitário, como a OFN UK. Outras são apenas uma organização sem fins lucrativos como a OFN Canadá. Outras encontraram uma entidade local existente disposta a hospedar o projeto, como a Oxfam Magasins du Monde na Bélgica. A escolha da forma de incorporação é sua, mas pra se tornar um afiliado, uma condição é que essa entidade legal envolva uma governança colaborativa e democrática. Como só pode haver um afiliado num dado território, ela precisa ser inclusiva de todas as partes interessadas.
 
-Alongside the choice of a legal entity comes the question of the governance model: who makes the decisions regarding the local entity? How are all stakeholders involved in the decision making process? Again, existing local OFN entities are experimenting various models, some workers coops, some multi-stakeholders coop, some regular commercial entities but with representatives of each stakeholders in the board, etc.
+Junto com a escolha de uma entidade legal vem a questão do modelo de governança: quem toma as decisões sobre a entidade local? Como todos os stakeholders estão envolvidos no processo de tomada de decisão? De novo, entidades OFN locais existentes estão experimentando vários modelos, algumas cooperativas de trabalhadores, algumas multi-stakeholder, algumas empresas comerciais regulares mas com representantes de cada stakeholder no conselho etc.
 
-Also, connected to the legal and governance model, you need to think about a sustainable business model. We have explained [here](../working-on-the-ofn-governance/economic-model.md) the economic model of the global OFN project. That should help you think your local business model.
+Também, conectado ao modelo legal e de governança, você precisa pensar em um modelo de negócio sustentável. Explicamos [aqui](../working-on-the-ofn-governance/economic-model.md) o modelo econômico do projeto OFN global. Isso deve ajudar você a pensar seu modelo de negócio local.
 
-## 4- Look for funding
+## 4 – Buscar financiamento
 
-We all need to contribute to the global commons. The fundraising task has been a shared one since the very beginning. Australia, UK, Canada, France, Catalunya, etc. all local OFN affiliates have searched for funds locally, talked to local private foundations, participated to EU projects, etc. Some (like Australia or Catalunya) also have carried out crowdfunding campaigns. Usually local fundraising serve both the local costs to deploy the project and part of the money is attributed to the "global pot" to finance software improvement. Until we have an efficient sustainable local business model, we need to keep on finding funds through philanthropy and local governments.
+Todos precisamos contribuir com os commons globais. A tarefa de captação de recursos tem sido compartilhada desde o início. Austrália, UK, Canadá, França, Catalunha etc. — todos os afiliados OFN locais buscaram fundos localmente, conversaram com fundações privadas locais, participaram de projetos da UE etc. Alguns (como Austrália ou Catalunha) também conduziram campanhas de crowdfunding. Normalmente a captação local serve tanto pros custos locais de implantar o projeto quanto parte do dinheiro é atribuída ao "pote global" pra financiar melhorias do software. Até termos um modelo de negócio local sustentável eficiente, precisamos continuar buscando fundos através de filantropia e governos locais.
 
-## 5- Join the global priorization process
+## 5 – Juntar-se ao processo global de priorização
 
-When you start doing all that, you can request to become an affiliate member of the OFN community. The process is described[ on the next page](affiliation-process.md). This will among other things enable you to report your needs and participate in prioritizing the various needs reported by the software users. You will find more information about that process [here](../working-on-the-ofn-governance/how-do-we-prioritize-new-developments/).
+Quando você começar a fazer tudo isso, pode solicitar se tornar um membro afiliado da comunidade OFN. O processo é descrito [na próxima página](affiliation-process.md). Isso, entre outras coisas, permitirá você reportar suas necessidades e participar da priorização das várias necessidades reportadas pelos usuários do software. Você encontrará mais informações sobre esse processo [aqui](../working-on-the-ofn-governance/how-do-we-prioritize-new-developments/).

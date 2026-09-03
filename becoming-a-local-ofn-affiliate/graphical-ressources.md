@@ -1,19 +1,19 @@
-# Graphical resources
+# Recursos gráficos
 
-We have not yet properly defined the graphical charter of the OFN, but we can already share some elements. We are going to refine that graphic base step by step.
+Ainda não definimos apropriadamente a carta gráfica da OFN, mas já podemos compartilhar alguns elementos. Vamos refinar essa base gráfica passo a passo.
 
-### Fonts and color codes
+### Fontes e códigos de cor
 
-You'll find on that document all about the fonts and colors we use for our local branding and as shared communication guidelines. If you want to suggest any improvement please let us know on Slack or on the community forum, else please use them in your communication so we try to build a consistent brand and image!
+Você encontrará neste documento tudo sobre as fontes e cores que usamos pra nossas marcas locais e como diretrizes de comunicação compartilhadas. Se quiser sugerir alguma melhoria, nos avise no Slack ou no fórum da comunidade. Caso contrário, use essas fontes na sua comunicação pra construirmos uma marca e imagem consistentes!
 
-![OFN styleguide overview](<../.gitbook/assets/OFN Styleguide Overview 20190611-page-001.jpg>)
+![Visão geral do guia de estilo OFN](<../.gitbook/assets/OFN Styleguide Overview 20190611-page-001.jpg>)
 
-### Visual elements of the logo
+### Elementos visuais do logo
 
-Here is a [vectorial version of a basic OFN logo](https://drive.google.com/open?id=122tCLq00EoDOtJH4s7p53n7AI1pLxnEl). You can use it to build your local brand.
+Aqui está uma [versão vetorial de um logo básico OFN](https://drive.google.com/open?id=122tCLq00EoDOtJH4s7p53n7AI1pLxnEl). Você pode usar pra construir sua marca local.
 
-### Powerpoint templates
+### Templates de PowerPoint
 
-Here is [a template of a powerpoint we have been using lately](https://docs.google.com/presentation/d/1lLM2IL-95xlFYE26XaYzOaNGlsQfeuoyhUODPglj0pI/edit?usp=sharing). You can reuse it for local presentations or adapt it to your local branding.
+Aqui está [um template de PowerPoint que temos usado recentemente](https://docs.google.com/presentation/d/1lLM2IL-95xlFYE26XaYzOaNGlsQfeuoyhUODPglj0pI/edit?usp=sharing). Você pode reutilizar pra apresentações locais ou adaptar pra sua marca local.
 
-Please try as much as possible in your local communication to respect those graphical elements, so that we can have some global consistency around our image.
+Por favor, tente o máximo possível respeitar esses elementos gráficos na comunicação local pra termos alguma consistência global na nossa imagem.
