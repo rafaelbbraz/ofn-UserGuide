@@ -1,67 +1,67 @@
-# Product variants
+# Variantes de produto
 
-If you are listing two or more products which are very similar, but only vary on price, or size, or something like flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. This will make the listing clearer to customers and prevent your store from becoming cluttered.
+Se você está listando dois ou mais produtos muito parecidos que só variam em preço, tamanho ou algo como sabor, o melhor é criar uma 'variante' para o produto em vez de criar múltiplos produtos separados. Isso torna a listagem mais clara pros clientes e evita que sua loja fique bagunçada.
 
 ![](../../.gitbook/assets/productweightunit-price.jpg)
 
-## How do I create a Product Variant?&#x20;
+## Como criar uma variante de produto?
 
-First of all, it is necessary to create a product, which will automatically be also the first variant of this product. For more details on adding simple products, click [here](products.md).&#x20;
+Primeiro, é necessário criar um produto, que automaticamente será também a primeira variante. Pra mais detalhes sobre adicionar produtos simples, clique [aqui](products.md).
 
-In your admin dashboard, go to the products page where you will find the list of products (highlighted in green below) and their associated variants (highlighted in red below) for companies of "producer" nature that you manage.&#x20;
+No seu dashboard admin, vá na página de produtos onde encontra a lista de produtos (destacada em verde abaixo) e suas variantes associadas (destacadas em vermelho abaixo) para as empresas de tipo "produtor" que você gerencia.
 
 ![](<../../.gitbook/assets/product and variants.jpg>)
 
-The variants of all products are shown. If a product has only one variant (option) then there will be only one line underneath the product row.
+As variantes de todos os produtos são mostradas. Se um produto só tem uma variante (opção), haverá apenas uma linha abaixo da linha do produto.
 
-To add or delete variants, the simplest way is to click on the '**+**' sign at the bottom of the product row in question.
+Para adicionar ou deletar variantes, o jeito mais simples é clicar no '**+**' no rodapé da linha do produto.
 
 <figure><img src="../../.gitbook/assets/varients new.jpg" alt=""><figcaption></figcaption></figure>
 
-This will bring up a new variant row which can be edited for the specific properties of the item in question.&#x20;
+Isso abre uma nova linha de variante que pode ser editada com as propriedades específicas do item.
 
 <figure><img src="../../.gitbook/assets/varients new2.jpg" alt=""><figcaption></figcaption></figure>
 
-**Properties of a variant which can be edited:**
+**Propriedades de uma variante que podem ser editadas:**
 
-**Display name**: name of the variant.  For example, for a product of 'Apples' the display names may be 'Granny Smith', 'Golden Delicious', .... or you may opt for a product named 'Granny Smith Apples' and name the variants 'small bag full', 'medium bag full'....
+**Nome de exibição:** Nome da variante. Por exemplo, para um produto 'Maçãs' os nomes podem ser 'Fuji', 'Gala', 'Verde'.... Ou você pode ter um produto chamado 'Maçãs Fuji' e nomear variantes como 'saco pequeno', 'saco médio'...
 
-**Product code:** Often enterprises may add an SKU code here for management purposes.
+**Código do produto:** Frequentemente as empresas adicionam um código SKU aqui pra fins de gerenciamento.
 
-**Display as/Unit**: the unit of a variant is always inherited from it's parent product.  Hence if the unit of the product 'Apples' is in kg, then the variants will all have units of kg.
+**Exibir como / Unidade:** A unidade de uma variante é sempre herdada do produto pai. Portanto, se a unidade do produto 'Maçãs' é kg, todas as variantes terão unidade em kg.
 
-**Price and Stock Level**
+**Preço e estoque**
 
-**NOTE:**
+**NOTA:**
 
-**Tax** and **shipping categories** of a variant must always be the same as those of its parent product.
+**Categorias fiscais** e **de frete** de uma variante precisam sempre ser as mesmas do produto pai.
 
 {% hint style="info" %}
-To avoid errors when reading reports, we strongly recommend that you always name each variant differently.
+Para evitar erros na leitura de relatórios, recomendamos fortemente que você sempre nomeie cada variante de forma diferente.
 {% endhint %}
 
 {% hint style="danger" %}
-At the moment, stock levels can only be defined **at the level of the variant.**
+Atualmente, os níveis de estoque só podem ser definidos **no nível da variante**.
 
-We know this might be a problem if you have a fixed amount of an item but wish to retail in bulk quantities as well as singularly. (eg if you have only 5 kg of tomatoes in total but wish to sell as variants of  100 g and 1 kg you will have to manage your stock levels between the two variants manually.)
+Sabemos que isso pode ser um problema se você tem uma quantidade fixa de um item mas quer vender em quantidades em lote e avulsas. (Ex: se você só tem 5 kg de tomate no total mas quer vender como variantes de 100g e 1kg, você terá que gerenciar os níveis de estoque entre as duas variantes manualmente.)
 {% endhint %}
 
 {% hint style="success" %}
-There is no maximum number of variants for a product. You can add as many as you need.
+Não há limite máximo de variantes por produto. Você pode adicionar quantas precisar.
 {% endhint %}
 
 {% hint style="info" %}
-When you are finished always select 'save changes' in the red box at the bottom right of the screen.
+Quando terminar, sempre selecione 'salvar alterações' na caixa vermelha no canto inferior direito da tela.
 {% endhint %}
 
-## Edit an existing variant
+## Editar uma variante existente
 
-To edit stock levels, prices and variant names it is easiest to do this from your main Products page which lists all products and their variants:
+Para editar níveis de estoque, preços e nomes de variante, o mais fácil é fazer isso na sua página principal de Produtos que lista todos os produtos e suas variantes:
 
 <figure><img src="../../.gitbook/assets/bulk page edit.jpg" alt=""><figcaption></figcaption></figure>
 
-To edit other properties of a variant (such as its weight), choose 'Edit' from the 'Actions' column of the associated product and then visit the 'Variants' page from the right hand menu.
+Para editar outras propriedades de uma variante (como o peso), escolha 'Editar' na coluna 'Ações' do produto associado e depois vá na página 'Variantes' no menu à direita.
 
-By selecting the pen and paper symbol next to a variant (highlighted in red below) you can edit the variant.  To delete it, select the 'bin' symbol:
+Selecionando o símbolo de caneta e papel ao lado de uma variante (destacado em vermelho abaixo) você edita a variante. Pra deletar, selecione o símbolo da 'lixeira':
 
 <figure><img src="../../.gitbook/assets/edit variant.jpg" alt=""><figcaption></figcaption></figure>

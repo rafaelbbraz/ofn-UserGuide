@@ -1,17 +1,17 @@
-# Products
+# Produtos
 
-If your enterprise is a "producer" type (you checked the corresponding box in your profile settings), you can now [add products](products.md) and [related variants](product-variants.md) to your producer catalog. These products can be [added in bulk by importing a csv file ](product-and-inventory-import.md)(Excel file saved in csv format).
+Se sua empresa é do tipo "produtor" (você marcou a caixa correspondente nas configurações do perfil), agora pode [adicionar produtos](products.md) e [variantes relacionadas](product-variants.md) ao seu catálogo. Esses produtos podem ser [adicionados em lote importando um arquivo CSV](product-and-inventory-import.md) (Excel salvo em formato CSV).
 
 ![](../../.gitbook/assets/producer.jpg)
 
-The price entered for each product in the producer catalog is the full amount the producer will receive from a sale - hence a 'wholesale' price. Hubs (distributors) can add their fees for admin, transport and packing etc on top using fee options in [Shipping Methods](../shopfront/shipping-methods.md), [Payment Methods](../shopfront/payment-methods.md) or [Enterprise Fees](../shopfront/enterprise-fees.md).
+O preço informado pra cada produto no catálogo do produtor é o valor total que o produtor receberá em uma venda — ou seja, um preço 'de atacado'. Centrais (distribuidores) podem adicionar suas taxas de administração, transporte, embalagem etc. usando as opções de taxa em [Métodos de Envio](../shopfront/shipping-methods.md), [Métodos de Pagamento](../shopfront/payment-methods.md) ou [Taxas da Empresa](../shopfront/enterprise-fees.md).
 
 {% hint style="info" %}
-If you are a Hub managing a producer's enterprise profile on their behalf we recommend you do **not** incorporate your mark up into product prices, rather use the fee methods above.  This makes the product catalog more flexible for future changes.
+Se você é uma central gerenciando o perfil de um produtor em nome dele, recomendamos **não** incorporar sua margem no preço do produto — use os métodos de taxa acima. Isso torna o catálogo mais flexível pra alterações futuras.
 {% endhint %}
 
-If a hub wishes to change the price of a producer's products without using the Enterprise, Shipping or Payment Method Fees strategy then it is best to use our [Inventory](inventory-tool.md) feature. By adding products to their shop inventory, hubs create a second catalog independent of the product catalogs of their suppliers. Prices and stock levels in the Hub Inventory can be altered by the Hub without impacting on producers' "master copies".&#x20;
+Se uma central quer alterar o preço dos produtos de um produtor sem usar a estratégia de Taxas de Empresa/Envio/Pagamento, o melhor é usar o recurso de [Estoque próprio](inventory-tool.md). Adicionando produtos ao estoque da loja, as centrais criam um segundo catálogo independente dos catálogos de seus fornecedores. Preços e níveis de estoque no Estoque da Central podem ser alterados pela central sem impactar as "cópias mestras" dos produtores.
 
-For [irregularly priced products](pricing-irregular-items-kg.md), such as a **whole chicken** with a price that varies from chicken to chicken depending on weight, there is an option to set a price 'per chicken' which can then be adjusted at the time of delivery to the specific piece of meat/vegetable.
+Para [produtos com preço irregular](pricing-irregular-items-kg.md), como um **frango inteiro** cujo preço varia de acordo com o peso, existe uma opção de definir preço 'por frango' que pode ser ajustado no momento da entrega da peça específica de carne/vegetal.
 
-The "[Bulk Buy Option](group-buy-for-bulk-ordering.md)" page details how Buying Groups can use OFN to organise and record bulk purchases.  For example, if a group buys rice in 25kg bags then this function can help distribute the rice between customers based on a weight range they request on purchase.&#x20;
+A página "[Opção de Compra em Lote](group-buy-for-bulk-ordering.md)" detalha como Grupos de Compras podem usar a Nossa Feira pra organizar e registrar compras em atacado. Por exemplo, se um grupo compra arroz em sacos de 25kg, essa função ajuda a distribuir o arroz entre os clientes com base em uma faixa de peso solicitada na compra.
