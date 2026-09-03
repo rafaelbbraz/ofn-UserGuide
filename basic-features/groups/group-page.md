@@ -1,76 +1,76 @@
-# Create and manage a Group page
+# Criar e gerenciar uma página de grupo
 
-**What is a group page?** Group pages are a way for a collection of businesses which exist in the real world to have their own customisable directory on OFN. Group pages are suited to:
+**O que é uma página de grupo?** Páginas de grupo são uma forma de uma coleção de negócios que existe no mundo real ter seu próprio diretório customizável na Nossa Feira. Páginas de grupo são adequadas para:
 
-* regional producer groups
-* enterprises with a common certification
-* farmer's markets
-* large multi-hub enterprises.
+* grupos regionais de produtores
+* empresas com uma certificação em comum
+* feiras
+* grandes empresas multi-central
 
-Any collection of enterprises on the OFN can create a group page.&#x20;
+Qualquer coleção de empresas na Nossa Feira pode criar uma página de grupo.
 
-**What does a group page look like?** You can see some [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).
+**Como é uma página de grupo?** Você pode ver alguns exemplos de [Páginas de Grupo na Open Food Network Austrália](https://openfoodnetwork.org.au/groups).
 
 <figure><img src="../../.gitbook/assets/group front.jpg" alt=""><figcaption></figcaption></figure>
 
-**How can I create a group page?** To create and manage a group, you’ll need to [contact your local OFN ](https://www.openfoodnetwork.org/find-your-local-open-food-network/)so we can set you up as an administrator.
+**Como criar uma página de grupo?** Para criar e gerenciar um grupo, você precisa [entrar em contato com a Nossa Feira](https://www.openfoodnetwork.org/find-your-local-open-food-network/) pra ser configurado como administrador.
 
-## Managing a Group Page
+## Gerenciando uma página de grupo
 
-Once you’ve been set up as the administrator of a group, you’ll be able to view and edit your group by clicking on **Groups** in the horizontal blue menu. Then click on the **edit** icon next to your group.
+Uma vez configurado como administrador de um grupo, você poderá ver e editar seu grupo clicando em **Grupos** no menu horizontal azul. Depois clique no ícone de **editar** ao lado do seu grupo.
 
 ![](../../.gitbook/assets/group1.jpg)
 
-### **Primary Details**
+### **Dados principais**
 
-This is where you can enter and edit the details of your group, and change what will appear on your group's page on the Open Food Network. To see an example of an existing group page, go to [Group Pages on Open Food Network Australia](https://openfoodnetwork.org.au/groups).&#x20;
+Onde você informa e edita os detalhes do grupo, além de alterar o que aparecerá na página do grupo na Nossa Feira.
 
 ![](<../../.gitbook/assets/edit groups.jpg>)
 
-**Name:** Enter a name for your group, to appear as the title of your group page on the OFN.
+**Nome:** Informe um nome pro grupo, que aparecerá como título da página.
 
-**Description:** Write a brief description of your group, to appear below the title of your group page on the OFN.&#x20;
+**Descrição:** Escreva uma descrição curta do grupo, pra aparecer abaixo do título.
 
-**On Front Page:** Select this check box to make your group visible on the OFN. Before you do this, make sure you have added some enterprises to your group and entered content in the About section. Do not check this box if your group page is not ready to be visible yet. &#x20;
+**Na página inicial:** Marque essa caixa pra tornar seu grupo visível na Nossa Feira. Antes disso, garanta que adicionou algumas empresas ao grupo e preencheu conteúdo na seção Sobre. Não marque se a página ainda não está pronta pra ficar visível.
 
-**Enterprises:** Select the enterprises that you want to add to your group. You can search through all of the enterprises currently on the OFN and add them to your group. Please make sure you have permission to add enterprises to your group before doing so. Note, if you have already added an enterprise to your group, they will no longer appear in the search box. These enterprises will be listed on your group page on the OFN in the **Our Producers** and **Our Hubs** sections, and each listing will include a link to their OFN profile
+**Empresas:** Selecione as empresas que quer adicionar ao seu grupo. Você pode buscar entre todas as empresas atualmente na Nossa Feira. Por favor, garanta que tem permissão pra adicionar as empresas antes. Note que, se você já adicionou uma empresa ao grupo, ela não aparecerá mais na busca. Essas empresas serão listadas na página do grupo nas seções **Nossos Produtores** e **Nossas Centrais**, e cada listagem incluirá um link ao perfil dela.
 
-**Permalink:** This is where you can customise the URL for your group page. What you enter here will be added to the end of the following URL: www.openfoodnetwork.org.au/groups/ For example if you enter **regional-hub** here, your group page URL will be: www.openfoodnetwork.org.au/groups/**regional-hub**
+**Permalink:** Onde você customiza o URL da sua página. O que informar aqui será adicionado ao final de: `https://nossafeira.com.br/groups/`. Por exemplo, se informar **central-regional**, o URL será: `https://nossafeira.com.br/groups/central-regional`
 
-### Users
+### Usuários
 
-**Owner:** This is the owner of the group page. Only this user has permission to edit the page and manage the enterprises in the group. Please [contact your local OFN](https://www.openfoodnetwork.org/find-your-local-open-food-network/) if you wish to change the owner of your group.
+**Proprietário:** É o dono da página. Apenas esse usuário tem permissão pra editar a página e gerenciar as empresas do grupo. Por favor, [entre em contato](https://www.openfoodnetwork.org/find-your-local-open-food-network/) se quiser alterar o proprietário.
 
-### About
+### Sobre
 
-This is where you can provide more detailed information about your group to appear in the **About Us** section of your group page on the OFN. You can use the formatting buttons to add headings and paragraphs, and edit the layout and appearance of the content you enter here.
+Onde você fornece informações mais detalhadas sobre seu grupo pra aparecer na seção **Sobre Nós**. Você pode usar os botões de formatação pra adicionar títulos e parágrafos.
 
-### Images
+### Imagens
 
-**Logo:** This is where you can add a logo for your group page. It should be a square image. It will show in the main group listing page on the OFN and to the left of the **Title** and **Description** on your group’s page on the OFN.
+**Logo:** Onde você adiciona um logo pra página do grupo. Deve ser uma imagem quadrada. Aparecerá na página de listagem de grupos e à esquerda do **Título** e **Descrição** na página do grupo.
 
-**Promo Image:** This is a banner style image and will sit across the top of your group page. It’s best if this image is wide and not too tall. We recommend 1200 x 260 pixels.
+**Imagem promocional:** Imagem de banner que ficará no topo da página do grupo. Melhor se for larga e não muito alta. Recomendamos 1200 x 260 pixels.
 
-### Contact
+### Contato
 
-This is where you can enter contact details for your group to appear on the right side of your group page on the OFN. You can enter a phone number, email address and physical address for your group.
+Onde você informa os dados de contato do grupo pra aparecer à direita da página. Você pode informar telefone, email e endereço físico.
 
 ### Web
 
-This is where you can provide links to any websites and social media channels you may have for your group. These links will appear as either URLs or social media icons on the right side of your group page on the OFN.
+Onde você fornece links pra sites e canais de redes sociais do grupo. Esses links aparecerão como URLs ou ícones de redes sociais à direita da página.
 
-## Customer view
+## Visão do cliente
 
-The details added above by editing your group will appear to customers under the different tabs from your main group landing page (which has the group's location shown on a map).
+Os detalhes adicionados acima ao editar seu grupo aparecerão aos clientes nas diferentes abas da página principal do grupo (que mostra a localização em um mapa).
 
 <figure><img src="../../.gitbook/assets/group about.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/gorup hubs.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-If an enterprise belongs to a Group then there will be a 'Group' tab on its shop front with a link to the group.  This is a way in which a collection of online OFN 'Shops' (or hubs) can 'club' together and promote each other.  Customers might find that they can't collect from their normal 'shop' one week and hence use the fact that the shop is part of a local group to find another shop with a collection time and date that better suites them.
+Se uma empresa pertence a um grupo, haverá uma aba 'Grupo' na vitrine dela com um link pro grupo. Essa é uma forma de uma coleção de lojas/centrais 'formarem clube' e se promoverem mutuamente. Os clientes podem descobrir que não podem retirar da sua loja normal em uma semana e usar o fato da loja pertencer a um grupo local pra encontrar outra loja com horário e data mais convenientes.
 
 <figure><img src="../../.gitbook/assets/group on hub.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The 'Group' tab can be hidden from your Enterprise shopfront by using the [White Label function](../shopfront/white-label-site.md).
+A aba 'Grupo' pode ser oculta da sua vitrine usando a [função White Label](../shopfront/white-label-site.md).
 {% endhint %}
