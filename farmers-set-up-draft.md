@@ -1,98 +1,98 @@
-# Online Farmer's market {#producer-shop}
+# Feira online {#producer-shop}
 
-## What is an online farmer's market? {#what-is-a-producer-shop}
+## O que é uma feira online? {#what-is-a-producer-shop}
 
-Farmers’ markets are physical markets that run periodically in urban and regional areas to improve access to local food and to give producers an opportunity to market directly to consumers. It's possible to add an online element onto these markets, to increase reach.
+Feiras são mercados físicos que acontecem periodicamente em áreas urbanas e regionais pra melhorar o acesso a alimentos locais e dar aos produtores uma oportunidade de vender diretamente aos consumidores. É possível adicionar um elemento online a essas feiras pra aumentar o alcance.
 
-## There are 3 ways Farmer's Markets can get online with OFN:
+## Existem 3 formas de as Feiras entrarem online com a Nossa Feira:
 
-### Profile only
+### Apenas perfil
 
-The farmer's market can create a hub profile for their market using the [Hub (profile only) guide](/hub-profile-only.md). Each farmer within the farmers market can create their own profile as well, using the[ producer (profile only) guide](/producer-profile-only.md). This gives visibility to the market, and the stallholders on the OFN directory.
+A feira pode criar um perfil de central para o mercado usando o [guia de Central (apenas perfil)](/hub-profile-only.md). Cada agricultor da feira também pode criar seu próprio perfil, usando o[ guia de produtor (apenas perfil)](/producer-profile-only.md). Isso dá visibilidade à feira e aos feirantes no diretório da Nossa Feira.
 
-### Group page
-The market may wish to create a group page, which acts as a directory of their stallholders. This mini-directory includes a map with profiles of all producers. It can be embedded into the farmer's market's website, and it lets customers learn more about the producers. An advantage is that each producer can setup and maintain their own profiles, minimising central administration.
+### Página de grupo
+A feira pode querer criar uma página de grupo, que funciona como um diretório dos feirantes. Esse mini-diretório inclui um mapa com os perfis de todos os produtores. Pode ser incorporado ao site da feira e permite que os clientes conheçam mais sobre os produtores. Uma vantagem é que cada produtor pode configurar e manter seu próprio perfil, minimizando a administração central.
 
-### Independent producer shops
-A stallholder can independently setup a producer shop on OFN (see [Producer Shop guide](/producer-set-up-guide.md)). They may use this to take pre-orders for pickup at the market, or for delivery after the market. The market can encourage stallholders to expand their sales in this way, and promote their online shops.
+### Lojas de produtores independentes
+Um feirante pode configurar de forma independente uma loja de produtor na Nossa Feira (veja o [guia da Loja do Produtor](/producer-set-up-guide.md)). Pode usar isso pra receber pré-pedidos pra coleta na feira ou pra entrega após a feira. A feira pode incentivar os feirantes a expandirem suas vendas dessa forma e divulgar as lojas online deles.
 
-### Collective Market Shop
-Farmer’s market stallholders who are willing to cooperate and work together can establish a collective shop, or a hub shop. This hub has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option. From there orders could be packed ready for quick pick up. Or they could be taken to alternative drop off points, or to hospitality/corporate customers who don't attend the market in person.
+### Loja Coletiva da Feira
+Feirantes que estejam dispostos a cooperar e trabalhar juntos podem estabelecer uma loja coletiva, ou uma loja central. Essa central tem uma única vitrine oferecendo toda a linha de produtos dos produtores participantes. Encontrar uma forma de coordenar a logística de produtos que entram e saem pode exigir criatividade, mas usar os dias da feira como oportunidade pra agregar e embalar pedidos é uma opção simples. A partir daí, os pedidos podem ser embalados e ficar prontos pra coleta rápida. Ou podem ser levados a pontos alternativos de entrega, ou pra clientes corporativos/de hospitalidade que não compareceriam pessoalmente à feira.
 
-## Steps for setting up Collective Farmer's Market Shop {#steps-for-setting-up-a-producer-shop}
+## Passos pra configurar uma Loja Coletiva de Feira {#steps-for-setting-up-a-producer-shop}
 
-Setting up this model on OFN is much like setting up a Hub Shop.
+Configurar esse modelo na Nossa Feira é muito parecido com configurar uma Loja Central.
 
-1) Register a profile for your collective shop on Open Food Network (e.g. Belleview Farmer's Market Online Shop). This setup tool will ask for basic information about your enterprise to create your profile. You'll be prompted to confirm the email address.
+1) Cadastre um perfil da sua loja coletiva na Nossa Feira (ex.: Feira de Belleview Loja Online). Essa ferramenta de configuração pedirá informações básicas sobre sua empresa pra criar o perfil. Você será solicitado a confirmar o endereço de email.
 
-2) Select the 'hub shop' package type.
+2) Selecione o tipo de pacote 'loja central'.
 
-3) If you want to edit your profile, or add further detail you can modify your Enterprise Settings. Here you can also chose whether your shop is open to the public or private, and write a shopfront message.
+3) Se quiser editar seu perfil, ou adicionar mais detalhes, você pode modificar as Configurações da Empresa. Aqui também pode escolher se sua loja é aberta ao público ou privada, e escrever uma mensagem de vitrine.
 
-4) Define and setup your [shipping methods](/shipping-methods.md). This might be 'collection from the market' or if you offer delivery it could be 'delivery to your restaurant' if you cater to hospitality customers.
+4) Defina e configure seus [métodos de envio](/shipping-methods.md). Isso pode ser 'coleta na feira' ou, se você oferece entrega, pode ser 'entrega no seu restaurante' se atende clientes de hospitalidade.
 
-5) Define and setup your [payment methods](/payment-methods.md). You may ask that customers pay with credit card at checkout, or you might ask them to pay when they collect their order.
+5) Defina e configure seus [métodos de pagamento](/payment-methods.md). Você pode pedir que os clientes paguem com cartão de crédito no checkout, ou pedir pra pagarem quando coletarem o pedido.
 
-6) Define any [enterprise fees](/enterprise-fees.md) you want to apply in your shop. For example you may wish to take a small fee to cover the market's time in administering orders, or the packing service.
+6) Defina quaisquer [taxas de empresa](/enterprise-fees.md) que queira aplicar na sua loja. Por exemplo, você pode querer cobrar uma pequena taxa pra cobrir o tempo da feira administrando pedidos, ou o serviço de embalagem.
 
-7) Producer profiles. Before you can add in the shop's products, each participating producer needs to have a profile which the products can be tied to. There are different ways to setup the producer profiles, depending on how much control the central coordinator wants to maintain, and how much time they have to setup the profiles.
+7) Perfis de produtores. Antes de adicionar os produtos da loja, cada produtor participante precisa ter um perfil ao qual os produtos possam ser vinculados. Há diferentes formas de configurar os perfis de produtores, dependendo de quanto controle o coordenador central quer manter e de quanto tempo tem pra configurar os perfis.
 
 
-7a) If you have a central coordinator taking the role of setting up the shop, they can [create profiles on behalf of the producers](/create-or-connect-with-your-supplying-producers.md). This is more time consuming for the coordinator,  but it gives them control in making sure the profiles are setup correctly and in a visually appealing way. Before doing this the coordinator should let producers know, and get their profile information from them.  This option may also be necessary for producers who are not tech savvy and would struggle to be involved otherwise.
-7b) If your producers already have profiles, you need to [connect with them](/create-or-connect-with-your-supplying-producers.md). The producer can grant different levels of permission to the shop, you should let them know if you want access to stock their products in your shop, or if you also want to be able to edit their products, or add them to inventory.
-7c) If you want your producers to take responsibility for creating their profiles, you can instruct them to create their own profile and add in their products. They can follow the [Producer (Profile Only) guide,](/producer-profile-only.md) completing all 5 steps.
+7a) Se você tem um coordenador central responsável por configurar a loja, ele pode [criar perfis em nome dos produtores](/create-or-connect-with-your-supplying-producers.md). Isso consome mais tempo do coordenador, mas dá a ele controle pra garantir que os perfis sejam configurados corretamente e de forma visualmente atraente. Antes de fazer isso, o coordenador deve avisar os produtores e obter as informações de perfil deles. Essa opção também pode ser necessária pra produtores que não têm intimidade com tecnologia e teriam dificuldade em se envolver de outra forma.
+7b) Se seus produtores já têm perfis, você precisa [se conectar com eles](/create-or-connect-with-your-supplying-producers.md). O produtor pode conceder diferentes níveis de permissão à loja; você deve avisar se quer acesso pra estocar os produtos dele na sua loja, ou também pra editar os produtos ou adicioná-los ao inventário.
+7c) Se quiser que os produtores assumam a responsabilidade de criar os próprios perfis, você pode instruí-los a criarem o próprio perfil e adicionarem os produtos. Eles podem seguir o [guia de Produtor (Apenas Perfil),](/producer-profile-only.md) completando os 5 passos.
 
-8) Products. Setup of products will depend on which option was used in step 7 above.
-8a) If the central coordinator created profiles for producers they can also add in their product range on their behalf. They will first need to get product lists from each producer, with the required fields (name, price, category, properties etc). See [instructions for setting up products](/products.md).
-8b) You've connected with existing producer profiles. Remind these producers to update their products, or do it for them if you have permission.
-8c) Producers will setup their product ranges themselves in step 4 of the Producer profile setup process.
+8) Produtos. A configuração dos produtos vai depender de qual opção foi usada no passo 7 acima.
+8a) Se o coordenador central criou perfis pros produtores, ele também pode adicionar as linhas de produtos em nome deles. Ele precisará antes obter as listas de produtos de cada produtor, com os campos obrigatórios (nome, preço, categoria, propriedades etc.). Veja [instruções pra configurar produtos](/products.md).
+8b) Você se conectou com perfis existentes de produtores. Lembre esses produtores de atualizarem os produtos deles, ou faça isso por eles se tiver permissão.
+8c) Os produtores configurarão as próprias linhas de produtos no passo 4 do processo de configuração do perfil do Produtor.
 
-Once you've setup your producer profiles, shipping and payment methods, and added your products, you can open your shopfront by creating an order cycle.
+Depois de configurar os perfis dos produtores, métodos de envio e pagamento, e adicionar seus produtos, você pode abrir sua vitrine criando um ciclo de pedidos.
 
-9) [Open your shop by opening an order cycle.](/order-cycles.md)
+9) [Abra sua loja abrindo um ciclo de pedidos.](/order-cycles.md)
 
-10) View and edit [orders](/ordres.md).
+10) Veja e edite [pedidos](/ordres.md).
 
-11) View reports. [This page](/get-reports.md) offers a broad description of OFN's reports.
+11) Veja relatórios. [Esta página](/get-reports.md) oferece uma descrição ampla dos relatórios da Nossa Feira.
 
-**Which reports are useful to farmer's market shops?
-**Generally, at the close of an order cycle the central coordinator will need to be responsible for letting each producer know how much stock has been ordered by them, and by which customer. Then each producer can pack the stock ready for delivery.
+**Quais relatórios são úteis pras lojas de feira?
+**Geralmente, no fechamento de um ciclo de pedidos, o coordenador central precisará se responsabilizar por informar a cada produtor quanto foi encomendado dele, e por qual cliente. Então cada produtor pode embalar o estoque pronto pra entrega.
 
-The order cycle customer total report lists each customer's order, with each item they ordered. The report should be filtered by producer and downloaded as a CSV. This will tell the producer which items were ordered by which customer.
+O relatório de total do cliente por ciclo de pedidos lista o pedido de cada cliente, com cada item pedido. O relatório deve ser filtrado por produtor e baixado como CSV. Isso vai dizer ao produtor quais itens foram pedidos por qual cliente.
 
-This report can also be used to calculate the total value of goods ordered from that supplier. If your shop takes payment at checkout (with Paypal or Stripe), then the central coordinator can use this report to calculate how much money needs to be paid to each supplier.
+Esse relatório também pode ser usado pra calcular o valor total das mercadorias pedidas daquele fornecedor. Se a loja recebe pagamento no checkout (com PayPal ou Stripe), então o coordenador central pode usar esse relatório pra calcular quanto dinheiro precisa ser pago pra cada fornecedor.
 
-## What are the ongoing processes to run this kind of model?
+## Quais são os processos contínuos pra rodar esse tipo de modelo?
 
-### Updating products each cycle
+### Atualização de produtos a cada ciclo
 
-Before each order cycle, the product availability and prices for each producer need to be updated. If the coordinator owns the producer profiles, they’ll need to contact each producer, get a list of any changes to product prices and availability, and update this in the OFN. If the coordinator has taken the ‘low involvement’ route, producers will need to take responsibility for updating their product information themselves.
+Antes de cada ciclo de pedidos, a disponibilidade e os preços de cada produtor precisam ser atualizados. Se o coordenador é dono dos perfis dos produtores, ele precisará contatar cada um, obter uma lista das mudanças de preço e disponibilidade, e atualizar isso na Nossa Feira. Se o coordenador escolheu a rota de 'baixo envolvimento', os produtores precisarão se responsabilizar por atualizar as próprias informações de produto.
 
-Below are instructions for how producers can update products before an order cycle:
+Abaixo estão instruções sobre como os produtores podem atualizar os produtos antes de um ciclo de pedidos:
 
-_Each cycle there are 3 things to update before the shop opens:
+_A cada ciclo há 3 coisas a atualizar antes de a loja abrir:
 
-1) Mark any products that are unavailable with a zero in the ‘on hand’ field.
+1) Marque qualquer produto indisponível com zero no campo 'em mãos'.
 
-2) For products that will be available in the coming week, do one of the following:
+2) Pra produtos que estarão disponíveis na semana seguinte, faça uma das opções:
 
-i) Either enter the amount that you have available in the ‘on hand’ field next to the product.
+i) Insira a quantidade disponível no campo 'em mãos' ao lado do produto.
 
-ii) or, if you have an inexhaustible amount of a product available, select the ‘on demand’ tick box that corresponds with that product.
+ii) ou, se houver uma quantidade inesgotável de um produto, marque a caixa 'sob demanda' correspondente ao produto.
 
-3) Update the prices_
+3) Atualize os preços_
 
-See here for details about updating [products](/products.md).
+Veja aqui os detalhes sobre atualização de [produtos](/products.md).
 
-Once all producer have done this, the coordinator creates an order cycle and selects all products for all  producers. This will put all available products into the shop at the correct prices, with the correct stock levels.
+Depois que todos os produtores fizerem isso, o coordenador cria um ciclo de pedidos e seleciona todos os produtos de todos os produtores. Isso colocará todos os produtos disponíveis na loja, nos preços corretos e com os níveis de estoque corretos.
 
-### Creating an Order Cycle
-It’s the coordinator’s role to make sure the order cycle is setup correctly. This involves setting the opening and closing dates, and selecting which producers are involved for that order cycle.
+### Criando um Ciclo de Pedidos
+É papel do coordenador garantir que o ciclo de pedidos seja configurado corretamente. Isso envolve definir as datas de abertura e fechamento, e selecionar quais produtores estão envolvidos naquele ciclo.
 
-A way to streamline this process is to duplicate the previous Order Cycle and then just make smaller amendments to the dates and ready for date.
+Uma forma de simplificar esse processo é duplicar o Ciclo de Pedidos anterior e depois fazer apenas pequenos ajustes nas datas e na data 'pronto pra'.
 
-### Refunds
-The collective should define the refund policy. To reduce administration time, the hub may chose not to allow refunds. Or if they do allow refunds, you need to clarify which party is responsible for this. E.g. before the collective has paid producer’s for their orders, it would be the coordinator's responsibility to administer refunds. Refunds requested after funds have been transferred to producers, or after the collection date, should go through producers for example.
+### Reembolsos
+O coletivo deve definir a política de reembolso. Pra reduzir o tempo de administração, a central pode optar por não permitir reembolsos. Ou, se permitir reembolsos, você precisa esclarecer qual parte é responsável por isso. Ex.: antes de o coletivo pagar aos produtores pelos pedidos deles, seria responsabilidade do coordenador administrar os reembolsos. Reembolsos solicitados depois que os fundos foram transferidos aos produtores, ou depois da data de coleta, deveriam passar pelos produtores, por exemplo.
 
 
 

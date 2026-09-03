@@ -1,127 +1,127 @@
-# The roles
+# Os papéis
 
-There are many different ways to contribute to the OFN project. Inspired by the [holacracy model](https://igipartners.com/read-holacracy-comic-book-free#page-1), we differentiate the people from the roles they can play for certain periods of time. A person can have multiple roles, and a role can be fulfilled by many persons. Some roles relate more to an local affiliate level. Others more to a global level. Some needs to be done at both levels, like communication for instance.
+Existem muitas formas diferentes de contribuir com o projeto Nossa Feira. Inspirados no [modelo de holacracia](https://igipartners.com/read-holacracy-comic-book-free#page-1), diferenciamos as pessoas dos papéis que elas podem desempenhar por determinados períodos. Uma pessoa pode ter vários papéis, e um papel pode ser cumprido por várias pessoas. Alguns papéis se relacionam mais com o nível de afiliado local. Outros mais com o nível global. Alguns precisam ser feitos nos dois níveis, como comunicação, por exemplo.
 
-## At local level (local OFN entity & community)
+## No nível local (entidade e comunidade local da Nossa Feira)
 
-### Organizing the Saas service on the OFN software
+### Organizando o serviço SaaS no software da Nossa Feira
 
-#### Super administration of the OFN platform
+#### Super administração da plataforma da Nossa Feira
 
-This role includes all what relates to setting up the localized version of the platform: translation in local language, VAT setup, taxonomy setup, local links, setting up a local user guide, etc. We have setup a [specific guide for super-admin](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) to support you in your role ! Check-it out :-)
+Este papel inclui tudo relacionado a configurar a versão localizada da plataforma: tradução para o idioma local, configuração de IVA, configuração de taxonomia, links locais, configuração de um guia do usuário local etc. Preparamos um [guia específico pra super-admin](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) pra te apoiar nesse papel! Dá uma olhada :-)
 
-#### User support
+#### Suporte ao usuário
 
-This role includes: reporting bugs on [github](https://github.com/openfoodfoundation/openfoodnetwork/issues), curating needs that emerge from the community and report them in the community forum [wishlist](https://community.openfoodnetwork.org/c/software-impovement) (which is curated by the Product Owners of the global team - see below)
+Este papel inclui: reportar bugs no [github](https://github.com/openfoodfoundation/openfoodnetwork/issues), curar necessidades que emergem da comunidade e reportá-las na [lista de desejos](https://community.openfoodnetwork.org/c/software-impovement) do fórum da comunidade (que é curada pelos Product Owners da equipe global — veja abaixo)
 
-#### System administration
+#### Administração de sistemas
 
-This role includes all what relates to the management of the servers: making sure the platform is up and running, intervene in case there is an issues, etc. This role is now more and more mutualized at the global level, but some affiliates still have local ressources to fulfil that role.
+Este papel inclui tudo relacionado à gestão dos servidores: garantir que a plataforma esteja no ar e funcionando, intervir em caso de problema etc. Esse papel está cada vez mais mutualizado no nível global, mas alguns afiliados ainda têm recursos locais pra cumprir esse papel.
 
-### Contributing to sector development
+### Contribuindo com o desenvolvimento do setor
 
-#### Training and consulting services
+#### Serviços de treinamento e consultoria
 
-This role means mainly building training offers and organize sessions for your local community of existing and potential food hubs and other community food enterprise. And/or offer consulting services to support establishement of new food hubs, or increased performance of existing ones. It can be for example a training or consulting on marketing or logistic strategy, including potentially some integration with the OFN local platform to setup automated emailing campaigns, etc.
+Este papel significa principalmente construir ofertas de treinamento e organizar sessões pra sua comunidade local de centrais de alimentos existentes e potenciais e outras empresas comunitárias de alimentos. E/ou oferecer serviços de consultoria pra apoiar a criação de novas centrais de alimentos, ou aumentar o desempenho das existentes. Pode ser, por exemplo, treinamento ou consultoria em estratégia de marketing ou logística, incluindo potencialmente alguma integração com a plataforma local da Nossa Feira pra configurar campanhas automatizadas de email etc.
 
-#### Research
+#### Pesquisa
 
-This role is all about building and contributing to research projects, writing article, building content and knowledge that can support the development of local and sustainable food sector.
+Este papel envolve construir e contribuir com projetos de pesquisa, escrever artigos, construir conteúdo e conhecimento que possam apoiar o desenvolvimento do setor de alimentos locais e sustentáveis.
 
-#### Incubation programs
+#### Programas de incubação
 
-This role consists in building programs including all the dimension you need to build a performant and resilient food hub. Programs can be over a week, or based on weekly sessions for some months, or include some mentorship, etc. To build those programs, this role can use the various commons produced by the OFN global community.
+Este papel consiste em construir programas incluindo todas as dimensões necessárias pra construir uma central de alimentos eficiente e resiliente. Programas podem durar uma semana, ou basear-se em sessões semanais durante alguns meses, ou incluir mentoria etc. Pra construir esses programas, este papel pode usar os vários bens comuns produzidos pela comunidade global da Nossa Feira.
 
-### Managing the entity and developing the community
+### Gerenciando a entidade e desenvolvendo a comunidade
 
-#### Community building and facilitation
+#### Construção e facilitação da comunidade
 
-This role includes all what concerns attracting stakeholders, users, contributors, partners to federate a strong and diverse community where people feel they share values and some common vision, and want to collaborate and commons projects. Building and facilitating a local community requires some onsite and/or virtual facilitation skills, so that everyone feels welcome, included, and can find ways to participate to the community in the most adapted way. Community facilitation is also closely linked with local governance, and how we include stakeholders in the decision making process. In distributed and inclusive organisation, documentation is also key for a community to thrive, as the rules and codes of the community needs to be shared for people to be able to participate.
+Este papel inclui tudo relacionado a atrair partes interessadas, usuários, contribuintes, parceiros pra federar uma comunidade forte e diversa onde as pessoas sintam que compartilham valores e alguma visão comum, e queiram colaborar em projetos comuns. Construir e facilitar uma comunidade local requer habilidades de facilitação presencial e/ou virtual, pra que todos se sintam bem-vindos, incluídos e possam encontrar formas de participar da comunidade da maneira mais adequada. A facilitação comunitária também está intimamente ligada à governança local, e a como incluímos as partes interessadas no processo de tomada de decisão. Numa organização distribuída e inclusiva, a documentação também é fundamental para uma comunidade prosperar, pois as regras e códigos da comunidade precisam ser compartilhados pras pessoas poderem participar.
 
-#### Communication & marketing
+#### Comunicação & marketing
 
-This roles is all about local communication, like local newsletter, campaigns, local social media, press relationship, participation and organisation of local events, online presence, word of mouth, ambassadors strategies, etc. It support community building and help reach a sufficient number of users for the commons to sustain itself economically.
+Este papel envolve toda a comunicação local, como newsletter local, campanhas, redes sociais locais, relacionamento com a imprensa, participação e organização de eventos locais, presença online, boca a boca, estratégias de embaixadores etc. Apoia a construção da comunidade e ajuda a alcançar um número suficiente de usuários pros bens comuns se sustentarem economicamente.
 
-#### Human organization
+#### Organização humana
 
-Like a "human resources" department, this role is about making sure the roles needed for the project to thrive are fulfilled, and deploying strategies to attracts and recruit the required skills and human energies. It's also about making sure workers (volunteers or paid) feel great while contributing to the project, learn, grow, and feel joyful. What we do out of love and joy will create joy and love, so it's important for us that people contributing to the project don't do things only because they can be paid for that, but because they are committed and love what we are all building together!
+Como um departamento de "recursos humanos", este papel é sobre garantir que os papéis necessários pro projeto prosperar sejam cumpridos, e implantar estratégias pra atrair e recrutar as habilidades e energias humanas necessárias. Também é sobre garantir que os trabalhadores (voluntários ou remunerados) se sintam bem enquanto contribuem com o projeto, aprendam, cresçam e sintam alegria. O que fazemos por amor e alegria criará alegria e amor, então é importante pra nós que as pessoas que contribuem com o projeto não façam isso apenas porque podem ser pagas, mas porque são comprometidas e amam o que estamos construindo juntos!
 
-#### Financial, legal and admin management
+#### Gestão financeira, legal e administrativa
 
-This role includes making sure the legal papers are done and we respect our legal obligations, invoicing and accounting management, budget planning and follow up.
+Este papel inclui garantir que os papéis legais estejam feitos e que respeitemos nossas obrigações legais, gestão de faturamento e contabilidade, planejamento e acompanhamento orçamentário.
 
-#### Fundraising
+#### Captação de recursos
 
-This role is all about finding money to be able to pay people so they can dedicate real time to develop the project and don't have to work aside to sustain themselves. Until we have reached some self-sufficieny of course, as our aim is to step by step build sustainable business models both at local and global level. Until now fundraising has been done more on a local level, local affiliates have found grants and have contributed to finance the global level of operations. This can continue and we highly encourage it, but we also aim at doing some global fundraising through global reach foundations.
+Este papel envolve encontrar dinheiro pra poder pagar as pessoas pra que possam se dedicar realmente ao desenvolvimento do projeto e não precisem trabalhar em paralelo pra se sustentar. Até alcançarmos alguma autossuficiência, claro, pois nosso objetivo é passo a passo construir modelos de negócio sustentáveis tanto no nível local quanto global. Até agora, a captação foi feita mais no nível local; afiliados locais encontraram subsídios e contribuíram para financiar o nível global de operações. Isso pode continuar e incentivamos fortemente, mas também miramos em fazer alguma captação global através de fundações de alcance global.
 
-## At global level (the global OFN network & community)
+## No nível global (a rede e comunidade global da Nossa Feira)
 
-### Developing the OFN software
+### Desenvolvendo o software da Nossa Feira
 
-#### Development
+#### Desenvolvimento
 
-This role is all about the technical development of the software, which includes coding, code review, merging and releasing. Developers will fix bugs, solve technical debts, maintain the APIs (connectors that enable to communicate with other software) and build new features in close relationship with the product owner. So they ensure both the maintenance and the improvement of the software.
+Este papel envolve o desenvolvimento técnico do software, o que inclui codificar, revisar código, fazer merge e publicar. Os desenvolvedores corrigem bugs, resolvem dívidas técnicas, mantêm as APIs (conectores que permitem se comunicar com outros softwares) e constroem novos recursos em estreita relação com o product owner. Então eles garantem tanto a manutenção quanto a melhoria do software.
 
-#### UX design
+#### Design de UX
 
-This role is closely linked to the development role, and product owner. The UX designer will work on the user interface and user experience to build a platform that users will easily understand and use. It is a key rule to maximize user adoption of the platform.
+Este papel está intimamente ligado ao papel de desenvolvimento e ao product owner. O designer de UX vai trabalhar na interface do usuário e na experiência do usuário pra construir uma plataforma que os usuários entendam e usem facilmente. É uma regra fundamental pra maximizar a adoção da plataforma pelos usuários.
 
-#### Testing
+#### Testes
 
-This role is key to ensure the general quality of the software. Before a new release is deployed in production and accessible to users through the various local OFN platforms, testers will check that the release doesn't break anything. For any piece of code added, testers will check that the feature this code is supposed to bring is functional and that nothing else has been affected. We want to prevent any regression with a new deployment of a release in a local platform.
+Este papel é fundamental pra garantir a qualidade geral do software. Antes de uma nova versão ser implantada em produção e ficar acessível aos usuários através das várias plataformas locais da Nossa Feira, os testadores vão verificar se a versão não quebra nada. Pra cada pedaço de código adicionado, os testadores vão verificar se a funcionalidade que esse código deveria trazer está funcional e se nada mais foi afetado. Queremos prevenir qualquer regressão a cada nova implantação de uma versão numa plataforma local.
 
-#### System administration
+#### Administração de sistemas
 
-This role includes all what relates to the management of the servers: making sure the platform is up and running, intervene in case there is an issue, etc. We have organized a global sys admin team to make sure we can intervene quickly in case a server is down and a local OFN platform is unaccessible.
+Este papel inclui tudo relacionado à gestão dos servidores: garantir que a plataforma esteja no ar e funcionando, intervir em caso de problema etc. Organizamos uma equipe global de sysadmin pra garantir que possamos intervir rapidamente caso um servidor caia e uma plataforma local da Nossa Feira fique inacessível.
 
 #### Product owner
 
-This role makes the interface between the users and the developers. It receives the request of the users, analyses the needs, brainstorms with users and developers about potential solutions, and when a solution has been collectively chosen, makes sure what is developed answers the original need once finished. It is also in charge to curate the massive amount of needs reported by users, so contribute to driving the prioritization process, and find ways to communicate that process to users to mitigate their frustration.
+Este papel faz a interface entre usuários e desenvolvedores. Recebe os pedidos dos usuários, analisa as necessidades, faz brainstorm com usuários e desenvolvedores sobre soluções potenciais e, quando uma solução é escolhida coletivamente, garante que o que está sendo desenvolvido responde à necessidade original quando terminado. Também é responsável por curar a enorme quantidade de necessidades reportadas pelos usuários, então contribui para orientar o processo de priorização e encontra formas de comunicar esse processo aos usuários pra mitigar a frustração deles.
 
 #### Train Driver
 
-This role is more a "pipe coordination" role. When the product team has agreed on the next things to develop, the train driver will make sure the developments are moving forward and fixes and features are delivered on a regular pace, and nothing gets stuck.
+Este papel é mais um papel de "coordenação de pipeline". Quando a equipe de produto concorda com as próximas coisas a desenvolver, o train driver vai garantir que os desenvolvimentos estão avançando e que correções e recursos são entregues num ritmo regular, e nada fica travado.
 
-#### Documentation
+#### Documentação
 
-This role is a shared role, and a key role in an open source community, as non documented open source software is not really reusable by other, so can be considered somehow as "flawed open source". Every contributor is supposed to participate to maintain and improve the documentation of the processes and the organisation of the community.
+Este papel é um papel compartilhado, e um papel fundamental em uma comunidade de código aberto, pois software de código aberto não documentado não é realmente reutilizável por outros, então pode ser considerado de alguma forma como "código aberto falho". Todo contribuinte deve participar de manter e melhorar a documentação dos processos e da organização da comunidade.
 
-### Developing sector development ressources
+### Desenvolvendo recursos de desenvolvimento setorial
 
-#### Research and analysis
+#### Pesquisa e análise
 
-This role is all about building and contributing to research projects, writing article, building content and knowledge that can support the development of local and sustainable food sector. We aim at activating the global OFN network around shared research projects. Research can be held both at local and global level.
+Este papel envolve construir e contribuir com projetos de pesquisa, escrever artigos, construir conteúdo e conhecimento que possam apoiar o desenvolvimento do setor de alimentos locais e sustentáveis. Miramos em ativar a rede global da Nossa Feira em torno de projetos de pesquisa compartilhados. Pesquisa pode ser feita tanto no nível local quanto global.
 
-#### Building and sharing hub management tools and guidelines
+#### Construção e compartilhamento de ferramentas e diretrizes de gestão de centrais
 
-Knowledge is a non rival common, it can be shared without being lost. This role is all about creating content, building and sharing knowledge about how food hubs can be run efficiently, in order to support the development of the sector. These ressources can then be used by local affiliate to build training and consulting services. To be more concrete, these ressources can be marketing guidelines, business models, logistics models, legal models, organizational models, etc.
+Conhecimento é um bem comum não rival, pode ser compartilhado sem ser perdido. Este papel envolve criar conteúdo, construir e compartilhar conhecimento sobre como as centrais de alimentos podem ser geridas eficientemente, a fim de apoiar o desenvolvimento do setor. Esses recursos podem então ser usados pelo afiliado local pra construir serviços de treinamento e consultoria. Sendo mais concreto, esses recursos podem ser diretrizes de marketing, modelos de negócio, modelos de logística, modelos legais, modelos organizacionais etc.
 
-#### Building and sharing training, consulting and incubation material
+#### Construção e compartilhamento de material de treinamento, consultoria e incubação
 
-In complement to the precedent role, this role is about sharing training materials, so training and incubation programs, consulting services, so that local affiliates can build on each other and enrich each other's reflexions.
+Complementando o papel anterior, este papel é sobre compartilhar materiais de treinamento, assim como programas de treinamento e incubação, serviços de consultoria, pra que os afiliados locais possam construir uns sobre os outros e enriquecer as reflexões uns dos outros.
 
-### Managing and developing the OFN community
+### Gerenciando e desenvolvendo a comunidade da Nossa Feira
 
-#### Community building and facilitation
+#### Construção e facilitação da comunidade
 
-At global level as well, we need to faciliate the community of local affiliate managers, and welcome and support the development of new OFN affiliates in the world. So concretly, this role includes support to people who want to develop new OFN communities and entities worldwide, answering community forum posts and Slack messages, making sure new comers are filling welcomed, etc. It also include facilitation processes to organise collective decision making at global level, on priorization for instance, or opening and holding spaces to discuss about tensions people might feel. Welcoming and onboarding can be on non technical dimensions (support building the team and learn facilitation) or on technical dimensions (support people who try to deploy the software).
+No nível global também, precisamos facilitar a comunidade dos gestores locais de afiliados, e acolher e apoiar o desenvolvimento de novos afiliados da Nossa Feira no mundo. Então, concretamente, este papel inclui apoio a pessoas que querem desenvolver novas comunidades e entidades da Nossa Feira mundialmente, responder posts do fórum da comunidade e mensagens no Slack, garantir que os recém-chegados se sintam bem-vindos etc. Também inclui processos de facilitação pra organizar a tomada de decisão coletiva no nível global, sobre priorização, por exemplo, ou abrir e sustentar espaços pra discutir tensões que as pessoas possam sentir. Recepção e onboarding podem ser em dimensões não técnicas (apoiar a construção da equipe e aprender facilitação) ou em dimensões técnicas (apoiar pessoas que tentam implantar o software).
 
-#### Communication
+#### Comunicação
 
-This role is about building a consistent global image for the Open Food Network project. It includes external communiation: website, social media, and internal communiation: documenting our processes (like writting and keeping up to date those gitbooks!)
+Este papel é sobre construir uma imagem global consistente pro projeto Open Food Network. Inclui comunicação externa: site, redes sociais, e comunicação interna: documentar nossos processos (como escrever e manter atualizados esses gitbooks!)
 
-#### Documentation
+#### Documentação
 
-In an open source community, documentation is key not only for the software, but more generally on all the processes in place, so that people who would like to join can know about the rules of the game. This role is shared by all contributors.
+Numa comunidade de código aberto, a documentação é fundamental não apenas pro software, mas mais geralmente para todos os processos em vigor, para que pessoas que gostariam de se juntar possam saber sobre as regras do jogo. Este papel é compartilhado por todos os contribuintes.
 
-#### Fundraising
+#### Captação de recursos
 
-This role is all about finding money for the roles that are specific to the globa level: software and sector development resources development, global communication and community building and facilitation. We aim at doing more global fundraising as we believe that what our global community develops can really make a difference.
+Este papel envolve encontrar dinheiro pros papéis específicos do nível global: desenvolvimento de software e recursos de desenvolvimento setorial, comunicação global e construção e facilitação da comunidade. Miramos em fazer mais captação global pois acreditamos que o que nossa comunidade global desenvolve pode realmente fazer diferença.
 
-#### Financial management
+#### Gestão financeira
 
-This role is about managing a distributed global budget. Local affiliates do all contribute to global pot to finance the operation of the global team, ongoing development of the sofware, communication, etc. But we have no global organization neither global bank account today, and it wouldn't make sense to transfer money accross currency zones all the time and pay the attached fees. So we currently manage 4 "global wallets" in different countries where affiliates can transfer their contribution to finance the global level of the commons. We track expenses for the global level and manage cashlow and treasury through this [open budget spreadsheet](https://docs.google.com/spreadsheets/d/1EjDgQOGMAePgyvWv8gyIPgLPnvieWoWXO0bUzkz4pPA/edit?usp=sharing). Still WIP, so sorry if this is still very messy !
+Este papel é sobre gerenciar um orçamento global distribuído. Todos os afiliados locais contribuem pro caixa global pra financiar a operação da equipe global, o desenvolvimento contínuo do software, comunicação etc. Mas não temos uma organização global nem uma conta bancária global hoje, e não faria sentido transferir dinheiro entre zonas de moeda o tempo todo e pagar as taxas envolvidas. Então atualmente gerenciamos 4 "carteiras globais" em diferentes países onde afiliados podem transferir sua contribuição pra financiar o nível global dos bens comuns. Rastreamos despesas do nível global e gerenciamos fluxo de caixa e tesouraria através dessa [planilha de orçamento aberto](https://docs.google.com/spreadsheets/d/1EjDgQOGMAePgyvWv8gyIPgLPnvieWoWXO0bUzkz4pPA/edit?usp=sharing). Ainda em construção, então desculpa se ainda estiver muito bagunçado!
 
-#### Human organization
+#### Organização humana
 
-As a distributed organization trying to maximise empowerment and participation of every contributors in decision making processes, we have no formal coercive hierchy, but a more fluid, agile, open and contributive dynamic of powers, supported by various processes. This role is about supporting onboarding of new contributors and making sure everyone is happy. It means opening and holding spaces when tensions need to be expressed and facilite an agile evolution of our processes.
+Como uma organização distribuída tentando maximizar o empoderamento e a participação de cada contribuinte nos processos de tomada de decisão, não temos hierarquia coercitiva formal, mas uma dinâmica de poderes mais fluida, ágil, aberta e contributiva, apoiada por vários processos. Este papel é sobre apoiar a integração de novos contribuintes e garantir que todos estejam felizes. Significa abrir e sustentar espaços quando tensões precisam ser expressas e facilitar uma evolução ágil dos nossos processos.
