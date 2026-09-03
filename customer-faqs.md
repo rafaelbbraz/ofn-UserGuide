@@ -1,60 +1,59 @@
-# Customer FAQs
+# Perguntas Frequentes de Clientes
 
-%accordion%What are the OFN's transparency features?%accordion%
+%accordion%Quais são os recursos de transparência da Nossa Feira?%accordion%
 
-Traditional grocery supply chains are shrouded in mystery, making it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery dollar will end up. Transparency is central to the OFN, because we believe that visible supply chains are healthier than those which are hidden. On the OFN, customers can always see where their food has come from and what proportion of the price goes to the farmer.
+Cadeias de fornecimento tradicionais de alimentos são envoltas em mistério, dificultando pros clientes saberem de onde vem sua comida, como foi produzida e pra onde vai o dinheiro gasto. A transparência é central na Nossa Feira porque acreditamos que cadeias de fornecimento visíveis são mais saudáveis do que as escondidas. Na Nossa Feira, os clientes sempre podem ver de onde vem sua comida e qual proporção do preço vai pro produtor.
 
-In an online shop, the  pricing pie chart will show you how the price is allocated between the producer and other players like the hub or retailer. You can also see the product properties \(such as certified organic, free range etc\) to know more about how the food was produced.
-
-%/accordion%
-
-%accordion%How does shopping on the OFN bring benefits to farmers, the environment and my local community?%accordion%
-
-The OFN makes producers visible again, giving them recognition and a fair price, for their hard work. A food system with more direct trading between farmers and local community enterprises \(instead of multinational corporations\) keeps food dollars in the community’s hands and builds ties and understanding. Shopping local also brings benefits to the environment through lower food miles and more seasonal consumption.
+Em uma loja online, o gráfico de pizza de preços mostra como o valor é dividido entre produtor e outros participantes como central ou varejista. Você também pode ver as propriedades do produto (como certificação orgânica, criação livre, etc.) pra saber mais sobre como o alimento foi produzido.
 
 %/accordion%
 
-%accordion%How is the OFN different to other online food delivery services?%accordion%
+%accordion%Como comprar na Nossa Feira traz benefícios pros agricultores, pro meio ambiente e pra minha comunidade local?%accordion%
 
-The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world.
-
-%/accordion%
-
-### Placing orders
-
-%accordion%What are order cycles?%accordion%
-
-Some shops operate their ordering and delivery in ‘order cycles’, as opposed to shops which are perpetually open and process orders on a one-by-one basis. Order cycles are a way for enterprises to process orders in bulk, which makes their business more efficient, so they can pass on savings to you \(think how inefficient it would be for a farmer to harvest a lettuce each time an order is placed\).
-
-An order cycle starts with a period of time when the shop is open and accepts orders. Then it will close, and the shop will process \(harvest, pack and deliver\) all of the orders that were placed. This process will then repeat itself. A full order cycle might take 2 weeks \(e.g. the shop is open for 10 days, and then orders are harvested, packed and delivered in 4 days\). For customers, this can mean that you will place your order a few days to a week before your order is delivered. Once you get used to ordering in advance like this, and planning your shopping ahead, the system works well, and brings you the freshest goodies!
-
-If you see that a shop is closed, just return back when their next order cycle is open to start shopping with them.
+A Nossa Feira torna os produtores visíveis novamente, dando a eles reconhecimento e um preço justo pelo trabalho duro. Um sistema alimentar com mais comércio direto entre agricultores e empresas locais (em vez de multinacionais) mantém o dinheiro dos alimentos na comunidade e fortalece laços e entendimento. Comprar local também traz benefícios ambientais através de menor distância percorrida pelos alimentos e consumo mais sazonal.
 
 %/accordion%
 
-%accordion%How are orders delivered?%accordion%
+%accordion%Como a Nossa Feira é diferente de outros serviços de entrega de comida online?%accordion%
 
-All online shops on the ONF are independently operated and offer different shipping methods. Some shops offer more conventional shipping methods like home delivery, or postage. Others will have more creative ways for getting the food from the farmer to plate, such as collection from a central location \(like a school, farmer’s market or workplace\), collection from a neighbourhood grocer or butcher or distribution through a buying group \(group of customers\).
-
-%/accordion%
-
-%accordion%What are the payment options?%accordion%
-
-All online shops on the OFN are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of credit card, paypal, Pin Payments, banks transfer or cash.
+A Nossa Feira é sem fins lucrativos e comprometida em construir um sistema alimentar melhor e mais justo. Algumas lojas online ainda se abastecem através de cadeias convencionais envoltas em mistério, mas na Nossa Feira você sempre pode ver de onde vem sua comida. A Nossa Feira também contribui pra algo maior. O código do software é livre pra outros usarem, contribuindo para melhorar os sistemas alimentares no mundo todo.
 
 %/accordion%
 
-%accordion%Can I see a record of my past orders?%accordion%
+### Fazendo pedidos
 
-You can view your past orders by logging in at the homepage, clicking the cog in the top right hand corner and selecting Account. Here you will see a summary of your orders at each shop and be able to view details of each unique order.
+%accordion%O que são ciclos de pedidos?%accordion%
 
-%/accordion%
+Algumas lojas operam seus pedidos e entregas em 'ciclos de pedidos', diferente de lojas permanentemente abertas que processam pedidos um a um. Os ciclos de pedidos são uma forma das empresas processarem pedidos em lote, o que torna o negócio mais eficiente — e assim podem repassar essa economia pra você (pense em como seria ineficiente pra um agricultor colher uma alface cada vez que um pedido for feito).
 
-%accordion%What are buying groups and how can I join or establish one?%accordion%
+Um ciclo de pedidos começa com um período em que a loja está aberta e aceita pedidos. Depois fecha, e a loja processa (colhe, embala e entrega) todos os pedidos feitos. Esse processo se repete. Um ciclo completo pode levar 2 semanas (ex: a loja fica aberta por 10 dias, e depois os pedidos são colhidos, embalados e entregues em 4 dias). Pra clientes, isso significa que você vai fazer o pedido alguns dias ou uma semana antes da entrega. Uma vez que você se acostuma a pedir com antecedência assim e planejar sua compra, o sistema funciona bem e traz os alimentos mais frescos!
 
-A buying group is a collective of customers, who place a bulk order through a shop, then receive and distribute the order amongst members. This might take place in someone’s back shed, or local community space. Buying groups are often not for profit and run by members. By ordering in bulk, and taking on the task of packing and distributing individual orders, members of a buying group can access great produce at lower prices. Joining or starting a buying group with your neighbours or community group can be a great way to access affordable produce and also build  sense of community.
-
-If a shop delivers to a buying group, ask them about how you can join. Or if you want to start a new buying group, get in touch with a shop to see if it can be accommodated, and talk with your community to get others involved.
+Se você ver que uma loja está fechada, volte quando o próximo ciclo de pedidos abrir pra começar a comprar.
 
 %/accordion%
 
+%accordion%Como os pedidos são entregues?%accordion%
+
+Todas as lojas online da Nossa Feira são operadas de forma independente e oferecem diferentes métodos de entrega. Algumas lojas oferecem métodos mais convencionais como entrega em domicílio ou envio pelos Correios. Outras têm formas mais criativas de levar a comida da fazenda à mesa, como retirada em um local central (uma escola, feira ou local de trabalho), retirada em um mercado ou açougue do bairro, ou distribuição através de um grupo de compras (grupo de clientes).
+
+%/accordion%
+
+%accordion%Quais são as opções de pagamento?%accordion%
+
+Todas as lojas online da Nossa Feira são operadas de forma independente e têm diferentes métodos de pagamento disponíveis. Visite uma loja para ver quais opções são oferecidas. A maioria das lojas usa uma combinação de Pix, cartão de crédito, transferência bancária ou dinheiro.
+
+%/accordion%
+
+%accordion%Posso ver um histórico dos meus pedidos anteriores?%accordion%
+
+Você pode ver seus pedidos anteriores fazendo login na página inicial, clicando no ícone de engrenagem no canto superior direito e selecionando Conta. Ali você verá um resumo dos seus pedidos em cada loja e poderá ver os detalhes de cada pedido individualmente.
+
+%/accordion%
+
+%accordion%O que são grupos de compras e como posso participar ou criar um?%accordion%
+
+Um grupo de compras é um coletivo de clientes que faz um pedido em lote através de uma loja, e então recebe e distribui o pedido entre os membros. Isso pode acontecer no galpão de alguém ou em um espaço comunitário local. Grupos de compras são frequentemente sem fins lucrativos e organizados pelos próprios membros. Ao pedir em lote e assumir a tarefa de empacotar e distribuir os pedidos individuais, os membros de um grupo de compras podem acessar produtos ótimos a preços mais baixos. Entrar ou começar um grupo de compras com seus vizinhos ou grupo comunitário pode ser uma ótima forma de acessar produtos acessíveis e construir senso de comunidade.
+
+Se uma loja entrega para um grupo de compras, pergunte como você pode participar. Ou se você quer começar um novo grupo, entre em contato com uma loja para ver se pode ser acomodado e converse com sua comunidade para envolver outras pessoas.
+
+%/accordion%

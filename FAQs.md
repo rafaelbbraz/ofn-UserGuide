@@ -1,7 +1,7 @@
-# FAQs
+# Perguntas Frequentes
 
-Browse these FAQs to find answers to some commonly asked questions from customers, producers and hubs.
+Consulte estas FAQs para encontrar respostas às dúvidas mais comuns de clientes, produtores e centrais.
 
-Customer FAQs
-Producer FAQs
-Hub FAQs
+Perguntas Frequentes de Clientes
+Perguntas Frequentes de Produtores
+Perguntas Frequentes de Centrais

@@ -1,31 +1,28 @@
-# Glossary of OFN Terms
+# Glossário de termos da Nossa Feira
 
-* [Bulk Order Management](basic-features/orders/view-orders.md#bulk-order-management): This facility enables you to manipulate multiple orders at once, rather than individually.  It is useful for:
-  * buying groups who have to reach a minimum number of orders on an item before it is feasible to purchase the goods to redistribute to their customers
-  * Adjusting orders en-mass (e.g. in the case of a crop failure/outbreak of illness) preventing delivery of one or more items of produce.
-* [Enterprise Fee](basic-features/shopfront/enterprise-fees.md): A margin or commission added to the base price of an item to cover business overhead costs or to make the enterprise profitable.
-* [Enterprise Permission](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md): A connection between suppliers and distributors on the platform. Without permission (which needs to be granted by the supplier), another enterprise can not edit your settings or list your products for sale.
-* [Group Buy](basic-features/products-1/group-buy-for-bulk-ordering.md): Organising sales to customers where the goods are bought by the distributing hub in bulk, or for which there is a minimum order before a supplier is happy to deliver goods to a collection point.
-* [Hub](your-quick-start-on-ofn-given-who-you-are.md#hub): A food retail outlet on OFN which sells items supplied by others.  A hub can also sell goods which it makes or grows (a Producer Hub).  Analogous businesses on the high street might be a shop which buys in stock for re-sale from lots of different producers (e.g. they might buy bread from a baker, vegetables from the local wholesale market, meat from the local farm...).&#x20;
-* [Inventory](basic-features/products-1/inventory-tool.md): A list of products which you wish to stock on your shop front.  By using the OFN inventory function a shopfront can change some of the product settings of produce from a third party supplier.
-* [Order Cycle](basic-features/shopfront/order-cycle/): A period during which shoppers/buyers can place an order for delivery or collection at a specific time.  The order cycle controls when your online shop front is open/closed and which products are available at any one time for a customer to purchase.
-* [Private Shopfront](basic-features/shopfront/private-shopfront.md): An online shop which is not open to for the general public.  Unless registered, no one can see what items are for sale, their prices or place an order.
-* [Producer](basic-features/enterprise-profile/package-types.md#for-producers): A food enterprise which makes, grows, bakes, cooks, ... food which it can supply to other businesses for sale (or sell directly on the OFN platform to customers).
-* [Profile](your-quick-start-on-ofn-given-who-you-are.md#profile): A food enterprise on the OFN platform which supplies others only. They do not organise their own sales to customers on OFN.&#x20;
-*   [Non-producer](basic-features/enterprise-profile/package-types.md#for-non-producers-hubs): A food enterprise which only
+* [Gerenciamento de pedidos em lote](basic-features/orders/view-orders.md#bulk-order-management): Recurso que permite manipular vários pedidos de uma vez, em vez de um a um. Útil para:
+  * grupos de compras que precisam atingir um número mínimo de pedidos de um item antes de ser viável comprar os produtos para redistribuir aos clientes
+  * ajustar pedidos em massa (ex: em caso de perda de colheita ou surto de doença) impedindo a entrega de um ou mais itens
+* [Taxa da empresa (Enterprise Fee)](basic-features/shopfront/enterprise-fees.md): Uma margem ou comissão adicionada ao preço base de um item pra cobrir custos operacionais ou tornar a empresa lucrativa.
+* [Permissão entre empresas (Enterprise Permission)](basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md): Uma conexão entre fornecedores e distribuidores na plataforma. Sem permissão (que precisa ser concedida pelo fornecedor), outra empresa não pode editar suas configurações ou listar seus produtos para venda.
+* [Compra em grupo (Group Buy)](basic-features/products-1/group-buy-for-bulk-ordering.md): Organização de vendas aos clientes onde os produtos são comprados pela central distribuidora em lote, ou onde há um pedido mínimo antes de um fornecedor topar entregar produtos em um ponto de coleta.
+* [Central (Hub)](your-quick-start-on-ofn-given-who-you-are.md#hub): Um ponto de venda de alimentos na Nossa Feira que vende itens fornecidos por outros. Uma central também pode vender produtos que ela mesma faz ou cultiva (Central Produtora). Um negócio análogo tradicional seria uma loja que compra estoque para revenda de vários produtores diferentes (ex: pode comprar pão de uma padaria, verduras da CEASA, carne de uma fazenda local).
+* [Estoque próprio (Inventory)](basic-features/products-1/inventory-tool.md): Uma lista de produtos que você quer disponibilizar na sua vitrine. Usando a função de estoque da Nossa Feira, uma vitrine pode alterar algumas configurações de produtos de um fornecedor terceiro.
+* [Ciclo de pedidos (Order Cycle)](basic-features/shopfront/order-cycle/): Um período durante o qual os compradores podem fazer um pedido para entrega ou coleta em um horário específico. O ciclo de pedidos controla quando sua vitrine online está aberta/fechada e quais produtos estão disponíveis para o cliente comprar.
+* [Vitrine privada (Private Shopfront)](basic-features/shopfront/private-shopfront.md): Uma loja online que não é aberta ao público geral. A menos que esteja cadastrado, ninguém pode ver quais itens estão à venda, seus preços ou fazer um pedido.
+* [Produtor (Producer)](basic-features/enterprise-profile/package-types.md#for-producers): Uma empresa de alimentos que faz, cultiva, assa, cozinha... alimentos que ela pode fornecer para outras empresas revenderem (ou vender diretamente aos clientes pela Nossa Feira).
+* [Perfil (Profile)](your-quick-start-on-ofn-given-who-you-are.md#profile): Uma empresa de alimentos na Nossa Feira que apenas fornece para outros. Não organiza suas próprias vendas aos clientes na plataforma.
+* [Não-produtor (Non-producer)](basic-features/enterprise-profile/package-types.md#for-non-producers-hubs): Uma empresa de alimentos que apenas distribui alimentos e produtos feitos e fornecidos por outros.
+* [Loja (Shop)](your-quick-start-on-ofn-given-who-you-are.md#shop): Uma empresa de alimentos na Nossa Feira que faz, cultiva, cozinha... alimentos que ela vende aos clientes em uma vitrine que lista apenas seus próprios itens. Lojas também podem atuar como fornecedores para distribuidores maiores (centrais).
+* [Assinatura (Subscription)](basic-features/subscriptions/): Um pedido recorrente automatizado de produtos por um cliente (ex: uma cesta de verduras).
+* [Tags](basic-features/shopfront/customer-management-and-conditional-displays-prices/): Etiquetas atribuídas a clientes, ciclos de pedidos, métodos de pagamento e/ou métodos de entrega que podem ser usadas para personalizar a experiência de compra dos compradores.
 
-    distributes food and goods made and supplied by others.
-* [Shop](your-quick-start-on-ofn-given-who-you-are.md#shop): A food enterprise on OFN which makes, grows, cooks, ... food which they sell to customers in a shop front which lists only their items. OFN Shops can also act as suppliers to larger OFN distributors (hubs).
-* [Subscription](basic-features/subscriptions/): A regular automated repeating order of goods from a customer (e.g. a veg box)
-* [Tags](basic-features/shopfront/customer-management-and-conditional-displays-prices/): Labels given to customers, order cycles, payment methods and/or shipping methods which can be used to customise buyers' shopping experiences.
+## Símbolos comuns usados na Nossa Feira
 
-## Common Symbols Used on OFN&#x20;
+![Copiar](.gitbook/assets/copy.jpg)
 
-![Copy](.gitbook/assets/copy.jpg)
+![Editar](.gitbook/assets/edit.png)
 
-![Edit](.gitbook/assets/edit.png)
+![Excluir](.gitbook/assets/trash.jpg)
 
-![Delete](.gitbook/assets/trash.jpg)
-
-![Shipping/Delivery](<.gitbook/assets/shipped (2) (2) (2).png>)
-
+![Envio/Entrega](<.gitbook/assets/shipped (2) (2) (2).png>)

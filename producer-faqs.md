@@ -1,215 +1,154 @@
-# Producer FAQs
+# Perguntas Frequentes de Produtores
 
-### Our model and what's in it for you?
-%accordion%Why choose OFN? What's the difference with other online stores?%accordion%
+### Nosso modelo e o que tem a ver com você?
+%accordion%Por que escolher a Nossa Feira? Qual a diferença pra outras lojas online?%accordion%
 
-We think the OFN is pretty great, and unique to other options out there!
+Achamos que a Nossa Feira é bem legal — e única em relação às outras opções por aí!
 
-* **Networked-**
-  The OFN differs from private online shops in that they can be networked with other enterprises. Producers have the option of selling through their own, independently run store, but they can also choose to sell through another enterprise. Food hubs stock the produce of multiple producers and offer them more exposure and greater market access than they can achieve on their own.
-* **Exposure-**
-  The OFN has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The OFN is a centralised place for people looking to access great, local produce, giving participating producers exposure to a wider customer base.
-* **Food enterprise specific-**
-  The OFN’s shopfront capabilities are also designed especially for food enterprises, so it saves you from having to develop your own software from scratch \(which can be a lengthy and costly process, trust us!\).
-* **Flexible-**
-  The OFN is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings for producers are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
-* **Room to grow-**
-  Producers can start with a profile, and easily build up to start selling to others, opening their own online store and becoming a supplier to multiple enterprises. Once you have a profile, you can easily open your own store, and link with other stores, something that most software options cannot offer.
-* **We have soul**
-  – The OFN is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the OFN!
-  
-%/accordion%
-
-%accordion%How can producers make use of the OFN?%accordion%
-
-The OFN can help producers access a greater diversity of markets. This can be through direct sales, or through intermediary hubs or retailers, who perform the sales and logistics functions. The OFN enables transparency in the supply chain. Because all food traded on the OFN must be linked to the farmer who produced it, customers can see where their food originated from and how it was produced. In OFN shopfronts, the pricing is also transparent, so customers can see what cut of the sale price went to the producer. Our ultimate goal is fair price to farmers and affordable, good food for eaters.
+* **Em rede** —
+  A Nossa Feira difere de lojas online privadas porque pode ser conectada em rede com outras empresas. Produtores podem vender pela sua própria loja independente, mas também podem escolher vender através de outra empresa. Centrais (hubs) reúnem produtos de vários produtores e dão a eles maior exposição e acesso ao mercado do que conseguiriam sozinhos.
+* **Exposição** —
+  A Nossa Feira tem funcionalidade de diretório, então clientes que chegam na página inicial podem ser direcionados pra sua loja se sua oferta bater com os termos de busca ou se você estiver perto deles. A Nossa Feira é um lugar centralizado para pessoas que buscam acesso a produtos locais de qualidade, dando aos produtores participantes exposição a uma base maior de clientes.
+* **Específico para negócios de alimentos** —
+  As funcionalidades de vitrine da Nossa Feira foram desenhadas especialmente pra empresas de alimentos, então te poupa de ter que desenvolver seu próprio software do zero (o que pode ser um processo demorado e caro, acredite!).
+* **Flexível** —
+  A Nossa Feira é flexível em acomodar todo tipo de método de envio/coleta e pagamento. Algumas lojas online para produtores são restritas nos tipos de envio e pagamento aceitos (por exemplo, limitados estritamente a envio pelos Correios).
+* **Espaço para crescer** —
+  Produtores podem começar com um perfil e facilmente expandir pra começar a vender para outros, abrindo sua própria loja online e se tornando fornecedores de várias empresas. Uma vez que você tem um perfil, pode facilmente abrir sua própria loja e se conectar com outras lojas — algo que a maioria das opções de software não oferece.
+* **A gente tem alma** —
+  A Nossa Feira faz parte de uma rede internacional (Open Food Network) que é uma empresa social, sem fins lucrativos, e trabalha continuamente para melhorar nosso sistema alimentar. Todas as receitas são reinvestidas no software, para que ele possa ser mais útil pra mais pessoas. Você pode se sentir bem por fazer parte disso!
 
 %/accordion%
 
-%accordion%New: How much does OFN costs?%accordion%
+%accordion%Como produtores podem usar a Nossa Feira?%accordion%
 
-blabla
-
-%/accordion%
-
-
-%accordion%There's no OFN in our country yet, are we able to get involved with the OFN?%accordion%
-
-The OFN is operational in Australia and the UK. We have partner organisations getting local OFN’s set-up in Norway, South Africa, Germany, France, Canada, India and Brazil. We’re always looking for likeminded and capable international partner organisations to help spread the OFN to more users around the world. If you’re a producer, talk to your local food movement about the OFN to see if it could be a solution for producers in your region.
+A Nossa Feira pode ajudar produtores a acessar uma maior diversidade de mercados. Isso pode ser através de vendas diretas, ou através de centrais ou varejistas intermediários que fazem as funções de venda e logística. A Nossa Feira permite transparência na cadeia de fornecimento. Como todo alimento comercializado na plataforma precisa estar vinculado ao produtor que o produziu, os clientes podem ver de onde vem sua comida e como foi produzida. Nas vitrines da Nossa Feira, o preço também é transparente, então os clientes podem ver qual parte do preço de venda vai pro produtor. Nosso objetivo final é preço justo pros agricultores e comida boa e acessível para quem come.
 
 %/accordion%
 
-### Is the OFN suitable for you?
-%accordion%I'm a producer and I would like to start selling directly to customers.%accordion%
+%accordion%Quanto custa usar a Nossa Feira?%accordion%
 
-Producers can create a professional and affordable online shop on the OFN, and begin trading direct with customers. An online store is simple to set up, taking just a few hours \(check out theset-up guidefeature list\). As well as the shopfront, an online shop also comes with handy tools which streamline the administration side of operating an online store. Click here for a full.
-
-%/accordion%
-
-%accordion%I'm a producer and I want to sell my products through a hub.%accordion%
-
-The OFN aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the OFN map\) who could be compatible trading partners \(check out their profiles\). However, the OFN doesn’t play an active role in partnering producers and hubs.
-
-To supply a hub, the producer must have a profile on the OFN and add their products to that profile. They must also make contact with the hub they wish to supply to discuss the agreement. If the hub is willing to stock the products, you can grant the hub permission to stock your products in the OFN E2E permissions. The hub can then add your products to their OFN shop front and start selling them!
+O cadastro na Nossa Feira é gratuito. A plataforma cobra apenas uma pequena comissão sobre as vendas realizadas, o que ajuda a cobrir os custos operacionais. Consulte a página de preços para detalhes atualizados.
 
 %/accordion%
 
-%accordion%I sell through farmers markets and want an online store in addition to this.%accordion%
+### A Nossa Feira é adequada pra você?
+%accordion%Sou produtor e quero começar a vender diretamente pros clientes.%accordion%
 
-An OFN online store is a good addition for producers who are already doing direct sales through farmer’s markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
-
-%/accordion%
-
-%accordion%Our farmer's market considers an online platform , to allow customers to shop from our producers outside of market day.%accordion%
-
-There are a number of potential paths you could take:
-
-1. Each farmer within the farmers market can establish their own profile and online shop on the OFN. The farmers market’s website could then promote links to these independently run shops.
-2. The farmer’s markets could create a
-   **group page**
-   on the OFN. This is an umbrella profile, which can house the profiles and stores of member producers. With a unique URL and landing page, this group site allows for collective marketing and promotions.
-3. Farmer’s market groups who are willing to cooperate and work together can establish a hub. This hub has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option.
+Produtores podem criar uma loja online profissional e acessível na Nossa Feira e começar a comercializar direto com clientes. Uma loja online é simples de configurar, levando apenas algumas horas (confira a lista de recursos e o guia de configuração). Além da vitrine, uma loja online também vem com ferramentas úteis que simplificam o lado administrativo da operação.
 
 %/accordion%
 
+%accordion%Sou produtor e quero vender meus produtos através de uma central.%accordion%
 
+A Nossa Feira busca facilitar a colaboração entre produtores e centrais formando redes de trocas de alimentos. Encorajamos produtores a procurar centrais na sua área (no mapa da Nossa Feira) que possam ser parceiros comerciais compatíveis (confira os perfis). Mas a Nossa Feira não faz um papel ativo em parear produtores e centrais.
 
-
-
-
-%accordion%I already sell my products to customers via an online shop, how can I get involved with the OFN?%accordion%
-
-You can create a profile on the OFN which links to your existing store. This will raise the visibility of your farm and allows you to connect with the audience on the OFN.
-
-Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
-
-**Add embedded shops**
+Pra fornecer para uma central, o produtor precisa ter um perfil na Nossa Feira e adicionar seus produtos a esse perfil. Também precisa entrar em contato com a central que quer fornecer para discutir o acordo. Se a central topar comercializar os produtos, você pode conceder à central permissão para vender seus produtos nas permissões entre empresas. A central pode então adicionar seus produtos à sua vitrine e começar a vendê-los!
 
 %/accordion%
 
+%accordion%Vendo em feiras livres e quero uma loja online adicional.%accordion%
 
-%accordion%We have infrequent and unpredictable surplus stock which we'd like to sell.%accordion%
-
-Producers with an OFN profile can add products, which hubs can then sell through their OFN shopfronts. If you have irregular surplus stock, you can talk to hubs to arrange for them to stock your produce when you have it on hand.
-
-%/accordion%
-
-
-%accordion%We deliver weekly veggie boxes to customers and our orders are currently placed by email.%accordion%
-
-Yes! With an online store, customers can place their order for your veggie box online. This makes it easier for the customer, and also for you. The reporting functionality of the OFN makes the administration tasks of running a store straightforward, by helping you to track orders, payment and inventory. You can easily view reports summarising the total orders, individual orders and the payment status of each order.
+Uma loja online da Nossa Feira é um ótimo complemento pra produtores que já fazem vendas diretas em feiras. A loja online permite que clientes façam pedidos antecipadamente, para retirada rápida na feira, e acessem seus produtos fora dos horários da feira. Alguns produtores também acham que a loja online é preferível para clientes do setor de gastronomia que não podem ir à feira.
 
 %/accordion%
 
-###Creating a producer account
-%accordion%What is the difference between a profile and a shopfront on the OFN?%accordion%
+%accordion%Nossa feira considera uma plataforma online para permitir que clientes comprem dos nossos produtores fora do dia de feira.%accordion%
 
-The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
+Existem alguns caminhos possíveis:
 
-1. A Profile.
-
-A profile on the OFN is the simplest option, and offers a way for producers to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you. Producers with a profile can also add products, which hub enterprises can then stock in their stores.
-
-1. A Shopfront
-
-An OFN shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of hub shops.
+1. Cada agricultor da feira pode montar seu próprio perfil e loja online na Nossa Feira. O site da feira pode então promover links para essas lojas independentes.
+2. A feira pode criar uma **página de grupo** na Nossa Feira. Este é um perfil guarda-chuva que pode abrigar os perfis e lojas dos produtores membros. Com URL e página de destino próprios, esse site de grupo permite marketing e promoções coletivas.
+3. Grupos da feira que estão dispostos a cooperar podem montar uma central. Essa central tem uma única vitrine oferecendo toda a linha de produtos dos produtores participantes. Coordenar a logística de entrada e saída de produtos pode exigir criatividade, mas usar os dias da feira como oportunidade para agregar e empacotar pedidos é uma opção simples.
 
 %/accordion%
 
-%accordion%New: How do I create a profile?%accordion%
+%accordion%Já vendo meus produtos pra clientes por uma loja online, como posso me envolver com a Nossa Feira?%accordion%
 
-blabla
+Você pode criar um perfil na Nossa Feira que aponta pra sua loja existente. Isso vai aumentar a visibilidade da sua fazenda e permitir que você se conecte com o público da plataforma.
 
-%/accordion%
-
-
-%accordion%New: How do I create a shopfront?%accordion%
-
-blabla
+Confira nossa página de recursos, que descreve as funcionalidades completas de uma vitrine da Nossa Feira. Nossas funções e preços são competitivos, então talvez você considere migrar pra uma loja da Nossa Feira e fazer parte do movimento.
 
 %/accordion%
 
+%accordion%Temos estoque excedente irregular e imprevisível que gostaríamos de vender.%accordion%
 
-###Your product offer and shop
-%accordion%New: How do I add and delete products?%accordion%
-
-blabla
+Produtores com perfil na Nossa Feira podem adicionar produtos, que as centrais podem vender pelas suas vitrines. Se você tem estoque excedente irregular, pode combinar com centrais para que elas comercializem seus produtos quando você tiver disponibilidade.
 
 %/accordion%
 
+%accordion%Entregamos cestas semanais aos clientes e os pedidos são feitos por email atualmente.%accordion%
 
-%accordion%How do I control the order of products displayed in my shopfront?%accordion%
-
-Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under‘shopfront category ordering’.
-
-%/accordion%
-
-%accordion%Why can't I see all of my products in my shopfront?%accordion%
-
-Here’s a few things to check:
-
-* Has the product been added to the order cycle? Open the order cycle and double check that all tick boxes next to your products have been selected.
-* Is there enough ‘on hand’ inventory? If the ‘on hand’ inventory value is zero for a product, then it will no longer appear in your store. If you have products which are always ‘on hand’, you can check the ‘on demand’ box corresponding to that product- then it will never be out of stock.
-* Is the product on your
-  Inventory Hidden
-  list?
+Perfeito! Com uma loja online, os clientes podem fazer o pedido da sua cesta pela internet. Isso facilita pro cliente e também pra você. A funcionalidade de relatórios da Nossa Feira torna as tarefas administrativas de uma loja mais simples, ajudando você a acompanhar pedidos, pagamentos e estoque. Você pode ver relatórios resumindo o total de pedidos, pedidos individuais e o status de pagamento de cada um.
 
 %/accordion%
 
+### Criando uma conta de produtor
+%accordion%Qual a diferença entre um perfil e uma vitrine na Nossa Feira?%accordion%
 
-%accordion%I only want existing customers to see and to shop in my shop, can I make it 'member only'?%accordion%
+A Nossa Feira funciona como diretório, plataforma de divulgação e marketplace online. As pessoas podem escolher quais funcionalidades usar de acordo com suas necessidades.
 
-Yes, you can restrict access to your shop to approved customers only. Checkout instructionshere.
+1. Um Perfil
 
-%/accordion%
+Um perfil na Nossa Feira é a opção mais simples e oferece uma forma dos produtores se divulgarem. O perfil pode ser usado pra promover seus produtos e serviços, compartilhar sua história e fornecer dados de contato. Um perfil te torna visível e contatável para clientes e outras empresas que possam querer negociar com você. Produtores com perfil também podem adicionar produtos, que centrais podem então comercializar em suas lojas.
 
+2. Uma Vitrine
 
-%accordion%How can I tell my customers about how my shop works and the terms and conditions?%accordion%
-
-There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
-
-%/accordion%
-
-
-
-%accordion%Can I set a minimum spend amount in my shopfront?%accordion%
-
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
+Uma loja da Nossa Feira é como um perfil, mas também inclui todas as funcionalidades necessárias para produtores venderem diretamente aos clientes online. Isso inclui a vitrine online com todas as funcionalidades de checkout, além de ferramentas de bastidor para ajudar na administração, como relatórios de pagamentos e estoque. A Nossa Feira é uma rede, então permite que lojas sejam conectadas com outras lojas. Assim, um produtor pode ter seus produtos na sua própria loja independente e também através de várias centrais.
 
 %/accordion%
 
-%accordion%Why doesn't my profile show up when I filter for producers of meat on the producer listing page?%accordion%
+### Sua oferta de produtos e loja
+%accordion%Como controlo a ordem dos produtos exibidos na minha vitrine?%accordion%
 
-The filter tool on theproducer listing pagehere, allows customers to search for producers of certain product categories \(ie Fruit, or Meat\). The filter tool works by looking at the products that are assigned to each producer’s profile. If a producer has an online shop, their products will already be in the system. But if you only have a profile, this filter tool won’t capture you, until you add some dummy products. Instructions for doing this can be found. Once you have dummy products set up for the product categories that you produce, you’ll be captured by this filter tool.
-
-%/accordion%
-
-###Delivery and payment
-
-%accordion%How do payments work?%accordion%
-
-An online store allows producers to sell their produce to customers and collect payment via a number of options. The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
+Sim, você pode selecionar a ordem em que cada categoria de alimento é exibida na sua loja e, dentro de cada categoria, os produtos são exibidos em ordem alfabética. Por exemplo, se Carnes e Peixes são seus produtos mais importantes, você pode escolher exibi-los primeiro, com seus produtos secundários (Óleos e Pastas) abaixo. Você pode fazer isso nas configurações do perfil, em 'ordenação de categorias da vitrine'.
 
 %/accordion%
 
-%accordion%Can I set a minimum spend amount in my shopfront?%accordion%
+%accordion%Por que não vejo todos os meus produtos na vitrine?%accordion%
 
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
+Verifique estes pontos:
 
-%/accordion%
-
-
-%accordion%Can I get data about my shops' sales and orders?%accordion%
-
-Yes, OFN store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales are downloadable from your store. This includes reports on unique orders, reports summarising a collection of orders, reports on inventory levels and  customer relationship management reports. Check out our set-up guide for more info onreports.
+* O produto foi adicionado ao ciclo de pedidos? Abra o ciclo de pedidos e confirme que todas as caixas ao lado dos seus produtos estão marcadas.
+* Tem estoque 'em mãos' suficiente? Se o valor de estoque 'em mãos' é zero pra um produto, ele não aparece mais na sua loja. Se você tem produtos que estão sempre disponíveis, pode marcar a caixa 'sob demanda' desse produto — assim ele nunca fica fora de estoque.
+* O produto está na sua lista de 'Estoque oculto'?
 
 %/accordion%
 
+%accordion%Quero que só clientes existentes vejam e comprem na minha loja, posso torná-la 'somente para membros'?%accordion%
 
+Sim, você pode restringir o acesso à sua loja apenas para clientes aprovados. Veja as instruções na seção de vitrine privada.
 
+%/accordion%
 
+%accordion%Como posso avisar meus clientes sobre como minha loja funciona e os termos e condições?%accordion%
 
+Existe a opção de adicionar uma 'mensagem da vitrine' à sua loja. Essa mensagem é claramente visível pros clientes quando visitam sua loja e você pode adicionar detalhes à vontade. As instruções para inserir uma 'mensagem da vitrine' podem ser encontradas na documentação.
 
+%/accordion%
 
+%accordion%Posso definir um valor mínimo de compra na minha vitrine?%accordion%
 
+A Nossa Feira atualmente não tem opção de bloquear o checkout até o pedido atingir um valor mínimo. Uma alternativa é adicionar uma taxa de envio com a calculadora 'price sac'. Essa calculadora aplica um valor de taxa se o total estiver abaixo de um limite e outro valor (possivelmente R$ 0) se o pedido estiver acima desse limite.
 
+%/accordion%
+
+%accordion%Por que meu perfil não aparece quando filtro produtores de carne na listagem de produtores?%accordion%
+
+A ferramenta de filtro na página de listagem de produtores permite que os clientes busquem produtores de certas categorias (ex: Frutas ou Carnes). O filtro funciona olhando os produtos atribuídos ao perfil de cada produtor. Se o produtor tem loja online, seus produtos já estão no sistema. Mas se você só tem perfil, essa ferramenta de filtro não te captura até você adicionar alguns produtos de exemplo. Uma vez que você tenha produtos das categorias que produz, você será capturado pelo filtro.
+
+%/accordion%
+
+### Entrega e pagamento
+
+%accordion%Como funcionam os pagamentos?%accordion%
+
+Uma loja online permite que produtores vendam seus produtos aos clientes e recebam pagamento através de várias opções. A Nossa Feira não dita um método de pagamento e você pode usar qualquer arranjo que funcione pra você. Opções de pagamento atuais integradas ao checkout incluem Pix, Stripe (cartão de crédito) e transferência bancária. Empresas também podem usar métodos manuais incluindo boleto, dinheiro na coleta e depósito direto.
+
+%/accordion%
+
+%accordion%Posso obter dados sobre vendas e pedidos da minha loja?%accordion%
+
+Sim, operadores de loja recebem um email cada vez que um pedido é feito. Além disso, vários relatórios diferentes sobre vendas podem ser baixados da sua loja. Isso inclui relatórios de pedidos individuais, relatórios resumindo coleções de pedidos, relatórios de níveis de estoque e relatórios de gerenciamento de relacionamento com clientes.
+
+%/accordion%

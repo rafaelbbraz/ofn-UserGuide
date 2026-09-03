@@ -1,199 +1,144 @@
-# Hub FAQs
+# Perguntas Frequentes de Centrais
 
-### Our model and what's in it for you?
-%accordion%Why choose OFN? What's the difference with other online stores?%accordion%
+### Nosso modelo e o que tem a ver com você?
+%accordion%Por que escolher a Nossa Feira? Qual a diferença pra outras lojas online?%accordion%
 
-We think the OFN is pretty great, and unique to other options out there!
+Achamos que a Nossa Feira é bem legal — e única em relação às outras opções por aí!
 
-* **Networked-**
-  The OFN differs from private online shops in that they can be networked with other enterprises. Food hubs stock the produce of multiple producers and customers can always see where their food has come from.
-* **Exposure-**
-  The OFN has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The OFN is a centralised place for people looking to access great, local produce, giving participating enterprises exposure to a wider customer base.
-* **Food enterprise specific-**
-  The OFN’s shopfront capabilities are also designed especially for food enterprises, so it saves you from having to develop your own software from scratch \(which can be a lengthy and costly process, trust us!\).
-* **Flexible-**
-  The OFN is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
-* **Room to grow-**
-   Hubs can start with a profile, and easily build up to start selling to others, opening their own online store and starting to connect with growing numbers of suppliers. Once you have a profile, you can easily open your own store, and link with other groups, like customer buying groups, something that most software options cannot offer.
-* **We have soul**
-  – The OFN is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the OFN!
-
-%/accordion%
-
-%accordion%There's no OFN in our country, are we able to get involved with the OFN?%accordion%
-
-The OFN is operational in Australia and the UK and we have partner organisations getting local OFN’s set-up in the France, Norway, South Africa and Canada. We’re always looking for like-minded and capable international partner organisations to help spread the OFN to more users around the world. Talk to your local food movement about the OFN to see if it could be a solution for producers and enterprises in your region.
+* **Em rede** —
+  A Nossa Feira difere de lojas online privadas porque pode ser conectada em rede com outras empresas. Centrais reúnem produtos de vários produtores e os clientes sempre podem ver de onde veio sua comida.
+* **Exposição** —
+  A Nossa Feira tem funcionalidade de diretório, então clientes que chegam na página inicial podem ser direcionados pra sua loja se sua oferta bater com os termos de busca ou se você estiver perto deles. A Nossa Feira é um lugar centralizado para pessoas que buscam acesso a produtos locais de qualidade, dando às empresas participantes exposição a uma base maior de clientes.
+* **Específico para negócios de alimentos** —
+  As funcionalidades de vitrine da Nossa Feira foram desenhadas especialmente pra empresas de alimentos, então te poupa de ter que desenvolver seu próprio software do zero.
+* **Flexível** —
+  A Nossa Feira é flexível em acomodar todo tipo de método de envio/coleta e pagamento. Algumas lojas online são restritas nos tipos de envio e pagamento aceitos.
+* **Espaço para crescer** —
+  Centrais podem começar com um perfil e facilmente expandir pra começar a vender para outros, abrindo sua própria loja online e conectando-se com um número crescente de fornecedores. Uma vez que você tem um perfil, pode facilmente abrir sua própria loja e se conectar com outros grupos, como grupos de compras de clientes.
+* **A gente tem alma** —
+  A Nossa Feira faz parte de uma rede internacional (Open Food Network) que é uma empresa social, sem fins lucrativos, e trabalha continuamente para melhorar nosso sistema alimentar. Todas as receitas são reinvestidas no software.
 
 %/accordion%
 
-### Is the OFN suitable for you?
-%accordion%I am already selling my products directly via an online store I have created.%accordion%
+### A Nossa Feira é adequada pra você?
+%accordion%Já vendo meus produtos diretamente por uma loja online que criei.%accordion%
 
-You can create a profile on the OFN which links to your existing store. This will raise the visibility of your enterprise and allows you to connect with the audience on the OFN.
+Você pode criar um perfil na Nossa Feira que aponta pra sua loja existente. Isso vai aumentar a visibilidade da sua empresa e permitir que você se conecte com o público da plataforma.
 
-Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
-
-%/accordion%
-
-%accordion%I'm a wholesaler.%accordion%
-
-As a wholesaler you could certainly get set up on the OFN with a profile, and an online shopfront if that’s what you’re looking for. On the OFN we class enterprises that distribute/sell produce produced by others as “hubs”. This includes wholesalers, as well as lots of other kinds of enterprises, like buying groups, food coops and retailers.
+Confira nossa página de recursos, que descreve as funcionalidades completas de uma vitrine da Nossa Feira. Nossas funções e preços são competitivos, então talvez você considere migrar pra uma loja da Nossa Feira e fazer parte do movimento.
 
 %/accordion%
 
+%accordion%Sou atacadista.%accordion%
 
-
-
-%accordion%We are a Food Collective seeking an ecommerce solution to streamline our order processing.%accordion%
-
-The OFN is designed to make the processes of taking and managing orders and stock easier.  A food collective would be established as a hub on the OFN, with its own shopfront. In contrast to taking order through email or online forms, the OFN’s checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the hub.
+Como atacadista você certamente pode se cadastrar na Nossa Feira com um perfil e uma vitrine online se é o que você busca. Na Nossa Feira classificamos empresas que distribuem/vendem produtos produzidos por outros como "centrais". Isso inclui atacadistas, além de muitos outros tipos de empresas, como grupos de compras, cooperativas de alimentos e varejistas.
 
 %/accordion%
 
+%accordion%Somos um Coletivo de Alimentos buscando uma solução de e-commerce para simplificar nosso processamento de pedidos.%accordion%
 
-
-
-
-
-### A hub in general
-%accordion%What is involved in being a food hub?%accordion%
-
-Food hubs come in many different shapes and sizes, and include food coops, buying groups, farm gate stalls, CSA schemes and more. You can chose how you want to run your hub, but essentially a food hub sources and sells to its community. Each hub is configured differently, and each chooses who they will source from, who their customers will be, how delivery or collection will be organised, payment methods, mark ups, fees etc.
+A Nossa Feira foi desenhada pra tornar os processos de recepção e gerenciamento de pedidos e estoque mais fáceis. Um coletivo de alimentos seria configurado como uma central na Nossa Feira, com sua própria vitrine. Em contraste com receber pedidos por email ou formulários online, o processo de checkout da Nossa Feira é muito fácil de usar para clientes e tem a vantagem adicional de gerar relatórios de pedidos, reduzindo a carga administrativa para a central.
 
 %/accordion%
 
+### Sobre centrais em geral
+%accordion%O que envolve ser uma central de alimentos?%accordion%
 
-%accordion%Do hubs only source organic produce?%accordion%
-
-Hubs choose who they source from and who they sell to. They may chose to only source and supply organics, or they may choose conventional, or a bit of both, depending on their customers’ needs.
-
-%/accordion%
-
-
-
-
-%accordion%Which farmers will supply a hub?%accordion%
-
-The OFN doesn’t ‘match-make’ hubs with farmers. Rather we make connecting easier, by making it possible for groups to find one another and connect and trade. Check out the OFN map to find producers in your area, and view their profiles to find contact details.
+Centrais de alimentos vêm em muitas formas e tamanhos, incluindo cooperativas de alimentos, grupos de compras, quiosques de feira, sistemas de CSA (Comunidade que Sustenta a Agricultura) e mais. Você pode escolher como quer administrar sua central, mas essencialmente uma central de alimentos se abastece e vende para sua comunidade. Cada central é configurada de forma diferente e cada uma escolhe de quem se abastece, quem serão seus clientes, como a entrega ou coleta será organizada, métodos de pagamento, margens, taxas, etc.
 
 %/accordion%
 
+%accordion%Centrais só se abastecem de produtos orgânicos?%accordion%
 
-
-
-
-%accordion%Does the OFN operate hubs?%accordion%
-
-No the OFN doesn’t actually operate hubs, we just provide the software for enterprises such as food hubs, and producers to use. We do have lots of experience in running food hubs though, so understand the unique challenges and needs facing food distribution enterprises.
+Centrais escolhem de quem se abastecem e para quem vendem. Podem escolher só orgânicos, ou convencional, ou um pouco de cada, dependendo das necessidades dos clientes.
 
 %/accordion%
 
+%accordion%Quais agricultores vão fornecer para uma central?%accordion%
 
-### Creating a hub on OFN
-%accordion%How long does it take to set up a hub on the OFN?%accordion%
-
-Each hub is different and set up times will depend on whether they hub is new, or simply transitioning to the OFN. It will also depend on the complexity of their sourcing, sales and distribution activities. Creating profiles for your suppliers who are not on the OFN can take some time, as can adding in your product range. But these are once off tasks, and once complete, administering day to day activities on the OFN is very efficient.
+A Nossa Feira não faz o "match" entre centrais e agricultores. Em vez disso, facilitamos a conexão, tornando possível que os grupos se encontrem, se conectem e negociem. Confira o mapa da Nossa Feira pra encontrar produtores na sua área e veja seus perfis para dados de contato.
 
 %/accordion%
 
+%accordion%A Nossa Feira opera centrais?%accordion%
 
-%accordion%What is an OFN profile? What is an OFN shopfront? What's the difference?%accordion%
-
-The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
-
-1. A Profile.
-
-A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
-
-1. A Shopfront
-
-You have the option of adding an OFN shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex.
+Não, a Nossa Feira não opera centrais, apenas fornecemos o software para empresas como centrais de alimentos e produtores usarem. Temos muita experiência em administrar centrais de alimentos, então entendemos os desafios e necessidades únicos das empresas de distribuição de alimentos.
 
 %/accordion%
 
-%accordion%Can we embed the OFN in an existing website?%accordion%
+### Criando uma central na Nossa Feira
+%accordion%Quanto tempo leva pra montar uma central na Nossa Feira?%accordion%
 
-In regards to embedding an OFN shopfront into your existing website, at the moment you can link customers to your OFN shopfront from your website, and then redirect them back to your website after checkout. With lots of features to develop, further embedding hasn’t been a top priority.
-
-%/accordion%
-
-
-### Your products and shop
-%accordion%Why can't I see all of my products in my shopfront?%accordion%
-
-Here’s a few things to check:
-
-* Has the product been added to the order cycle? Open the order cycle and double check that all tick boxes next to your products have been selected.
-* Is there enough ‘on hand’ inventory? If the ‘on hand’ inventory value is zero for a product, then it will no longer appear in your store. If you have products which are always ‘on hand’, you can check the ‘on demand’ box corresponding to that product- then it will never be out of stock.
+Cada central é diferente e os tempos de configuração dependem se a central é nova ou se está apenas transitando pra Nossa Feira. Também depende da complexidade das atividades de abastecimento, vendas e distribuição. Criar perfis para seus fornecedores que ainda não estão na Nossa Feira pode levar algum tempo, assim como adicionar sua linha de produtos. Mas são tarefas de configuração inicial e, uma vez completas, administrar as atividades diárias na plataforma é muito eficiente.
 
 %/accordion%
 
-%accordion%I only want my existing customers to be able to shop in my shop, can I make it 'member only'?%accordion%
+%accordion%O que é um perfil da Nossa Feira? O que é uma vitrine? Qual a diferença?%accordion%
 
-Yes you can. When you set your shop to private, only customers on your customer list will be able to login to see your shopfront and place orders.Details here.
+A Nossa Feira funciona como diretório, plataforma de divulgação e marketplace online. As pessoas podem escolher quais funcionalidades usar de acordo com suas necessidades.
 
-* You can also make your shopfront invisible. This way only people who have been given the URL to your shop will be able to see it. This can be done by selecting ‘not visible’ in your
-  profile settings
-  .
-* You can use the shopfront message \(instructions
-  here
-  \) to let visitors to your store know that they need to be members to shop with you, or need to make contact with you first.
-  
-%/accordion%
+1. Um Perfil
 
-%accordion%How do I control the order of products displayed in my shopfront??%accordion%
+Um perfil na Nossa Feira é a opção mais simples e oferece uma forma das empresas se divulgarem. O perfil pode ser usado pra promover seus produtos e serviços, compartilhar sua história e fornecer dados de contato. Um perfil te torna visível e contatável para clientes e outras empresas que possam querer negociar com você.
 
-You can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under‘shopfront category ordering’.
+2. Uma Vitrine
+
+Você tem a opção de adicionar uma loja da Nossa Feira ao seu perfil, dando todas as funcionalidades necessárias pra administrar uma loja online. Isso inclui a vitrine online com funcionalidade completa de checkout, além de ferramentas de bastidor pra ajudar na administração, como relatórios de pagamentos e estoque. A Nossa Feira funciona como uma rede, então todas as centrais são conectadas aos perfis dos produtores que fornecem para elas. Também foi desenhada pra acomodar todos os modelos diferentes de central, do pequeno e simples ao grande e complexo.
 
 %/accordion%
 
+%accordion%Podemos incorporar a Nossa Feira em um site existente?%accordion%
 
-%accordion%How can I tell customers about how my shop works? Incl. my delivery restrictions and more.%accordion%
-
-There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
-
-%/accordion%
-
-
-
-
-%accordion%Can I set a minimum spend amount in my shopfront?%accordion%
-
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
+Em relação a incorporar uma vitrine da Nossa Feira ao seu site existente, no momento você pode direcionar clientes do seu site pra sua vitrine na Nossa Feira e depois redirecioná-los de volta ao seu site após o checkout. Com muitas funcionalidades para desenvolver, mais integração de incorporação não tem sido uma prioridade.
 
 %/accordion%
 
+### Seus produtos e loja
+%accordion%Por que não vejo todos os meus produtos na vitrine?%accordion%
 
+Verifique estes pontos:
 
-
-
-
-
-### Payment and delivery
-%accordion%How does payment work?%accordion%
-
-The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
+* O produto foi adicionado ao ciclo de pedidos? Abra o ciclo de pedidos e confirme que todas as caixas ao lado dos seus produtos estão marcadas.
+* Tem estoque 'em mãos' suficiente? Se o valor de estoque 'em mãos' é zero pra um produto, ele não aparece mais na sua loja. Se você tem produtos que estão sempre disponíveis, pode marcar a caixa 'sob demanda' desse produto — assim ele nunca fica fora de estoque.
 
 %/accordion%
 
-%accordion%Can I set a minimum spend amount in my shopfront?%accordion%
+%accordion%Quero que só clientes existentes possam comprar na minha loja, posso torná-la 'somente para membros'?%accordion%
 
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
+Sim. Quando você configura sua loja como privada, apenas clientes na sua lista de clientes podem fazer login pra ver sua vitrine e fazer pedidos.
 
-%/accordion%
-
-
-
-
-
-
-%accordion%Can I get data about my shops' sales and orders%accordion%
-
-Yes, OFN store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales will be downloadable from your store. Including stock management \(inventory, variants, descriptions\), order management and more.
+* Você também pode tornar sua vitrine invisível. Assim, apenas pessoas que receberam o URL da sua loja podem vê-la. Isso pode ser feito selecionando 'não visível' nas configurações do perfil.
+* Você pode usar a mensagem da vitrine pra avisar visitantes que precisam ser membros pra comprar com você, ou que precisam entrar em contato primeiro.
 
 %/accordion%
 
+%accordion%Como controlo a ordem dos produtos exibidos na minha vitrine?%accordion%
 
+Você pode selecionar a ordem em que cada categoria de alimento é exibida na sua loja e, dentro de cada categoria, os produtos são exibidos em ordem alfabética. Por exemplo, se Carnes e Peixes são seus produtos mais importantes, você pode escolher exibi-los primeiro. Faz isso nas configurações do perfil, em 'ordenação de categorias da vitrine'.
 
+%/accordion%
 
+%accordion%Como posso avisar os clientes sobre como minha loja funciona? Incluindo restrições de entrega e mais.%accordion%
 
+Existe a opção de adicionar uma 'mensagem da vitrine' à sua loja. Essa mensagem é claramente visível pros clientes quando visitam sua loja e você pode adicionar detalhes à vontade.
+
+%/accordion%
+
+%accordion%Posso definir um valor mínimo de compra na minha vitrine?%accordion%
+
+A Nossa Feira atualmente não tem opção de bloquear o checkout até o pedido atingir um valor mínimo. Uma alternativa é adicionar uma taxa de envio com a calculadora 'price sac'. Essa calculadora aplica um valor de taxa se o total estiver abaixo de um limite e outro valor (possivelmente R$ 0) se o pedido estiver acima desse limite.
+
+%/accordion%
+
+### Pagamento e entrega
+%accordion%Como funciona o pagamento?%accordion%
+
+A Nossa Feira não dita um método de pagamento e você pode usar qualquer arranjo que funcione pra você. Opções de pagamento atuais integradas ao checkout incluem Pix, Stripe (cartão de crédito) e transferência bancária. Empresas também podem usar métodos manuais incluindo boleto, dinheiro na coleta e depósito direto.
+
+%/accordion%
+
+%accordion%Posso obter dados sobre vendas e pedidos da minha loja?%accordion%
+
+Sim, operadores de loja recebem um email cada vez que um pedido é feito. Além disso, vários relatórios diferentes sobre vendas podem ser baixados da sua loja. Incluindo gerenciamento de estoque (inventário, variantes, descrições), gerenciamento de pedidos e mais.
+
+%/accordion%
