@@ -1,58 +1,55 @@
-# Advanced Features
+# Recursos avançados
 
-The [Basic Features](../basic-features/) chapter steps through the fundamental features required to setup a profile or shop on OFN. Once you have familiarised yourself with these basic functionalities you can explore some of the more advanced features here.
+O capítulo de [Recursos Básicos](../basic-features/) percorre os recursos fundamentais necessários pra configurar um perfil ou loja na Nossa Feira. Uma vez familiarizado com essas funcionalidades básicas, você pode explorar alguns dos recursos mais avançados aqui.
 
-### Your Profile
+### Seu perfil
 
-* Make producer profiles searchable by product category in the OFN directories. [Read more](your-profile/making-a-producer-profile-searchable-by-product-category.md)
-* Transferring ownership of a profile from one user to another. [Read more](your-profile/transfer-ownership.md)
+* Tornar perfis de produtor pesquisáveis por categoria de produto nos diretórios da Nossa Feira. [Leia mais](your-profile/making-a-producer-profile-searchable-by-product-category.md)
+* Transferir a propriedade de um perfil de um usuário para outro. [Leia mais](your-profile/transfer-ownership.md)
 
-### Products
+### Produtos
 
-* Create ‘product variants’ to make your shopfront less cluttered and easier to navigate. [Read more ](products/product-variants.md)
-* Strategies for pricing irregular, indivisible items which are charged by the kg, such as meat. [Read more](products/pricing-irregular-items-kg.md)
-* Apply ‘product properties’ to your products so customers can see which items are organic, spray free, free range etc. [Read more](products/product-properties.md)
-* Use the inventory tool when you need more flexibility in your product management. This feature enables hubs to over-ride some details of their supplier’s products including price, stock levels and SKU code. [Read more](products/inventory-tool.md)
-* Use the group buy feature to aid in the administration of products which are purchased in bulk. [Read more](products/group-buy-for-bulk-ordering.md)
+* Criar 'variantes de produto' pra deixar sua vitrine menos poluída e mais fácil de navegar. [Leia mais](products/product-variants.md)
+* Estratégias para precificar itens irregulares e indivisíveis cobrados por kg, como carnes. [Leia mais](products/pricing-irregular-items-kg.md)
+* Aplicar 'propriedades de produto' aos produtos pra que os clientes vejam quais itens são orgânicos, sem agrotóxicos, criação livre etc. [Leia mais](products/product-properties.md)
+* Use a ferramenta de estoque quando precisar de mais flexibilidade no gerenciamento de produtos. Esse recurso permite que centrais sobrescrevam alguns detalhes dos produtos dos fornecedores, incluindo preço, níveis de estoque e código SKU. [Leia mais](products/inventory-tool.md)
+* Use o recurso de compra em grupo pra auxiliar a administração de produtos comprados em lote. [Leia mais](products/group-buy-for-bulk-ordering.md)
 
-### Shop Setup
+### Configuração da loja
 
-* Charging different prices to different customers.[ Read more](shop-setup/customer-specific-pricing.md)
-* Make your shopfront private. [Read more](shop-setup/private-shopfront.md)
-* Maintain a list of your customers. This is required to use other features such as tags and subscriptions. [Read more](shop-setup/customers.md)
-* Apply ‘tags’ to your customers and customise their shopping experience with tag rules. Includes restricting availability of shipping and payment methods, products and order cycles. [Read more](shop-setup/tags-and-tag-rules.md)
-* Do you want to embed your shop into your own external website? You can do this with embedded shops. [Read more](shop-setup/embedded-shopfront.md)
-* Get setup to print thermally printed receipts \(only available in some countries\). [Read more](shop-setup/thermally-printed-receipts.md)
+* Cobrar preços diferentes de clientes diferentes. [Leia mais](shop-setup/customer-specific-pricing.md)
+* Tornar sua vitrine privada. [Leia mais](shop-setup/private-shopfront.md)
+* Manter uma lista de seus clientes. Necessário pra usar outros recursos como tags e assinaturas. [Leia mais](shop-setup/customers.md)
+* Aplicar 'tags' aos clientes e customizar a experiência de compra deles com regras de tag. Inclui restringir disponibilidade de métodos de envio e pagamento, produtos e ciclos de pedidos. [Leia mais](shop-setup/tags-and-tag-rules.md)
+* Quer incorporar sua loja no seu próprio site externo? Você pode fazer isso com lojas incorporadas. [Leia mais](shop-setup/embedded-shopfront.md)
+* Configurar pra imprimir recibos termicamente (disponível apenas em alguns países). [Leia mais](shop-setup/thermally-printed-receipts.md)
 
-### Collaborating with other enterprises
+### Colaboração com outras empresas
 
-* Understand how Enterprise to Enterprise permissions \(E2Es\) are used to enable different forms of collaboration between enterprises and how they might apply to you. [Read more](collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md)
-* Learn how E2E permission impact each party in multi-enterprise order cycles. [Read more](collaboration-with-other-enterprises/permissions-in-multi-enterprise-order-cycles.md)
+* Entender como permissões entre empresas (E2E) são usadas pra habilitar diferentes formas de colaboração entre empresas e como podem se aplicar a você. [Leia mais](collaboration-with-other-enterprises/enterprise-to-enterprise-permissions-e2es.md)
+* Aprender como as permissões E2E impactam cada parte em ciclos multi-empresa. [Leia mais](collaboration-with-other-enterprises/permissions-in-multi-enterprise-order-cycles.md)
 
-### Order Cycles
+### Ciclos de pedidos
 
-* Opening more than one order cycle at the same time. [Read more](order-cycles/opening-more-than-one-order-cycle.md)
-* Create a display only order cycle so visitors can see what’s in your shop even when your order cycle is closed. [Read more](order-cycles/display-only-order-cycles.md)
+* Abrindo mais de um ciclo de pedidos ao mesmo tempo. [Leia mais](order-cycles/opening-more-than-one-order-cycle.md)
+* Criar um ciclo de pedidos apenas de exibição pra que visitantes vejam o que está na sua loja mesmo quando o ciclo está fechado. [Leia mais](order-cycles/display-only-order-cycles.md)
 
-### Subscriptions
+### Assinaturas
 
-* Setup your enterprise confguration to enable subscriptions. [Read more](subscriptions/subscriptions-configuration.md)
-* Create and manage subscription orders for customers. [Read more](subscriptions/subscriptions-creating-and-managing-orders.md)
-* Consider how your customers will interact with their subscription. [Read more](shop-setup/customer-specific-pricing.md)
+* Configure sua empresa pra habilitar assinaturas. [Leia mais](subscriptions/subscriptions-configuration.md)
+* Criar e gerenciar pedidos de assinatura pros clientes. [Leia mais](subscriptions/subscriptions-creating-and-managing-orders.md)
+* Considere como seus clientes vão interagir com a assinatura. [Leia mais](shop-setup/customer-specific-pricing.md)
 
-### Orders
+### Pedidos
 
-* Create an order manually for your customer from the back end. [Read more](orders/create-orders-manually.md)
+* Criar um pedido manualmente pro seu cliente pelo painel admin. [Leia mais](orders/create-orders-manually.md)
 
-### Groups
+### Grupos
 
-* Create and manage a group page, which acts as a sub directory within the OFN for regional producer groups, certification bodies, markets etc. [Read more](groups/group-page.md)
-* Embed your Group Page in your own, external website. [Read more](groups/embed-a-group-page.md)
+* Criar e gerenciar uma página de grupo, que atua como subdiretório dentro da Nossa Feira para grupos regionais de produtores, órgãos de certificação, feiras etc. [Leia mais](groups/group-page.md)
+* Incorporar sua página de grupo no seu próprio site externo. [Leia mais](groups/embed-a-group-page.md)
 
-### Social
+### Redes sociais
 
-* Put your farm on Facebook. [Read more](social/your-farm-on-facebook.md)
-* Facebook tips for producers. [Read more](social/facebook-tips.md)
-
-
-
+* Coloque seu sítio no Facebook. [Leia mais](social/your-farm-on-facebook.md)
+* Dicas de Facebook pra produtores. [Leia mais](social/facebook-tips.md)

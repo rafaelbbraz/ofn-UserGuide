@@ -1,10 +1,9 @@
-# Customer specific pricing
+# Preços específicos por cliente
 
-Sometimes our users want to charge different prices for different customers, often based on their member Vs non-member status.Currently, there’s no way to automatically charge different prices for members vs non-members, but there are some round about ways of achieving the same thing.
+Às vezes os usuários querem cobrar preços diferentes de clientes diferentes, frequentemente baseado no status de membro vs não-membro. Atualmente não há forma de automaticamente cobrar preços diferentes pra membros vs não-membros, mas há formas alternativas de alcançar o mesmo.
 
-* You can use [customer tagging](tags-and-tag-rules.md), with tag rules, to make certain Variants, and Order Cyles only visible to specifically tagged customers. Some variants may be priced differently, or some order cycles may carry different enterprise fees. The advantage of this option is that the customers won't see the dual pricing system.
-* You could use [shipping method](../../basic-features/shipping-methods.md) fees to charge different prices to different customers. You can create a ‘member shipping method’ which may have a 30% mark-up, and a ‘non-member shipping method’ which might have a 50% markup. This will require you to check that the customer has selected the correct one at checkout, and both options will be visible to all customers.
-* If your [payment method](../../basic-features/payment-methods.md) is cash upon collection, you can add the markup, or a ‘non-member’ fee after their order is placed, and add it to their invoice for when they collect their order and pay. You just need to make sure that your customers are aware of this process, which can be done in the ‘shopfront message’.
+* Você pode usar [marcação de clientes](tags-and-tag-rules.md) com regras de tag pra tornar certas Variantes e Ciclos de Pedidos visíveis apenas a clientes marcados. Algumas variantes podem ser precificadas diferentemente, ou alguns ciclos podem ter taxas da empresa diferentes. A vantagem dessa opção é que os clientes não veem o sistema de preços duplo.
+* Você pode usar taxas de [método de envio](../../basic-features/shipping-methods.md) pra cobrar preços diferentes de clientes diferentes. Você pode criar um 'método de envio de membro' com margem de 30% e um 'método de envio não-membro' com margem de 50%. Isso exige que você confirme se o cliente selecionou o correto no checkout, e ambas as opções ficarão visíveis a todos os clientes.
+* Se seu [método de pagamento](../../basic-features/payment-methods.md) é dinheiro na coleta, você pode adicionar a margem, ou uma taxa 'não-membro', depois que o pedido é feito, e incluir na nota fiscal pra quando ele coletar e pagar. Só precisa garantir que os clientes estão cientes desse processo, o que pode ser feito na 'mensagem da vitrine'.
 
-> Please feel free to [get in touch with your local OFN](https://openfoodnetwork.org/contact/) to discuss the pros and cons of each option for your specific case.
-
+> Fique à vontade pra [entrar em contato](https://openfoodnetwork.org/contact/) pra discutir prós e contras de cada opção pro seu caso específico.
