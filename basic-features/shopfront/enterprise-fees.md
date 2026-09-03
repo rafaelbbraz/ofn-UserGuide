@@ -1,72 +1,72 @@
-# Enterprise Fees
+# Taxas da empresa
 
-Enterprise fees are useful for producers and hubs who are working together. They allow costs associated with admin, packing, transport, sales and fundraising to be allocated to different parties.
+Taxas da empresa são úteis pra produtores e centrais trabalhando juntos. Elas permitem que custos associados a administração, embalagem, transporte, vendas e arrecadação sejam alocados a diferentes partes.
 
-For example, a hub may choose to add an enterprise fee of 10% to all the products they sell to cover their administration costs (storage of products prior to distribution, staff costs etc).
+Por exemplo, uma central pode escolher adicionar uma taxa de 10% a todos os produtos que vende, para cobrir custos administrativos (armazenamento de produtos antes da distribuição, custos com equipe etc.).
 
-For producers selling their own products directly, these costs are already present in the price of the product so applying Enterprise Fees may not be necessary.&#x20;
+Para produtores vendendo seus próprios produtos diretamente, esses custos já estão presentes no preço do produto, então aplicar Taxas da Empresa pode não ser necessário.
 
-One of the many benefits to OFN customers is price transparency. Shoppers can see the percentage of an item's price assigned to admin, packing etc. This information is displayed by clicking on the pie chart next to the price of a product on the shop front:
+Um dos muitos benefícios pros clientes da Nossa Feira é a transparência de preços. Compradores podem ver a porcentagem do preço de um item atribuída a administração, embalagem etc. Essa informação é exibida clicando no gráfico de pizza ao lado do preço do produto na vitrine:
 
 ![](../../.gitbook/assets/feebreakdown.jpg)
 
-## Setting up an Enterprise Fee
+## Configurando uma Taxa da Empresa
 
-* Go to 'Enterprise Fees' by clicking on **Enterprises** in the main menu at the top of the page and then click **Settings** next to your enterprise. The **Enterprise Fee** page is found in the menu on the left hand side.
-* Click **Create One Now** (or **Manage Enterprise Fees** if you have already set one up). You will be directed to a page like this:
+* Vá em 'Taxas da Empresa' clicando em **Empresas** no menu principal e depois em **Configurações** ao lado da sua empresa. A página **Taxa da Empresa** fica no menu à esquerda.
+* Clique em **Criar Uma Agora** (ou **Gerenciar Taxas da Empresa** se você já criou alguma). Você será direcionado a uma página como esta:
 
 ![](<../../.gitbook/assets/list of enterprise fees.jpg>)
 
-**Enterprise:** In the first column, select the enterprise to which the fee applies.
+**Empresa:** Na primeira coluna, selecione a empresa à qual a taxa se aplica.
 
-**Fee Type:** Select the service that the fee applies to. The options are Packing Fee, Transport Fee, Admin Fee, Sales Fee or Fundraising Fee.
+**Tipo de taxa:** Selecione o serviço ao qual a taxa se aplica. Opções: Taxa de embalagem, Taxa de transporte, Taxa administrativa, Taxa de venda ou Taxa de arrecadação.
 
-**Name:** Choose a name for your fee.
+**Nome:** Escolha um nome pra sua taxa.
 
-**Tax Category:** Select the appropriate tax category. In most cases, the VAT rate for the enterprise fee will be inherited from the product.  If the enterprise fee is associated with a service added to the product, the fee may be subject to VAT but the product itself not. In this case, choose between 'Reduced Rate', 'Full Rate' or 'Zero rated' VAT.&#x20;
+**Categoria fiscal:** Selecione a categoria fiscal apropriada. Na maioria dos casos, a alíquota do imposto pra taxa da empresa será herdada do produto. Se a taxa está associada a um serviço adicionado ao produto, pode estar sujeita a imposto mesmo que o produto não esteja. Nesse caso, escolha entre 'Alíquota reduzida', 'Alíquota cheia' ou 'Isento'.
 
-**Calculator:** The fee can be calculated in a number of ways. Select the calculator which best applies.
+**Calculadora:** A taxa pode ser calculada de várias formas. Selecione a calculadora mais apropriada.
 
 {% hint style="warning" %}
-Note: if the Tax Category for an Enterprise Fee is set to 'Inherit from product' then the only two fee calculators which can be used are 'Flat Percent (per item)' and 'Flat Rate (per item)'
+Nota: se a Categoria Fiscal da Taxa da Empresa é 'Herdar do produto', as únicas duas calculadoras que podem ser usadas são 'Porcentagem fixa (por item)' e 'Taxa fixa (por item)'.
 {% endhint %}
 
-Click **Update** to save your enterprise fee. The 'calculator values' column will now contain input fields relevant to the calculator.
+Clique em **Atualizar** para salvar sua taxa da empresa. A coluna 'valores da calculadora' agora conterá campos de entrada relevantes.
 
 {% hint style="success" %}
-You will only be able to specify rates or values (in the 'calculator values' column) after the Enterprise Fee has been saved. Don't forget to click **Update** after entering a calculator value to save your changes.
+Você só poderá especificar taxas ou valores (na coluna 'valores da calculadora') depois que a Taxa da Empresa for salva. Não esqueça de clicar em **Atualizar** após informar um valor pra salvar as alterações.
 {% endhint %}
 
-## Fee Calculators
+## Calculadoras de taxa
 
 ![](<../../.gitbook/assets/enterprise fee calc.jpg>)
 
-**Flat Percent** – This fee is charged as a percentage of the total amount charged in the order.
+**Porcentagem fixa** – Taxa cobrada como porcentagem do valor total do pedido.
 
-**Weight (per kg)** – this fee is applied to products on a per kg basis. The fee will _only be applied to products which are priced at a per kg rate_, not products listed as items (e.g. a product listed as ‘1 bunch of parsley’ will not have an associated enterprise fee with this option).
+**Peso (por kg)** – Taxa aplicada aos produtos por kg. A taxa é aplicada _apenas a produtos precificados por kg_, não a produtos listados como itens (ex: um produto listado como '1 maço de salsa' não terá uma taxa da empresa associada com essa opção).
 
-**Flat Rate (per order)** – This fee is applied as a standard fee to all orders, regardless of order size.
+**Taxa fixa (por pedido)** – Taxa aplicada como padrão a todos os pedidos, independente do tamanho.
 
-**Flexible Rate** – This fee calculator is especially useful if you'd like to encourage customers to place large orders: the enterprise fee can be reduced or zeroed when the threshold number of items has been reached.&#x20;
+**Taxa flexível** – Especialmente útil se você quer incentivar pedidos grandes: a taxa da empresa pode ser reduzida ou zerada quando o número limite de itens é atingido.
 
-* **First Item Cost** _-_ the fee charged for the first item in the order.
-* **Additional Item Cost** - the fee charged for items beyond the first item.
-* **Max Items** - the maximum number of items on which the fee will be applied. Items purchased beyond this amount will not be charged the fee.
+* **Custo do primeiro item** — taxa cobrada pelo primeiro item do pedido.
+* **Custo do item adicional** — taxa cobrada por itens além do primeiro.
+* **Máximo de itens** — número máximo de itens sobre os quais a taxa se aplica.
 
 ![](<../../.gitbook/assets/flexible rate ent fee.jpg>)
 
-> For example, if the 'First Item Cost' is set to £0.20, 'Additional Item Cost' to £0.10 and 'Max Items' to 3, then a customer who purchases 5 items will be charged £0.40 in enterprise fees. This is comprised of £0.20 for the first item, £0.10 for the second and third, and £0.00 for the fourth and fifth.
+> Por exemplo, se 'Custo do primeiro item' é R$ 1,00, 'Custo do item adicional' é R$ 0,50 e 'Máximo de itens' é 3, um cliente que compra 5 itens será cobrado R$ 2,00 em taxas. R$ 1 pelo primeiro item, R$ 0,50 pelo segundo e terceiro, R$ 0 pelo quarto e quinto.
 
-**Flat Rate (per item) -** This fee is a constant fee, applied to products listed as ‘items’. (It is not applied to products sold by weight or volume, hence there will be no associated enterprise fee charged to a customer who buys rice by the kg for example).
+**Taxa fixa (por item)** — Taxa constante aplicada a produtos listados como 'itens'. (Não é aplicada a produtos vendidos por peso ou volume.)
 
-**Price Sack -** This is a flexible fee method that allows you to reward shoppers who spend over a ‘minimal amount’ by applying a discount, e.g. on a shipping method. If the shopper spends less than the ‘minimal amount’, you can set what fee they pay. This feature can also be used to create a fee for **minimum spend** too, so if the customer spends below a certain amount they will be charged a fee to compensate for it.
+**Faixa de preço** — Método flexível que permite recompensar compradores que gastam acima de um 'valor mínimo' aplicando um desconto, ex: em um método de envio. Se o cliente gasta menos que o 'valor mínimo', você pode definir qual taxa ele paga. Também pode ser usado pra criar uma taxa de **compra mínima** — se o cliente gasta abaixo de um valor, é cobrada uma taxa pra compensar.
 
-* **Minimal Amount** - If the order total is below this amount, no discount is applied. If the order is above this amount, the discount will be applied at checkout.
-* **Normal Amount** - This is the shipping fee applied to sales below the 'Minimal Amount'.
-* **Discount Amount** - This is the shipping fee applied to orders above the 'Minimal Amount'. You can set this to 0 for free shipping, or use a minus symbol to apply a discount, eg. -5 for $5 cheaper.
+* **Valor mínimo** — Se o total do pedido é abaixo desse valor, nenhum desconto é aplicado. Se está acima, o desconto é aplicado no checkout.
+* **Valor normal** — Taxa aplicada a vendas abaixo do 'Valor mínimo'.
+* **Valor com desconto** — Taxa aplicada a pedidos acima do 'Valor mínimo'. Pode definir 0 pra frete grátis, ou usar sinal de menos pra aplicar desconto, ex: -5 pra R$ 5 mais barato.
 
 ![](<../../.gitbook/assets/price sack ent fee.jpg>)
 
 {% hint style="warning" %}
-Now that you've created your Enterprise Fee remember that **it will not apply in your shop unless it's added to an order cycle**. See the Order Cycle pages for [producers](order-cycle/order-cycles-for-producers.md) or [hubs ](order-cycle/order-cycles-for-hubs.md)for more details.
+Agora que você criou sua Taxa da Empresa, lembre que **ela não se aplica na sua loja a menos que seja adicionada a um ciclo de pedidos**. Veja as páginas de Ciclo de Pedidos pra [produtores](order-cycle/order-cycles-for-producers.md) ou [centrais](order-cycle/order-cycles-for-hubs.md) pra mais detalhes.
 {% endhint %}

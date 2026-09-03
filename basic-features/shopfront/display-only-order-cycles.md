@@ -1,19 +1,19 @@
-# Display only shopfront
+# Vitrine apenas de exibição
 
-In some cases, shop owners may want to be able to display products in their shop but not actually allow customers to checkout. For example to show their full product range (which may vary seasonally), or to give potential customers an idea of the products which will be on offer in the next order cycle, before it opens.
+Em alguns casos, donos de loja podem querer exibir produtos mas não permitir que clientes façam checkout. Por exemplo, pra mostrar a linha completa de produtos (que pode variar sazonalmente), ou dar aos clientes potenciais uma ideia dos produtos que estarão à venda no próximo ciclo antes dele abrir.
 
-To setup a display only order cycle:
+Para configurar um ciclo apenas de exibição:
 
-* Open an [Order Cycle](order-cycle/order-cycles-for-hubs.md) as usual, with the products you wish to display and date range for the order cycle to remain open.
-* Change the 'Display' state of all your [Payment Methods](payment-methods.md) to 'Back Office Only'.  This can be done from Enterprises -> Settings -> Payment Methods -> Edit:
+* Abra um [Ciclo de Pedidos](order-cycle/order-cycles-for-hubs.md) normalmente, com os produtos que quer exibir e o intervalo de datas do ciclo.
+* Altere o estado de 'Exibição' de todos os seus [Métodos de Pagamento](payment-methods.md) para 'Apenas back office'. Isso pode ser feito em Empresas -> Configurações -> Métodos de Pagamento -> Editar:
 
 ![](<../../.gitbook/assets/back office payment.jpg>)
 
-Your shop will now be in the ‘display only’ state. \
-Below is an example of how the shop appears to customers. It’s clearly marked as closed, but customers can see the product range.
+Sua loja agora está no estado 'apenas exibição'.\
+Abaixo, um exemplo de como a loja aparece aos clientes. Fica claramente marcada como fechada, mas os clientes conseguem ver a linha de produtos.
 
 ![](../../.gitbook/assets/displayonly.jpg)
 
 {% hint style="warning" %}
-When you next open a live order cycle from which you wish to sell produce, you will need to change the Display state of at least one [payment method](payment-methods.md) to 'Checkout and Back Office' or 'Checkout only'.
+Quando você abrir um próximo ciclo ativo para vender, precisará alterar o estado de Exibição de pelo menos um [método de pagamento](payment-methods.md) para 'Checkout e back office' ou 'Apenas checkout'.
 {% endhint %}

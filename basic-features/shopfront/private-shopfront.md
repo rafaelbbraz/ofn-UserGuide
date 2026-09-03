@@ -1,51 +1,51 @@
-# Private shopfront
+# Vitrine privada
 
-If you don’t want your shopfront to be visible to the public (ie. you would like to host a shop front from which only members can place orders), there are two ways that you can make your shop more private:
+Se você não quer que sua vitrine seja visível ao público (ou seja, você quer hospedar uma vitrine na qual apenas membros possam fazer pedidos), há duas formas de tornar sua loja mais privada:
 
-* make your shop 'invisible' and only share the shop website address (URL) with your desired customer base
-* make your shop 'private' and only visible to registered customers.
+* tornar sua loja 'invisível' e compartilhar o endereço (URL) apenas com sua base de clientes desejada
+* tornar sua loja 'privada' e visível apenas para clientes cadastrados.
 
-## Make your shop front invisible
+## Tornar sua vitrine invisível
 
-In your [Enterprise Settings](../enterprise-profile/enterprise-settings.md), under Primary Details, you can set your profile to 'hidden' (your enterprise will not appear on the OFN map or in OFN searches but can be referenced by other OFN hubs which you supply) or ''Hide all refences' (whereby your enterprise will not be visible under any circumstances other than if someone has the direct URL).&#x20;
+Nas [Configurações da Empresa](../enterprise-profile/enterprise-settings.md), em Dados Principais, você pode definir seu perfil como 'oculto' (sua empresa não aparecerá no mapa nem em buscas da Nossa Feira mas pode ser referenciada por outras centrais que você fornece) ou 'Ocultar todas as referências' (aí sua empresa não fica visível sob nenhuma circunstância além de alguém ter o URL direto).
 
 ![](../../.gitbook/assets/private.jpg)
 
-When the **Visible in Search?** option is set to 'Hidden' your OFN enterprise will be hidden in both all searches within the platform and in external web the search engines. \
-Your enterprise will not appear in the "shops" menu nor on the OFN map page.&#x20;
+Quando a opção **Visível na busca?** está como 'Oculto', sua empresa fica escondida em todas as buscas da plataforma e em motores de busca externos.\
+Sua empresa não aparecerá no menu "lojas" nem na página de mapa.
 
-The benefit of this method for making your OFN shop front invisible is that you can invite (by email, perhaps), customers by sending them the direct link to the store.  It is also a simple and effective way to manage your enterprise.
+O benefício desse método é que você pode convidar (por email, talvez) clientes enviando o link direto pra loja. Também é uma forma simples e eficaz de gerenciar sua empresa.
 
 {% hint style="warning" %}
-However, _**access to the store is not restricted:**_ anyone who knows the website address of your shop (URL) will be able to visit the shop and place an order. &#x20;
+Mas o _**acesso à loja não é restrito:**_ qualquer pessoa que saiba o endereço da sua loja (URL) pode visitá-la e fazer pedidos.
 {% endhint %}
 
-Hence, if someone on your mailing list forwards an email from you to a friend, the friend can place an order without being a registered customer.  You will need to manually double check that all orders came from registered customers, posteroiri.
+Portanto, se alguém da sua lista de emails encaminhar um email seu pra um amigo, o amigo pode fazer um pedido sem ser um cliente cadastrado. Você precisará conferir manualmente se todos os pedidos vieram de clientes cadastrados.
 
-## Visible to registered customers only
+## Visível apenas para clientes cadastrados
 
-A stricter, but potentially more time consuming approach, is to let your OFN enterprise remain visible in the enterprise settings above but change the **Publicly Visible Shopfront** option (under Enterprises-> Settings-> Shop Preferences) to **Visible to Registered Customers Only**.
+Uma abordagem mais rígida, mas potencialmente mais trabalhosa, é deixar sua empresa visível nas configurações acima mas alterar a opção **Vitrine publicamente visível** (em Empresas -> Configurações -> Preferências da Loja) para **Visível apenas para clientes cadastrados**.
 
 ![](<../../.gitbook/assets/visible to registered customers only.jpg>)
 
-Whilst your enterprise will be visible in a search of the OFN platform, **customers must first be added to your** [**Customers**](customer-management-and-conditional-displays-prices/customers.md) **list** and logged into their OFN account in order to access your shop front.  Other registered OFN shoppers, who are _not_ on your Customers list, will not be able to access your shop front once logged into their OFN accounts.
+Embora sua empresa fique visível em uma busca da Nossa Feira, **os clientes primeiro precisam ser adicionados à sua lista de** [**Clientes**](customer-management-and-conditional-displays-prices/customers.md) e estar logados na conta pra acessar sua vitrine. Outros compradores cadastrados na Nossa Feira que _não_ estão na sua lista de clientes não conseguirão acessar sua vitrine mesmo estando logados.
 
-You'll need to maintain your [**Customer** ](customer-management-and-conditional-displays-prices/customers.md)list and manually add email addresses to grant shoppers access before they can place their first order.
+Você precisará manter sua lista de [**Clientes**](customer-management-and-conditional-displays-prices/customers.md) e manualmente adicionar emails pra permitir que compradores tenham acesso antes de fazerem seu primeiro pedido.
 
 ![](<../../.gitbook/assets/customers (2).jpg>)
 
 ![](<../../.gitbook/assets/add new customer.jpg>)
 
-You can also delete customers who you no longer want to be able to see your shop or place an order.
+Você também pode deletar clientes que não quer mais que consigam ver sua loja ou fazer pedidos.
 
-### How does the shopping experience change when your shop is private?
+### Como muda a experiência de compra quando sua loja é privada?
 
-When visitors to your shop arrive at the shop, if they're not logged in yet, they'll see the message below.
+Quando visitantes chegam na sua loja, se não estão logados, veem a mensagem abaixo.
 
 ![](../../.gitbook/assets/privateshop.jpg)
 
-From here there's 2 pathways:
+Daqui há 2 caminhos:
 
-a) If the customer logs in, or signs up with an email address that is on the shop's customer list, they'll be taken to the shopfront as usual.
+a) Se o cliente faz login ou se cadastra com um email que está na lista de clientes da loja, é levado à vitrine normalmente.
 
-b) If the customer logs in or signs up with an email that is not on the shop's customer list they'll see the message below. They can then contact the shop to request access.
+b) Se o cliente faz login ou se cadastra com um email que não está na lista, verá a mensagem abaixo. Pode então contatar a loja pra solicitar acesso.
