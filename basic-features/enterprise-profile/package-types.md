@@ -1,89 +1,89 @@
-# Package / profile types
+# Tipos de pacote / perfil
 
-After completing your [enterprise registration](../register-and-create-your-profile.md) you have an option to be taken directly to the [enterprise settings page](enterprise-settings.md).
+Depois de completar o [cadastro da sua empresa](../register-and-create-your-profile.md), você pode ser direcionado direto pra [página de configurações da empresa](enterprise-settings.md).
 
 ![](../../.gitbook/assets/newregister.jpg)
 
-From here you will need to choose the OFN profile which [best matches your business model](../../your-quick-start-on-ofn-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.**&#x20;
+Aqui você precisa escolher o perfil da Nossa Feira que [melhor se encaixa no seu modelo de negócio](../../your-quick-start-on-ofn-given-who-you-are.md). **Sem esse passo, sua conta de empresa não será criada e sua empresa ficará invisível no mapa.**
 
 ![](../../.gitbook/assets/choosing.jpg)
 
-Open Food Network offers three types of enterprise profiles that will differ depending on whether you are a producer or not, and whether or not you want to open an online shop to sell on the Open Food Network. The profile types vary a little bit depending on if you are a producer or not, so we describe them below under two main sections: the profiles for producers and then the profiles for distributors (or "hubs" in the Open Food Network world).
+A Nossa Feira oferece três tipos de perfil de empresa que variam dependendo se você é produtor ou não, e se quer abrir uma loja online pra vender pela plataforma. Os tipos de perfil variam um pouco dependendo se você é produtor ou não, então descrevemos abaixo em duas seções: perfis para produtores e perfis para distribuidores (ou "centrais" no mundo da Nossa Feira).
 
-## For Producers
+## Para produtores
 
-There are three types of profiles for producers:
+Existem três tipos de perfil para produtores:
 
 ![](<../../.gitbook/assets/producer settings.jpg>)
 
 {% tabs %}
-{% tab title="Producer Profile" %}
-With this option not only will your enterprise be visible on the OFN map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the OFN network.&#x20;
+{% tab title="Perfil de Produtor" %}
+Com esta opção, sua empresa não só fica visível no mapa da Nossa Feira e para clientes buscando na plataforma, como você também poderá gerenciar um catálogo de produtos. Seus produtos podem ser distribuídos e vendidos por outras empresas parte da rede Nossa Feira.
 
-As a 'Producer Profile' you will not be able to manage your own online shop front. For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/).
+Como 'Perfil de Produtor', você não poderá gerenciar sua própria vitrine online. Para mais informações sobre o guia rápido de configuração deste tipo de perfil, [clique aqui](../../quick-start-guides/).
 
 {% hint style="info" %}
-If you'd like to retail your products on an existing online sales platform and just use OFN to increase your visibility then the 'Producer Profile' package is for you!
+Se você quer vender seus produtos por uma plataforma existente e usar a Nossa Feira só pra aumentar sua visibilidade, o pacote 'Perfil de Produtor' é pra você!
 
-You can put the link to your online shop in your enterprise description.
+Você pode colocar o link da sua loja online na descrição da empresa.
 {% endhint %}
 {% endtab %}
 
-{% tab title="Producer Shop" %}
-#### You would like to only sell your own products on OFN
+{% tab title="Loja de Produtor" %}
+#### Você quer vender apenas seus próprios produtos na Nossa Feira
 
-This option allows you to run a shopfront which retails only products from your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts (hubs).&#x20;
+Essa opção permite operar uma vitrine que vende apenas produtos do seu próprio catálogo. Note que 'Lojas de Produtor' podem fazer vendas pela própria vitrine e/ou atuar como fornecedor para outras vitrines (centrais).
 
-For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
+Para mais informações sobre o guia rápido de configuração, [clique aqui](../../quick-start-guides/).
 {% endtab %}
 
-{% tab title="Producer Hub (multi-producer shop)" %}
-#### You would like to sell your products as well as those of other producers / suppliers&#x20;
+{% tab title="Central Produtora (loja multi-produtor)" %}
+#### Você quer vender seus produtos e também de outros produtores/fornecedores
 
-This option allows you to manage a shop which retails both products made by yourself and those made by other local producers.  You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so.&#x20;
+Essa opção permite gerenciar uma loja que vende tanto produtos que você mesmo faz quanto produtos feitos por outros produtores locais. Você pode vender produtos de qualquer produtor que tenha lhe dado [permissão](create-or-connect-with-your-supplying-producers.md).
 
-For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
+Para mais informações sobre o guia rápido, [clique aqui](../../quick-start-guides/).
 {% endtab %}
 {% endtabs %}
 
-## For Non-Producers (Hubs)
+## Para não-produtores (Centrais)
 
-Two types of profiles are available to non-producers (distributors / hubs):
+Existem dois tipos de perfil disponíveis para não-produtores (distribuidores / centrais):
 
 ![](<../../.gitbook/assets/non producer settings.jpg>)
 
 {% tabs %}
-{% tab title="Non-Producer Profile" %}
-With this option your enterprise will be visible on the OFN map and to customers searching our platform.&#x20;
+{% tab title="Perfil Não-Produtor" %}
+Com esta opção, sua empresa fica visível no mapa da Nossa Feira e para clientes buscando na plataforma.
 
-For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
+Para mais informações sobre o guia rápido, [clique aqui](../../quick-start-guides/).
 
 {% hint style="info" %}
-If you'd like to retail products made by a collection of producers on an existing online sales platform and just use OFN to increase your visibility then the 'Non-Producer Profile' package is for you!
+Se você quer vender produtos de vários produtores por uma plataforma existente e usar a Nossa Feira só pra aumentar sua visibilidade, o pacote 'Perfil Não-Produtor' é pra você!
 
-You can put the link to your online shop in your enterprise description.
+Você pode colocar o link da sua loja online na descrição da empresa.
 {% endhint %}
 {% endtab %}
 
-{% tab title="Non-Producer Hub (Multi-producer shop)" %}
-#### You would like to create an online shop
+{% tab title="Central Não-Produtora (loja multi-produtor)" %}
+#### Você quer criar uma loja online
 
-This option allows you to manage a shop which retails products made by others. You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so.&#x20;
+Essa opção permite gerenciar uma loja que vende produtos feitos por outros. Você pode vender produtos de qualquer produtor que tenha lhe dado [permissão](create-or-connect-with-your-supplying-producers.md).
 
-For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
+Para mais informações sobre o guia rápido, [clique aqui](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
 {% endtab %}
 {% endtabs %}
 
-## Changing your profile type
+## Alterando seu tipo de perfil
 
-You can change your profile type (package) at any time in the future.  First log in to your OFN admin account:
+Você pode alterar seu tipo de perfil (pacote) a qualquer momento no futuro. Primeiro, faça login na conta admin da Nossa Feira:
 
 ![](<../../.gitbook/assets/access1 (2) (2) (1).jpg>)
 
-Then visit your [Enterprise Settings menu](enterprise-settings.md). From the table, select the correct option(s) from the drop down menus (you will need to be the '[Owner](enterprise-settings.md#users)' of the enterprise to do this).
+Depois, acesse o menu de [Configurações da Empresa](enterprise-settings.md). Na tabela, selecione as opções corretas nos menus suspensos (você precisa ser o '[Proprietário](enterprise-settings.md#users)' da empresa para fazer isso).
 
 ![](<../../.gitbook/assets/enterprise settings main tab.jpg>)
 
-## Next step
+## Próximo passo
 
-Once you have chosen the correct profile type for your food business you can complete any missing information and further refine your setup under the [Enterprise Settings](enterprise-settings.md) menu.&#x20;
+Uma vez que você escolheu o tipo de perfil correto para seu negócio, pode completar qualquer informação faltante e refinar seu setup no menu de [Configurações da Empresa](enterprise-settings.md).
